@@ -113,6 +113,10 @@ http://89.212.167.141:81/udp/239.18.1.237:5000
 http://89.212.167.141:81/udp/239.18.1.235:5000
 #EXTINF:-1,Redlight HD
 http://5.189.74.190:81//udp/239.255.3.93:1234
+#EXTINF:-1,Redlight HD
+http://orbit-iptv.com:2500/live/nisar/nisar/2310.ts
+#EXTINF:-1,SCT
+http://orbit-iptv.com:2500/live/nisar/nisar/251.ts
 #EXTINF:-1,XXL
 http://5.189.74.190:81//udp/239.255.2.72:1234
 #EXTINF:-1,Hustler HD
