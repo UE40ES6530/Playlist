@@ -1,509 +1,355 @@
-п»ї#EXTM3U
-#EXTINF:-1,РџРµСЂРІС‹Р№
-http://ts.liubimoe.tv/0c985436-bd42-4d69-8c43-0f231489370f/ru-pervyj/index.m3u8
-#EXTINF:-1,РџРµСЂРІС‹Р№ HD
-http://ts.liubimoe.tv/0c985436-bd42-4d69-8c43-0f231489370f/ru-pervyj-hd/index.m3u8
-#EXTINF:-1,РџРµСЂРІС‹Р№ Р‘Р°Р»С‚РёР№СЃРєРёР№
-http://ts.liubimoe.tv/0c985436-bd42-4d69-8c43-0f231489370f/ru-pervyj-balt/index.m3u8
-#EXTINF:-1,Р РѕСЃСЃРёСЏ 1
-http://ts.liubimoe.tv/0c985436-bd42-4d69-8c43-0f231489370f/ru-rossija1/index.m3u8
-#EXTINF:-1,Р РѕСЃСЃРёСЏ 1 HD
-http://ts.liubimoe.tv/0c985436-bd42-4d69-8c43-0f231489370f/ru-rossija-hd/index.m3u8
-#EXTINF:-1,Р РўР  РџР»Р°РЅРµС‚Р°
-http://ts.liubimoe.tv/0c985436-bd42-4d69-8c43-0f231489370f/ru-rtr/index.m3u8
-#EXTINF:-1,РќРўР’
-http://ts.liubimoe.tv/0c985436-bd42-4d69-8c43-0f231489370f/ru-ntv/index.m3u8
-#EXTINF:-1,РќРўР’ HD
-http://ts.liubimoe.tv/0c985436-bd42-4d69-8c43-0f231489370f/ru-ntv-hd/index.m3u8
-#EXTINF:-1,РќРўР’ РњРёСЂ Р‘Р°Р»С‚РёСЏ
-http://ts.liubimoe.tv/0c985436-bd42-4d69-8c43-0f231489370f/ru-ntv-balt/index.m3u8
-#EXTINF:-1,РЎРўРЎ
-http://ts.liubimoe.tv/0c985436-bd42-4d69-8c43-0f231489370f/ru-sts/index.m3u8
-#EXTINF:-1,РўРќРў
-http://ts.liubimoe.tv/0c985436-bd42-4d69-8c43-0f231489370f/ru-tnt/index.m3u8
-#EXTINF:-1,РўРќРў 4
-http://ts.liubimoe.tv/0c985436-bd42-4d69-8c43-0f231489370f/ru-tnt-comedy/index.m3u8
-#EXTINF:-1,РЎРўРЎ Love
-http://ts.liubimoe.tv/0c985436-bd42-4d69-8c43-0f231489370f/ru-sts-love/index.m3u8
-#EXTINF:-1,РЎРўРЎ International
-http://ts.liubimoe.tv/0c985436-bd42-4d69-8c43-0f231489370f/ru-sts-int/index.m3u8
-#EXTINF:-1,Р Р•Рќ РўР’
-http://ts.liubimoe.tv/0c985436-bd42-4d69-8c43-0f231489370f/ru-rentv/index.m3u8
-#EXTINF:-1,Р Р•Рќ РўР’ Р‘Р°Р»С‚РёСЏ
-http://ts.liubimoe.tv/0c985436-bd42-4d69-8c43-0f231489370f/ru-rentv-balt/index.m3u8
-#EXTINF:-1,Р§Рµ
-http://ts.liubimoe.tv/0c985436-bd42-4d69-8c43-0f231489370f/ru-perec/index.m3u8
-#EXTINF:-1,РўР’-3
-http://ts.liubimoe.tv/0c985436-bd42-4d69-8c43-0f231489370f/ru-tv3/index.m3u8
-#EXTINF:-1,РџСЏС‚С‹Р№ РљР°РЅР°Р»
-http://ts.liubimoe.tv/0c985436-bd42-4d69-8c43-0f231489370f/ru-tv5/index.m3u8
-#EXTINF:-1,РџСЏС‚РЅРёС†Р°
-http://ts.liubimoe.tv/0c985436-bd42-4d69-8c43-0f231489370f/ru-piatnica/index.m3u8
-#EXTINF:-1,РљРёРЅРѕРєРѕРјРµРґРёСЏ
-http://ts.liubimoe.tv/0c985436-bd42-4d69-8c43-0f231489370f/ru-komedija/index.m3u8
-#EXTINF:-1,Р РѕСЃСЃРёСЏ 24
-http://ts.liubimoe.tv/0c985436-bd42-4d69-8c43-0f231489370f/ru-ros24/index.m3u8
-#EXTINF:-1,Р•РІСЂРѕРЅРѕРІРѕСЃС‚Рё
-http://ts.liubimoe.tv/0c985436-bd42-4d69-8c43-0f231489370f/ru-euronews/index.m3u8
-#EXTINF:-1,Р Р‘Рљ
-http://ts.liubimoe.tv/0c985436-bd42-4d69-8c43-0f231489370f/ru-rbk/index.m3u8
-#EXTINF:-1,Discovery HD
-http://ts.liubimoe.tv/0c985436-bd42-4d69-8c43-0f231489370f/ru-disc-hd/index.m3u8
-#EXTINF:-1,Discovery
-http://ts.liubimoe.tv/0c985436-bd42-4d69-8c43-0f231489370f/ru-disc/index.m3u8
-#EXTINF:-1,Discovery Sciense
-http://ts.liubimoe.tv/0c985436-bd42-4d69-8c43-0f231489370f/ru-disc-sc/index.m3u8
-#EXTINF:-1,ID Xtra
-http://ts.liubimoe.tv/0c985436-bd42-4d69-8c43-0f231489370f/ru-disc-inv-x/index.m3u8
-#EXTINF:-1,DTX
-http://ts.liubimoe.tv/0c985436-bd42-4d69-8c43-0f231489370f/ru-disc-wrld/index.m3u8
-#EXTINF:-1,National Geographic
-http://ts.liubimoe.tv/0c985436-bd42-4d69-8c43-0f231489370f/ru-natgeo/index.m3u8
-#EXTINF:-1,National Geographic HD
-http://ts.liubimoe.tv/0c985436-bd42-4d69-8c43-0f231489370f/ru-natgeo-hd/index.m3u8
-#EXTINF:-1,Nat Geo Wild
-http://ts.liubimoe.tv/0c985436-bd42-4d69-8c43-0f231489370f/ru-natgeo-wild/index.m3u8
-#EXTINF:-1,Nat Geo Wild HD
-http://ts.liubimoe.tv/0c985436-bd42-4d69-8c43-0f231489370f/ru-natgeo-wild-hd/index.m3u8
-#EXTINF:-1,РљС‚Рѕ РµСЃС‚СЊ РљС‚Рѕ
-http://ts.liubimoe.tv/0c985436-bd42-4d69-8c43-0f231489370f/ru-kto-is-kto/index.m3u8
-#EXTINF:-1,Animal Planet
-http://ts.liubimoe.tv/0c985436-bd42-4d69-8c43-0f231489370f/ru-anim-pl/index.m3u8
-#EXTINF:-1,Viasat Explorer
-http://ts.liubimoe.tv/0c985436-bd42-4d69-8c43-0f231489370f/ru-vs-expl/index.m3u8
-#EXTINF:-1,Viasat History
-http://ts.liubimoe.tv/0c985436-bd42-4d69-8c43-0f231489370f/ru-vs-hist/index.m3u8
-#EXTINF:-1,Viasat Nature
-http://ts.liubimoe.tv/0c985436-bd42-4d69-8c43-0f231489370f/ru-vs-natu/index.m3u8
-#EXTINF:-1,TLC
-http://ts.liubimoe.tv/0c985436-bd42-4d69-8c43-0f231489370f/ru-tlc/index.m3u8
-#EXTINF:-1,TLC HD
-http://ts.liubimoe.tv/0c985436-bd42-4d69-8c43-0f231489370f/ru-tlc-hd/index.m3u8
-#EXTINF:-1,History HD
-http://ts.liubimoe.tv/0c985436-bd42-4d69-8c43-0f231489370f/ru-history-hd/index.m3u8
-#EXTINF:-1,Ocean TV
-http://ts.liubimoe.tv/0c985436-bd42-4d69-8c43-0f231489370f/ru-ocean-tv/index.m3u8
-#EXTINF:-1,РўР”Рљ
-http://ts.liubimoe.tv/0c985436-bd42-4d69-8c43-0f231489370f/ru-tdk/index.m3u8
-#EXTINF:-1,Рў24
-http://ts.liubimoe.tv/0c985436-bd42-4d69-8c43-0f231489370f/ru-24tech/index.m3u8
-#EXTINF:-1,365 Р”РЅРµР№
-http://ts.liubimoe.tv/0c985436-bd42-4d69-8c43-0f231489370f/ru-365days/index.m3u8
-#EXTINF:-1,РўРµР»РµРїСѓС‚РµС€РµСЃС‚РІРёСЏ
-http://ts.liubimoe.tv/0c985436-bd42-4d69-8c43-0f231489370f/ru-teleput/index.m3u8
-#EXTINF:-1,РўРµР»РµРїСѓС‚РµС€РµСЃС‚РІРёСЏ HD
-http://ts.liubimoe.tv/0c985436-bd42-4d69-8c43-0f231489370f/ru-teleput-hd/index.m3u8
-#EXTINF:-1,Travel
-http://ts.liubimoe.tv/0c985436-bd42-4d69-8c43-0f231489370f/ru-travel/index.m3u8
-#EXTINF:-1,РћС…РѕС‚Р° Рё Р С‹Р±Р°Р»РєР°
-http://ts.liubimoe.tv/0c985436-bd42-4d69-8c43-0f231489370f/ru-ohota-ryb/index.m3u8
-#EXTINF:-1,РњРѕСЏ РџР»Р°РЅРµС‚Р°
-http://ts.liubimoe.tv/0c985436-bd42-4d69-8c43-0f231489370f/ru-my-planet/index.m3u8
-#EXTINF:-1,РћС…РѕС‚РЅРёРє Рё Р С‹Р±РѕР»РѕРІ
-http://ts.liubimoe.tv/0c985436-bd42-4d69-8c43-0f231489370f/ru-ohotnik-ryb/index.m3u8
-#EXTINF:-1,РћС…РѕС‚РЅРёРє Рё Р С‹Р±РѕР»РѕРІ HD
-http://ts.liubimoe.tv/0c985436-bd42-4d69-8c43-0f231489370f/ru-ohotnik-ryb-hd/index.m3u8
-#EXTINF:-1,РќР°СѓРєР° 2.0
-http://ts.liubimoe.tv/0c985436-bd42-4d69-8c43-0f231489370f/ru-nauka20/index.m3u8
-#EXTINF:-1,CBS Reality
-http://ts.liubimoe.tv/0c985436-bd42-4d69-8c43-0f231489370f/ru-cbs-real/index.m3u8
-#EXTINF:-1,Р”РѕРјР°С€РЅРёРµ Р–РёРІРѕС‚РЅС‹Рµ
-http://ts.liubimoe.tv/0c985436-bd42-4d69-8c43-0f231489370f/ru-dom-zyv/index.m3u8
-#EXTINF:-1,РћСЂСѓР¶РёРµ
-http://ts.liubimoe.tv/0c985436-bd42-4d69-8c43-0f231489370f/ru-oruzije/index.m3u8
-#EXTINF:-1,РЎРѕРІРµСЂС€РµРЅРЅРѕ РЎРµРєСЂРµС‚РЅРѕ
-http://ts.liubimoe.tv/0c985436-bd42-4d69-8c43-0f231489370f/ru-sov-sek/index.m3u8
-#EXTINF:-1,РџСЃРёС…РѕР»РѕРіРёСЏ 21
-http://ts.liubimoe.tv/0c985436-bd42-4d69-8c43-0f231489370f/ru-psiho21/index.m3u8
-#EXTINF:-1,РЈСЃР°РґСЊР±Р°
-http://ts.liubimoe.tv/0c985436-bd42-4d69-8c43-0f231489370f/ru-usadba/index.m3u8
-#EXTINF:-1,Р—РґРѕСЂРѕРІРѕРµ РўР’
-http://ts.liubimoe.tv/0c985436-bd42-4d69-8c43-0f231489370f/ru-zdorovoje/index.m3u8
-#EXTINF:-1,9 РљР°РЅР°Р»(РР·СЂР°РёР»СЊ)
-http://ts.liubimoe.tv/0c985436-bd42-4d69-8c43-0f231489370f/ru-9-kanal-izrail/index.m3u8
-#EXTINF:-1,TV1000
-http://ts.liubimoe.tv/0c985436-bd42-4d69-8c43-0f231489370f/ru-tv1000/index.m3u8
-#EXTINF:-1,TV1000 Action
-http://ts.liubimoe.tv/0c985436-bd42-4d69-8c43-0f231489370f/ru-tv1000-act/index.m3u8
-#EXTINF:-1,TV1000 Р СѓСЃСЃРєРѕРµ РљРёРЅРѕ
-http://ts.liubimoe.tv/0c985436-bd42-4d69-8c43-0f231489370f/ru-tv1000-ru/index.m3u8
-#EXTINF:-1,TV1000 Comedy HD
-http://ts.liubimoe.tv/0c985436-bd42-4d69-8c43-0f231489370f/ru-tv1000-com-hd/index.m3u8
-#EXTINF:-1,TV1000 Megahit HD
-http://ts.liubimoe.tv/0c985436-bd42-4d69-8c43-0f231489370f/ru-tv1000-meg-hd/index.m3u8
-#EXTINF:-1,TV1000 Premium HD
-http://ts.liubimoe.tv/0c985436-bd42-4d69-8c43-0f231489370f/ru-tv1000-prm-hd/index.m3u8
-#EXTINF:-1,РљРёРЅРѕРїСЂРµРјСЊРµСЂР° HD
-http://ts.liubimoe.tv/0c985436-bd42-4d69-8c43-0f231489370f/ru-hd-kino/index.m3u8
-#EXTINF:-1,A Media Premium HD
-http://ts.liubimoe.tv/0c985436-bd42-4d69-8c43-0f231489370f/ru-amedia-prm-hd/index.m3u8
-#EXTINF:-1,MGM HD
-http://ts.liubimoe.tv/0c985436-bd42-4d69-8c43-0f231489370f/ru-mgm-hd/index.m3u8
-#EXTINF:-1,РљРёРЅРѕСЃРµРјСЊСЏ
-http://ts.liubimoe.tv/0c985436-bd42-4d69-8c43-0f231489370f/ru-ntv-premjera/index.m3u8
-#EXTINF:-1,РљРёРЅРѕСЃРІРёРґР°РЅРёРµ
-http://ts.liubimoe.tv/0c985436-bd42-4d69-8c43-0f231489370f/ru-ntv-kinoklub/index.m3u8
-#EXTINF:-1,РљРёРЅРѕРјРёРєСЃ
-http://ts.liubimoe.tv/0c985436-bd42-4d69-8c43-0f231489370f/ru-ntv-kinoplus/index.m3u8
-#EXTINF:-1,РќР°С€Рµ РќРѕРІРѕРµ РљРёРЅРѕ
-http://ts.liubimoe.tv/0c985436-bd42-4d69-8c43-0f231489370f/ru-ntv-nov-kino/index.m3u8
-#EXTINF:-1,Paramount Comedy
-http://ts.liubimoe.tv/0c985436-bd42-4d69-8c43-0f231489370f/ru-paramount/index.m3u8
-#EXTINF:-1,Р•РґР° HD
-http://ts.liubimoe.tv/0c985436-bd42-4d69-8c43-0f231489370f/ru-eda-hd/index.m3u8
-#EXTINF:-1,РќР°С€Рµ Р›СЋР±РёРјРѕРµ РљРёРЅРѕ
-http://ts.liubimoe.tv/0c985436-bd42-4d69-8c43-0f231489370f/ru-nashe-liub-kino/index.m3u8
-#EXTINF:-1,Р СѓСЃСЃРєРёР№ Р‘РµСЃС‚СЃРµР»РµСЂ
-http://ts.liubimoe.tv/0c985436-bd42-4d69-8c43-0f231489370f/ru-rus-bestseller/index.m3u8
-#EXTINF:-1,Р СѓСЃСЃРєРёР№ Р РѕРјР°РЅ
-http://ts.liubimoe.tv/0c985436-bd42-4d69-8c43-0f231489370f/ru-rus-roman/index.m3u8
-#EXTINF:-1,Р СѓСЃСЃРєРёР№ Р”РµС‚РµРєС‚РёРІ
-http://ts.liubimoe.tv/0c985436-bd42-4d69-8c43-0f231489370f/ru-rus-detective/index.m3u8
-#EXTINF:-1,Р СѓСЃСЃРєРёР№ РР»Р»СЋР·РёРѕРЅ
-http://ts.liubimoe.tv/0c985436-bd42-4d69-8c43-0f231489370f/ru-rus-illuzion/index.m3u8
-#EXTINF:-1,Р СѓСЃСЃРєРёР№ Extream
-http://ts.liubimoe.tv/0c985436-bd42-4d69-8c43-0f231489370f/ru-rus-extreame/index.m3u8
-#EXTINF:-1,CCTV Р СѓСЃСЃРєРёР№
-http://ts.liubimoe.tv/0c985436-bd42-4d69-8c43-0f231489370f/ru-cctv/index.m3u8
-#EXTINF:-1,CNL
-http://ts.liubimoe.tv/0c985436-bd42-4d69-8c43-0f231489370f/ru-cnl/index.m3u8
-#EXTINF:-1,РўСЂРѕС„РµР№
-http://ts.liubimoe.tv/0c985436-bd42-4d69-8c43-0f231489370f/ru-trofey/index.m3u8
-#EXTINF:-1,LifeNews
-http://ts.liubimoe.tv/0c985436-bd42-4d69-8c43-0f231489370f/ru-lifenews/index.m3u8
-#EXTINF:-1,Р•РІСЂРѕРєРёРЅРѕ
-http://ts.liubimoe.tv/0c985436-bd42-4d69-8c43-0f231489370f/ru-evrokino/index.m3u8
-#EXTINF:-1,РњСѓР¶СЃРєРѕРµ РљРёРЅРѕ
-http://ts.liubimoe.tv/0c985436-bd42-4d69-8c43-0f231489370f/ru-interestoe/index.m3u8
-#EXTINF:-1,РЎР°СЂР°С„Р°РЅ
-http://ts.liubimoe.tv/0c985436-bd42-4d69-8c43-0f231489370f/ru-sarafan/index.m3u8
-#EXTINF:-1,РСЃС‚РѕСЂРёСЏ
-http://ts.liubimoe.tv/0c985436-bd42-4d69-8c43-0f231489370f/ru-istorija/index.m3u8
-#EXTINF:-1,FOX
-http://ts.liubimoe.tv/0c985436-bd42-4d69-8c43-0f231489370f/ru-fox/index.m3u8
-#EXTINF:-1,FOX Life
-http://ts.liubimoe.tv/0c985436-bd42-4d69-8c43-0f231489370f/ru-fox-life/index.m3u8
-#EXTINF:-1,1 Р”РѕРј РљРёРЅРѕ
-http://ts.liubimoe.tv/0c985436-bd42-4d69-8c43-0f231489370f/ru-dom-kino/index.m3u8
-#EXTINF:-1,Р”РѕРјР°С€РЅРёР№
-http://ts.liubimoe.tv/0c985436-bd42-4d69-8c43-0f231489370f/ru-domashnij/index.m3u8
-#EXTINF:-1,Р—РІРµР·РґР°
-http://ts.liubimoe.tv/0c985436-bd42-4d69-8c43-0f231489370f/ru-zvezda/index.m3u8
-#EXTINF:-1,Sony Sci-Fi
-http://ts.liubimoe.tv/0c985436-bd42-4d69-8c43-0f231489370f/ru-sci-fi/index.m3u8
-#EXTINF:-1,РќР°СЃС‚РѕСЏС‰РµРµ РЎС‚СЂР°С€РЅРѕРµ РўР’
-http://ts.liubimoe.tv/0c985436-bd42-4d69-8c43-0f231489370f/ru-nstv/index.m3u8
-#EXTINF:-1,РњРЅРѕРіРѕСЃРµСЂРёР№РЅРѕРµ РўР’
-http://ts.liubimoe.tv/0c985436-bd42-4d69-8c43-0f231489370f/ru-mnogotv/index.m3u8
-#EXTINF:-1,РР»Р»СЋР·РёРѕРЅ +
-http://ts.liubimoe.tv/0c985436-bd42-4d69-8c43-0f231489370f/ru-illuzion-plus/index.m3u8
-#EXTINF:-1,Р¤РµРЅРёРєСЃ + РљРёРЅРѕ
-http://ts.liubimoe.tv/0c985436-bd42-4d69-8c43-0f231489370f/ru-phenix/index.m3u8
-#EXTINF:-1,РРЅРґРёР№РєРѕРµ РљРёРЅРѕ
-http://ts.liubimoe.tv/0c985436-bd42-4d69-8c43-0f231489370f/ru-indija/index.m3u8
-#EXTINF:-1,SET
-http://ts.liubimoe.tv/0c985436-bd42-4d69-8c43-0f231489370f/ru-set/index.m3u8
-#EXTINF:-1,CBS Drama
-http://ts.liubimoe.tv/0c985436-bd42-4d69-8c43-0f231489370f/ru-cbs-drama/index.m3u8
-#EXTINF:-1,РўР’ XXI
-http://ts.liubimoe.tv/0c985436-bd42-4d69-8c43-0f231489370f/ru-tv-21/index.m3u8
-#EXTINF:-1,Russian Travel Guide
-http://ts.liubimoe.tv/0c985436-bd42-4d69-8c43-0f231489370f/ru-rtg-hd/index.m3u8
-#EXTINF:-1,Eurosport
-http://ts.liubimoe.tv/0c985436-bd42-4d69-8c43-0f231489370f/ru-eurosport/index.m3u8
-#EXTINF:-1,Eurosport 2
-http://ts.liubimoe.tv/0c985436-bd42-4d69-8c43-0f231489370f/ru-eurosport2/index.m3u8
-#EXTINF:-1,Eurosport HD
-http://ts.liubimoe.tv/0c985436-bd42-4d69-8c43-0f231489370f/ru-eurosport-hd/index.m3u8
-#EXTINF:-1,РђРІС‚Рѕ РџР»СЋСЃ
-http://ts.liubimoe.tv/0c985436-bd42-4d69-8c43-0f231489370f/ru-autoplus/index.m3u8
-#EXTINF:-1,Р”СЂР°Р№РІ
-http://ts.liubimoe.tv/0c985436-bd42-4d69-8c43-0f231489370f/ru-drajv/index.m3u8
-#EXTINF:-1,РљРҐР›
-http://ts.liubimoe.tv/0c985436-bd42-4d69-8c43-0f231489370f/ru-khl/index.m3u8
-#EXTINF:-1,РљРҐР› HD
-http://ts.liubimoe.tv/0c985436-bd42-4d69-8c43-0f231489370f/ru-khl-hd/index.m3u8
-#EXTINF:-1,РњР°С‚С‡!
-http://ts.liubimoe.tv/0c985436-bd42-4d69-8c43-0f231489370f/ru-match/index.m3u8
-#EXTINF:-1,Extreame Sports
-http://ts.liubimoe.tv/0c985436-bd42-4d69-8c43-0f231489370f/ru-extr-sport/index.m3u8
-#EXTINF:-1,РњР°С‚С‡! РђСЂРµРЅР°
-http://ts.liubimoe.tv/0c985436-bd42-4d69-8c43-0f231489370f/ru-sport1/index.m3u8
-#EXTINF:-1,РњР°С‚С‡! РРіСЂР°
-http://ts.liubimoe.tv/0c985436-bd42-4d69-8c43-0f231489370f/ru-ntv-sport/index.m3u8
-#EXTINF:-1,РќР°С€ Р¤СѓС‚Р±РѕР»
-http://ts.liubimoe.tv/0c985436-bd42-4d69-8c43-0f231489370f/ru-nash-fut/index.m3u8
-#EXTINF:-1,РќР°С€ Р¤СѓС‚Р±РѕР» HD
-http://ts.liubimoe.tv/0c985436-bd42-4d69-8c43-0f231489370f/ru-nash-fut-hd/index.m3u8
-#EXTINF:-1,Р¤СѓС‚Р±РѕР» 1
-http://ts.liubimoe.tv/0c985436-bd42-4d69-8c43-0f231489370f/ru-ntv-fut/index.m3u8
-#EXTINF:-1,Р¤СѓС‚Р±РѕР» 1 HD
-http://ts.liubimoe.tv/0c985436-bd42-4d69-8c43-0f231489370f/ru-ntv-fut-hd/index.m3u8
-#EXTINF:-1,Р¤СѓС‚Р±РѕР» 2
-http://ts.liubimoe.tv/0c985436-bd42-4d69-8c43-0f231489370f/ru-ntv-fut2/index.m3u8
-#EXTINF:-1,Р¤СѓС‚Р±РѕР» 2 HD
-http://ts.liubimoe.tv/0c985436-bd42-4d69-8c43-0f231489370f/ru-ntv-fut2-hd/index.m3u8
-#EXTINF:-1,Р¤СѓС‚Р±РѕР» 3
-http://ts.liubimoe.tv/0c985436-bd42-4d69-8c43-0f231489370f/ru-ntv-fut3/index.m3u8
-#EXTINF:-1,Р¤СѓС‚Р±РѕР» 3 HD
-http://ts.liubimoe.tv/0c985436-bd42-4d69-8c43-0f231489370f/ru-ntv-fut3-hd/index.m3u8
-#EXTINF:-1,РњР°С‚С‡! РќР°С€ РЎРїРѕСЂС‚
-http://ts.liubimoe.tv/0c985436-bd42-4d69-8c43-0f231489370f/ru-ntv-sport-plus/index.m3u8
-#EXTINF:-1,Р‘РѕРµС†
-http://ts.liubimoe.tv/0c985436-bd42-4d69-8c43-0f231489370f/ru-boec/index.m3u8
-#EXTINF:-1,Р‘РѕРєСЃ
-http://ts.liubimoe.tv/0c985436-bd42-4d69-8c43-0f231489370f/ru-bojc-klub/index.m3u8
-#EXTINF:-1,Viasat Sport
-http://ts.liubimoe.tv/0c985436-bd42-4d69-8c43-0f231489370f/ru-vs-sport/index.m3u8
-#EXTINF:-1,Viasat Sport HD
-http://ts.liubimoe.tv/0c985436-bd42-4d69-8c43-0f231489370f/ru-vs-sport-hd/index.m3u8
-#EXTINF:-1,РњР°С‚С‡! РђСЂРµРЅР° HD
-http://ts.liubimoe.tv/0c985436-bd42-4d69-8c43-0f231489370f/ru-sport1-hd/index.m3u8
-#EXTINF:-1,РњР°С‚С‡! РРіСЂР° HD
-http://ts.liubimoe.tv/0c985436-bd42-4d69-8c43-0f231489370f/ru-hd-sport/index.m3u8
-#EXTINF:-1,РњР°РјР°
-http://ts.liubimoe.tv/0c985436-bd42-4d69-8c43-0f231489370f/ru-mama/index.m3u8
-#EXTINF:-1,Disney Channel
-http://ts.liubimoe.tv/0c985436-bd42-4d69-8c43-0f231489370f/ru-disney/index.m3u8
-#EXTINF:-1,РњСѓР»СЊС‚
-http://ts.liubimoe.tv/0c985436-bd42-4d69-8c43-0f231489370f/ru-disney-xd/index.m3u8
-#EXTINF:-1,Boomerang
-http://ts.liubimoe.tv/0c985436-bd42-4d69-8c43-0f231489370f/ru-boomerang/index.m3u8
-#EXTINF:-1,Nickelodeon
-http://ts.liubimoe.tv/0c985436-bd42-4d69-8c43-0f231489370f/ru-nick/index.m3u8
-#EXTINF:-1,Nick Jr.
-http://ts.liubimoe.tv/0c985436-bd42-4d69-8c43-0f231489370f/ru-nick-jr/index.m3u8
-#EXTINF:-1,Nickelodeon HD
-http://ts.liubimoe.tv/0c985436-bd42-4d69-8c43-0f231489370f/ru-nick-hd/index.m3u8
-#EXTINF:-1,Cartoon Network
-http://ts.liubimoe.tv/0c985436-bd42-4d69-8c43-0f231489370f/ru-cartoon-net/index.m3u8
+#EXTM3U
+#EXTINF:-1,1+1 (test)
+http://france.tvsng.com:25461/live/test2017/test2017/571.ts
+#EXTINF:-1,2+2
+http://france.tvsng.com:25461/live/test2017/test2017/54.ts
+#EXTINF:-1,Music HD
+http://france.tvsng.com:25461/live/test2017/test2017/612.ts
+#EXTINF:-1,Мосфильм HD
+http://france.tvsng.com:25461/live/test2017/test2017/613.ts
+#EXTINF:-1,H2 HD
+http://france.tvsng.com:25461/live/test2017/test2017/609.ts
+#EXTINF:-1,СТБ
+http://france.tvsng.com:25461/live/test2017/test2017/582.ts
+#EXTINF:-1,5 канал Украина
+http://france.tvsng.com:25461/live/test2017/test2017/306.ts
+#EXTINF:-1,MUSIC BOX UA
+http://france.tvsng.com:25461/live/test2017/test2017/64.ts
+#EXTINF:-1,Impact
+http://france.tvsng.com:25461/live/test2017/test2017/33.ts
+#EXTINF:-1,Hello TV
+http://france.tvsng.com:25461/live/test2017/test2017/32.ts
+#EXTINF:-1,Украiна
+http://france.tvsng.com:25461/live/test2017/test2017/11.ts
+#EXTINF:-1,Усадьба
+http://france.tvsng.com:25461/live/test2017/test2017/327.ts
+#EXTINF:-1,РИА Новости
+http://france.tvsng.com:25461/live/test2017/test2017/52.ts
+#EXTINF:-1,НСТВ
+http://france.tvsng.com:25461/live/test2017/test2017/309.ts
+#EXTINF:-1,Пятый канал
+http://france.tvsng.com:25461/live/test2017/test2017/305.ts
+#EXTINF:-1,PanArmenian TV
+http://france.tvsng.com:25461/live/test2017/test2017/36.ts
+#EXTINF:-1,1 музыкальный HD (Беларусь)
+http://france.tvsng.com:25461/live/test2017/test2017/57.ts
+#EXTINF:-1,Россия 1
+http://france.tvsng.com:25461/live/test2017/test2017/303.ts
+#EXTINF:-1,Планета
+http://france.tvsng.com:25461/live/test2017/test2017/67.ts
+#EXTINF:-1,Настоящее время
+http://france.tvsng.com:25461/live/test2017/test2017/38.ts
+#EXTINF:-1,КиноМеню HD
+http://france.tvsng.com:25461/live/test2017/test2017/47.ts
+#EXTINF:-1,Europa Plus TV
+http://france.tvsng.com:25461/live/test2017/test2017/45.ts
+#EXTINF:-1,Горизонт ТВ
+http://france.tvsng.com:25461/live/test2017/test2017/44.ts
+#EXTINF:-1,Беларусь 1
+http://france.tvsng.com:25461/live/test2017/test2017/53.ts
 #EXTINF:-1,TiJi
-http://ts.liubimoe.tv/0c985436-bd42-4d69-8c43-0f231489370f/ru-tiji/index.m3u8
-#EXTINF:-1,Gulli
-http://ts.liubimoe.tv/0c985436-bd42-4d69-8c43-0f231489370f/ru-gulli/index.m3u8
-#EXTINF:-1,Baby TV
-http://ts.liubimoe.tv/0c985436-bd42-4d69-8c43-0f231489370f/ru-babytv/index.m3u8
-#EXTINF:-1,Jim Jam
-http://ts.liubimoe.tv/0c985436-bd42-4d69-8c43-0f231489370f/ru-jimjam/index.m3u8
-#EXTINF:-1,Р”РµС‚СЃРєРёР№
-http://ts.liubimoe.tv/0c985436-bd42-4d69-8c43-0f231489370f/ru-detskij/index.m3u8
-#EXTINF:-1,РњСѓР»СЊС‚РёРјР°РЅРёСЏ
-http://ts.liubimoe.tv/0c985436-bd42-4d69-8c43-0f231489370f/ru-multimanija/index.m3u8
-#EXTINF:-1,РљР°СЂСѓСЃРµР»СЊ
-http://ts.liubimoe.tv/0c985436-bd42-4d69-8c43-0f231489370f/ru-karusel/index.m3u8
-#EXTINF:-1,KidZone
-http://ts.liubimoe.tv/0c985436-bd42-4d69-8c43-0f231489370f/ru-kidzone/index.m3u8
-#EXTINF:-1,2Г—2
-http://ts.liubimoe.tv/0c985436-bd42-4d69-8c43-0f231489370f/ru-2Г—2/index.m3u8
-#EXTINF:-1,Р”РµС‚СЃРєРёР№ РљР»СѓР±
-http://ts.liubimoe.tv/0c985436-bd42-4d69-8c43-0f231489370f/ru-det-klub/index.m3u8
-#EXTINF:-1,Da Vinchi Learning
-http://ts.liubimoe.tv/0c985436-bd42-4d69-8c43-0f231489370f/ru-davinci-learn/index.m3u8
-#EXTINF:-1,Smile
-http://ts.liubimoe.tv/0c985436-bd42-4d69-8c43-0f231489370f/ru-smile/index.m3u8
-#EXTINF:-1,Europa+ TV
-http://ts.liubimoe.tv/0c985436-bd42-4d69-8c43-0f231489370f/ru-europa-plus/index.m3u8
-#EXTINF:-1,RU TV
-http://ts.liubimoe.tv/0c985436-bd42-4d69-8c43-0f231489370f/ru-rutv/index.m3u8
-#EXTINF:-1,Vh 1
-http://ts.liubimoe.tv/0c985436-bd42-4d69-8c43-0f231489370f/ru-vh1/index.m3u8
-#EXTINF:-1,EU Music
-http://ts.liubimoe.tv/0c985436-bd42-4d69-8c43-0f231489370f/ru-rumusic/index.m3u8
-#EXTINF:-1,РњСѓР·С‹РєР° РџРµСЂРІРѕРіРѕ
-http://ts.liubimoe.tv/0c985436-bd42-4d69-8c43-0f231489370f/ru-muz-perv/index.m3u8
-#EXTINF:-1,РџРµСЂРІС‹Р№ Р‘Р°Р»С‚РёР№СЃРєРёР№ РњСѓР·С‹РєР°Р»СЊРЅС‹Р№
-http://ts.liubimoe.tv/0c985436-bd42-4d69-8c43-0f231489370f/ru-perv-muz-kanal/index.m3u8
-#EXTINF:-1,РЁР°РЅСЃРѕРЅ
-http://ts.liubimoe.tv/0c985436-bd42-4d69-8c43-0f231489370f/ru-shanson/index.m3u8
+http://france.tvsng.com:25461/live/test2017/test2017/63.ts
+#EXTINF:-1,Amedia Premium
+http://france.tvsng.com:25461/live/test2017/test2017/62.ts
+#EXTINF:-1,LIFE HD
+http://france.tvsng.com:25461/live/test2017/test2017/51.ts
+#EXTINF:-1,РЭН ТВ +2
+http://france.tvsng.com:25461/live/test2017/test2017/65.ts
+#EXTINF:-1,7 канал (Одесса)
+http://france.tvsng.com:25461/live/test2017/test2017/60.ts
+#EXTINF:-1,43 канал HD
+http://france.tvsng.com:25461/live/test2017/test2017/58.ts
+#EXTINF:-1,24 южный (Одесса)
+http://france.tvsng.com:25461/live/test2017/test2017/56.ts
+#EXTINF:-1,1Music
+http://france.tvsng.com:25461/live/test2017/test2017/39.ts
+#EXTINF:-1,СК1
+http://france.tvsng.com:25461/live/test2017/test2017/37.ts
+#EXTINF:-1,Шансон ТВ
+http://france.tvsng.com:25461/live/test2017/test2017/41.ts
+#EXTINF:-1,Черное море
+http://france.tvsng.com:25461/live/test2017/test2017/42.ts
+#EXTINF:-1,Футбол 1 HD UA
+http://france.tvsng.com:25461/live/test2017/test2017/34.ts
+#EXTINF:-1,Футбол 2 HD UA
+http://france.tvsng.com:25461/live/test2017/test2017/35.ts
+#EXTINF:-1,Точка ТВ
+http://france.tvsng.com:25461/live/test2017/test2017/50.ts
+#EXTINF:-1,ТНТ int.
+http://france.tvsng.com:25461/live/test2017/test2017/43.ts
+#EXTINF:-1,НТВ
+http://france.tvsng.com:25461/live/test2017/test2017/12.ts
+#EXTINF:-1,ТВ3
+http://france.tvsng.com:25461/live/test2017/test2017/13.ts
+#EXTINF:-1,Рада ТВ UA
+http://france.tvsng.com:25461/live/test2017/test2017/4.ts
+#EXTINF:-1,Планета Онлайн
+http://france.tvsng.com:25461/live/test2017/test2017/18.ts
+#EXTINF:-1,Пик ТВ HD
+http://france.tvsng.com:25461/live/test2017/test2017/6.ts
+#EXTINF:-1,Пик ТВ
+http://france.tvsng.com:25461/live/test2017/test2017/5.ts
+#EXTINF:-1,Боец
+http://france.tvsng.com:25461/live/test2017/test2017/27.ts
+#EXTINF:-1,Надiя
+http://france.tvsng.com:25461/live/test2017/test2017/7.ts
+#EXTINF:-1,Культура UA
+http://france.tvsng.com:25461/live/test2017/test2017/8.ts
 #EXTINF:-1,Mezzo
-http://ts.liubimoe.tv/0c985436-bd42-4d69-8c43-0f231489370f/ru-mezzo/index.m3u8
-#EXTINF:-1,Р›СЏ РњРёРЅРѕСЂ
-http://ts.liubimoe.tv/0c985436-bd42-4d69-8c43-0f231489370f/ru-laminor/index.m3u8
-#EXTINF:-1,MTV Hits
-http://ts.liubimoe.tv/0c985436-bd42-4d69-8c43-0f231489370f/ru-mtv-hits/index.m3u8
-#EXTINF:-1,Р”РѕР¶РґСЊ
-http://ts.liubimoe.tv/0c985436-bd42-4d69-8c43-0f231489370f/ru-dozd/index.m3u8
-#EXTINF:-1,Р®
-http://ts.liubimoe.tv/0c985436-bd42-4d69-8c43-0f231489370f/ru-utv/index.m3u8
-#EXTINF:-1,RTVi
-http://ts.liubimoe.tv/0c985436-bd42-4d69-8c43-0f231489370f/ru-rtvi/index.m3u8
-#EXTINF:-1,РўР’Р¦
-http://ts.liubimoe.tv/0c985436-bd42-4d69-8c43-0f231489370f/ru-tvc/index.m3u8
-#EXTINF:-1,РўР’Р¦i
-http://ts.liubimoe.tv/0c985436-bd42-4d69-8c43-0f231489370f/ru-tvci/index.m3u8
-#EXTINF:-1,TV Rus
-http://ts.liubimoe.tv/0c985436-bd42-4d69-8c43-0f231489370f/ru-tvrus/index.m3u8
-#EXTINF:-1,Fashion
-http://ts.liubimoe.tv/0c985436-bd42-4d69-8c43-0f231489370f/ru-fashion/index.m3u8
-#EXTINF:-1,РљСѓС…РЅСЏ
-http://ts.liubimoe.tv/0c985436-bd42-4d69-8c43-0f231489370f/ru-kuhnia/index.m3u8
-#EXTINF:-1,РўРµР»РµРєР°С„Рµ
-http://ts.liubimoe.tv/0c985436-bd42-4d69-8c43-0f231489370f/ru-telecafe/index.m3u8
-#EXTINF:-1,РљСѓР»СЊС‚СѓСЂР°
-http://ts.liubimoe.tv/0c985436-bd42-4d69-8c43-0f231489370f/ru-ross-k/index.m3u8
-#EXTINF:-1,РџР°СЂРє Р Р°Р·РІР»РµС‡РµРЅРёР№
-http://ts.liubimoe.tv/0c985436-bd42-4d69-8c43-0f231489370f/ru-park-razvl/index.m3u8
-#EXTINF:-1,Р’РѕРїСЂРѕСЃС‹ Рё РћС‚РІРµС‚С‹
-http://ts.liubimoe.tv/0c985436-bd42-4d69-8c43-0f231489370f/ru-vopr-otv/index.m3u8
-#EXTINF:-1,РќРѕСЃС‚Р°Р»СЊРіРёСЏ
-http://ts.liubimoe.tv/0c985436-bd42-4d69-8c43-0f231489370f/ru-nostalgija/index.m3u8
-#EXTINF:-1,РћРўР 
-http://ts.liubimoe.tv/0c985436-bd42-4d69-8c43-0f231489370f/ru-otr/index.m3u8
-#EXTINF:-1,Р РµС‚СЂРѕ
-http://ts.liubimoe.tv/0c985436-bd42-4d69-8c43-0f231489370f/ru-retro/index.m3u8
-#EXTINF:-1,Р–РёРІРё!
-http://ts.liubimoe.tv/0c985436-bd42-4d69-8c43-0f231489370f/ru-zhivi/index.m3u8
-#EXTINF:-1,1 Р’СЂРµРјСЏ
-http://ts.liubimoe.tv/0c985436-bd42-4d69-8c43-0f231489370f/ru-vremia/index.m3u8
-#EXTINF:-1,РЎРѕСЋР·
-http://ts.liubimoe.tv/0c985436-bd42-4d69-8c43-0f231489370f/ru-sojuz/index.m3u8
-#EXTINF:-1,РўР‘Рќ
-http://ts.liubimoe.tv/0c985436-bd42-4d69-8c43-0f231489370f/ru-tbn/index.m3u8
-#EXTINF:-1,LNK Lithuania
-http://ts.liubimoe.tv/0c985436-bd42-4d69-8c43-0f231489370f/lt-lnk/index.m3u8
-#EXTINF:-1,TV 3 Lithuania
-http://ts.liubimoe.tv/0c985436-bd42-4d69-8c43-0f231489370f/lt-tv3/index.m3u8
-#EXTINF:-1,Balticum Auksinis Lithuania
-http://ts.liubimoe.tv/0c985436-bd42-4d69-8c43-0f231489370f/lt-balt-auks/index.m3u8
-#EXTINF:-1,Balticum Lithuania
-http://ts.liubimoe.tv/0c985436-bd42-4d69-8c43-0f231489370f/lt-balticum/index.m3u8
-#EXTINF:-1,TV 6 Lithuania
-http://ts.liubimoe.tv/0c985436-bd42-4d69-8c43-0f231489370f/lt-tv6/index.m3u8
-#EXTINF:-1,TV 8 Lithuania
-http://ts.liubimoe.tv/0c985436-bd42-4d69-8c43-0f231489370f/lt-tv8/index.m3u8
-#EXTINF:-1,Rytas Lithuania
-http://ts.liubimoe.tv/0c985436-bd42-4d69-8c43-0f231489370f/lt-rytas/index.m3u8
-#EXTINF:-1,TV 1 Lithuania
-http://ts.liubimoe.tv/0c985436-bd42-4d69-8c43-0f231489370f/lt-tv1/index.m3u8
-#EXTINF:-1,BTV Lithuania
-http://ts.liubimoe.tv/0c985436-bd42-4d69-8c43-0f231489370f/lt-btv/index.m3u8
-#EXTINF:-1,LRT Lithuania
-http://ts.liubimoe.tv/0c985436-bd42-4d69-8c43-0f231489370f/lt-lrt/index.m3u8
-#EXTINF:-1,LRT Lithuania
-http://ts.liubimoe.tv/0c985436-bd42-4d69-8c43-0f231489370f/lt-lrttv/index.m3u8
-#EXTINF:-1,Info TV Lithuania
-http://ts.liubimoe.tv/0c985436-bd42-4d69-8c43-0f231489370f/lt-info/index.m3u8
-#EXTINF:-1,Liuks Lithuania
-http://ts.liubimoe.tv/0c985436-bd42-4d69-8c43-0f231489370f/lt-liuks/index.m3u8
-#EXTINF:-1,Sport 1 Lithuania
-http://ts.liubimoe.tv/0c985436-bd42-4d69-8c43-0f231489370f/lt-sport1/index.m3u8
-#EXTINF:-1,Viasat Sport Baltic Lithuania
-http://ts.liubimoe.tv/0c985436-bd42-4d69-8c43-0f231489370f/lt-vs-sport-balt/index.m3u8
-#EXTINF:-1,TV1000 Premium Lithuania
-http://ts.liubimoe.tv/0c985436-bd42-4d69-8c43-0f231489370f/lt-tv1000-prm/index.m3u8
-#EXTINF:-1,LNT Latvia
-http://ts.liubimoe.tv/0c985436-bd42-4d69-8c43-0f231489370f/lv-lnt/index.m3u8
-#EXTINF:-1,TV 3 Latvia
-http://ts.liubimoe.tv/0c985436-bd42-4d69-8c43-0f231489370f/lv-tv3/index.m3u8
-#EXTINF:-1,TV 6 Latvia
-http://ts.liubimoe.tv/0c985436-bd42-4d69-8c43-0f231489370f/lv-tv6/index.m3u8
-#EXTINF:-1,LTV1 Latvia
-http://ts.liubimoe.tv/0c985436-bd42-4d69-8c43-0f231489370f/lv-ltv1/index.m3u8
-#EXTINF:-1,LTV7 Latvia
-http://ts.liubimoe.tv/0c985436-bd42-4d69-8c43-0f231489370f/lv-ltv7/index.m3u8
-#EXTINF:-1,Kanals 2 Latvia
-http://ts.liubimoe.tv/0c985436-bd42-4d69-8c43-0f231489370f/lv-kanals2/index.m3u8
-#EXTINF:-1,3+ Latvia(РЅР° Р СѓСЃСЃРєРѕРј)
-http://ts.liubimoe.tv/0c985436-bd42-4d69-8c43-0f231489370f/lv-3plus/index.m3u8
-#EXTINF:-1,Viasat Sport Baltic Latvia
-http://ts.liubimoe.tv/0c985436-bd42-4d69-8c43-0f231489370f/lv-vs-sport-balt/index.m3u8
-#EXTINF:-1,РќРѕРІС‹Р№ РљР°РЅР°Р» РЈРєСЂР°РёРЅР°
-http://ts.liubimoe.tv/0c985436-bd42-4d69-8c43-0f231489370f/ua-nov-kan/index.m3u8
-#EXTINF:-1,ICTV РЈРєСЂР°РёРЅР°
-http://ts.liubimoe.tv/0c985436-bd42-4d69-8c43-0f231489370f/ua-ictv/index.m3u8
-#EXTINF:-1,РЎРўР‘ РЈРєСЂР°РёРЅР°
-http://ts.liubimoe.tv/0c985436-bd42-4d69-8c43-0f231489370f/ua-stb/index.m3u8
-#EXTINF:-1,РЈРєСЂР°РёРЅР°
-http://ts.liubimoe.tv/0c985436-bd42-4d69-8c43-0f231489370f/ua-ukr/index.m3u8
-#EXTINF:-1,5 РљР°РЅР°Р» РЈРєСЂР°РёРЅР°
-http://ts.liubimoe.tv/0c985436-bd42-4d69-8c43-0f231489370f/ua-5kanal/index.m3u8
-#EXTINF:-1,РўР•Рў РЈРєСЂР°РёРЅР°
-http://ts.liubimoe.tv/0c985436-bd42-4d69-8c43-0f231489370f/ua-tet/index.m3u8
-#EXTINF:-1,IРЅС‚РµСЂ
-http://ts.liubimoe.tv/0c985436-bd42-4d69-8c43-0f231489370f/ua-inter/index.m3u8
-#EXTINF:-1,IРЅС‚РµСЂ Film
-http://ts.liubimoe.tv/0c985436-bd42-4d69-8c43-0f231489370f/ua-inter-film/index.m3u8
-#EXTINF:-1,1+1 РЈРєСЂР°РёРЅР°
-http://ts.liubimoe.tv/0c985436-bd42-4d69-8c43-0f231489370f/ua-1plus1/index.m3u8
-#EXTINF:-1,2+2 РЈРєСЂР°РёРЅР°
-http://ts.liubimoe.tv/0c985436-bd42-4d69-8c43-0f231489370f/ua-2plus2/index.m3u8
-#EXTINF:-1,РќРўРќ
-http://ts.liubimoe.tv/0c985436-bd42-4d69-8c43-0f231489370f/ua-ntn/index.m3u8
-#EXTINF:-1,РњР•Р“Рђ
-http://ts.liubimoe.tv/0c985436-bd42-4d69-8c43-0f231489370f/ua-mega/index.m3u8
-#EXTINF:-1,Рљ1
-http://ts.liubimoe.tv/0c985436-bd42-4d69-8c43-0f231489370f/ua-k1/index.m3u8
-#EXTINF:-1,Рљ2
-http://ts.liubimoe.tv/0c985436-bd42-4d69-8c43-0f231489370f/ua-k2/index.m3u8
-#EXTINF:-1,Рњ1
-http://ts.liubimoe.tv/0c985436-bd42-4d69-8c43-0f231489370f/ua-m1/index.m3u8
-#EXTINF:-1,Рњ2
-http://ts.liubimoe.tv/0c985436-bd42-4d69-8c43-0f231489370f/ua-m2/index.m3u8
-#EXTINF:-1,1 РђРІС‚РѕРјРѕР±РёР»СЊРЅС‹Р№
-http://ts.liubimoe.tv/0c985436-bd42-4d69-8c43-0f231489370f/ua-1avto/index.m3u8
-#EXTINF:-1,112 РЈРєСЂР°РёРЅР°
-http://ts.liubimoe.tv/0c985436-bd42-4d69-8c43-0f231489370f/ua-112/index.m3u8
-#EXTINF:-1,Р¤СѓС‚Р±РѕР» 1 РЈРєСЂР°РёРЅР°
-http://ts.liubimoe.tv/0c985436-bd42-4d69-8c43-0f231489370f/ua-fut1/index.m3u8
-#EXTINF:-1,Р¤СѓС‚Р±РѕР» 2 РЈРєСЂР°РёРЅР°
-http://ts.liubimoe.tv/0c985436-bd42-4d69-8c43-0f231489370f/ua-fut2/index.m3u8
+http://france.tvsng.com:25461/live/test2017/test2017/29.ts
+#EXTINF:-1,Кухня ТВ
+http://france.tvsng.com:25461/live/test2017/test2017/17.ts
+#EXTINF:-1,Конный мир HD
+http://france.tvsng.com:25461/live/test2017/test2017/28.ts
+#EXTINF:-1,ZIK TV
+http://france.tvsng.com:25461/live/test2017/test2017/21.ts
+#EXTINF:-1,Nat Geo Wild
+http://france.tvsng.com:25461/live/test2017/test2017/9.ts
+#EXTINF:-1,Культура
+http://france.tvsng.com:25461/live/test2017/test2017/23.ts
+#EXTINF:-1,Nat Geo Wild HD
+http://france.tvsng.com:25461/live/test2017/test2017/14.ts
+#EXTINF:-1,K1 Украина
+http://france.tvsng.com:25461/live/test2017/test2017/25.ts
+#EXTINF:-1,Gamma TV
+http://france.tvsng.com:25461/live/test2017/test2017/22.ts
+#EXTINF:-1,Спорт Хит
+http://france.tvsng.com:25461/live/test2017/test2017/15.ts
+#EXTINF:-1,ОТВ
+http://france.tvsng.com:25461/live/test2017/test2017/26.ts
+#EXTINF:-1,15 канал
+http://france.tvsng.com:25461/live/test2017/test2017/31.ts
+#EXTINF:-1,112 UA HD
+http://france.tvsng.com:25461/live/test2017/test2017/16.ts
+#EXTINF:-1,Спорт 1 Украина
+http://france.tvsng.com:25461/live/test2017/test2017/3.ts
+#EXTINF:-1,Россия HD
+http://france.tvsng.com:25461/live/test2017/test2017/328.ts
+#EXTINF:-1,MTV
+http://france.tvsng.com:25461/live/test2017/test2017/314.ts
+#EXTINF:-1,Мульт
+http://france.tvsng.com:25461/live/test2017/test2017/313.ts
+#EXTINF:-1,ТНТ +2
+http://france.tvsng.com:25461/live/test2017/test2017/319.ts
+#EXTINF:-1,ТВ3 +2
+http://france.tvsng.com:25461/live/test2017/test2017/325.ts
+#EXTINF:-1,RTI TV
+http://france.tvsng.com:25461/live/test2017/test2017/332.ts
+#EXTINF:-1,Russia Today
+http://france.tvsng.com:25461/live/test2017/test2017/331.ts
+#EXTINF:-1,Russia Today Doc
+http://france.tvsng.com:25461/live/test2017/test2017/334.ts
+#EXTINF:-1,Russia Today Global
+http://france.tvsng.com:25461/live/test2017/test2017/336.ts
+#EXTINF:-1,Eurosport Rus HD
+http://france.tvsng.com:25461/live/test2017/test2017/516.ts
+#EXTINF:-1,INTER +
+http://france.tvsng.com:25461/live/test2017/test2017/507.ts
+#EXTINF:-1,TV1000
+http://france.tvsng.com:25461/live/test2017/test2017/40.ts
+#EXTINF:-1,TV 1000 Comedy
+http://france.tvsng.com:25461/live/test2017/test2017/515.ts
+#EXTINF:-1,TV 1000 MegaHit HD
+http://france.tvsng.com:25461/live/test2017/test2017/514.ts
+#EXTINF:-1,TV 1000 Premium HD
+http://france.tvsng.com:25461/live/test2017/test2017/513.ts
+#EXTINF:-1,TV 1000 Русское кино
+http://france.tvsng.com:25461/live/test2017/test2017/508.ts
+#EXTINF:-1,TV1000 Action
+http://france.tvsng.com:25461/live/test2017/test2017/509.ts
+#EXTINF:-1,Viasat Explore
+http://france.tvsng.com:25461/live/test2017/test2017/510.ts
+#EXTINF:-1,Viasat History
+http://france.tvsng.com:25461/live/test2017/test2017/511.ts
+#EXTINF:-1,Русский роман
+http://france.tvsng.com:25461/live/test2017/test2017/512.ts
+#EXTINF:-1,Телеканал Деда Мороза
+http://france.tvsng.com:25461/live/test2017/test2017/522.ts
+#EXTINF:-1,2x2
+http://france.tvsng.com:25461/live/test2017/test2017/524.ts
+#EXTINF:-1,Amedia
+http://france.tvsng.com:25461/live/test2017/test2017/532.ts
+#EXTINF:-1,Amedia 2
+http://france.tvsng.com:25461/live/test2017/test2017/531.ts
+#EXTINF:-1,Amedia Hit
+http://france.tvsng.com:25461/live/test2017/test2017/530.ts
+#EXTINF:-1,Gulli
+http://france.tvsng.com:25461/live/test2017/test2017/523.ts
+#EXTINF:-1,Oхотник и Рыболов HD
+http://france.tvsng.com:25461/live/test2017/test2017/542.ts
+#EXTINF:-1,RU TV
+http://france.tvsng.com:25461/live/test2017/test2017/529.ts
+#EXTINF:-1,Set HD
+http://france.tvsng.com:25461/live/test2017/test2017/533.ts
+#EXTINF:-1,Sony SciFi
+http://france.tvsng.com:25461/live/test2017/test2017/534.ts
+#EXTINF:-1,STV
+http://france.tvsng.com:25461/live/test2017/test2017/528.ts
+#EXTINF:-1,Детский
+http://france.tvsng.com:25461/live/test2017/test2017/526.ts
+#EXTINF:-1,Детский Мир/Телеклуб
+http://france.tvsng.com:25461/live/test2017/test2017/527.ts
+#EXTINF:-1,Дома ТВ
+http://france.tvsng.com:25461/live/test2017/test2017/521.ts
+#EXTINF:-1,Иллюзион +
+http://france.tvsng.com:25461/live/test2017/test2017/537.ts
+#EXTINF:-1,Индийское кино
+http://france.tvsng.com:25461/live/test2017/test2017/535.ts
+#EXTINF:-1,КиноМикс
+http://france.tvsng.com:25461/live/test2017/test2017/541.ts
+#EXTINF:-1,Киносемья
+http://france.tvsng.com:25461/live/test2017/test2017/539.ts
+#EXTINF:-1,Кинохит
+http://france.tvsng.com:25461/live/test2017/test2017/540.ts
+#EXTINF:-1,Мужское кино
+http://france.tvsng.com:25461/live/test2017/test2017/536.ts
+#EXTINF:-1,Мультимания
+http://france.tvsng.com:25461/live/test2017/test2017/525.ts
+#EXTINF:-1,Охота и Рыбалка
+http://france.tvsng.com:25461/live/test2017/test2017/543.ts
+#EXTINF:-1,Русский Иллюзион
+http://france.tvsng.com:25461/live/test2017/test2017/538.ts
+#EXTINF:-1,Сентана Спорт
+http://france.tvsng.com:25461/live/test2017/test2017/545.ts
+#EXTINF:-1,Сентана Спорт +
+http://france.tvsng.com:25461/live/test2017/test2017/544.ts
+#EXTINF:-1,Еда HD
+http://france.tvsng.com:25461/live/test2017/test2017/547.ts
+#EXTINF:-1,Кино ТВ HD
+http://france.tvsng.com:25461/live/test2017/test2017/546.ts
+#EXTINF:-1,ЧЕ Север
+http://france.tvsng.com:25461/live/test2017/test2017/337.ts
+#EXTINF:-1,Кинопремиум HD
+http://france.tvsng.com:25461/live/test2017/test2017/550.ts
+#EXTINF:-1,Дом кино Премиум HD
+http://france.tvsng.com:25461/live/test2017/test2017/548.ts
+#EXTINF:-1,Остросюжетное HD
+http://france.tvsng.com:25461/live/test2017/test2017/549.ts
+#EXTINF:-1,1+1
+http://france.tvsng.com:25461/live/test2017/test2017/568.ts
+#EXTINF:-1,3S.TV
+http://france.tvsng.com:25461/live/test2017/test2017/569.ts
+#EXTINF:-1,Enter Film
+http://france.tvsng.com:25461/live/test2017/test2017/560.ts
+#EXTINF:-1,ICTV
+http://france.tvsng.com:25461/live/test2017/test2017/564.ts
+#EXTINF:-1,K2
+http://france.tvsng.com:25461/live/test2017/test2017/561.ts
+#EXTINF:-1,Kiev TV
+http://france.tvsng.com:25461/live/test2017/test2017/567.ts
+#EXTINF:-1,NEWS 24
+http://france.tvsng.com:25461/live/test2017/test2017/562.ts
 #EXTINF:-1,OTV
-http://ts.liubimoe.tv/0c985436-bd42-4d69-8c43-0f231489370f/ua-otv/index.m3u8
-#EXTINF:-1,РџРёРєСЃРµР»СЊ
-http://ts.liubimoe.tv/0c985436-bd42-4d69-8c43-0f231489370f/ua-piksel/index.m3u8
-#EXTINF:-1,РџР»СЋСЃРџР»СЋСЃ
-http://ts.liubimoe.tv/0c985436-bd42-4d69-8c43-0f231489370f/ua-plusplus/index.m3u8
-#EXTINF:-1,РЎРїРѕСЂС‚ РЈРєСЂР°РёРЅР°
-http://ts.liubimoe.tv/0c985436-bd42-4d69-8c43-0f231489370f/ua-sport/index.m3u8
-#EXTINF:-1,РџРµСЂС€РёР№ РќР°С†РёРѕРЅР°Р»СЊРЅС‹Р№ РЈРєСЂР°РёРЅР°
-http://ts.liubimoe.tv/0c985436-bd42-4d69-8c43-0f231489370f/ua-pershij/index.m3u8
+http://france.tvsng.com:25461/live/test2017/test2017/559.ts
+#EXTINF:-1,QTV
+http://france.tvsng.com:25461/live/test2017/test2017/563.ts
+#EXTINF:-1,Tonis
+http://france.tvsng.com:25461/live/test2017/test2017/566.ts
 #EXTINF:-1,ZOOM
-http://ts.liubimoe.tv/0c985436-bd42-4d69-8c43-0f231489370f/ua-zoom/index.m3u8
-#EXTINF:-1,X-Art
-http://ts.liubimoe.tv/0c985436-bd42-4d69-8c43-0f231489370f/adl-x-art1/index.m3u8
-#EXTINF:-1,X-Art
-http://ts.liubimoe.tv/0c985436-bd42-4d69-8c43-0f231489370f/adl-x-art2/index.m3u8
-#EXTINF:-1,Р СѓСЃСЃРєР°СЏ РќРѕС‡СЊ
-http://ts.liubimoe.tv/0c985436-bd42-4d69-8c43-0f231489370f/adl-russ-night/index.m3u8
+http://france.tvsng.com:25461/live/test2017/test2017/565.ts
+#EXTINF:-1,Квартал TV
+http://france.tvsng.com:25461/live/test2017/test2017/570.ts
+#EXTINF:-1,М1
+http://france.tvsng.com:25461/live/test2017/test2017/557.ts
+#EXTINF:-1,М2
+http://france.tvsng.com:25461/live/test2017/test2017/558.ts
+#EXTINF:-1,Мега
+http://france.tvsng.com:25461/live/test2017/test2017/554.ts
+#EXTINF:-1,Малятко ТВ
+http://france.tvsng.com:25461/live/test2017/test2017/576.ts
+#EXTINF:-1,Унiан TV
+http://france.tvsng.com:25461/live/test2017/test2017/575.ts
+#EXTINF:-1,Новий канал
+http://france.tvsng.com:25461/live/test2017/test2017/551.ts
+#EXTINF:-1,НТН
+http://france.tvsng.com:25461/live/test2017/test2017/552.ts
+#EXTINF:-1,History Chanel
+http://france.tvsng.com:25461/live/test2017/test2017/577.ts
+#EXTINF:-1,Пiксель TV
+http://france.tvsng.com:25461/live/test2017/test2017/555.ts
+#EXTINF:-1,Плюс Плюс
+http://france.tvsng.com:25461/live/test2017/test2017/556.ts
+#EXTINF:-1,ТЕТ
+http://france.tvsng.com:25461/live/test2017/test2017/578.ts
+#EXTINF:-1,S-ТЕТ
+http://france.tvsng.com:25461/live/test2017/test2017/553.ts
+#EXTINF:-1,8 канал
+http://france.tvsng.com:25461/live/test2017/test2017/583.ts
+#EXTINF:-1,UA:Перший
+http://france.tvsng.com:25461/live/test2017/test2017/574.ts
+#EXTINF:-1,O2
+http://france.tvsng.com:25461/live/test2017/test2017/600.ts
+#EXTINF:-1,Беларусь 24
+http://france.tvsng.com:25461/live/test2017/test2017/588.ts
+#EXTINF:-1,Домашний
+http://france.tvsng.com:25461/live/test2017/test2017/594.ts
+#EXTINF:-1,Живая планета
+http://france.tvsng.com:25461/live/test2017/test2017/592.ts
+#EXTINF:-1,Калейдоскоп ТВ
+http://france.tvsng.com:25461/live/test2017/test2017/593.ts
+#EXTINF:-1,Красная линия
+http://france.tvsng.com:25461/live/test2017/test2017/587.ts
+#EXTINF:-1,КСС
+http://france.tvsng.com:25461/live/test2017/test2017/584.ts
+#EXTINF:-1,ЛДПР ТВ
+http://france.tvsng.com:25461/live/test2017/test2017/590.ts
+#EXTINF:-1,Миллет
+http://france.tvsng.com:25461/live/test2017/test2017/589.ts
+#EXTINF:-1,Кинопремьера HD
+http://france.tvsng.com:25461/live/test2017/test2017/604.ts
+#EXTINF:-1,Матч
+http://france.tvsng.com:25461/live/test2017/test2017/603.ts
+#EXTINF:-1,Матч! Арена HD
+http://france.tvsng.com:25461/live/test2017/test2017/605.ts
+#EXTINF:-1,Мир 24
+http://france.tvsng.com:25461/live/test2017/test2017/586.ts
+#EXTINF:-1,Paramount Comedy
+http://france.tvsng.com:25461/live/test2017/test2017/606.ts
+#EXTINF:-1,Домашний (Север-Сургут)
+http://france.tvsng.com:25461/live/test2017/test2017/602.ts
+#EXTINF:-1,Москва 24
+http://france.tvsng.com:25461/live/test2017/test2017/585.ts
+#EXTINF:-1,Моя планета
+http://france.tvsng.com:25461/live/test2017/test2017/599.ts
+#EXTINF:-1,МУЗ ТВ
+http://france.tvsng.com:25461/live/test2017/test2017/591.ts
+#EXTINF:-1,НСТ
+http://france.tvsng.com:25461/live/test2017/test2017/595.ts
+#EXTINF:-1,Русский детектив
+http://france.tvsng.com:25461/live/test2017/test2017/596.ts
+#EXTINF:-1,Страна
+http://france.tvsng.com:25461/live/test2017/test2017/598.ts
+#EXTINF:-1,1HD Music
+http://france.tvsng.com:25461/live/test2017/test2017/601.ts
+#EXTINF:-1,Сарафан
+http://france.tvsng.com:25461/live/test2017/test2017/597.ts
+#EXTINF:-1,Penthouse HD 1
+http://france.tvsng.com:25461/live/test2017/test2017/504.ts
+#EXTINF:-1,Nuart TV
+http://france.tvsng.com:25461/live/test2017/test2017/573.ts
+#EXTINF:-1,Эгоист ТВ
+http://france.tvsng.com:25461/live/test2017/test2017/572.ts
+#EXTINF:-1,Brazzers TV
+http://france.tvsng.com:25461/live/test2017/test2017/581.ts
+#EXTINF:-1,Dorcel HD
+http://france.tvsng.com:25461/live/test2017/test2017/579.ts
+#EXTINF:-1,Redlight HD
+http://france.tvsng.com:25461/live/test2017/test2017/580.ts
+#EXTINF:-1,Русская ночь
+http://france.tvsng.com:25461/live/test2017/test2017/518.ts
+#EXTINF:-1,Blue Hustler
+http://france.tvsng.com:25461/live/test2017/test2017/520.ts
 #EXTINF:-1,Hustler HD
-http://ts.liubimoe.tv/0c985436-bd42-4d69-8c43-0f231489370f/adl-hustler-hd/index.m3u8
-#EXTINF:-1,Penthouse HD
-http://ts.liubimoe.tv/0c985436-bd42-4d69-8c43-0f231489370f/adl-pent/index.m3u8
-#EXTINF:-1,O La-la
-http://ts.liubimoe.tv/0c985436-bd42-4d69-8c43-0f231489370f/adl-o-lia-lia/index.m3u8
-#EXTINF:-1,LTV Cinema
-http://ts.liubimoe.tv/0c985436-bd42-4d69-8c43-0f231489370f/ltv-cinema/index.m3u8
-#EXTINF:-1,LTV Cinema 2
-http://ts.liubimoe.tv/0c985436-bd42-4d69-8c43-0f231489370f/ltv-cinema2/index.m3u8
-#EXTINF:-1,LTV Comedy
-http://ts.liubimoe.tv/0c985436-bd42-4d69-8c43-0f231489370f/ltv-comedy/index.m3u8
-#EXTINF:-1,РњСѓР· РўР’
-http://ts.liubimoe.tv/0c985436-bd42-4d69-8c43-0f231489370f/ru-muz-tv/index.m3u8
-#EXTINF:-1,Ani
-http://ts.liubimoe.tv/0c985436-bd42-4d69-8c43-0f231489370f/ru-ani/index.m3u8
-#EXTINF:-1,Zee
-http://ts.liubimoe.tv/0c985436-bd42-4d69-8c43-0f231489370f/ru-zee-tv/index.m3u8
-#EXTINF:-1,Discovery HD Showcase
-http://ts.liubimoe.tv/0c985436-bd42-4d69-8c43-0f231489370f/ru-disc-showcase-hd/index.m3u8
-#EXTINF:-1,РљРёРЅРѕРїСЂРµРјРёСѓРј HD
-http://ts.liubimoe.tv/0c985436-bd42-4d69-8c43-0f231489370f/ru-kinopremium-hd/index.m3u8
-#EXTINF:-1,РќР°С€ РљРёРЅРѕСЂРѕРјР°РЅ
-http://ts.liubimoe.tv/0c985436-bd42-4d69-8c43-0f231489370f/ru-nashe-hd/index.m3u8
-#EXTINF:-1,РќР°С€ Р”РµС‚РµРєС‚РёРІ HD
-http://ts.liubimoe.tv/0c985436-bd42-4d69-8c43-0f231489370f/ru-nash-detektiv-hd/index.m3u8
-#EXTINF:-1,Galaxy
-http://ts.liubimoe.tv/0c985436-bd42-4d69-8c43-0f231489370f/ru-galaxy/index.m3u8
-#EXTINF:-1,1 Р”РѕРј РљРёРЅРѕ РџСЂРµРјРёСѓРј HD
-http://ts.liubimoe.tv/0c985436-bd42-4d69-8c43-0f231489370f/ru-domkino-prem-hd/index.m3u8
-#EXTINF:-1,РћСЃС‚СЂРѕСЃСЋР¶РµС‚РЅРѕРµ HD
-http://ts.liubimoe.tv/0c985436-bd42-4d69-8c43-0f231489370f/ru-ostrosiuz-hd/index.m3u8
-#EXTINF:-1,РљРёРЅРѕРїРѕРєР°Р· HD1
-http://ts.liubimoe.tv/0c985436-bd42-4d69-8c43-0f231489370f/ru-kinopokaz1-hd/index.m3u8
-#EXTINF:-1,РљРёРЅРѕРїРѕРєР°Р· HD2
-http://ts.liubimoe.tv/0c985436-bd42-4d69-8c43-0f231489370f/ru-kinopokaz2-hd/index.m3u8
-#EXTINF:-1,РљРёРЅРѕРўР’
-http://ts.liubimoe.tv/0c985436-bd42-4d69-8c43-0f231489370f/ru-kinotv/index.m3u8
-#EXTINF:-1,РњРР 
-http://ts.liubimoe.tv/0c985436-bd42-4d69-8c43-0f231489370f/ru-mir/index.m3u8
-#EXTINF:-1,РњРёСЂ РЎРµСЂРёР°Р»Р°
-http://ts.liubimoe.tv/0c985436-bd42-4d69-8c43-0f231489370f/ru-mir-******a/index.m3u8
+http://france.tvsng.com:25461/live/test2017/test2017/607.ts
+#EXTINF:-1,Nuart HD
+http://france.tvsng.com:25461/live/test2017/test2017/608.ts
+#EXTINF:-1,MTV HD
+http://france.tvsng.com:25461/live/test2017/test2017/610.ts
+#EXTINF:-1,Ералаш HD
+http://france.tvsng.com:25461/live/test2017/test2017/611.ts
+#EXTINF:-1,Penthouse HD 2
+http://france.tvsng.com:25461/live/test2017/test2017/505.ts
+#EXTINF:-1,Brazzers TV Europe
+http://france.tvsng.com:25461/live/test2017/test2017/517.ts
+#EXTINF:-1,Hustler HD Europe
+http://france.tvsng.com:25461/live/test2017/test2017/519.ts
