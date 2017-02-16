@@ -1,4 +1,313 @@
-﻿#EXTINF:-1,Мир
+﻿#EXTINF:0,RU: TV1000 Action
+http://live.softiptv.com:9900/live/jagdish/jagdish/6031.ts
+#EXTINF:0,RU: TV1000
+http://live.softiptv.com:9900/live/jagdish/jagdish/6032.ts
+#EXTINF:0,RU: RU.TV
+http://live.softiptv.com:9900/live/jagdish/jagdish/6033.ts
+#EXTINF:0,RU: Nat Geo Wild
+http://live.softiptv.com:9900/live/jagdish/jagdish/6034.ts
+#EXTINF:0,RU: Disney
+http://live.softiptv.com:9900/live/jagdish/jagdish/6035.ts
+#EXTINF:0,RU: Da Vinci Learning
+http://live.softiptv.com:9900/live/jagdish/jagdish/6036.ts
+#EXTINF:0,RU: 7
+http://live.softiptv.com:9900/live/jagdish/jagdish/6043.ts
+#EXTINF:0,RU: 6
+http://live.softiptv.com:9900/live/jagdish/jagdish/6042.ts
+#EXTINF:0,RU: 54
+http://live.softiptv.com:9900/live/jagdish/jagdish/6090.ts
+#EXTINF:0,RU: 53
+http://live.softiptv.com:9900/live/jagdish/jagdish/6089.ts
+#EXTINF:0,RU: 52
+http://live.softiptv.com:9900/live/jagdish/jagdish/6088.ts
+#EXTINF:0,RU: 51
+http://live.softiptv.com:9900/live/jagdish/jagdish/6087.ts
+#EXTINF:0,RU: 50
+http://live.softiptv.com:9900/live/jagdish/jagdish/6086.ts
+#EXTINF:0,RU: 5
+http://live.softiptv.com:9900/live/jagdish/jagdish/6041.ts
+#EXTINF:0,RU: 49
+http://live.softiptv.com:9900/live/jagdish/jagdish/6085.ts
+#EXTINF:0,RU: 48
+http://live.softiptv.com:9900/live/jagdish/jagdish/6084.ts
+#EXTINF:0,RU: 47
+http://live.softiptv.com:9900/live/jagdish/jagdish/6083.ts
+#EXTINF:0,RU: 46
+http://live.softiptv.com:9900/live/jagdish/jagdish/6082.ts
+#EXTINF:0,RU: 45
+http://live.softiptv.com:9900/live/jagdish/jagdish/6081.ts
+#EXTINF:0,RU: 44
+http://live.softiptv.com:9900/live/jagdish/jagdish/6080.ts
+#EXTINF:0,RU: 43
+http://live.softiptv.com:9900/live/jagdish/jagdish/6079.ts
+#EXTINF:0,RU: 42
+http://live.softiptv.com:9900/live/jagdish/jagdish/6078.ts
+#EXTINF:0,RU: 41
+http://live.softiptv.com:9900/live/jagdish/jagdish/6077.ts
+#EXTINF:0,RU: 40
+http://live.softiptv.com:9900/live/jagdish/jagdish/6076.ts
+#EXTINF:0,RU: 4
+http://live.softiptv.com:9900/live/jagdish/jagdish/6040.ts
+#EXTINF:0,RU: 39
+http://live.softiptv.com:9900/live/jagdish/jagdish/6075.ts
+#EXTINF:0,RU: 37
+http://live.softiptv.com:9900/live/jagdish/jagdish/6073.ts
+#EXTINF:0,RU: 36
+http://live.softiptv.com:9900/live/jagdish/jagdish/6072.ts
+#EXTINF:0,RU: 35
+http://live.softiptv.com:9900/live/jagdish/jagdish/6071.ts
+#EXTINF:0,RU: 34
+http://live.softiptv.com:9900/live/jagdish/jagdish/6070.ts
+#EXTINF:0,RU: 33
+http://live.softiptv.com:9900/live/jagdish/jagdish/6069.ts
+#EXTINF:-1,TV1000 Premium HD
+http://81.28.223.42:9999/udp/239.255.10.1:1234
+ #EXTINF:-1,TV1000 Megahit HD
+http://81.28.223.42:9999/udp/239.255.10.2:1234
+ #EXTINF:-1,TV1000 Comedy
+http://81.28.223.42:9999/udp/239.255.10.3:1234
+ #EXTINF:-1,Живая природа HD
+http://81.28.223.42:9999/udp/239.255.10.4:1234
+ #EXTINF:-1,Вместе РФ
+http://81.28.223.42:9999/udp/239.255.10.5:1234
+ #EXTINF:-1,Кино ТВ HD
+http://81.28.223.42:9999/udp/239.255.10.6:1234
+ #EXTINF:-1,Bridge TV Dance
+http://81.28.223.42:9999/udp/239.255.10.7:1234
+ #EXTINF:-1,Bridge TV classic
+http://81.28.223.42:9999/udp/239.255.10.8:1234
+ #EXTINF:-1,C Music HD
+http://81.28.223.42:9999/udp/239.255.10.9:1234
+ #EXTINF:-1,Матч ТВ HD
+http://81.28.223.42:9999/udp/239.255.10.10:1234
+ #EXTINF:-1,N/A HD
+http://81.28.223.42:9999/udp/239.255.10.11:1234
+ #EXTINF:-1,НСТ
+http://81.28.223.42:9999/udp/239.255.10.12:1234
+ #EXTINF:-1,Наука 2.0
+http://81.28.223.42:9999/udp/239.255.10.13:1234
+ #EXTINF:-1,Моя планета
+http://81.28.223.42:9999/udp/239.255.10.14:1234
+ #EXTINF:-1,TV-XXI
+http://81.28.223.42:9999/udp/239.255.10.15:1234
+ #EXTINF:-1,Бокс ТВ
+http://81.28.223.42:9999/udp/239.255.10.16:1234
+ #EXTINF:-1,Мама
+http://81.28.223.42:9999/udp/239.255.10.17:1234
+ #EXTINF:-1,Мир Белогорья
+http://81.28.223.42:9999/udp/239.255.10.18:1234
+ #EXTINF:-1,РБК
+http://81.28.223.42:9999/udp/239.255.10.19:1234
+ #EXTINF:-1,Soni Sci-Fi
+http://81.28.223.42:9999/udp/239.255.10.20:1234
+ #EXTINF:-1,Pro100
+http://81.28.223.42:9999/udp/239.255.10.21:1234
+ #EXTINF:-1,Animal Planet HD
+http://81.28.223.42:9999/udp/239.255.10.22:1234
+ #EXTINF:-1,Amedia Premium HD
+http://81.28.223.42:9999/udp/239.255.10.23:1234
+ #EXTINF:-1,Amedia1
+http://81.28.223.42:9999/udp/239.255.10.24:1234
+ #EXTINF:-1,N/A
+http://81.28.223.42:9999/udp/239.255.10.25:1234
+ #EXTINF:-1,Bridge TV
+http://81.28.223.42:9999/udp/239.255.10.26:1234
+ #EXTINF:-1,Первый HD
+http://81.28.223.42:9999/udp/239.255.10.27:1234
+ #EXTINF:-1,Россия 1 HD
+http://81.28.223.42:9999/udp/239.255.10.28:1234
+ #EXTINF:-1,Travel channel HD
+http://81.28.223.42:9999/udp/239.255.10.29:1234
+ #EXTINF:-1,ОТВ
+http://81.28.223.42:9999/udp/239.255.10.31:1234
+ #EXTINF:-1,Уютный
+http://81.28.223.42:9999/udp/239.255.10.32:1234
+ #EXTINF:-1,Discovery Sciense
+http://81.28.223.42:9999/udp/239.255.10.34:1234
+ #EXTINF:-1,Food
+http://81.28.223.42:9999/udp/239.255.10.35:1234
+ #EXTINF:-1,Sony HD
+http://81.28.223.42:9999/udp/239.255.10.37:1234
+ #EXTINF:-1,Авто 24
+http://81.28.223.42:9999/udp/239.255.10.38:1234
+ #EXTINF:-1,Наше ТВ
+http://81.28.223.42:9999/udp/239.255.10.40:1234
+ #EXTINF:-1,Первый
+http://81.28.223.42:9999/udp/239.255.17.1:1234
+ #EXTINF:-1,НТВ
+http://81.28.223.42:9999/udp/239.255.17.2:1234
+ #EXTINF:-1,Пятый канал
+http://81.28.223.42:9999/udp/239.255.17.3:1234
+ #EXTINF:-1,Карусель
+http://81.28.223.42:9999/udp/239.255.17.4:1234
+ #EXTINF:-1,ОТР
+http://81.28.223.42:9999/udp/239.255.17.5:1234
+ #EXTINF:-1,Матч ТВ
+http://81.28.223.42:9999/udp/239.255.17.6:1234
+ #EXTINF:-1,Россия К
+http://81.28.223.42:9999/udp/239.255.17.7:1234
+ #EXTINF:-1,ТВ Центр
+http://81.28.223.42:9999/udp/239.255.17.8:1234
+ #EXTINF:-1,Россия 1
+http://81.28.223.42:9999/udp/239.255.17.9:1234
+ #EXTINF:-1,Россия 24
+http://81.28.223.42:9999/udp/239.255.17.10:1234
+ #EXTINF:-1,Рен ТВ
+http://81.28.223.42:9999/udp/239.255.18.1:1234
+ #EXTINF:-1,Спас
+http://81.28.223.42:9999/udp/239.255.18.2:1234
+ #EXTINF:-1,СТС
+http://81.28.223.42:9999/udp/239.255.18.3:1234
+ #EXTINF:-1,Домашний
+http://81.28.223.42:9999/udp/239.255.18.4:1234
+ #EXTINF:-1,ТВ-3
+http://81.28.223.42:9999/udp/239.255.18.5:1234
+ #EXTINF:-1,Пятница
+http://81.28.223.42:9999/udp/239.255.18.6:1234
+ #EXTINF:-1,Звезда
+http://81.28.223.42:9999/udp/239.255.18.7:1234
+ #EXTINF:-1,Мир
+http://81.28.223.42:9999/udp/239.255.18.8:1234
+ #EXTINF:-1,ТНТ
+http://81.28.223.42:9999/udp/239.255.18.9:1234
+ #EXTINF:-1,Муз ТВ
+http://81.28.223.42:9999/udp/239.255.18.10:1234
+ #EXTINF:-1,ТРО
+http://81.28.223.42:9999/udp/239.255.4.7:1234
+ #EXTINF:-1,Канал Disney
+http://81.28.223.42:9999/udp/239.255.11.1:1234
+ #EXTINF:-1,N/A
+http://81.28.223.42:9999/udp/239.255.11.3:1234
+ #EXTINF:-1,8 канал
+http://81.28.223.42:9999/udp/239.255.11.4:1234
+ #EXTINF:-1,Наш Футбол
+http://81.28.223.42:9999/udp/239.255.11.5:1234
+ #EXTINF:-1,Че
+http://81.28.223.42:9999/udp/239.255.11.6:1234
+ #EXTINF:-1,ТНТ4
+http://81.28.223.42:9999/udp/239.255.11.7:1234
+ #EXTINF:-1,Раз ТВ
+http://81.28.223.42:9999/udp/239.255.11.8:1234
+ #EXTINF:-1,CTC Love
+http://81.28.223.42:9999/udp/239.255.11.9:1234
+ #EXTINF:-1,Евроновости
+http://81.28.223.42:9999/udp/239.255.11.11:1234
+ #EXTINF:-1,Eurosport
+http://81.28.223.42:9999/udp/239.255.11.12:1234
+ #EXTINF:-1,Eurosport 2
+http://81.28.223.42:9999/udp/239.255.11.13:1234
+ #EXTINF:-1,Ru TV
+http://81.28.223.42:9999/udp/239.255.11.14:1234
+ #EXTINF:-1,Amedia 2
+http://81.28.223.42:9999/udp/239.255.11.18:1234
+ #EXTINF:-1,РТВ-Наше любимое
+http://81.28.223.42:9999/udp/239.255.11.20:1234
+ #EXTINF:-1,Life
+http://81.28.223.42:9999/udp/239.255.11.23:1234
+ #EXTINF:-1,Paramount channel
+http://81.28.223.42:9999/udp/239.255.11.25:1234
+ #EXTINF:-1,N/A
+http://81.28.223.42:9999/udp/239.255.11.27:1234
+ #EXTINF:-1,Discovery channel
+http://81.28.223.42:9999/udp/239.255.11.28:1234
+ #EXTINF:-1,Animal planet
+http://81.28.223.42:9999/udp/239.255.11.29:1234
+ #EXTINF:-1,TLC
+http://81.28.223.42:9999/udp/239.255.11.30:1234
+ #EXTINF:-1,Da vinci
+http://81.28.223.42:9999/udp/239.255.12.1:1234
+ #EXTINF:-1,TV1000 Русское кино
+http://81.28.223.42:9999/udp/239.255.12.2:1234
+ #EXTINF:-1,TV1000 Action
+http://81.28.223.42:9999/udp/239.255.12.3:1234
+ #EXTINF:-1,TV1000
+http://81.28.223.42:9999/udp/239.255.12.4:1234
+ #EXTINF:-1,Viasat Explore
+http://81.28.223.42:9999/udp/239.255.12.5:1234
+ #EXTINF:-1,Viasat History
+http://81.28.223.42:9999/udp/239.255.12.6:1234
+ #EXTINF:-1,Viasat Nature
+http://81.28.223.42:9999/udp/239.255.12.7:1234
+ #EXTINF:-1,Viasat Sport
+http://81.28.223.42:9999/udp/239.255.12.8:1234
+ #EXTINF:-1,КХЛ HD
+http://81.28.223.42:9999/udp/239.255.12.9:1234
+ #EXTINF:-1,Luxure world
+http://81.28.223.42:9999/udp/239.255.12.11:1234
+ #EXTINF:-1,Уютный
+http://81.28.223.42:9999/udp/239.255.12.12:1234
+ #EXTINF:-1,Загородная жизнь
+http://81.28.223.42:9999/udp/239.255.12.13:1234
+ #EXTINF:-1,Царьград
+http://81.28.223.42:9999/udp/239.255.14.1:1234
+ #EXTINF:-1,Мультимания
+http://81.28.223.42:9999/udp/239.255.14.2:1234
+ #EXTINF:-1,Мульт
+http://81.28.223.42:9999/udp/239.255.14.3:1234
+ #EXTINF:-1,Мир 24
+http://81.28.223.42:9999/udp/239.255.14.4:1234
+ #EXTINF:-1,Рубль
+http://81.28.223.42:9999/udp/239.255.14.5:1234
+ #EXTINF:-1,ТДК
+http://81.28.223.42:9999/udp/239.255.14.6:1234
+ #EXTINF:-1,Galaxy
+http://81.28.223.42:9999/udp/239.255.14.7:1234
+ #EXTINF:-1,ТНТ Music
+http://81.28.223.42:9999/udp/239.255.14.8:1234
+ #EXTINF:-1,24 Док
+http://81.28.223.42:9999/udp/239.255.14.9:1234
+ #EXTINF:-1,Открытый мир
+http://81.28.223.42:9999/udp/239.255.14.10:1234
+
+#EXTINF:0,RU: 31
+http://live.softiptv.com:9900/live/jagdish/jagdish/6067.ts
+#EXTINF:0,RU: 30
+http://live.softiptv.com:9900/live/jagdish/jagdish/6066.ts
+#EXTINF:0,RU: 3
+http://live.softiptv.com:9900/live/jagdish/jagdish/6039.ts
+#EXTINF:0,RU: 29
+http://live.softiptv.com:9900/live/jagdish/jagdish/6065.ts
+#EXTINF:0,RU: 28
+http://live.softiptv.com:9900/live/jagdish/jagdish/6064.ts
+#EXTINF:0,RU: 27
+http://live.softiptv.com:9900/live/jagdish/jagdish/6063.ts
+#EXTINF:0,RU: 26
+http://live.softiptv.com:9900/live/jagdish/jagdish/6062.ts
+#EXTINF:0,RU: 25
+http://live.softiptv.com:9900/live/jagdish/jagdish/6061.ts
+#EXTINF:0,RU: 23
+http://live.softiptv.com:9900/live/jagdish/jagdish/6059.ts
+#EXTINF:0,RU: 22
+http://live.softiptv.com:9900/live/jagdish/jagdish/6058.ts
+#EXTINF:0,RU: 21
+http://live.softiptv.com:9900/live/jagdish/jagdish/6057.ts
+#EXTINF:0,RU: 20
+http://live.softiptv.com:9900/live/jagdish/jagdish/6056.ts
+#EXTINF:0,RU: 2
+http://live.softiptv.com:9900/live/jagdish/jagdish/6038.ts
+#EXTINF:0,RU: 19
+http://live.softiptv.com:9900/live/jagdish/jagdish/6055.ts
+#EXTINF:0,RU: 18
+http://live.softiptv.com:9900/live/jagdish/jagdish/6054.ts
+#EXTINF:0,RU: 17
+http://live.softiptv.com:9900/live/jagdish/jagdish/6053.ts
+#EXTINF:0,RU: 16
+http://live.softiptv.com:9900/live/jagdish/jagdish/6052.ts
+#EXTINF:0,RU: 15
+http://live.softiptv.com:9900/live/jagdish/jagdish/6051.ts
+#EXTINF:0,RU: 14
+http://live.softiptv.com:9900/live/jagdish/jagdish/6050.ts
+#EXTINF:0,RU: 13
+http://live.softiptv.com:9900/live/jagdish/jagdish/6049.ts
+#EXTINF:0,RU: 11
+http://live.softiptv.com:9900/live/jagdish/jagdish/6047.ts
+#EXTINF:0,RU: 10
+http://live.softiptv.com:9900/live/jagdish/jagdish/6046.ts
+#EXTINF:0,RU: 1
+http://live.softiptv.com:9900/live/jagdish/jagdish/6037.ts
+#EXTINF:0,RU:
+http://live.softiptv.com:9900/live/jagdish/jagdish/6030.ts
+#EXTINF:-1,Мир
 http://188.168.244.83:34040/udp/226.100.10.31:2000
 #EXTINF:-1,Первый канал
 http://188.168.244.83:34040/udp/226.100.10.42:2000
