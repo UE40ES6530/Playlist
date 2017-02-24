@@ -1,759 +1,887 @@
 ﻿#EXTM3U
-#EXTINF:-1,24Kitchen
+#EXTINF:0,24 KITCHEN
 http://130.185.232.87:1234/24Kitchen.m3u8
-#EXTINF:-1,bTV
+#EXTINF:0,BTV
 http://130.185.232.87:1234/bTV.m3u8
-#EXTINF:-1,bTVLady
+#EXTINF:0,BTV LADY
 http://130.185.232.87:1234/bTVLady.m3u8
-#EXTINF:-1,BGMusicCn
+#EXTINF:0,BG MUSIC
 http://130.185.232.87:1234/BGMusicCn.m3u8
-#EXTINF:-1,Diema
+#EXTINF:0,DIEMA
 http://130.185.232.87:1234/Diema.m3u8
-#EXTINF:-1,Eurosport
+#EXTINF:0,EUROSPORT
 http://130.185.232.87:1234/Eurosport.m3u8
-#EXTINF:-1,Eurosport2
+#EXTINF:0,EUROSPORT 2
 http://130.185.232.87:1234/Eurosport2.m3u8
-#EXTINF:-1,FOX
+#EXTINF:0,FOX
 http://130.185.232.87:1234/FOX.m3u8
-#EXTINF:-1,KinoNova
+#EXTINF:0,KINO NOVA
 http://130.185.232.87:1234/KinoNova.m3u8
-#EXTINF:-1,Nova
+#EXTINF:0,NOVA
 http://130.185.232.87:1234/Nova.m3u8
-#EXTINF:-1,bTVCinema_base
+#EXTINF:0,BTV CINEMA
 http://130.185.232.88:8181/bTVCinema_base.m3u8
-#EXTINF:-1,CityTV_base
+#EXTINF:0,CITY TV
 http://130.185.232.88:8181/CityTV_base.m3u8
-#EXTINF:-1,News7_base
+#EXTINF:0,NEWS 7
 http://130.185.232.88:8181/News7_base.m3u8
-#EXTINF:-1,RingBG_base
+#EXTINF:0,RING
 http://130.185.232.88:8181/RingBG_base.m3u8
-#EXTINF:-1,TV7_base
+#EXTINF:0,TV 7
 http://130.185.232.88:8181/TV7_base.m3u8
-#EXTINF:-1,TVEvropa_base
+#EXTINF:0,TV EUROPA
 http://130.185.232.88:8181/TVEvropa_base.m3u8
-#EXTINF:-1,NovaSport
+#EXTINF:0,NOVA SPORT
 http://130.185.232.89:1234/NovaSport.m3u8
-#EXTINF:-1,bTVComedy
+#EXTINF:0,BTV COMEDY
 http://130.185.232.89:1234/bTVComedy.m3u8
-#EXTINF:-1,FoxCrime
+#EXTINF:0,FOX CRIME
 http://130.185.232.89:1234/FoxCrime.m3u8
-#EXTINF:-1,FoxLife
+#EXTINF:0,FOX LIFE
 http://130.185.232.89:1234/FoxLife.m3u8
-#EXTINF:-1,PlanetaF
+#EXTINF:0,PLANETA
 http://130.185.232.89:1234/PlanetaF.m3u8
-#EXTINF:-1,Super7
+#EXTINF:0,SUPER 7
 http://130.185.232.89:1234/Super7.m3u8
-#EXTINF:-1,BNT1
+#EXTINF:0,BNT 1
 http://130.185.232.90:1234/BNT1.m3u8
-#EXTINF:-1,BNT2
+#EXTINF:0,BNT 2
 http://130.185.232.90:1234/BNT2.m3u8
-#EXTINF:-1,bTVAction
+#EXTINF:0,BTV ACTION
 http://130.185.232.90:1234/bTVAction.m3u8
-#EXTINF:-1,DiemaF
+#EXTINF:0,DIEMA
 http://130.185.232.90:1234/DiemaF.m3u8
-#EXTINF:-1,Diva
+#EXTINF:0,DIVA
 http://130.185.232.90:1234/Diva.m3u8
-#EXTINF:-1,Planeta
+#EXTINF:0,PLANETA
 http://130.185.232.90:1234/Planeta.m3u8
-#EXTINF:-1,TLC
+#EXTINF:0,TLC
 http://130.185.232.91:1234/TLC.m3u8
-#EXTINF:-1,AnimalP
+#EXTINF:0,ANIMAL PLANET
 http://130.185.232.91:1234/AnimalP.m3u8
-#EXTINF:-1,Balkanika
+#EXTINF:0,BALKANIKA
 http://130.185.232.91:1234/Balkanika.m3u8
-#EXTINF:-1,CN
+#EXTINF:0,CARTOON NETWORK
 http://130.185.232.91:1234/CN.m3u8
-#EXTINF:-1,Discovery
+#EXTINF:0,DISCOVERY
 http://130.185.232.91:1234/Discovery.m3u8
-#EXTINF:-1,NatGeo
+#EXTINF:0,NATGEO
 http://130.185.232.91:1234/NatGeo.m3u8
-#EXTINF:-1,SportPlus
+#EXTINF:0,SPORT PLUS
 http://130.185.232.92:1234/SportPlus.m3u8
-#EXTINF:-1,DiemaSp
+#EXTINF:0,DIEMA SPORT
 http://130.185.232.92:1234/DiemaSp.m3u8
-#EXTINF:-1,DiemaSp2
+#EXTINF:0,DIEMA SPORT 2
 http://130.185.232.92:1234/DiemaSp2.m3u8
-#EXTINF:-1,Disney
+#EXTINF:0,DISNEY
 http://130.185.232.92:1234/Disney.m3u8
-#EXTINF:-1,DMSat
+#EXTINF:0,DM SAT
 http://130.185.232.92:1234/DMSat.m3u8
-#EXTINF:-1,FilmPlus
+#EXTINF:0,FILM PLUS
 http://130.185.232.92:1234/FilmPlus.m3u8
-#EXTINF:-1,FolklorTV
+#EXTINF:0,FOLKLOR TV
 http://130.185.232.92:1234/FolklorTV.m3u8
-#EXTINF:-1,HobbyTV
+#EXTINF:0,HOBBY TV
 http://130.185.232.92:1234/HobbyTV.m3u8
-#EXTINF:-1,TravelTV
+#EXTINF:0,TRAVEL TV
 http://130.185.232.92:1234/TravelTV.m3u8
-#EXTINF:-1,TVPlus
+#EXTINF:0,TV PLUS
 http://130.185.232.92:1234/TVPlus.m3u8
-#EXTINF:-1,History
+#EXTINF:0,HISTORY
 http://130.185.232.92:1234/History.m3u8
-#EXTINF:-1,РБК
-http://37.192.213.178:81/udp/239.1.1.2:1234
-#EXTINF:-1,Мир 24
-http://37.192.213.178:81/udp/239.1.1.3:1234
-#EXTINF:-1,EuroNews
-http://37.192.213.178:81/udp/239.1.1.5:1234
-#EXTINF:-1,LifeNews
-http://37.192.213.178:81/udp/239.1.1.7:1234
-#EXTINF:-1,Страна
-http://37.192.213.178:81/udp/239.1.1.9:1234
-#EXTINF:-1,2x2
-http://37.192.213.178:81/udp/239.1.2.1:1234
-#EXTINF:-1,Успех
-http://37.192.213.178:81/udp/239.1.2.3:1234
-#EXTINF:-1,WBC
-http://37.192.213.178:81/udp/239.1.2.2:1234
-#EXTINF:-1,Драйв
-http://37.192.213.178:81/udp/239.1.2.4:1234
-#EXTINF:-1,Охота и рыбалка
-http://37.192.213.178:81/udp/239.1.2.5:1234
-#EXTINF:-1,Авто Плюс
-http://37.192.213.178:81/udp/239.1.2.6:1234
-#EXTINF:-1,Оружие
-http://37.192.213.178:81/udp/239.1.2.7:1234
-#EXTINF:-1,Investigation Discovery
-http://37.192.213.178:81/udp/239.1.2.8:1234
-#EXTINF:-1,Психология21
-http://37.192.213.178:81/udp/239.1.2.9:1234
-#EXTINF:-1,Сарафан
-http://37.192.213.178:81/udp/239.1.2.11:1234
-#EXTINF:-1,Живи
-http://37.192.213.178:81/udp/239.1.2.12:1234
-#EXTINF:-1,Кухня ТВ
-http://37.192.213.178:81/udp/239.1.2.15:1234
-#EXTINF:-1,тнт 4
-http://37.192.213.178:81/udp/239.1.2.16:1234
-#EXTINF:-1,Усадьба
-http://37.192.213.178:81/udp/239.1.2.17:1234
-#EXTINF:-1,бабер
-http://37.192.213.178:81/udp/239.1.2.18:1234
-#EXTINF:-1,телекафе
-http://37.192.213.178:81/udp/239.1.2.19:1234
-#EXTINF:-1,МУЛЬТ
-http://37.192.213.178:81/udp/239.1.3.1:1234
-#EXTINF:-1,Jim Jam
-http://37.192.213.178:81/udp/239.1.3.2:1234
-#EXTINF:-1,Cartoon Network
-http://37.192.213.178:81/udp/239.1.3.3:1234
-#EXTINF:-1,Nickelodeon
-http://37.192.213.178:81/udp/239.1.3.4:1234
-#EXTINF:-1,Детский
-http://37.192.213.178:81/udp/239.1.3.5:1234
-#EXTINF:-1,TiJi
-http://37.192.213.178:81/udp/239.1.3.6:1234
-#EXTINF:-1,Детский мир
-http://37.192.213.178:81/udp/239.1.3.7:1234
-#EXTINF:-1,CTC Love
-http://37.192.213.178:81/udp/239.1.3.8:1234
-#EXTINF:-1,Fox Life
-http://37.192.213.178:81/udp/239.1.3.11:1234
-#EXTINF:-1,Fashion TV
-http://37.192.213.178:81/udp/239.1.3.13:1234
-#EXTINF:-1,Индия ТВ
-http://37.192.213.178:81/udp/239.1.3.15:1234
-#EXTINF:-1,Мама
-http://37.192.213.178:81/udp/239.1.3.14:1234
-#EXTINF:-1,TLC
-http://37.192.213.178:81/udp/239.1.3.16:1234
-#EXTINF:-1,Русский роман
-http://37.192.213.178:81/udp/239.1.3.17:1234
-#EXTINF:-1,TVXXI
-http://37.192.213.178:81/udp/239.1.4.1:1234
-#EXTINF:-1,Русский бестселлер
-http://37.192.213.178:81/udp/239.1.4.2:1234
-#EXTINF:-1,Комедия ТВ
-http://37.192.213.178:81/udp/239.1.4.3:1234
-#EXTINF:-1,Fox
-http://37.192.213.178:81/udp/239.1.4.5:1234
-#EXTINF:-1,SONY TВ
-http://37.192.213.178:81/udp/239.1.4.6:1234
-#EXTINF:-1,Amedia 1
-http://37.192.213.178:81/udp/239.1.4.4:1234
-#EXTINF:-1,Дом Кино
-http://37.192.213.178:81/udp/239.1.4.8:1234
-#EXTINF:-1,Sony Sci-Fi
-http://37.192.213.178:81/udp/239.1.4.7:1234
-#EXTINF:-1,Русский иллюзион
-http://37.192.213.178:81/udp/239.1.4.11:1234
-#EXTINF:-1,Настоящее страшное Телевидение
-http://37.192.213.178:81/udp/239.1.4.15:1234
-#EXTINF:-1,Русский детектив
-http://37.192.213.178:81/udp/239.1.4.16:1234
-#EXTINF:-1,Discovery
-http://37.192.213.178:81/udp/239.1.5.1:1234
-#EXTINF:-1,DTX
-http://37.192.213.178:81/udp/239.1.5.2:1234
-#EXTINF:-1,Animal Planet
-http://37.192.213.178:81/udp/239.1.5.3:1234
-#EXTINF:-1,.....
-http://37.192.213.178:81/udp/239.1.5.4:1234
-#EXTINF:-1,Da Vinci
-http://37.192.213.178:81/udp/239.1.5.6:1234
-#EXTINF:-1,Travel Adventure
-http://37.192.213.178:81/udp/239.1.5.7:1234
-#EXTINF:-1,National Geographic
-http://37.192.213.178:81/udp/239.1.5.8:1234
-#EXTINF:-1,Discovery Science
-http://37.192.213.178:81/udp/239.1.5.9:1234
-#EXTINF:-1,Техно-24
-http://37.192.213.178:81/udp/239.1.5.10:1234
-#EXTINF:-1,Первый образовательный
-http://37.192.213.178:81/udp/239.1.5.11:1234
-#EXTINF:-1,Russian Travel Guide
-http://37.192.213.178:81/udp/239.1.5.13:1234
-#EXTINF:-1,Nat Geo Wild
-http://37.192.213.178:81/udp/239.1.5.16:1234
-#EXTINF:-1,Моя планета
-http://37.192.213.178:81/udp/239.1.5.17:1234
-#EXTINF:-1,Наука 2.0
-http://37.192.213.178:81/udp/239.1.5.18:1234
-#EXTINF:-1,365 Дней
-http://37.192.213.178:81/udp/239.1.5.20:1234
-#EXTINF:-1,История
-http://37.192.213.178:81/udp/239.1.5.21:1234
-#EXTINF:-1,Мир Увлечений
-http://37.192.213.178:81/udp/239.1.5.22:1234
-#EXTINF:-1,Живая Планета
-http://37.192.213.178:81/udp/239.1.5.23:1234
-#EXTINF:-1,Открытый Мир
-http://37.192.213.178:81/udp/239.1.5.24:1234
-#EXTINF:-1,ТНТ MUSIC
-http://37.192.213.178:81/udp/239.1.8.2:1234
-#EXTINF:-1,
-http://37.192.213.178:81/udp/239.1.8.4:1234
-#EXTINF:-1,Music Box TV
-http://37.192.213.178:81/udp/239.1.8.6:1234
-#EXTINF:-1,Music Box RU
-http://37.192.213.178:81/udp/239.1.8.5:1234
-#EXTINF:-1,Bridge TV
-http://37.192.213.178:81/udp/239.1.8.8:1234
-#EXTINF:-1,VH1 Classic
-http://37.192.213.178:81/udp/239.1.8.7:1234
-#EXTINF:-1,Europa Plus TV
-http://37.192.213.178:81/udp/239.1.8.10:1234
-#EXTINF:-1,Шансон ТВ
-http://37.192.213.178:81/udp/239.1.8.12:1234
-#EXTINF:-1,Rusong TV
-http://37.192.213.178:81/udp/239.1.8.14:1234
-#EXTINF:-1,Ля-минор
-http://37.192.213.178:81/udp/239.1.8.13:1234
-#EXTINF:-1,MTV Dance
-http://37.192.213.178:81/udp/239.1.8.15:1234
-#EXTINF:-1,DANGE TV
-http://37.192.213.178:81/udp/239.1.8.17:1234
-#EXTINF:-1,HD Life
-http://37.192.213.178:81/udp/239.1.9.2:1234
-#EXTINF:-1,Russia Today HD
-http://37.192.213.178:81/udp/239.1.9.4:1234
-#EXTINF:-1,Fox Life HD
-http://37.192.213.178:81/udp/239.1.9.3:1234
-#EXTINF:-1,Russia Today Doc HD
-http://37.192.213.178:81/udp/239.1.9.5:1234
-#EXTINF:-1,сибирь HD
-http://37.192.213.178:81/udp/239.1.9.7:1234
-#EXTINF:-1,OneHD
-http://37.192.213.178:81/udp/239.1.9.6:1234
-#EXTINF:-1,Mezzo Live HD
-http://37.192.213.178:81/udp/239.1.10.1:1234
-#EXTINF:-1,Пятый
-http://37.192.213.178:81/udp/239.1.10.3:1234
-#EXTINF:-1,ТВ-3
-http://37.192.213.178:81/udp/239.1.10.4:1234
-#EXTINF:-1,domashny
-http://37.192.213.178:81/udp/239.1.10.5:1234
-#EXTINF:-1,ОТС
-http://37.192.213.178:81/udp/239.1.10.6:1234
-#EXTINF:-1,Россия К
-http://37.192.213.178:81/udp/239.1.10.7:1234
-#EXTINF:-1,49kanal
-http://37.192.213.178:81/udp/239.1.10.8:1234
-#EXTINF:-1,N/A
-http://37.192.213.178:81/udp/239.1.10.21:1234
-#EXTINF:-1,Россия HD
-http://37.192.213.178:81/udp/239.1.10.22:1234
-#EXTINF:-1,Eurosport 1 HD
-http://37.192.213.178:81/udp/239.1.11.6:1234
-#EXTINF:-1,Eurosport 1
-http://37.192.213.178:81/udp/239.1.12.3:1234
-#EXTINF:-1,Eurosport 2
-http://37.192.213.178:81/udp/239.1.12.4:1234
-#EXTINF:-1,Футбол
-http://37.192.213.178:81/udp/239.1.12.5:1234
-#EXTINF:-1,КХЛ
-http://37.192.213.178:81/udp/239.1.12.6:1234
-#EXTINF:-1,Матч! Арена
-http://37.192.213.178:81/udp/239.1.12.7:1234
-#EXTINF:-1,Матч! Боец
-http://37.192.213.178:81/udp/239.1.12.9:1234
-#EXTINF:-1,Extreme Sports
-http://37.192.213.178:81/udp/239.1.12.11:1234
-#EXTINF:-1,Матч! Игра
-http://37.192.213.178:81/udp/239.1.12.10:1234
-#EXTINF:-1,Матч! Наш Спорт
-http://37.192.213.178:81/udp/239.1.12.12:1234
-#EXTINF:-1,1kanal
-http://37.192.213.178:81/udp/239.1.15.1:1234
-#EXTINF:-1,Россия 1
-http://37.192.213.178:81/udp/239.1.15.2:1234
-#EXTINF:-1,Россия 24
-http://37.192.213.178:81/udp/239.1.15.3:1234
-#EXTINF:-1,НТВ
-http://37.192.213.178:81/udp/239.1.15.4:1234
-#EXTINF:-1,РЕН-ТВ
-http://37.192.213.178:81/udp/239.1.15.5:1234
 #EXTINF:-1,СТС
-http://37.192.213.178:81/udp/239.1.15.6:1234
-#EXTINF:-1,ОТР
-http://37.192.213.178:81/udp/239.1.15.8:1234
-#EXTINF:-1,ТНТ
-http://37.192.213.178:81/udp/239.1.15.7:1234
-#EXTINF:-1,Звезда
-http://37.192.213.178:81/udp/239.1.15.9:1234
+http://5.138.52.187:4022/udp/224.1.2.3:6000
+#EXTINF:-1,ТНТ СИФ (Кисловодск)
+http://5.138.52.187:4022/udp/224.1.2.4:6000
+#EXTINF:-1,THT
+http://5.138.52.187:4022/udp/224.1.2.6:6000
+#EXTINF:-1,СТС
+http://5.138.52.187:4022/udp/224.1.2.7:6000
+#EXTINF:-1,Домашний / КМВ
+http://5.138.52.187:4022/udp/224.1.2.8:6000
+#EXTINF:-1,26 Регион
+http://5.138.52.187:4022/udp/224.1.2.10:6000
+#EXTINF:-1,Первый канал
+http://5.138.52.187:4022/udp/224.1.2.12:6000
+#EXTINF:-1,АТВ-Ставрополь
+http://5.138.52.187:4022/udp/224.1.2.11:6000
+#EXTINF:-1,Россия 1 / ГТРК Ставрополь
+http://5.138.52.187:4022/udp/224.1.2.13:6000
+#EXTINF:-1,НТВ
+http://5.138.52.187:4022/udp/224.1.2.14:6000
+#EXTINF:-1,Россия 24
+http://5.138.52.187:4022/udp/224.1.2.15:6000
+#EXTINF:-1,СТВ-Плюс-HD
+http://5.138.52.187:4022/udp/224.1.2.16:6000
+#EXTINF:-1,АТВ-Ставрополь
+http://5.138.52.187:4022/udp/224.1.2.17:6000
+#EXTINF:-1,РЕН ТВ
+http://5.138.52.187:4022/udp/224.1.2.18:6000
+#EXTINF:-1,Россия К
+http://5.138.52.187:4022/udp/224.1.2.20:6000
+#EXTINF:-1,Первый-СО
+http://5.138.52.187:4022/udp/224.1.1.1:6000
+#EXTINF:-1,Discovery Channel
+http://5.138.52.187:4022/udp/224.1.1.2:6000
+#EXTINF:-1,Матч-СО
+http://5.138.52.187:4022/udp/224.1.1.3:6000
+#EXTINF:-1,Россия 24 / ГТРК Алания
+http://5.138.52.187:4022/udp/224.1.1.4:6000
+#EXTINF:-1,НТВ-СО
+http://5.138.52.187:4022/udp/224.1.1.6:6000
 #EXTINF:-1,ТВЦ
-http://37.192.213.178:81/udp/239.1.15.10:1234
-#EXTINF:-1,Карусель
-http://37.192.213.178:81/udp/239.1.15.11:1234
-#EXTINF:-1,disney
-http://37.192.213.178:81/udp/239.1.15.12:1234
-#EXTINF:-1,Муз ТВ
-http://37.192.213.178:81/udp/239.1.15.13:1234
-#EXTINF:-1,Матч ТВ
-http://37.192.213.178:81/udp/239.1.15.16:1234
-#EXTINF:-1,Че
-http://37.192.213.178:81/udp/239.1.15.14:1234
-#EXTINF:-1,Пятница
-http://37.192.213.178:81/udp/239.1.15.17:1234
-#EXTINF:-1,ЮТВ
-http://37.192.213.178:81/udp/239.1.15.18:1234
+http://5.138.52.187:4022/udp/224.1.1.7:6000
+#EXTINF:-1,Краснодар 24
+http://5.138.52.187:4022/udp/224.1.1.8:6000
+#EXTINF:-1,Первый
+http://5.138.52.187:4022/udp/224.1.1.9:6000
+#EXTINF:-1,СТС
+http://5.138.52.187:4022/udp/224.1.1.10:6000
+#EXTINF:-1,Кубань 24
+http://5.138.52.187:4022/udp/224.1.1.11:6000
+#EXTINF:-1,Россия 1 / ГТРК Кубань
+http://5.138.52.187:4022/udp/224.1.1.12:6000
+#EXTINF:-1,ТВ_Центр_+0
+http://5.138.52.187:4022/udp/224.1.1.14:6000
+#EXTINF:-1,Eurosport2
+http://5.138.52.187:4022/udp/224.1.1.15:6000
+#EXTINF:-1,MCM Top
+http://5.138.52.187:4022/udp/224.1.1.16:6000
+#EXTINF:-1,MUSIC BOX RU
+http://5.138.52.187:4022/udp/224.1.1.17:6000
+#EXTINF:-1,RUTV
+http://5.138.52.187:4022/udp/224.1.1.18:6000
+#EXTINF:-1,Sony SCi Fi
+http://5.138.52.187:4022/udp/224.1.1.19:6000
+#EXTINF:-1,Bober
+http://5.138.52.187:4022/udp/224.1.1.20:6000
+#EXTINF:-1,Bridge-TV
+http://5.138.52.187:4022/udp/224.1.1.21:6000
+#EXTINF:-1,Россия 1 / ГТРК Алания
+http://5.138.52.187:4022/udp/224.1.1.22:6000
+#EXTINF:-1,Detsky
+http://5.138.52.187:4022/udp/224.1.1.23:6000
+#EXTINF:-1,ТДК
+http://5.138.52.187:4022/udp/224.1.1.24:6000
+#EXTINF:-1,Детский мир
+http://5.138.52.187:4022/udp/224.1.1.25:6000
+#EXTINF:-1,РБК
+http://5.138.52.187:4022/udp/224.1.1.26:6000
+#EXTINF:-1,Life News
+http://5.138.52.187:4022/udp/224.1.1.27:6000
+#EXTINF:-1,Конференция ТВ
+http://5.138.52.187:4022/udp/224.1.1.28:6000
+#EXTINF:-1,Муз
+http://5.138.52.187:4022/udp/224.1.1.29:6000
+#EXTINF:-1,МСМ ТОР
+http://5.138.52.187:4022/udp/224.1.1.30:6000
+#EXTINF:-1,Иллюзион +
+http://5.138.52.187:4022/udp/224.1.1.31:6000
+#EXTINF:-1,Русский иллюзион
+http://5.138.52.187:4022/udp/224.1.1.32:6000
+#EXTINF:-1,DRM
+http://5.138.52.187:4022/udp/224.1.1.33:6000
+#EXTINF:-1,Петербург5Канала-СО
+http://5.138.52.187:4022/udp/224.1.1.34:6000
+#EXTINF:-1,Шансон
+http://5.138.52.187:4022/udp/224.1.1.35:6000
+#EXTINF:-1,Fashion TV
+http://5.138.52.187:4022/udp/224.1.1.36:6000
+#EXTINF:-1,РоссияК-СО
+http://5.138.52.187:4022/udp/224.1.1.38:6000
+#EXTINF:-1,Брио
+http://5.138.52.187:4022/udp/224.1.1.39:6000
+#EXTINF:-1,TV1000
+http://5.138.52.187:4022/udp/224.1.1.40:6000
+#EXTINF:-1,Viasat Explore
+http://5.138.52.187:4022/udp/224.1.1.41:6000
+#EXTINF:-1,Viasat Histiry
+http://5.138.52.187:4022/udp/224.1.1.42:6000
+#EXTINF:-1,MCM Top
+http://5.138.52.187:4022/udp/224.1.1.43:6000
+#EXTINF:-1,MTV
+http://5.138.52.187:4022/udp/224.1.1.44:6000
+#EXTINF:-1,Боец
+http://5.138.52.187:4022/udp/224.1.1.45:6000
+#EXTINF:-1,Viasat Sport
+http://5.138.52.187:4022/udp/224.1.1.46:6000
+#EXTINF:-1,Наш футбол
+http://5.138.52.187:4022/udp/224.1.1.47:6000
+#EXTINF:-1,RT
+http://5.138.52.187:4022/udp/224.1.1.48:6000
+#EXTINF:-1,Матч_Игра_HD
+http://5.138.52.187:4022/udp/224.1.1.49:6000
+#EXTINF:-1,Звезда
+http://5.138.52.187:4022/udp/224.1.1.51:6000
+#EXTINF:-1,Россия 24
+http://5.138.52.187:4022/udp/224.1.1.52:6000
+#EXTINF:-1,5-Kanal-Peterburg
+http://5.138.52.187:4022/udp/224.1.1.53:6000
+#EXTINF:-1,XXI
+http://5.138.52.187:4022/udp/224.1.1.54:6000
+#EXTINF:-1,DRM
+http://5.138.52.187:4022/udp/224.1.1.55:6000
+#EXTINF:-1,DRM
+http://5.138.52.187:4022/udp/224.1.1.56:6000
+#EXTINF:-1,Кино ТВ
+http://5.138.52.187:4022/udp/224.1.1.57:6000
+#EXTINF:-1,Авто плюс
+http://5.138.52.187:4022/udp/224.1.1.58:6000
 #EXTINF:-1,Союз
-http://37.192.213.178:81/udp/239.1.15.19:1234
-#EXTINF:-1,1 канал HD
-http://37.192.213.178:81/udp/239.1.15.20:1234
-#EXTINF:-1,8 Канал
-http://37.192.213.178:81/udp/239.1.15.21:1234
+http://5.138.52.187:4022/udp/224.1.1.59:6000
 #EXTINF:-1,Спас
-http://37.192.213.178:81/udp/239.1.15.22:1234
-#EXTINF:-1,матч HD
-http://37.192.213.178:81/udp/239.1.15.23:1234
-#EXTINF:-1,Мир
-http://37.192.213.178:81/udp/239.1.15.31:1234
-#EXTINF:-1,**** Adult XXX ****
-http://185.2.82.147:25461/live/izudin/izudin/202.ts
-#EXTINF:-1,Dorcel Tv
-http://185.2.82.147:25461/live/izudin/izudin/737.ts
-#EXTINF:-1,Hot Club 1
-http://185.2.82.147:25461/live/izudin/izudin/738.ts
+http://5.138.52.187:4022/udp/224.1.1.60:6000
+#EXTINF:-1,Русская ночь
+http://5.138.52.187:4022/udp/224.1.1.61:6000
+#EXTINF:-1,MUSIC BOX RU
+http://5.138.52.187:4022/udp/224.1.1.62:6000
+#EXTINF:-1,DRM
+http://5.138.52.187:4022/udp/224.1.1.63:6000
+#EXTINF:-1,Юмор TV
+http://5.138.52.187:4022/udp/224.1.1.64:6000
+#EXTINF:-1,iConcerts
+http://5.138.52.187:4022/udp/224.1.1.65:6000
+#EXTINF:-1,Карусель
+http://5.138.52.187:4022/udp/224.1.1.66:6000
+#EXTINF:-1,МИР
+http://5.138.52.187:4022/udp/224.1.1.67:6000
+#EXTINF:-1,FUEL TV HD
+http://5.138.52.187:4022/udp/224.1.1.68:6000
+#EXTINF:-1,FUEL TV HD
+http://5.138.52.187:4022/udp/224.1.1.69:6000
+#EXTINF:-1,iConcerts
+http://5.138.52.187:4022/udp/224.1.1.70:6000
+#EXTINF:-1,Еда HD
+http://5.138.52.187:4022/udp/224.1.1.71:6000
+#EXTINF:-1,Еда HD
+http://5.138.52.187:4022/udp/224.1.1.72:6000
+#EXTINF:-1,Life News MP4SD
+http://5.138.52.187:4022/udp/224.1.1.73:6000
+#EXTINF:-1,Вместе РФ
+http://5.138.52.187:4022/udp/224.1.1.74:6000
+#EXTINF:-1,History
+http://5.138.52.187:4022/udp/224.1.1.75:6000
+#EXTINF:-1,Viasat Explore
+http://5.138.52.187:4022/udp/224.1.1.76:6000
+#EXTINF:-1,Союз
+http://5.138.52.187:4022/udp/224.1.1.77:6000
+#EXTINF:-1,Спас
+http://5.138.52.187:4022/udp/224.1.1.78:6000
+#EXTINF:-1,Viasat History
+http://5.138.52.187:4022/udp/224.1.1.79:6000
+#EXTINF:-1,НСТ
+http://5.138.52.187:4022/udp/224.1.1.80:6000
+#EXTINF:-1,Боец
+http://5.138.52.187:4022/udp/224.1.1.81:6000
+#EXTINF:-1,Комедия
+http://5.138.52.187:4022/udp/224.1.1.82:6000
+#EXTINF:-1,Боец
+http://5.138.52.187:4022/udp/224.1.1.83:6000
+#EXTINF:-1,Авто плюс
+http://5.138.52.187:4022/udp/224.1.1.84:6000
+#EXTINF:-1,Сарафан
+http://5.138.52.187:4022/udp/224.1.1.85:6000
+#EXTINF:-1,Беларусь 24
+http://5.138.52.187:4022/udp/224.1.1.86:6000
+#EXTINF:-1,TV1000 Action
+http://5.138.52.187:4022/udp/224.1.1.87:6000
+#EXTINF:-1,Детский
+http://5.138.52.187:4022/udp/224.1.1.88:6000
+#EXTINF:-1,TV1000 Русское кино
+http://5.138.52.187:4022/udp/224.1.1.89:6000
+#EXTINF:-1,Viasat Sport
+http://5.138.52.187:4022/udp/224.1.1.90:6000
+#EXTINF:-1,СТС
+http://5.138.52.187:4022/udp/224.1.1.91:6000
+#EXTINF:-1,Че
+http://5.138.52.187:4022/udp/224.1.1.92:6000
+#EXTINF:-1,NickJr.
+http://5.138.52.187:4022/udp/224.1.1.93:6000
+#EXTINF:-1,Пятница
+http://5.138.52.187:4022/udp/224.1.1.94:6000
+#EXTINF:-1,Blue-Hustler
+http://5.138.52.187:4022/udp/224.1.1.95:6000
+#EXTINF:-1,СТС
+http://5.138.52.187:4022/udp/224.1.1.96:6000
+#EXTINF:-1,Пятница
+http://5.138.52.187:4022/udp/224.1.1.97:6000
+#EXTINF:-1,Playboy
+http://5.138.52.187:4022/udp/224.1.1.98:6000
+#EXTINF:-1,Retrouvez
+http://5.138.52.187:4022/udp/224.1.1.99:6000
+#EXTINF:-1,Viasat Golf HD
+http://5.138.52.187:4022/udp/224.1.1.101:6000
+#EXTINF:-1,Viasat Golf HD
+http://5.138.52.187:4022/udp/224.1.1.102:6000
+#EXTINF:-1,Viasat Sport HD
+http://5.138.52.187:4022/udp/224.1.1.103:6000
+#EXTINF:-1,Viasat Sport HD
+http://5.138.52.187:4022/udp/224.1.1.104:6000
+#EXTINF:-1,Первый
+http://5.138.52.187:4022/udp/224.1.1.105:6000
+#EXTINF:-1,Россия 1 / ГТРК Кубань
+http://5.138.52.187:4022/udp/224.1.1.106:6000
+#EXTINF:-1,НТВ
+http://5.138.52.187:4022/udp/224.1.1.107:6000
+#EXTINF:-1,Россия 24
+http://5.138.52.187:4022/udp/224.1.1.108:6000
+#EXTINF:-1,Euro News
+http://5.138.52.187:4022/udp/224.1.1.109:6000
+#EXTINF:-1,Матч
+http://5.138.52.187:4022/udp/224.1.1.110:6000
+#EXTINF:-1,Карусель
+http://5.138.52.187:4022/udp/224.1.1.111:6000
+#EXTINF:-1,ТВЦ
+http://5.138.52.187:4022/udp/224.1.1.112:6000
+#EXTINF:-1,TВ3
+http://5.138.52.187:4022/udp/224.1.1.113:6000
+#EXTINF:-1,ТНТ
+http://5.138.52.187:4022/udp/224.1.1.114:6000
+#EXTINF:-1,РЕН
+http://5.138.52.187:4022/udp/224.1.1.115:6000
+#EXTINF:-1,СТС
+http://5.138.52.187:4022/udp/224.1.1.116:6000
+#EXTINF:-1,Ю
+http://5.138.52.187:4022/udp/224.1.1.117:6000
+#EXTINF:-1,Домашний
+http://5.138.52.187:4022/udp/224.1.1.118:6000
+#EXTINF:-1,Краснодар 24
+http://5.138.52.187:4022/udp/224.1.1.119:6000
+#EXTINF:-1,Euro News
+http://5.138.52.187:4022/udp/224.1.1.120:6000
+#EXTINF:-1,НТВ
+http://5.138.52.187:4022/udp/224.1.1.121:6000
+#EXTINF:-1,ТВ3
+http://5.138.52.187:4022/udp/224.1.1.122:6000
+#EXTINF:-1,Домашний
+http://5.138.52.187:4022/udp/224.1.1.123:6000
+#EXTINF:-1,Ю
+http://5.138.52.187:4022/udp/224.1.1.124:6000
+#EXTINF:-1,Матч
+http://5.138.52.187:4022/udp/224.1.1.125:6000
+#EXTINF:-1,ТНТ
+http://5.138.52.187:4022/udp/224.1.1.126:6000
+#EXTINF:-1,РЕН
+http://5.138.52.187:4022/udp/224.1.1.127:6000
+#EXTINF:-1,Дисней
+http://5.138.52.187:4022/udp/224.1.1.128:6000
+#EXTINF:-1,Cartoon
+http://5.138.52.187:4022/udp/224.1.1.129:6000
+#EXTINF:-1,Канал Деда Мороза
+http://5.138.52.187:4022/udp/224.1.1.130:6000
+#EXTINF:-1,КВН ТВ
+http://5.138.52.187:4022/udp/224.1.1.131:6000
+#EXTINF:-1,BRIO
+http://5.138.52.187:4022/udp/224.1.1.132:6000
+#EXTINF:-1,DRM
+http://5.138.52.187:4022/udp/224.1.1.133:6000
+#EXTINF:-1,Candy TV HD
+http://5.138.52.187:4022/udp/224.1.1.134:6000
+#EXTINF:-1,Candy TV
+http://5.138.52.187:4022/udp/224.1.1.135:6000
+#EXTINF:-1,Sony Turbo
+http://5.138.52.187:4022/udp/224.1.1.136:6000
+#EXTINF:-1,9-я Волна
+http://5.138.52.187:4022/udp/224.1.1.137:6000
+#EXTINF:-1,Mуз TV
+http://5.138.52.187:4022/udp/224.1.1.140:6000
+#EXTINF:-1,Top Shop TV
+http://5.138.52.187:4022/udp/224.1.1.141:6000
+#EXTINF:-1,Shopping Life
+http://5.138.52.187:4022/udp/224.1.1.142:6000
+#EXTINF:-1,Русский бестселлер
+http://5.138.52.187:4022/udp/224.1.1.143:6000
+#EXTINF:-1,ТВ3
+http://5.138.52.187:4022/udp/224.1.1.144:6000
+#EXTINF:-1,Amedia I
+http://5.138.52.187:4022/udp/224.1.1.145:6000
+#EXTINF:-1,HD_Amedia_Hit
+http://5.138.52.187:4022/udp/224.1.1.146:6000
+#EXTINF:-1,HD_Amedia_Hit
+http://5.138.52.187:4022/udp/224.1.1.147:6000
+#EXTINF:-1,AMEDIA HIT
+http://5.138.52.187:4022/udp/224.1.1.148:6000
+#EXTINF:-1,Брио-ТВ
+http://5.138.52.187:4022/udp/224.1.1.149:6000
+#EXTINF:-1,English club
+http://5.138.52.187:4022/udp/224.1.1.150:6000
+#EXTINF:-1,Travel Adventure
+http://5.138.52.187:4022/udp/224.1.1.151:6000
+#EXTINF:-1,Mир 24
+http://5.138.52.187:4022/udp/224.1.1.152:6000
+#EXTINF:-1,MTV
+http://5.138.52.187:4022/udp/224.1.1.153:6000
+#EXTINF:-1,Nautical
+http://5.138.52.187:4022/udp/224.1.1.154:6000
+#EXTINF:-1,National Geographic
+http://5.138.52.187:4022/udp/224.1.1.155:6000
+#EXTINF:-1,Nat Geo Wild
+http://5.138.52.187:4022/udp/224.1.1.156:6000
+#EXTINF:-1,Fox Life
+http://5.138.52.187:4022/udp/224.1.1.157:6000
+#EXTINF:-1,Fox
+http://5.138.52.187:4022/udp/224.1.1.158:6000
+#EXTINF:-1,Euronews
+http://5.138.52.187:4022/udp/224.1.1.159:6000
+#EXTINF:-1,Live News MP4HD
+http://5.138.52.187:4022/udp/224.1.1.160:6000
+#EXTINF:-1,Перец
+http://5.138.52.187:4022/udp/224.1.1.161:6000
+#EXTINF:-1,Ю
+http://5.138.52.187:4022/udp/224.1.1.162:6000
+#EXTINF:-1,IQ_HD
+http://5.138.52.187:4022/udp/224.1.1.163:6000
+#EXTINF:-1,IQ_HD
+http://5.138.52.187:4022/udp/224.1.1.164:6000
+#EXTINF:-1,Live News MP4HD
+http://5.138.52.187:4022/udp/224.1.1.165:6000
+#EXTINF:-1,OTР
+http://5.138.52.187:4022/udp/224.1.1.166:6000
+#EXTINF:-1,Парк развлечений
+http://5.138.52.187:4022/udp/224.1.1.167:6000
+#EXTINF:-1,Страна
+http://5.138.52.187:4022/udp/224.1.1.168:6000
+#EXTINF:-1,Конференция ТВ
+http://5.138.52.187:4022/udp/224.1.1.169:6000
+#EXTINF:-1,Eurosport 2 Russia HD
+http://5.138.52.187:4022/udp/224.1.1.170:6000
+#EXTINF:-1,Первый образовательный
+http://5.138.52.187:4022/udp/224.1.1.171:6000
+#EXTINF:-1,Вебкамера 1
+http://5.138.52.187:4022/udp/224.1.1.172:6000
+#EXTINF:-1,Web - camera Приэльбрусье: Поляна Азау
+http://5.138.52.187:4022/udp/224.1.1.173:6000
+#EXTINF:-1,Web - camera Приэльбрусье: Станция Кругозор
+http://5.138.52.187:4022/udp/224.1.1.174:6000
+#EXTINF:-1,Web - camera Приэльбрусье: Станция Мир
+http://5.138.52.187:4022/udp/224.1.1.175:6000
+#EXTINF:-1,Web - camera Приэльбрусье: Станция Мир
+http://5.138.52.187:4022/udp/224.1.1.176:6000
+#EXTINF:-1,Web-камера: Домбай
+http://5.138.52.187:4022/udp/224.1.1.177:6000
+#EXTINF:-1,Web-камера: Архыз Романтик 2
+http://5.138.52.187:4022/udp/224.1.1.179:6000
+#EXTINF:-1,Animal_Planet
+http://5.138.52.187:4022/udp/224.1.1.180:6000
+#EXTINF:-1,Архыз 24
+http://5.138.52.187:4022/udp/224.1.1.181:6000
+#EXTINF:-1,Кубань 24
+http://5.138.52.187:4022/udp/224.1.1.182:6000
+#EXTINF:-1,RT
+http://5.138.52.187:4022/udp/224.1.1.183:6000
+#EXTINF:-1,МИР
+http://5.138.52.187:4022/udp/224.1.1.184:6000
+#EXTINF:-1,TV1000-Action
+http://5.138.52.187:4022/udp/224.1.1.186:6000
+#EXTINF:-1,РБК
+http://5.138.52.187:4022/udp/224.1.1.185:6000
+#EXTINF:-1,TV1000
+http://5.138.52.187:4022/udp/224.1.1.187:6000
+#EXTINF:-1,TV1000 Русское кино
+http://5.138.52.187:4022/udp/224.1.1.188:6000
+#EXTINF:-1,Комедия
+http://5.138.52.187:4022/udp/224.1.1.189:6000
+#EXTINF:-1,Eurosport 2 Russia HD
+http://5.138.52.187:4022/udp/224.1.1.190:6000
+#EXTINF:-1,Кино ТВ
+http://5.138.52.187:4022/udp/224.1.1.191:6000
+#EXTINF:-1,Viasat Explorer
+http://5.138.52.187:4022/udp/224.1.1.192:6000
+#EXTINF:-1,Viasat History
+http://5.138.52.187:4022/udp/224.1.1.193:6000
+#EXTINF:-1,ТНТ
+http://5.138.52.187:4022/udp/224.1.1.194:6000
+#EXTINF:-1,2x2
+http://5.138.52.187:4022/udp/224.1.1.197:6000
+#EXTINF:-1,English Club
+http://5.138.52.187:4022/udp/224.1.1.195:6000
+#EXTINF:-1,Disney
+http://5.138.52.187:4022/udp/224.1.1.196:6000
+#EXTINF:-1,TV5MONDE_Europe
+http://5.138.52.187:4022/udp/224.1.1.198:6000
+#EXTINF:-1,RU TV
+http://5.138.52.187:4022/udp/224.1.1.199:6000
+#EXTINF:-1,MIR HD
+http://5.138.52.187:4022/udp/224.1.1.200:6000
+#EXTINF:-1,Cartoon Nework HD
+http://5.138.52.187:4022/udp/224.1.1.201:6000
+#EXTINF:-1,5 канал
+http://5.138.52.187:4022/udp/224.1.1.202:6000
+#EXTINF:-1,Nickelodeon
+http://5.138.52.187:4022/udp/224.1.1.203:6000
+#EXTINF:-1,Мать и дитя
+http://5.138.52.187:4022/udp/224.1.1.204:6000
+#EXTINF:-1,Екстрим спорт
+http://5.138.52.187:4022/udp/224.1.1.205:6000
+#EXTINF:-1,Телеканал футбол
+http://5.138.52.187:4022/udp/224.1.1.206:6000
+#EXTINF:-1,AB Moteurs
+http://5.138.52.187:4022/udp/224.1.1.207:6000
+#EXTINF:-1,Русский екстрим
+http://5.138.52.187:4022/udp/224.1.1.208:6000
+#EXTINF:-1,Дом_Кино_ПРЕМИУМ_HD
+http://5.138.52.187:4022/udp/224.1.1.209:6000
+#EXTINF:-1,BBC World News
+http://5.138.52.187:4022/udp/224.1.1.210:6000
+#EXTINF:-1,Раз TV
+http://5.138.52.187:4022/udp/224.1.1.211:6000
+#EXTINF:-1,Просвещение
+http://5.138.52.187:4022/udp/224.1.1.212:6000
+#EXTINF:-1,Nick Junior
+http://5.138.52.187:4022/udp/224.1.1.213:6000
+#EXTINF:-1,Discoery HD
+http://5.138.52.187:4022/udp/224.1.1.214:6000
+#EXTINF:-1,Animal PlanetHD
+http://5.138.52.187:4022/udp/224.1.1.215:6000
+#EXTINF:-1,TV1000 Action
+http://5.138.52.187:4022/udp/224.1.1.216:6000
+#EXTINF:-1, Hot
+http://192.99.148.73:8080/live/Abel/123456/91.ts
+#EXTINF:-1,xtreme
+http://192.99.148.73:8080/live/Abel/123456/92.ts
 #EXTINF:-1,Playboy TV
-http://185.2.82.147:25461/live/izudin/izudin/736.ts
-#EXTINF:-1,XXX 1
-http://185.2.82.147:25461/live/izudin/izudin/203.ts
-#EXTINF:-1,XXX 2
-http://185.2.82.147:25461/live/izudin/izudin/204.ts
-#EXTINF:-1,XXX 3
-http://185.2.82.147:25461/live/izudin/izudin/205.ts
-#EXTINF:-1,XXX 4
-http://185.2.82.147:25461/live/izudin/izudin/206.ts
-#EXTINF:-1,XXX 5
-http://185.2.82.147:25461/live/izudin/izudin/207.ts
-#EXTINF:-1,Pink Erotic
-http://185.2.82.147:25461/live/izudin/izudin/725.ts
-#EXTINF:-1,Pink Erotic 3
-http://185.2.82.147:25461/live/izudin/izudin/724.ts
-#EXTINF:-1,Pink Erotic 4
-http://185.2.82.147:25461/live/izudin/izudin/723.ts
-#EXTINF:-1,Dusk
-http://185.2.82.147:25461/live/izudin/izudin/281.ts
-#EXTINF:-1,Hustler
-http://185.2.82.147:25461/live/izudin/izudin/280.ts
-#EXTINF:-1,+18:HOT 1
-http://bizimip.com:8000/live/hasbahca/9KOahNqV5p/553.ts
-#EXTINF:-1,+18:HOT 2
-http://bizimip.com:8000/live/hasbahca/9KOahNqV5p/326.ts
-#EXTINF:-1,+18:HOT 3
-http://bizimip.com:8000/live/hasbahca/9KOahNqV5p/172.ts
-#EXTINF:-1,+18:HOT 4
-http://bizimip.com:8000/live/hasbahca/9KOahNqV5p/467.ts
-#EXTINF:-1,+18:HOT 5
-http://bizimip.com:8000/live/hasbahca/9KOahNqV5p/619.ts
-#EXTINF:-1,+18:The
-http://bizimip.com:8000/live/hasbahca/9KOahNqV5p/618.ts
-#EXTINF:-1,+18:PLAYY 19+
-http://bizimip.com:8000/live/hasbahca/9KOahNqV5p/617.ts
-#EXTINF:-1,+18: SINNA TV
-http://bizimip.com:8000/live/hasbahca/9KOahNqV5p/616.ts
-#EXTINF:-1,+18:JASMIN TV
-http://bizimip.com:8000/live/hasbahca/9KOahNqV5p/592.ts
-#EXTINF:-1,+18:***** Tv
-http://bizimip.com:8000/live/hasbahca/9KOahNqV5p/591.ts
-#EXTINF:-1,XXX: Hustler HD
-http://185.2.83.24:8000/live/angelina/angelina/1096.ts
-#EXTINF:-1,XXX: Meiden van Holland Soft / Secret Circle
-http://185.2.83.24:8000/live/angelina/angelina/1010.ts
-#EXTINF:-1,XXX: Meiden van Holland Hard
-http://185.2.83.24:8000/live/angelina/angelina/1002.ts
-#EXTINF:-1,XXX: Penthouse
-http://185.2.83.24:8000/live/angelina/angelina/1000.ts
-#EXTINF:-1,XXX: Dusk! Deluxe
-http://185.2.83.24:8000/live/angelina/angelina/938.ts
-#EXTINF:-1,XXX: Brazzers TV Europe
-http://185.2.83.24:8000/live/angelina/angelina/830.ts
-#EXTINF:-1,XXX: X-MO
-http://185.2.83.24:8000/live/angelina/angelina/828.ts
-#EXTINF:-1,XXX: Babestation Club
-http://s1.finoip.com:20000/live/mark/mark/1778.ts
-#EXTINF:-1,XXX: Babestation Xtra
-http://s1.finoip.com:20000/live/mark/mark/1779.ts
-#EXTINF:-1,XXX: BALKAN EROTIC
-http://s1.finoip.com:20000/live/mark/mark/4385.ts
-#EXTINF:-1,XXX: Claro *****o 18
-http://s1.finoip.com:20000/live/mark/mark/1781.ts
-#EXTINF:-1,XXX: Dorcel
-http://s1.finoip.com:20000/live/mark/mark/4331.ts
-#EXTINF:-1,XXX: Euro Dolls
-http://s1.finoip.com:20000/live/mark/mark/1782.ts
-#EXTINF:-1,XXX: HOT HD
-http://s1.finoip.com:20000/live/mark/mark/5402.ts
-#EXTINF:-1,XXX: Hustler
-http://s1.finoip.com:20000/live/mark/mark/4332.ts
-#EXTINF:-1,XXX: Nubiles Casting
-http://s1.finoip.com:20000/live/mark/mark/1783.ts
-#EXTINF:-1,XXX: Nubiles Porn
-http://s1.finoip.com:20000/live/mark/mark/5701.ts
-#EXTINF:-1,XXX: Passion
-http://s1.finoip.com:20000/live/mark/mark/4333.ts
-#EXTINF:-1,XXX: Pink Erotic 1
-http://s1.finoip.com:20000/live/mark/mark/4386.ts
-#EXTINF:-1,XXX: Pink Erotic 2
-http://s1.finoip.com:20000/live/mark/mark/4387.ts
-#EXTINF:-1,XXX: Pink Erotic 3
-http://s1.finoip.com:20000/live/mark/mark/5681.ts
-#EXTINF:-1,XXX: Pink Erotic 4
-http://s1.finoip.com:20000/live/mark/mark/5680.ts
-#EXTINF:-1,XXX: Pink Erotic 5
-http://s1.finoip.com:20000/live/mark/mark/5679.ts
-#EXTINF:-1,XXX: Pink Erotic 6
-http://s1.finoip.com:20000/live/mark/mark/5678.ts
-#EXTINF:-1,XXX: Pink Erotic 7
-http://s1.finoip.com:20000/live/mark/mark/5677.ts
-#EXTINF:-1,XXX: Pink Erotic 8
-http://s1.finoip.com:20000/live/mark/mark/5676.ts
-#EXTINF:-1,XXX: *******
-http://s1.finoip.com:20000/live/mark/mark/5401.ts
-#EXTINF:-1,XXX: Reality Kings
-http://s1.finoip.com:20000/live/mark/mark/5702.ts
-#EXTINF:-1,XXX: Redlight
-http://s1.finoip.com:20000/live/mark/mark/4334.ts
-#EXTINF:-1,XXX: SuperOne
-http://s1.finoip.com:20000/live/mark/mark/4784.ts
-#EXTINF:-1,XXX: VENUS
-http://s1.finoip.com:20000/live/mark/mark/5403.ts
-#EXTINF:0,Channel 1
-#EXTINF:-1,XXXL V?P CHANNEL
-#EXTINF:0,Channel 2
-http://panel3server.com:8080/live/necmi05/20082016vu/1664.ts
-#EXTINF:0,Channel 3
-#EXTINF:-1,XXX V?P CHANNEL 2
-#EXTINF:0,Channel 4
-http://panel3server.com:8080/live/necmi05/20082016vu/1663.ts
-#EXTINF:0,Channel 5
-#EXTINF:-1,XXX V?P CHANNEL
-#EXTINF:0,Channel 6
-http://panel3server.com:8080/live/necmi05/20082016vu/1662.ts
-#EXTINF:0,Channel 7
-#EXTINF:-1,XXX PORNPROS
-#EXTINF:0,Channel 8
-http://panel3server.com:8080/live/necmi05/20082016vu/1661.ts
-#EXTINF:0,Channel 9
-#EXTINF:-1,BLUE HUSTLER TV +18
-#EXTINF:0,Channel 10
-http://panel3server.com:8080/live/necmi05/20082016vu/297.ts
-#EXTINF:0,Channel 11
-#EXTINF:-1,PRIVATE ***** +18
-#EXTINF:0,Channel 12
-http://panel3server.com:8080/live/necmi05/20082016vu/296.ts
-#EXTINF:0,Channel 13
-#EXTINF:-1,SCT HQ +18
-#EXTINF:0,Channel 14
-http://panel3server.com:8080/live/necmi05/20082016vu/302.ts
-#EXTINF:0,Channel 15
-#EXTINF:-1,SCT 1 +18
-#EXTINF:0,Channel 16
-http://panel3server.com:8080/live/necmi05/20082016vu/298.ts
-#EXTINF:0,Channel 17
-#EXTINF:-1,SCT 3 +18
-#EXTINF:0,Channel 18
-http://panel3server.com:8080/live/necmi05/20082016vu/300.ts
-#EXTINF:0,Channel 19
-#EXTINF:-1,SCT 2 +18
-#EXTINF:0,Channel 20
-http://panel3server.com:8080/live/necmi05/20082016vu/299.ts
-#EXTINF:0,Channel 21
-#EXTINF:-1,RU +18
-#EXTINF:0,Channel 22
-http://panel3server.com:8080/live/necmi05/20082016vu/301.ts
-#EXTINF:0,Channel 23
+http://192.99.148.73:8080/live/Abel/123456/90.ts
+#EXTINF:-1,XX: Hustler HD
+http://185.2.83.24:8000/live/ollie/ollie/1096.ts
+#EXTINF:-1,XX: Meiden van Holland Soft / Secret Circle
+http://185.2.83.24:8000/live/ollie/ollie/1010.ts
+#EXTINF:-1,XX: Meiden van Holland Hard
+http://185.2.83.24:8000/live/ollie/ollie/1002.ts
+#EXTINF:-1,XX: Penthouse
+http://185.2.83.24:8000/live/ollie/ollie/1000.ts
+#EXTINF:-1,XX: Dusk! Deluxe
+http://185.2.83.24:8000/live/ollie/ollie/938.ts
+#EXTINF:-1,XX: Brazzers TV Europe
+http://185.2.83.24:8000/live/ollie/ollie/830.ts
+#EXTINF:-1,XX: X-MO
+http://185.2.83.24:8000/live/ollie/ollie/828.ts
+#EXTINF:-1,VIVID TV
+http://176.31.231.205:8000/live/oliver/12345/301.ts
 #EXTINF:-1,HUSTLER HD
-#EXTINF:0,Channel 24
-http://panel3server.com:8080/live/necmi05/20082016vu/95.ts
-#EXTINF:0,Channel 25
-#EXTINF:-1,*******tv
-#EXTINF:0,Channel 26
-http://panel3server.com:8080/live/necmi05/20082016vu/31.ts
-#EXTINF:0,Channel 27
-#EXTINF:-1,TR | Redlight-HD +18
-#EXTINF:0,Channel 28
-http://panel3server.com:8080/live/necmi05/20082016vu/46.ts
-#EXTINF:0,Channel 29
-#EXTINF:-1,TR | Hustler-HD +18
-#EXTINF:0,Channel 30
-http://panel3server.com:8080/live/necmi05/20082016vu/47.ts
-#EXTINF:0,Channel 31
-#EXTINF:-1,PENTHOUSE HD FILBOX
-#EXTINF:0,Channel 32
-http://panel3server.com:8080/live/necmi05/20082016vu/48.ts
-#EXTINF:0,Channel 33
-#EXTINF:-1,***TV
-#EXTINF:0,Channel 34
-http://panel3server.com:8080/live/necmi05/20082016vu/2020.ts
-#EXTINF:0,Channel 35
-#EXTINF:-1,SCT1
-#EXTINF:0,Channel 36
-http://panel3server.com:8080/live/necmi05/20082016vu/2021.ts
-#EXTINF:0,Channel 37
-#EXTINF:-1,REDHOT***TU
-#EXTINF:0,Channel 38
-http://panel3server.com:8080/live/necmi05/20082016vu/2022.ts
-#EXTINF:0,Channel 39
-#EXTINF:-1,PRIVATESPACE
-#EXTINF:0,Channel 40
-http://panel3server.com:8080/live/necmi05/20082016vu/2023.ts
-#EXTINF:0,Channel 41
-#EXTINF:-1,*****XHD
-#EXTINF:0,Channel 42
-http://panel3server.com:8080/live/necmi05/20082016vu/2027.ts
-#EXTINF:0,Channel 43
-#EXTINF:-1,PENTHOUSEHD
-#EXTINF:0,Channel 44
-http://panel3server.com:8080/live/necmi05/20082016vu/2018.ts
-#EXTINF:0,Channel 45
-#EXTINF:-1,PASSIONXXX
-#EXTINF:0,Channel 46
-http://panel3server.com:8080/live/necmi05/20082016vu/2026.ts
-#EXTINF:0,Channel 47
-#EXTINF:-1,MARCDORCELTV
-#EXTINF:0,Channel 48
-http://panel3server.com:8080/live/necmi05/20082016vu/2024.ts
-#EXTINF:0,Channel 49
-#EXTINF:-1,DAR?NGTV
-#EXTINF:0,Channel 50
-http://panel3server.com:8080/live/necmi05/20082016vu/2019.ts
-#EXTINF:0,Channel 51
-#EXTINF:-1,BABESTATIONXTREME
-#EXTINF:0,Channel 52
-http://panel3server.com:8080/live/necmi05/20082016vu/2025.ts
-#EXTINF:0,Channel 53
-#EXTINF:-1,DE | HISTORY CHANNEL HD
-#EXTINF:0,Channel 54
-http://panel3server.com:8080/live/necmi05/20082016vu/314.ts
-#EXTINF:-1,Primafila Hot Club 1
-http://iptv.iptvthebest.net:15000/movie/andreaBarbagallo/barbagallo/4072.mkv
-#EXTINF:-1,Primafila Hot Club 2
-http://iptv.iptvthebest.net:15000/movie/andreaBarbagallo/barbagallo/4073.mkv
-#EXTINF:-1,Primafila Hot Club 3
-http://iptv.iptvthebest.net:15000/movie/andreaBarbagallo/barbagallo/4074.mkv
-#EXTINF:-1,Primafila Hot Club 4
-http://iptv.iptvthebest.net:15000/movie/andreaBarbagallo/barbagallo/4075.mkv
-#EXTINF:-1,Primafila Hot Club 5
-http://iptv.iptvthebest.net:15000/movie/andreaBarbagallo/barbagallo/4158.mkv
-#EXTINF:-1,Primafila Hot Club 6
-http://iptv.iptvthebest.net:15000/movie/andreaBarbagallo/barbagallo/4159.mkv
-#EXTINF:-1,Primafila Hot Club 7
-http://iptv.iptvthebest.net:15000/movie/andreaBarbagallo/barbagallo/4160.mkv
-#EXTINF:-1,Primafila Hot Club 8
-http://iptv.iptvthebest.net:15000/movie/andreaBarbagallo/barbagallo/4161.mkv
-#EXTINF:-1,XXX zoey. tyler masturbation
-http://iptv.iptvthebest.net:15000/movie/andreaBarbagallo/barbagallo/3457.mkv
-#EXTINF:-1,XXX Young Carnal Lust
-http://iptv.iptvthebest.net:15000/movie/andreaBarbagallo/barbagallo/3431.mkv
-#EXTINF:-1,XXX una notte indimenticabile xxx
-http://iptv.iptvthebest.net:15000/movie/andreaBarbagallo/barbagallo/3456.mkv
-#EXTINF:-1,XXX Top Notch Anal Mike Adriano Evil Angel.
-http://iptv.iptvthebest.net:15000/movie/andreaBarbagallo/barbagallo/3429.mkv
-#EXTINF:-1,XXX timea bella never too much
-http://iptv.iptvthebest.net:15000/movie/andreaBarbagallo/barbagallo/3455.mkv
-#EXTINF:-1,XXX Tetonas Locas Culioneros
-http://iptv.iptvthebest.net:15000/movie/andreaBarbagallo/barbagallo/3428.mkv
-#EXTINF:-1,XXX Teenie PlayDolls From Moscow 3
-http://iptv.iptvthebest.net:15000/movie/andreaBarbagallo/barbagallo/3427.mkv
-#EXTINF:-1,XXX TeenErotica Veiki XXX
-http://iptv.iptvthebest.net:15000/movie/andreaBarbagallo/barbagallo/3426.mkv
-#EXTINF:-1,XXX Teen Ladyboys 3
-http://iptv.iptvthebest.net:15000/movie/andreaBarbagallo/barbagallo/3425.mkv
-#EXTINF:-1,XXX Step By Step parte2 XXX
-http://iptv.iptvthebest.net:15000/movie/andreaBarbagallo/barbagallo/3424.mkv
-#EXTINF:-1,XXX Step By Step parte1 XXX
-http://iptv.iptvthebest.net:15000/movie/andreaBarbagallo/barbagallo/3423.mkv
-#EXTINF:-1,XXX Shemale Cougar Club
-http://iptv.iptvthebest.net:15000/movie/andreaBarbagallo/barbagallo/3422.mkv
-#EXTINF:-1,XXX Shallow back regalo especial
-http://iptv.iptvthebest.net:15000/movie/andreaBarbagallo/barbagallo/3421.mkv
-#EXTINF:-1,XXX RubATeen Dania Braided Babe XXX.
-http://iptv.iptvthebest.net:15000/movie/andreaBarbagallo/barbagallo/3420.mkv
-#EXTINF:-1,XXX Roccos Psycho Teens 4 XXX
-http://iptv.iptvthebest.net:15000/movie/andreaBarbagallo/barbagallo/3419.mkv
-#EXTINF:-1,XXX Raven Bay (Raven vs the Black Mamba)
-http://iptv.iptvthebest.net:15000/movie/andreaBarbagallo/barbagallo/3418.mkv
-#EXTINF:-1,XXX Pure Obsession (teen xxx)
-http://iptv.iptvthebest.net:15000/movie/andreaBarbagallo/barbagallo/3417.mkv
-#EXTINF:-1,XXX Prince The Punisher (Valentina Nappi)
-http://iptv.iptvthebest.net:15000/movie/andreaBarbagallo/barbagallo/3416.mkv
-#EXTINF:-1,XXX Oprah Red Oprah Full HD 1080p
-http://iptv.iptvthebest.net:15000/movie/andreaBarbagallo/barbagallo/3415.mkv
-#EXTINF:-1,XXX no smoking to pornolab (3).net (Rocco’s POV)
-http://iptv.iptvthebest.net:15000/movie/andreaBarbagallo/barbagallo/3454.mkv
-#EXTINF:-1,XXX no smoking to pornolab (2).net (Rocco’s POV)
-http://iptv.iptvthebest.net:15000/movie/andreaBarbagallo/barbagallo/3453.mkv
-#EXTINF:-1,XXX no smoking to pornolab (1).net (Rocco’s POV)
-http://iptv.iptvthebest.net:15000/movie/andreaBarbagallo/barbagallo/3452.mkv
-#EXTINF:-1,XXX nicole vice and nana red hot
-http://iptv.iptvthebest.net:15000/movie/andreaBarbagallo/barbagallo/3451.mkv
-#EXTINF:-1,XXX My transexual Student
-http://iptv.iptvthebest.net:15000/movie/andreaBarbagallo/barbagallo/3414.mkv
-#EXTINF:-1,XXX My Friend s Hot Girl 15
-http://iptv.iptvthebest.net:15000/movie/andreaBarbagallo/barbagallo/3413.mkv
-#EXTINF:-1,XXX My Dad’s Hot Wife
-http://iptv.iptvthebest.net:15000/movie/andreaBarbagallo/barbagallo/3412.mkv
-#EXTINF:-1,XXX Millennium ( Selen )
-http://iptv.iptvthebest.net:15000/movie/andreaBarbagallo/barbagallo/3411.mkv
-#EXTINF:-1,XXX Mia And Romea Pump My Clit
-http://iptv.iptvthebest.net:15000/movie/andreaBarbagallo/barbagallo/3410.mkv
-#EXTINF:-1,XXX massive anal booty
-http://iptv.iptvthebest.net:15000/movie/andreaBarbagallo/barbagallo/3450.mkv
-#EXTINF:-1,XXX Lola Reve Au Manoir Du Vice
-http://iptv.iptvthebest.net:15000/movie/andreaBarbagallo/barbagallo/3409.mkv
-#EXTINF:-1,XXX Liquid Lesbian
-http://iptv.iptvthebest.net:15000/movie/andreaBarbagallo/barbagallo/3408.mkv
-#EXTINF:-1,XXX le woods anal finishing school bts
-http://iptv.iptvthebest.net:15000/movie/andreaBarbagallo/barbagallo/3449.mkv
-#EXTINF:-1,XXX le ripetenti.3
-http://iptv.iptvthebest.net:15000/movie/andreaBarbagallo/barbagallo/3448.mkv
-#EXTINF:-1,XXX le ripetenti 2
-http://iptv.iptvthebest.net:15000/movie/andreaBarbagallo/barbagallo/3447.mkv
-#EXTINF:-1,XXX le ripetenti 1
-http://iptv.iptvthebest.net:15000/movie/andreaBarbagallo/barbagallo/3446.mkv
-#EXTINF:-1,XXX layla lamora layla fucks her sons friends
-http://iptv.iptvthebest.net:15000/movie/andreaBarbagallo/barbagallo/3445.mkv
-#EXTINF:-1,XXX Larkin Love Cowgirl Creampie
-http://iptv.iptvthebest.net:15000/movie/andreaBarbagallo/barbagallo/3407.mkv
-#EXTINF:-1,XXX La parrucchiera al mio servizio XXX
-http://iptv.iptvthebest.net:15000/movie/andreaBarbagallo/barbagallo/3406.mkv
-#EXTINF:-1,XXX Kate K. Bo Bareback
-http://iptv.iptvthebest.net:15000/movie/andreaBarbagallo/barbagallo/3405.mkv
-#EXTINF:-1,XXX kalina ryu porn
-http://iptv.iptvthebest.net:15000/movie/andreaBarbagallo/barbagallo/3444.mkv
-#EXTINF:-1,XXX Janice Take Care Of My Pussy Full HD 1080p
-http://iptv.iptvthebest.net:15000/movie/andreaBarbagallo/barbagallo/3404.mkv
-#EXTINF:-1,XXX it’s my first time Vol.2
-http://iptv.iptvthebest.net:15000/movie/andreaBarbagallo/barbagallo/3443.mkv
-#EXTINF:-1,XXX Internal Affairs (Lesbian)
-http://iptv.iptvthebest.net:15000/movie/andreaBarbagallo/barbagallo/3403.mkv
-#EXTINF:-1,XXX Intense Assgasms 10.
-http://iptv.iptvthebest.net:15000/movie/andreaBarbagallo/barbagallo/3402.mkv
-#EXTINF:-1,XXX In Bed With Katsuni XXX
-http://iptv.iptvthebest.net:15000/movie/andreaBarbagallo/barbagallo/3401.mkv
-#EXTINF:-1,XXX il mistero del convento
-http://iptv.iptvthebest.net:15000/movie/andreaBarbagallo/barbagallo/3442.mkv
-#EXTINF:-1,XXX Horny Housewives Spose e Puttane
-http://iptv.iptvthebest.net:15000/movie/andreaBarbagallo/barbagallo/3400.mkv
-#EXTINF:-1,XXX gina gerson porn
-http://iptv.iptvthebest.net:15000/movie/andreaBarbagallo/barbagallo/3441.mkv
-#EXTINF:-1,XXX george and angel
-http://iptv.iptvthebest.net:15000/movie/andreaBarbagallo/barbagallo/3440.mkv
-#EXTINF:-1,XXX franco e le sue esperienze anali
-http://iptv.iptvthebest.net:15000/movie/andreaBarbagallo/barbagallo/3439.mkv
-#EXTINF:-1,XXX Farrah Abraham Back Door Teen Mom 2
-http://iptv.iptvthebest.net:15000/movie/andreaBarbagallo/barbagallo/3399.mkv
-#EXTINF:-1,XXX Farrah Abraham Back Door Teen Mom 1
-http://iptv.iptvthebest.net:15000/movie/andreaBarbagallo/barbagallo/3398.mkv
-#EXTINF:-1,XXX Evelyn Vibrations Full HD 1080p
-http://iptv.iptvthebest.net:15000/movie/andreaBarbagallo/barbagallo/3397.mkv
-#EXTINF:-1,XXX eva e selen,il duello
-http://iptv.iptvthebest.net:15000/movie/andreaBarbagallo/barbagallo/3438.mkv
-#EXTINF:-1,XXX european teen sluts XXX
-http://iptv.iptvthebest.net:15000/movie/andreaBarbagallo/barbagallo/3437.mkv
-#EXTINF:-1,XXX European Hairy Sluts XXX.
-http://iptv.iptvthebest.net:15000/movie/andreaBarbagallo/barbagallo/3396.mkv
-#EXTINF:-1,XXX edelweiss e sandy insaziabili
-http://iptv.iptvthebest.net:15000/movie/andreaBarbagallo/barbagallo/3436.mkv
-#EXTINF:-1,XXX Desiderando Selen – Selen Classic .
-http://iptv.iptvthebest.net:15000/movie/andreaBarbagallo/barbagallo/3395.mkv
-#EXTINF:-1,XXX Cuore Di Mamma
-http://iptv.iptvthebest.net:15000/movie/andreaBarbagallo/barbagallo/3394.mkv
-#EXTINF:-1,XXX Cum Crossfire 2 (Jonni Darkko) Evil Angel
-http://iptv.iptvthebest.net:15000/movie/andreaBarbagallo/barbagallo/3393.mkv
-#EXTINF:-1,XXX Carter’s Anal College
-http://iptv.iptvthebest.net:15000/movie/andreaBarbagallo/barbagallo/3392.mkv
-#EXTINF:-1,XXX carmen la venere bianca
-http://iptv.iptvthebest.net:15000/movie/andreaBarbagallo/barbagallo/3435.mkv
-#EXTINF:-1,XXX Brazilian Travestis Carla Novaes shemale.
-http://iptv.iptvthebest.net:15000/movie/andreaBarbagallo/barbagallo/3391.mkv
-#EXTINF:-1,XXX Black on Blondes guest star Valentina Nappi
-http://iptv.iptvthebest.net:15000/movie/andreaBarbagallo/barbagallo/3390.mkv
-#EXTINF:-1,XXX Big Tit Whorror Flick Brazzers XXX.
-http://iptv.iptvthebest.net:15000/movie/andreaBarbagallo/barbagallo/3389.mkv
-#EXTINF:-1,XXX BangBros 18 Rachel James
-http://iptv.iptvthebest.net:15000/movie/andreaBarbagallo/barbagallo/3388.mkv
-#EXTINF:-1,XXX BangBros 18 Naomi Woods
-http://iptv.iptvthebest.net:15000/movie/andreaBarbagallo/barbagallo/3387.mkv
-#EXTINF:-1,XXX B come Blondie.
-http://iptv.iptvthebest.net:15000/movie/andreaBarbagallo/barbagallo/3386.mkv
-#EXTINF:-1,XXX Avengers XXX 2 An Axel Braun parody XXX
-http://iptv.iptvthebest.net:15000/movie/andreaBarbagallo/barbagallo/3385.mkv
-#EXTINF:-1,XXX Animal Paradise UNCUT XXX
-http://iptv.iptvthebest.net:15000/movie/andreaBarbagallo/barbagallo/3384.mkv
-#EXTINF:-1,XXX Angels And Devils (lesbian)
-http://iptv.iptvthebest.net:15000/movie/andreaBarbagallo/barbagallo/3383.mkv
-#EXTINF:-1,XXX amore fraterno
-http://iptv.iptvthebest.net:15000/movie/andreaBarbagallo/barbagallo/3434.mkv
-#EXTINF:-1,XXX American Pervert Jenna J Ross
-http://iptv.iptvthebest.net:15000/movie/andreaBarbagallo/barbagallo/3382.mkv
-#EXTINF:-1,XXX AmateurAllure Nikki Hearts,Riley Reid,Valentina Nappi
-http://iptv.iptvthebest.net:15000/movie/andreaBarbagallo/barbagallo/3381.mkv
-#EXTINF:-1,XXX Alessandra la donna che adorava il cazzo
-http://iptv.iptvthebest.net:15000/movie/andreaBarbagallo/barbagallo/3380.mkv
-#EXTINF:-1,XXX addio al nubilato.
-http://iptv.iptvthebest.net:15000/movie/andreaBarbagallo/barbagallo/3433.mkv
-#EXTINF:-1,XXX abella danger
-http://iptv.iptvthebest.net:15000/movie/andreaBarbagallo/barbagallo/3432.mkv
-#EXTINF:-1,XXX A Girl’s POV (lesbian)
-http://iptv.iptvthebest.net:15000/movie/andreaBarbagallo/barbagallo/3379.mkv
-#EXTINF:-1,XXX 100 Percent Real Teen Swingers They’re Barely 18 Vivid
-http://iptv.iptvthebest.net:15000/movie/andreaBarbagallo/barbagallo/3378.mkv
-#EXTINF:-1,XXX una notte indimenticabile
-http://iptv.iptvthebest.net:15000/movie/andreaBarbagallo/barbagallo/3377.mkv
-#EXTINF:-1,XXX Amateurs de Carnaval Brasil
-http://iptv.iptvthebest.net:15000/movie/andreaBarbagallo/barbagallo/3376.mkv
-#EXTINF:-1,[XXX] TV Girl
-http://iptv.iptvthebest.net:15000/live/andreaBarbagallo/barbagallo/7954.ts
-#EXTINF:-1,[XXX] Sextosenso
-http://iptv.iptvthebest.net:15000/live/andreaBarbagallo/barbagallo/7955.ts
-#EXTINF:-1,[XXX] Satisfaction
-http://iptv.iptvthebest.net:15000/live/andreaBarbagallo/barbagallo/7956.ts
-#EXTINF:-1,[XXX] Red Light HD
-http://iptv.iptvthebest.net:15000/live/andreaBarbagallo/barbagallo/7957.ts
-#EXTINF:-1,[XXX] Pinko TV
-http://iptv.iptvthebest.net:15000/live/andreaBarbagallo/barbagallo/7958.ts
-#EXTINF:-1,[XXX] Hustler HD
-http://iptv.iptvthebest.net:15000/live/andreaBarbagallo/barbagallo/7959.ts
-#EXTINF:-1,[XXX] Exotica TV
-http://iptv.iptvthebest.net:15000/live/andreaBarbagallo/barbagallo/7960.ts
-#EXTINF:-1,[XXX] Dorcel HD
-http://iptv.iptvthebest.net:15000/live/andreaBarbagallo/barbagallo/7962.ts
-#EXTINF:-1,[XXX] Cento X Cento
-http://iptv.iptvthebest.net:15000/live/andreaBarbagallo/barbagallo/7963.ts
-#EXTINF:-1,XXX TV Girl
-http://iptv.iptvthebest.net:15000/live/andreaBarbagallo/barbagallo/620.ts
-#EXTINF:-1,XXX: SCT
-http://iptv.iptvthebest.net:15000/live/andreaBarbagallo/barbagallo/2327.ts
+http://176.31.231.205:8000/live/oliver/12345/302.ts
+#EXTINF:-1,PLAYBOY TV HD
+http://176.31.231.205:8000/live/oliver/12345/300.ts
+#EXTINF:-1,VENUS EU
+http://176.31.231.205:8000/live/oliver/12345/1123.ts
+#EXTINF:-1,PLAYBOY EU
+http://176.31.231.205:8000/live/oliver/12345/1124.ts
+#EXTINF:-1,HOT
+http://176.31.231.205:8000/live/oliver/12345/1122.ts
+#EXTINF:-1,VIVID TV
+http://176.31.231.205:8000/live/friend/friend/301.ts
+#EXTINF:-1,HUSTLER HD
+http://176.31.231.205:8000/live/friend/friend/302.ts
+#EXTINF:-1,PLAYBOY TV HD
+http://176.31.231.205:8000/live/friend/friend/300.ts
+#EXTINF:-1,VENUS EU
+http://176.31.231.205:8000/live/friend/friend/1123.ts
+#EXTINF:-1,PLAYBOY EU
+http://176.31.231.205:8000/live/friend/friend/1124.ts
+#EXTINF:-1,HOT
+http://176.31.231.205:8000/live/friend/friend/1122.ts
+#EXTINF:-1,XX: Redlight Premium
+http://portal.rakstar.biz/live/2623/2623/6839.ts
+#EXTINF:-1,XX: Pink OTV
+http://portal.rakstar.biz/live/2623/2623/6838.ts
+#EXTINF:-1,XX: DORCEL
+http://portal.rakstar.biz/live/2623/2623/4687.ts
+#EXTINF:-1,XX: xtv O Senso
+http://portal.rakstar.biz/live/2623/2623/6861.ts
+#EXTINF:-1,XX: Private
+http://portal.rakstar.biz/live/2623/2623/6864.ts
+#EXTINF:-1,XX: Penthouse HD
+http://portal.rakstar.biz/live/2623/2623/6865.ts
+#EXTINF:-1,XX: MvH Hard
+http://portal.rakstar.biz/live/2623/2623/6867.ts
+#EXTINF:-1,XX: Hustler HD
+http://portal.rakstar.biz/live/2623/2623/6868.ts
+#EXTINF:-1,XX: Hot Club
+http://portal.rakstar.biz/live/2623/2623/6869.ts
+#EXTINF:-1,XX: Girls 4U HD
+http://portal.rakstar.biz/live/2623/2623/6862.ts
+#EXTINF:-1,XX: Dusk
+http://portal.rakstar.biz/live/2623/2623/6870.ts
+#EXTINF:-1,XX: But Go HD
+http://portal.rakstar.biz/live/2623/2623/6863.ts
+#EXTINF:-1,XX: Brazzers
+http://portal.rakstar.biz/live/2623/2623/6871.ts
+#EXTINF:-1,XX: Adult 1
+http://portal.rakstar.biz/live/2623/2623/6876.ts
+#EXTINF:-1,XX: Adult 2
+http://portal.rakstar.biz/live/2623/2623/6875.ts
+#EXTINF:-1,XX: Adult 3
+http://portal.rakstar.biz/live/2623/2623/6874.ts
+#EXTINF:-1,XX: Adult 4
+http://portal.rakstar.biz/live/2623/2623/6873.ts
+#EXTINF:-1,XX: Viki Enjoy Premium HD
+http://portal.rakstar.biz/live/2623/2623/7049.ts
+#EXTINF:-1,XX: The O HD
+http://portal.rakstar.biz/live/2623/2623/7050.ts
+#EXTINF:-1,XX: xtv O Senso*
+http://portal.rakstar.biz/live/2623/2623/7051.ts
+#EXTINF:-1,XX: Private Tv 1
+http://portal.rakstar.biz/live/2623/2623/7052.ts
+#EXTINF:-1,XX: Playboy TV HD 18
+http://portal.rakstar.biz/live/2623/2623/7054.ts
+#EXTINF:-1,XX: Play 19 HD
+http://portal.rakstar.biz/live/2623/2623/7053.ts
+#EXTINF:-1,XX: Pink TV HD
+http://portal.rakstar.biz/live/2623/2623/7057.ts
+#EXTINF:-1,XX: Penthouse Asia 18 HD
+http://portal.rakstar.biz/live/2623/2623/7058.ts
+#EXTINF:-1,XX: Midnight HD
+http://portal.rakstar.biz/live/2623/2623/7060.ts
+#EXTINF:-1,XX: Honey 18 HD
+http://portal.rakstar.biz/live/2623/2623/7062.ts
+#EXTINF:-1,XX: Spice TV HD
+http://portal.rakstar.biz/live/2623/2623/6860.ts
+#EXTINF:-1,ES: PLAYBOY TV
+http://portal.rakstar.biz/live/2623/2623/8650.ts
+#EXTINF:-1,ES: HOT XX
+http://portal.rakstar.biz/live/2623/2623/8621.ts
+#EXTINF:-1,ES: VENUS XX
+http://portal.rakstar.biz/live/2623/2623/8673.ts
+#EXTINF:-1,[XX] TV Girl
+http://lucky.lts1.net:23000/live/miku211@gmail.com/tbQm93Ir91/21003.ts
+#EXTINF:-1,[XX] xtosenso
+http://lucky.lts1.net:23000/live/miku211@gmail.com/tbQm93Ir91/21004.ts
+#EXTINF:-1,[XX] Satisfaction
+http://lucky.lts1.net:23000/live/miku211@gmail.com/tbQm93Ir91/21005.ts
+#EXTINF:-1,[XX] Red Light HD
+http://lucky.lts1.net:23000/live/miku211@gmail.com/tbQm93Ir91/21006.ts
+#EXTINF:-1,[XX] Pinko TV
+http://lucky.lts1.net:23000/live/miku211@gmail.com/tbQm93Ir91/21007.ts
+#EXTINF:-1,[XX] Hustler HD
+http://lucky.lts1.net:23000/live/miku211@gmail.com/tbQm93Ir91/21008.ts
+#EXTINF:-1,[XX] Exotica TV
+http://lucky.lts1.net:23000/live/miku211@gmail.com/tbQm93Ir91/21009.ts
+#EXTINF:-1,[XX] Evil Angel TV
+http://lucky.lts1.net:23000/live/miku211@gmail.com/tbQm93Ir91/21010.ts
+#EXTINF:-1,[XX] Dorcel HD
+http://lucky.lts1.net:23000/live/miku211@gmail.com/tbQm93Ir91/21011.ts
+#EXTINF:-1,[XX] Cento X Cento
+http://lucky.lts1.net:23000/live/miku211@gmail.com/tbQm93Ir91/21012.ts
+#EXTINF:-1,[XX] BoyBoy
+http://lucky.lts1.net:23000/live/miku211@gmail.com/tbQm93Ir91/21013.ts
+#EXTINF:-1,[ XX ] BRAZZERS
+http://lucky.lts1.net:23000/live/miku211@gmail.com/tbQm93Ir91/18322.ts
+#EXTINF:-1,[ XX ] BRAZZERS 1
+http://lucky.lts1.net:23000/live/miku211@gmail.com/tbQm93Ir91/18323.ts
+#EXTINF:-1,[ XX ] BRAZZERS 2
+http://lucky.lts1.net:23000/live/miku211@gmail.com/tbQm93Ir91/18324.ts
+#EXTINF:-1,[ XX ] BRAZZERS 3
+http://lucky.lts1.net:23000/live/miku211@gmail.com/tbQm93Ir91/18325.ts
+#EXTINF:-1,[ XX ] BRAZZERS 4
+http://lucky.lts1.net:23000/live/miku211@gmail.com/tbQm93Ir91/18326.ts
+#EXTINF:-1,[ XX ] BRAZZERS 5
+http://lucky.lts1.net:23000/live/miku211@gmail.com/tbQm93Ir91/18327.ts
+#EXTINF:-1,[ XX ] BRAZZERS 6
+http://lucky.lts1.net:23000/live/miku211@gmail.com/tbQm93Ir91/18328.ts
+#EXTINF:-1,[ XX ] BRAZZERS 7
+http://lucky.lts1.net:23000/live/miku211@gmail.com/tbQm93Ir91/18329.ts
+#EXTINF:-1,[ XX ] BRAZZERS 8
+http://lucky.lts1.net:23000/live/miku211@gmail.com/tbQm93Ir91/18330.ts
+#EXTINF:-1,[ XX ] BRAZZERS 9
+http://lucky.lts1.net:23000/live/miku211@gmail.com/tbQm93Ir91/18331.ts
+#EXTINF:-1,[ XX ] BRAZZERS 10
+http://lucky.lts1.net:23000/live/miku211@gmail.com/tbQm93Ir91/18332.ts
+#EXTINF:-1,[ XX ] BRAZZERS 11
+http://lucky.lts1.net:23000/live/miku211@gmail.com/tbQm93Ir91/18333.ts
+#EXTINF:-1,[ XX ] BRAZZERS 12
+http://lucky.lts1.net:23000/live/miku211@gmail.com/tbQm93Ir91/18334.ts
+#EXTINF:-1,[ XX ] BRAZZERS 13
+http://lucky.lts1.net:23000/live/miku211@gmail.com/tbQm93Ir91/18335.ts
+#EXTINF:-1,[ XX ] BRAZZERS 14
+http://lucky.lts1.net:23000/live/miku211@gmail.com/tbQm93Ir91/18336.ts
+#EXTINF:-1,[ XX ] BRAZZERS 15
+http://lucky.lts1.net:23000/live/miku211@gmail.com/tbQm93Ir91/18337.ts
+#EXTINF:-1,[ XX ] BRAZZERS 16
+http://lucky.lts1.net:23000/live/miku211@gmail.com/tbQm93Ir91/18338.ts
+#EXTINF:-1,[ XX ] BRAZZERS 17
+http://lucky.lts1.net:23000/live/miku211@gmail.com/tbQm93Ir91/18339.ts
+#EXTINF:-1,[ XX ] BRAZZERS 18
+http://lucky.lts1.net:23000/live/miku211@gmail.com/tbQm93Ir91/18340.ts
+#EXTINF:-1,[ XX ] BRAZZERS 19
+http://lucky.lts1.net:23000/live/miku211@gmail.com/tbQm93Ir91/18341.ts
+#EXTINF:-1,[ XX ] BRAZZERS 20
+http://lucky.lts1.net:23000/live/miku211@gmail.com/tbQm93Ir91/18342.ts
+#EXTINF:-1,[ XX ] BRAZZERS 21
+http://lucky.lts1.net:23000/live/miku211@gmail.com/tbQm93Ir91/18343.ts
+#EXTINF:-1,[ XX ] BRAZZERS 22
+http://lucky.lts1.net:23000/live/miku211@gmail.com/tbQm93Ir91/18344.ts
+#EXTINF:-1,[ XX ] BRAZZERS 23
+http://lucky.lts1.net:23000/live/miku211@gmail.com/tbQm93Ir91/18345.ts
+#EXTINF:-1,[ XX ] BRAZZERS Piu24
+http://lucky.lts1.net:23000/live/miku211@gmail.com/tbQm93Ir91/18346.ts
+#EXTINF:-1,[ XX ] BRAZZERS 25
+http://lucky.lts1.net:23000/live/miku211@gmail.com/tbQm93Ir91/18347.ts
+#EXTINF:-1,[ XX ] BRAZZERS 26
+http://lucky.lts1.net:23000/live/miku211@gmail.com/tbQm93Ir91/18348.ts
+#EXTINF:-1,[ XX ] BRAZZERS 27
+http://lucky.lts1.net:23000/live/miku211@gmail.com/tbQm93Ir91/18349.ts
+#EXTINF:-1,[ XX ] BRAZZERS 28
+http://lucky.lts1.net:23000/live/miku211@gmail.com/tbQm93Ir91/18350.ts
+#EXTINF:-1,[ XX ] BRAZZERS ANL 1
+http://lucky.lts1.net:23000/live/miku211@gmail.com/tbQm93Ir91/18351.ts
+#EXTINF:-1,[ XX ] BRAZZERS ANL 2
+http://lucky.lts1.net:23000/live/miku211@gmail.com/tbQm93Ir91/18359.ts
+#EXTINF:-1,[ XX ] BRAZZERS ANL 3
+http://lucky.lts1.net:23000/live/miku211@gmail.com/tbQm93Ir91/18352.ts
+#EXTINF:-1,[ XX ] BRAZZERS ANA 4
+http://lucky.lts1.net:23000/live/miku211@gmail.com/tbQm93Ir91/18353.ts
+#EXTINF:-1,[ XX ] BRAZZERS AAL 5
+http://lucky.lts1.net:23000/live/miku211@gmail.com/tbQm93Ir91/18354.ts
+#EXTINF:-1,[ XX ] BRAZZERS ANA 6
+http://lucky.lts1.net:23000/live/miku211@gmail.com/tbQm93Ir91/18355.ts
+#EXTINF:-1,[ XX ] BRAZZERS ANL 7
+http://lucky.lts1.net:23000/live/miku211@gmail.com/tbQm93Ir91/18356.ts
+#EXTINF:-1,[ XX ] BRAZZERS ANL 8
+http://lucky.lts1.net:23000/live/miku211@gmail.com/tbQm93Ir91/18357.ts
+#EXTINF:-1,[ XX ] BRAZZERS ANA 9
+http://lucky.lts1.net:23000/live/miku211@gmail.com/tbQm93Ir91/18358.ts
+#EXTINF:-1,[ XX ] BRAZZERS ANA 10
+http://lucky.lts1.net:23000/live/miku211@gmail.com/tbQm93Ir91/18360.ts
+#EXTINF:-1,[ XX ] GIRLS 1
+http://lucky.lts1.net:23000/live/miku211@gmail.com/tbQm93Ir91/18384.ts
+#EXTINF:-1,[ XX ] GIRLS 2
+http://lucky.lts1.net:23000/live/miku211@gmail.com/tbQm93Ir91/18385.ts
+#EXTINF:-1,[ XX ] GIRLS 3
+http://lucky.lts1.net:23000/live/miku211@gmail.com/tbQm93Ir91/18386.ts
+#EXTINF:-1,[ XX ] GIRLS 4
+http://lucky.lts1.net:23000/live/miku211@gmail.com/tbQm93Ir91/18387.ts
+#EXTINF:-1,[ XX ] GIRLS 5
+http://lucky.lts1.net:23000/live/miku211@gmail.com/tbQm93Ir91/18388.ts
+#EXTINF:-1,[ XX ] GIRLS 6
+http://lucky.lts1.net:23000/live/miku211@gmail.com/tbQm93Ir91/18389.ts
+#EXTINF:-1,[ XX ] GIRLS 7
+http://lucky.lts1.net:23000/live/miku211@gmail.com/tbQm93Ir91/18390.ts
+#EXTINF:-1,[ XX ] GIRLS 8
+http://lucky.lts1.net:23000/live/miku211@gmail.com/tbQm93Ir91/18391.ts
+#EXTINF:-1,[ XX ] GIRLS 9
+http://lucky.lts1.net:23000/live/miku211@gmail.com/tbQm93Ir91/18392.ts
+#EXTINF:-1,[ XX ] GIRLS 10
+http://lucky.lts1.net:23000/live/miku211@gmail.com/tbQm93Ir91/18393.ts
+#EXTINF:-1,[ XX ] GIRLS 11
+http://lucky.lts1.net:23000/live/miku211@gmail.com/tbQm93Ir91/18394.ts
+#EXTINF:-1,[ XX ] GIRLS 12
+http://lucky.lts1.net:23000/live/miku211@gmail.com/tbQm93Ir91/18395.ts
+#EXTINF:-1,[ XX ] GIRLS 13
+http://lucky.lts1.net:23000/live/miku211@gmail.com/tbQm93Ir91/18396.ts
+#EXTINF:-1,[ XX ] GIRLS 14
+http://lucky.lts1.net:23000/live/miku211@gmail.com/tbQm93Ir91/18397.ts
+#EXTINF:-1,[ XX ] GIRLS 15
+http://lucky.lts1.net:23000/live/miku211@gmail.com/tbQm93Ir91/18398.ts
+#EXTINF:-1,[ XX ] GIRLS 16
+http://lucky.lts1.net:23000/live/miku211@gmail.com/tbQm93Ir91/18399.ts
+#EXTINF:-1,[ XX ] GIRLS 17
+http://lucky.lts1.net:23000/live/miku211@gmail.com/tbQm93Ir91/18400.ts
+#EXTINF:-1,[ XX ] GIRLS 18
+http://lucky.lts1.net:23000/live/miku211@gmail.com/tbQm93Ir91/18401.ts
+#EXTINF:-1,[ XX ] GIRLS 19
+http://lucky.lts1.net:23000/live/miku211@gmail.com/tbQm93Ir91/18402.ts
+#EXTINF:-1,[ XX ] GIRLS 20
+http://lucky.lts1.net:23000/live/miku211@gmail.com/tbQm93Ir91/18403.ts
+#EXTINF:-1,[ XX ] GIRLS 21
+http://lucky.lts1.net:23000/live/miku211@gmail.com/tbQm93Ir91/18404.ts
+#EXTINF:-1,[ XX ] GIRLS 22
+http://lucky.lts1.net:23000/live/miku211@gmail.com/tbQm93Ir91/18405.ts
+#EXTINF:-1,XX | VIP CHANNEL
+http://biwsat.com:8080/live/BCNUtnPe6X/0BfZhksp92/48.ts
+#EXTINF:-1,XX | VIP CHANNEL 2
+http://biwsat.com:8080/live/BCNUtnPe6X/0BfZhksp92/47.ts
+#EXTINF:-1,XX | VIP CHANNEL 3
+http://biwsat.com:8080/live/BCNUtnPe6X/0BfZhksp92/46.ts
+#EXTINF:-1,XX | HUSTLER HD
+http://biwsat.com:8080/live/BCNUtnPe6X/0BfZhksp92/43.ts
+#EXTINF:-1,XX | BLUE HUSTLER TV
+http://biwsat.com:8080/live/BCNUtnPe6X/0BfZhksp92/42.ts
+#EXTINF:-1,XX | DORCEL TV HD
+http://biwsat.com:8080/live/BCNUtnPe6X/0BfZhksp92/41.ts
+#EXTINF:-1,XX | BRAZZERS HD
+http://biwsat.com:8080/live/BCNUtnPe6X/0BfZhksp92/40.ts
+#EXTINF:-1,XX | RU
+http://biwsat.com:8080/live/BCNUtnPe6X/0BfZhksp92/39.ts
+#EXTINF:-1,XX | SCT HQ
+http://biwsat.com:8080/live/BCNUtnPe6X/0BfZhksp92/38.ts
+#EXTINF:-1,XX | SCT 1
+http://biwsat.com:8080/live/BCNUtnPe6X/0BfZhksp92/37.ts
+#EXTINF:-1,XX | SCT 2
+http://biwsat.com:8080/live/BCNUtnPe6X/0BfZhksp92/36.ts
+#EXTINF:-1,XX | SCT 3
+http://biwsat.com:8080/live/BCNUtnPe6X/0BfZhksp92/35.ts
+#EXTINF:-1,XX | Redlight HD
+http://biwsat.com:8080/live/BCNUtnPe6X/0BfZhksp92/34.ts
+#EXTINF:-1,XX | YESILCAM ADULT
+http://biwsat.com:8080/live/BCNUtnPe6X/0BfZhksp92/33.ts
+#EXTINF:-1,XX | XTV
+http://biwsat.com:8080/live/BCNUtnPe6X/0BfZhksp92/2981.ts
+#EXTINF:-1,XX | SCT1
+http://biwsat.com:8080/live/BCNUtnPe6X/0BfZhksp92/2982.ts
+#EXTINF:-1,XX | REDHOTXTU
+http://biwsat.com:8080/live/BCNUtnPe6X/0BfZhksp92/2983.ts
+#EXTINF:-1,XX | PRIVATESPACE
+http://biwsat.com:8080/live/BCNUtnPe6X/0BfZhksp92/2984.ts
+#EXTINF:-1,XX | PNOXHD
+http://biwsat.com:8080/live/BCNUtnPe6X/0BfZhksp92/2988.ts
+#EXTINF:-1,XX | PENTHOUSE (FILBOX)
+http://biwsat.com:8080/live/BCNUtnPe6X/0BfZhksp92/6323.ts
+#EXTINF:-1,XX | PENTHOUSEHD
+http://biwsat.com:8080/live/BCNUtnPe6X/0BfZhksp92/2979.ts
+#EXTINF:-1,XX | PASSIONXX
+http://biwsat.com:8080/live/BCNUtnPe6X/0BfZhksp92/2987.ts
+#EXTINF:-1,XX | MARCDORCELTV
+http://biwsat.com:8080/live/BCNUtnPe6X/0BfZhksp92/2985.ts
+#EXTINF:-1,XX | DARINGTV
+http://biwsat.com:8080/live/BCNUtnPe6X/0BfZhksp92/2980.ts
+#EXTINF:-1,XX | BABESTATIONXTREME
+http://biwsat.com:8080/live/BCNUtnPe6X/0BfZhksp92/2986.ts
+#EXTINF:-1,XX | VIP CHANNEL
+http://sutverduz.com:8080/live/nmdZ1PzWoG/9Cp4e9WgZd/48.ts
+#EXTINF:-1,XX | VIP CHANNEL 2
+http://sutverduz.com:8080/live/nmdZ1PzWoG/9Cp4e9WgZd/47.ts
+#EXTINF:-1,XX | VIP CHANNEL 3
+http://sutverduz.com:8080/live/nmdZ1PzWoG/9Cp4e9WgZd/46.ts
+#EXTINF:-1,XX | HUSTLER HD
+http://sutverduz.com:8080/live/nmdZ1PzWoG/9Cp4e9WgZd/43.ts
+#EXTINF:-1,XX | BLUE HUSTLER TV
+http://sutverduz.com:8080/live/nmdZ1PzWoG/9Cp4e9WgZd/42.ts
+#EXTINF:-1,XX | DORCEL TV HD
+http://sutverduz.com:8080/live/nmdZ1PzWoG/9Cp4e9WgZd/41.ts
+#EXTINF:-1,XX | BRAZZERS HD
+http://sutverduz.com:8080/live/nmdZ1PzWoG/9Cp4e9WgZd/40.ts
+#EXTINF:-1,XX | RU
+http://sutverduz.com:8080/live/nmdZ1PzWoG/9Cp4e9WgZd/39.ts
+#EXTINF:-1,XX | SCT HQ
+http://sutverduz.com:8080/live/nmdZ1PzWoG/9Cp4e9WgZd/38.ts
+#EXTINF:-1,XX | SCT 1
+http://sutverduz.com:8080/live/nmdZ1PzWoG/9Cp4e9WgZd/37.ts
+#EXTINF:-1,XX | SCT 2
+http://sutverduz.com:8080/live/nmdZ1PzWoG/9Cp4e9WgZd/36.ts
+#EXTINF:-1,XX | SCT 3
+http://sutverduz.com:8080/live/nmdZ1PzWoG/9Cp4e9WgZd/35.ts
+#EXTINF:-1,XX | Redlight HD
+http://sutverduz.com:8080/live/nmdZ1PzWoG/9Cp4e9WgZd/34.ts
+#EXTINF:-1,XX | YESILCAM ADULT
+http://sutverduz.com:8080/live/nmdZ1PzWoG/9Cp4e9WgZd/33.ts
+#EXTINF:-1,XX | XTV
+http://sutverduz.com:8080/live/nmdZ1PzWoG/9Cp4e9WgZd/2981.ts
+#EXTINF:-1,XX | SCT1
+http://sutverduz.com:8080/live/nmdZ1PzWoG/9Cp4e9WgZd/2982.ts
+#EXTINF:-1,XX | REDHOTSXTU
+http://sutverduz.com:8080/live/nmdZ1PzWoG/9Cp4e9WgZd/2983.ts
+#EXTINF:-1,XX | PRIVATESPACE
+http://sutverduz.com:8080/live/nmdZ1PzWoG/9Cp4e9WgZd/2984.ts
+#EXTINF:-1,XX | X 1HD
+http://sutverduz.com:8080/live/nmdZ1PzWoG/9Cp4e9WgZd/2988.ts
+#EXTINF:-1,XX | PENTHOUSE (FILBOX)
+http://sutverduz.com:8080/live/nmdZ1PzWoG/9Cp4e9WgZd/6323.ts
+#EXTINF:-1,XX | PENTHOUSEHD
+http://sutverduz.com:8080/live/nmdZ1PzWoG/9Cp4e9WgZd/2979.ts
+#EXTINF:-1,XX | PASSIONXX
+http://sutverduz.com:8080/live/nmdZ1PzWoG/9Cp4e9WgZd/2987.ts
+#EXTINF:-1,XX | MARCDORCELTV
+http://sutverduz.com:8080/live/nmdZ1PzWoG/9Cp4e9WgZd/2985.ts
+#EXTINF:-1,XX | DARINGTV
+http://sutverduz.com:8080/live/nmdZ1PzWoG/9Cp4e9WgZd/2980.ts
+#EXTINF:-1,XX | BABESTATIONXTREME
+http://sutverduz.com:8080/live/nmdZ1PzWoG/9Cp4e9WgZd/2986.ts
