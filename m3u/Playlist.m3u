@@ -1,782 +1,786 @@
 ﻿#EXTM3U
 #EXTINF:-1 radio="False" tvg-shift=0 group-title="ЕФИРНИ" tvg-logo="bnt1_hd" tvg-id="BNT1",БНТ 1 HD
-http://edge-sf-3.iptv.bulsat.com:1935/bnt/smil:bnt1_hd_mobile.smil/playlist.m3u8?bulsatCustomParameter=134076_3009630_134076_NULL_pcweb_3321c750f64dcd23909318c4661b0156_&bulsatendtime=1488600022&bulsatstarttime=1488563722&bulsathash=jOEYJ6CzPpJ7VdXvk56-U4JTp_vcutDiJDPcz-npAec=
+http://edge-sf-1.iptv.bulsat.com:1935/bnt/smil:bnt1_hd_mobile.smil/playlist.m3u8?bulsatCustomParameter=134076_3009630_134076_NULL_pcweb_b5a046cc508d0486c7ff650520da2678_&bulsatendtime=1488683077&bulsatstarttime=1488646777&bulsathash=3oJP_0mrXB9xBQNNl-6Ju8DpqDalgqRK2d7eo615RuM=
 #EXTINF:-1 radio="False" tvg-shift=0 group-title="ЕФИРНИ" tvg-logo="btv" tvg-id="bTV",bTV HD
-http://edge-sf-1.iptv.bulsat.com:1935/btv/smil:btv_mobile.smil/playlist.m3u8?bulsatCustomParameter=134076_3009630_134076_NULL_pcweb_3321c750f64dcd23909318c4661b0156_&bulsatendtime=1488600022&bulsatstarttime=1488563722&bulsathash=UJyDYHahufe64e8z8X3gm2s0Xc5QA44lqqwedRHzYzI=
+http://edge-sf-8.iptv.bulsat.com:1935/btv/smil:btv_mobile.smil/playlist.m3u8?bulsatCustomParameter=134076_3009630_134076_NULL_pcweb_b5a046cc508d0486c7ff650520da2678_&bulsatendtime=1488683077&bulsatstarttime=1488646777&bulsathash=10iJJAAZJZUplAf_xKqTYjcmRYdrTahU2mQ3UcYUrgo=
 #EXTINF:-1 radio="False" tvg-shift=0 group-title="ЕФИРНИ" tvg-logo="novatv" tvg-id="Nova",Nova TV
-http://edge-sf-1.iptv.bulsat.com:1935/nova/smil:novatv_mobile.smil/playlist.m3u8?bulsatCustomParameter=134076_3009630_134076_NULL_pcweb_3321c750f64dcd23909318c4661b0156_&bulsatendtime=1488600022&bulsatstarttime=1488563722&bulsathash=J4IHd0t0ORtZ5UlhQv-rYKmm-T-ISAF3Te72j7WKqhk=
+http://edge-sf-1.iptv.bulsat.com:1935/nova/smil:novatv_mobile.smil/playlist.m3u8?bulsatCustomParameter=134076_3009630_134076_NULL_pcweb_b5a046cc508d0486c7ff650520da2678_&bulsatendtime=1488683077&bulsatstarttime=1488646777&bulsathash=Zk5hjKkMGUn0owPUz2fihraGGmIxhneVeyHh3ghc9DE=
 #EXTINF:-1 radio="False" tvg-shift=0 group-title="ЕФИРНИ" tvg-logo="tvplus" tvg-id="TVPlus",TV+
-http://edge-sf-1.iptv.bulsat.com:1935/tv6/smil:tvplus_mobile.smil/playlist.m3u8?bulsatCustomParameter=134076_3009630_134076_NULL_pcweb_3321c750f64dcd23909318c4661b0156_&bulsatendtime=1488600022&bulsatstarttime=1488563722&bulsathash=wQbq5VZgXQ7bgUtSluSYVVDsmhcqR8So69U9KiD2rkE=
+http://edge-sf-8.iptv.bulsat.com:1935/tv6/smil:tvplus_mobile.smil/playlist.m3u8?bulsatCustomParameter=134076_3009630_134076_NULL_pcweb_b5a046cc508d0486c7ff650520da2678_&bulsatendtime=1488683077&bulsatstarttime=1488646777&bulsathash=W8Pumdu_BQQJ0vtttXGRkJP-S-zHDYId-JHDRG7x38M=
 #EXTINF:-1 radio="False" tvg-shift=0 group-title="ЕФИРНИ" tvg-logo="bnt2" tvg-id="BNT2",БНТ 2
-http://edge-sf-8.iptv.bulsat.com:1935/bnt/smil:bnt2_mobile.smil/playlist.m3u8?bulsatCustomParameter=134076_3009630_134076_NULL_pcweb_3321c750f64dcd23909318c4661b0156_&bulsatendtime=1488600022&bulsatstarttime=1488563722&bulsathash=YJ2CGc6ecXWzJfj19BX66BobubQFLUHmIKNB27165hw=
+http://edge-sf-8.iptv.bulsat.com:1935/bnt/smil:bnt2_mobile.smil/playlist.m3u8?bulsatCustomParameter=134076_3009630_134076_NULL_pcweb_b5a046cc508d0486c7ff650520da2678_&bulsatendtime=1488683077&bulsatstarttime=1488646777&bulsathash=csZmwX38fXnItB5DJ974FY9Mvo0tWgIIWcoHaAZe0UU=
 #EXTINF:-1 radio="False" tvg-shift=0 group-title="ЕФИРНИ" tvg-logo="bntworld" tvg-id="BNTWorld",BNT world
-http://edge-sf-1.iptv.bulsat.com:1935/bnt/smil:bntworld_mobile.smil/playlist.m3u8?bulsatCustomParameter=134076_3009630_134076_NULL_pcweb_3321c750f64dcd23909318c4661b0156_&bulsatendtime=1488600022&bulsatstarttime=1488563722&bulsathash=4RNTZVbh0w52IcuBSC8BDr4hh-FJ-3LUBbHFsPvW4kA=
+http://edge-sf-8.iptv.bulsat.com:1935/bnt/smil:bntworld_mobile.smil/playlist.m3u8?bulsatCustomParameter=134076_3009630_134076_NULL_pcweb_b5a046cc508d0486c7ff650520da2678_&bulsatendtime=1488683077&bulsatstarttime=1488646777&bulsathash=c3u2-L-vaSgMlTCy4BtIcBPi0pEnGoeoCkXunINl6io=
 #EXTINF:-1 radio="False" tvg-shift=0 group-title="ЕФИРНИ" tvg-logo="bit" tvg-id="BiT",BiT
-http://edge-sf-1.iptv.bulsat.com:1935/tv4/smil:bit_mobile.smil/playlist.m3u8?bulsatCustomParameter=134076_3009630_134076_NULL_pcweb_3321c750f64dcd23909318c4661b0156_&bulsatendtime=1488600022&bulsatstarttime=1488563722&bulsathash=RYXPxmA3a1UhOvHw5SkHfy1ED4n5BCxVLAZ9wmtHUBM=
+http://edge-sf-3.iptv.bulsat.com:1935/tv4/smil:bit_mobile.smil/playlist.m3u8?bulsatCustomParameter=134076_3009630_134076_NULL_pcweb_b5a046cc508d0486c7ff650520da2678_&bulsatendtime=1488683077&bulsatstarttime=1488646777&bulsathash=hUlGGUC-nFPKxVLSB4AYzhziQV3erq5wYHBSPLgSUS4=
 #EXTINF:-1 radio="False" tvg-shift=0 group-title="ЕФИРНИ" tvg-logo="tvevropa" tvg-id="tveurope",ТВ Европа
-http://edge-sf-1.iptv.bulsat.com:1935/tv2/smil:tvevropa_mobile.smil/playlist.m3u8?bulsatCustomParameter=134076_3009630_134076_NULL_pcweb_3321c750f64dcd23909318c4661b0156_&bulsatendtime=1488600022&bulsatstarttime=1488563722&bulsathash=MUok-5dCKyFDD3dtYvzCy3l6qN1vrapJbSrdCie2RPI=
+http://edge-sf-3.iptv.bulsat.com:1935/tv2/smil:tvevropa_mobile.smil/playlist.m3u8?bulsatCustomParameter=134076_3009630_134076_NULL_pcweb_b5a046cc508d0486c7ff650520da2678_&bulsatendtime=1488683077&bulsatstarttime=1488646777&bulsathash=PipxsIHidzi3l6geOEIiPlhgTiWq-GHYv357fMD1vjQ=
 #EXTINF:-1 radio="False" tvg-shift=0 group-title="ЕФИРНИ" tvg-logo="bnt_hd" tvg-id="BNTHD",БНТ HD
-http://edge-sf-8.iptv.bulsat.com:1935/sport1/smil:bnt_hd_mobile.smil/playlist.m3u8?bulsatCustomParameter=134076_3009630_134076_NULL_pcweb_3321c750f64dcd23909318c4661b0156_&bulsatendtime=1488600022&bulsatstarttime=1488563722&bulsathash=k-F-lPiIM1Ak2Qid_KoGhXp0yaLLPGTl9eADxwHiQTI=
+http://edge-sf-1.iptv.bulsat.com:1935/sport1/smil:bnt_hd_mobile.smil/playlist.m3u8?bulsatCustomParameter=134076_3009630_134076_NULL_pcweb_b5a046cc508d0486c7ff650520da2678_&bulsatendtime=1488683077&bulsatstarttime=1488646777&bulsathash=jevtz0EI2IrxqtHTmVU5eNInbIZeUzLIEC0Ypti2bII=
 #EXTINF:-1 radio="False" tvg-shift=0 group-title="ЕФИРНИ" tvg-logo="kanal_3" tvg-id="Kanal3",Kanal 3
-http://edge-sf-1.iptv.bulsat.com:1935/tv7/smil:kanal_3_mobile.smil/playlist.m3u8?bulsatCustomParameter=134076_3009630_134076_NULL_pcweb_3321c750f64dcd23909318c4661b0156_&bulsatendtime=1488600022&bulsatstarttime=1488563722&bulsathash=miiW4bzw8xtNZAukEVavwcuspgNCvNeP6QJmcfna6VM=
+http://edge-sf-8.iptv.bulsat.com:1935/tv7/smil:kanal_3_mobile.smil/playlist.m3u8?bulsatCustomParameter=134076_3009630_134076_NULL_pcweb_b5a046cc508d0486c7ff650520da2678_&bulsatendtime=1488683077&bulsatstarttime=1488646777&bulsathash=3Wq-psfsldkTx4PMf880xBaCdRN_6UDhPY8E7NYv154=
 #EXTINF:-1 radio="False" tvg-shift=0 group-title="ЕФИРНИ" tvg-logo="skat" tvg-id="Skat",Skat
-http://edge-sf-1.iptv.bulsat.com:1935/tv7/smil:skat_mobile.smil/playlist.m3u8?bulsatCustomParameter=134076_3009630_134076_NULL_pcweb_3321c750f64dcd23909318c4661b0156_&bulsatendtime=1488600022&bulsatstarttime=1488563722&bulsathash=FEtQYirv56nS9zZN3Yacvso6sqaK6-tv1X4g_gV2-ac=
+http://edge-sf-1.iptv.bulsat.com:1935/tv7/smil:skat_mobile.smil/playlist.m3u8?bulsatCustomParameter=134076_3009630_134076_NULL_pcweb_b5a046cc508d0486c7ff650520da2678_&bulsatendtime=1488683077&bulsatstarttime=1488646777&bulsathash=JCt5khAnouKl-SOpZ2TNc2LiriHXuDvBQW9GjI-ceqg=
 #EXTINF:-1 radio="False" tvg-shift=0 group-title="ЕФИРНИ" tvg-logo="alfa" tvg-id="Alfa",Alfa
-http://edge-sf-3.iptv.bulsat.com:1935/tv6/smil:alfa_mobile.smil/playlist.m3u8?bulsatCustomParameter=134076_3009630_134076_NULL_pcweb_3321c750f64dcd23909318c4661b0156_&bulsatendtime=1488600022&bulsatstarttime=1488563722&bulsathash=5vT7gyqBxJ4kMfwdjfrDgwvSGSswxLw-7Hw7I3OidjM=
+http://edge-sf-8.iptv.bulsat.com:1935/tv6/smil:alfa_mobile.smil/playlist.m3u8?bulsatCustomParameter=134076_3009630_134076_NULL_pcweb_b5a046cc508d0486c7ff650520da2678_&bulsatendtime=1488683077&bulsatstarttime=1488646777&bulsathash=B6poqmDQvjSdkhk-9A_v900X-medDSH8rmLmXJzrn48=
 #EXTINF:-1 radio="False" tvg-shift=0 group-title="ЕФИРНИ" tvg-logo="bulgaria_on_air" tvg-id="BulgariaOnAir",Bulgaria ON Air
-http://edge-sf-1.iptv.bulsat.com:1935/tv8/smil:bulgaria_on_air_mobile.smil/playlist.m3u8?bulsatCustomParameter=134076_3009630_134076_NULL_pcweb_3321c750f64dcd23909318c4661b0156_&bulsatendtime=1488600022&bulsatstarttime=1488563722&bulsathash=_snvj_Iiw7saD3v0HIWajx3vJVwaKl1ybEwxHxkVI2o=
+http://edge-sf-3.iptv.bulsat.com:1935/tv8/smil:bulgaria_on_air_mobile.smil/playlist.m3u8?bulsatCustomParameter=134076_3009630_134076_NULL_pcweb_b5a046cc508d0486c7ff650520da2678_&bulsatendtime=1488683077&bulsatstarttime=1488646777&bulsathash=FJAK-YTsVF6e-dvdnOwgpTWAnO0VjXDs0kmoIYwTLoE=
 #EXTINF:-1 radio="False" tvg-shift=0 group-title="ЕФИРНИ" tvg-logo="evrokom" tvg-id="Eurocom",Evrokom
-http://edge-sf-1.iptv.bulsat.com:1935/tv2/smil:evrokom_mobile.smil/playlist.m3u8?bulsatCustomParameter=134076_3009630_134076_NULL_pcweb_3321c750f64dcd23909318c4661b0156_&bulsatendtime=1488600022&bulsatstarttime=1488563722&bulsathash=UnankTFmxDVge-mD90c76rimXGkr_-aLoB0gLFIHQXY=
+http://edge-sf-1.iptv.bulsat.com:1935/tv2/smil:evrokom_mobile.smil/playlist.m3u8?bulsatCustomParameter=134076_3009630_134076_NULL_pcweb_b5a046cc508d0486c7ff650520da2678_&bulsatendtime=1488683077&bulsatstarttime=1488646777&bulsathash=gKtcReTUYfkN0kklwv4S6PJXffEs_JBM35VRSc-EOH4=
 #EXTINF:-1 radio="False" tvg-shift=0 group-title="ЕФИРНИ" tvg-logo="bulgaria24" tvg-id="news",Bulgaria 24
-http://edge-sf-8.iptv.bulsat.com:1935/tv2/smil:bulgaria24_mobile.smil/playlist.m3u8?bulsatCustomParameter=134076_3009630_134076_NULL_pcweb_3321c750f64dcd23909318c4661b0156_&bulsatendtime=1488600022&bulsatstarttime=1488563722&bulsathash=ADvmFnpuv7ZoRTZVNQ-aG3whTXsocqjNkypg3RVLjaU=
+http://edge-sf-3.iptv.bulsat.com:1935/tv2/smil:bulgaria24_mobile.smil/playlist.m3u8?bulsatCustomParameter=134076_3009630_134076_NULL_pcweb_b5a046cc508d0486c7ff650520da2678_&bulsatendtime=1488683077&bulsatstarttime=1488646777&bulsathash=8Zh7D0SrE70v5vpEeT_ajWsILFpWNmJ9l4n4ymhwZUk=
 #EXTINF:-1 radio="False" tvg-shift=0 group-title="Спортни" tvg-logo="diema" tvg-id="Diema",Diema
-http://edge-sf-8.iptv.bulsat.com:1935/nova/smil:diema_mobile.smil/playlist.m3u8?bulsatCustomParameter=134076_3009630_134076_NULL_pcweb_3321c750f64dcd23909318c4661b0156_&bulsatendtime=1488600022&bulsatstarttime=1488563722&bulsathash=zHojA6ube_BWPuI1LQkj_vLQLqN4w9X12e9DWPBnGjw=
+http://edge-sf-1.iptv.bulsat.com:1935/nova/smil:diema_mobile.smil/playlist.m3u8?bulsatCustomParameter=134076_3009630_134076_NULL_pcweb_b5a046cc508d0486c7ff650520da2678_&bulsatendtime=1488683077&bulsatstarttime=1488646777&bulsathash=dSwof6k2Ugq35R1rIsW-HBYC8kLlFtHtZo2YGl8rvi8=
 #EXTINF:-1 radio="False" tvg-shift=0 group-title="Спортни" tvg-logo="filmplushd" tvg-id="SportPlusHD",SPORT+ HD
-http://edge-sf-1.iptv.bulsat.com:1935/sport4/smil:filmplushd_mobile.smil/playlist.m3u8?bulsatCustomParameter=134076_3009630_134076_NULL_pcweb_3321c750f64dcd23909318c4661b0156_&bulsatendtime=1488600022&bulsatstarttime=1488563722&bulsathash=emtmegbmQ6qPsd1yGpooOCpxa6AlPafXYRY3zqR7xTA=
+http://edge-sf-1.iptv.bulsat.com:1935/sport4/smil:filmplushd_mobile.smil/playlist.m3u8?bulsatCustomParameter=134076_3009630_134076_NULL_pcweb_b5a046cc508d0486c7ff650520da2678_&bulsatendtime=1488683077&bulsatstarttime=1488646777&bulsathash=MPxbcCqYrel6pgTpOrofjc8jms-Z4t5owUMY_aol9b8=
 #EXTINF:-1 radio="False" tvg-shift=0 group-title="Спортни" tvg-logo="filmplus" tvg-id="FPlus",F+
-http://edge-sf-1.iptv.bulsat.com:1935/sport3/smil:filmplus_mobile.smil/playlist.m3u8?bulsatCustomParameter=134076_3009630_134076_NULL_pcweb_3321c750f64dcd23909318c4661b0156_&bulsatendtime=1488600022&bulsatstarttime=1488563722&bulsathash=hlHcW8kBDwTGjWaHTwFMIQosuKp0cCuC1GVvljWLES4=
+http://edge-sf-1.iptv.bulsat.com:1935/sport3/smil:filmplus_mobile.smil/playlist.m3u8?bulsatCustomParameter=134076_3009630_134076_NULL_pcweb_b5a046cc508d0486c7ff650520da2678_&bulsatendtime=1488683077&bulsatstarttime=1488646777&bulsathash=4x41p7bHAeFSCChfnDlxbjKJx1vTomcdjdsTzqqmzH8=
 #EXTINF:-1 radio="False" tvg-shift=0 group-title="Спортни" tvg-logo="eurosport" tvg-id="Eurosport1",Eurosport
-http://edge-sf-1.iptv.bulsat.com:1935/sport3/smil:eurosport_mobile.smil/playlist.m3u8?bulsatCustomParameter=134076_3009630_134076_NULL_pcweb_3321c750f64dcd23909318c4661b0156_&bulsatendtime=1488600022&bulsatstarttime=1488563722&bulsathash=yhvZhnZ-mmy53M7Y60CFDOoxLXfB7DUrez8bR6CdKhk=
+http://edge-sf-1.iptv.bulsat.com:1935/sport3/smil:eurosport_mobile.smil/playlist.m3u8?bulsatCustomParameter=134076_3009630_134076_NULL_pcweb_b5a046cc508d0486c7ff650520da2678_&bulsatendtime=1488683077&bulsatstarttime=1488646777&bulsathash=5vf5V7E-GPBzniK-6uFJT7Hh-tFg3mm1E4j7snUTmpQ=
 #EXTINF:-1 radio="False" tvg-shift=0 group-title="Спортни" tvg-logo="eurosport2" tvg-id="Eurosport2",Eurosport 2 HD
-http://edge-sf-3.iptv.bulsat.com:1935/sport4/smil:eurosport2_mobile.smil/playlist.m3u8?bulsatCustomParameter=134076_3009630_134076_NULL_pcweb_3321c750f64dcd23909318c4661b0156_&bulsatendtime=1488600022&bulsatstarttime=1488563722&bulsathash=eXp453gohzBho8omAzJDiKPucz0DLQh2ETW8GwX7P3o=
+http://edge-sf-1.iptv.bulsat.com:1935/sport4/smil:eurosport2_mobile.smil/playlist.m3u8?bulsatCustomParameter=134076_3009630_134076_NULL_pcweb_b5a046cc508d0486c7ff650520da2678_&bulsatendtime=1488683077&bulsatstarttime=1488646777&bulsathash=43d-7QfBjDi8eIQK-IfCg2hbRv3szruhXi9Hxuz_C-E=
 #EXTINF:-1 radio="False" tvg-shift=0 group-title="Спортни" tvg-logo="btv_action" tvg-id="bTVAction",bTV Action
-http://edge-sf-8.iptv.bulsat.com:1935/sport1/smil:btv_action_mobile.smil/playlist.m3u8?bulsatCustomParameter=134076_3009630_134076_NULL_pcweb_3321c750f64dcd23909318c4661b0156_&bulsatendtime=1488600022&bulsatstarttime=1488563722&bulsathash=y0c5AGH5hmdn9Yqm8XQtFCZmoFBJXHjnedbW5BTxrxs=
+http://edge-sf-1.iptv.bulsat.com:1935/sport1/smil:btv_action_mobile.smil/playlist.m3u8?bulsatCustomParameter=134076_3009630_134076_NULL_pcweb_b5a046cc508d0486c7ff650520da2678_&bulsatendtime=1488683077&bulsatstarttime=1488646777&bulsathash=nDoO7wL-WZ727sGzslLIE2WFnzBEBiX4spcfSi4W0u8=
 #EXTINF:-1 radio="False" tvg-shift=0 group-title="Спортни" tvg-logo="ringbg" tvg-id="RING",Ring HD
-http://edge-sf-8.iptv.bulsat.com:1935/sport1/smil:ringbg_mobile.smil/playlist.m3u8?bulsatCustomParameter=134076_3009630_134076_NULL_pcweb_3321c750f64dcd23909318c4661b0156_&bulsatendtime=1488600022&bulsatstarttime=1488563722&bulsathash=kAJ_bB6snOcp3CRlfuKUzu8Y5KNdDGH095LVf_b9hSw=
+http://edge-sf-1.iptv.bulsat.com:1935/sport1/smil:ringbg_mobile.smil/playlist.m3u8?bulsatCustomParameter=134076_3009630_134076_NULL_pcweb_b5a046cc508d0486c7ff650520da2678_&bulsatendtime=1488683077&bulsatstarttime=1488646777&bulsathash=qMTQs_xZBvQ1e-SutUFICoACBkQGAAWx6RHqDxtgnA0=
 #EXTINF:-1 radio="False" tvg-shift=0 group-title="Спортни" tvg-logo="novasporthd" tvg-id="NovaSport",Nova Sport HD
-http://edge-sf-1.iptv.bulsat.com:1935/sport2/smil:novasporthd_mobile.smil/playlist.m3u8?bulsatCustomParameter=134076_3009630_134076_NULL_pcweb_3321c750f64dcd23909318c4661b0156_&bulsatendtime=1488600022&bulsatstarttime=1488563722&bulsathash=hSX637hawU5U-Vfxt4EE-KAafyN78kY_kJPOm9cE8tw=
+http://edge-sf-8.iptv.bulsat.com:1935/sport2/smil:novasporthd_mobile.smil/playlist.m3u8?bulsatCustomParameter=134076_3009630_134076_NULL_pcweb_b5a046cc508d0486c7ff650520da2678_&bulsatendtime=1488683077&bulsatstarttime=1488646777&bulsathash=yisQ_d9LBOirAeRD3Qi67w6dG8IbT3JtOYV6vS1u-c4=
 #EXTINF:-1 radio="False" tvg-shift=0 group-title="Спортни" tvg-logo="sportaltv" tvg-id="sportaltv",Sportal HD
-http://edge-sf-1.iptv.bulsat.com:1935/tv4/smil:sportaltv_mobile.smil/playlist.m3u8?bulsatCustomParameter=134076_3009630_134076_NULL_pcweb_3321c750f64dcd23909318c4661b0156_&bulsatendtime=1488600022&bulsatstarttime=1488563722&bulsathash=ks9FbyseaSdniQldyUwLwkMys6ejo1zk9C2MMtsk_QI=
+http://edge-sf-1.iptv.bulsat.com:1935/tv4/smil:sportaltv_mobile.smil/playlist.m3u8?bulsatCustomParameter=134076_3009630_134076_NULL_pcweb_b5a046cc508d0486c7ff650520da2678_&bulsatendtime=1488683077&bulsatstarttime=1488646777&bulsathash=5aaOguLL-9nTYKCW0p0p9aqvYt7w6JxSqQV947dCwN8=
 #EXTINF:-1 radio="False" tvg-shift=0 group-title="Спортни" tvg-logo="avto_moto_bg_hd" tvg-id="MotoSportHD",Мотоспорт HD
-http://edge-sf-3.iptv.bulsat.com:1935/tv2/smil:avto_moto_bg_hd_mobile.smil/playlist.m3u8?bulsatCustomParameter=134076_3009630_134076_NULL_pcweb_3321c750f64dcd23909318c4661b0156_&bulsatendtime=1488600022&bulsatstarttime=1488563722&bulsathash=M1HAbpLKNIG7ZzLv-HgNU7YHqSJ0-M8Ud1lo_laMJdk=
+http://edge-sf-3.iptv.bulsat.com:1935/tv2/smil:avto_moto_bg_hd_mobile.smil/playlist.m3u8?bulsatCustomParameter=134076_3009630_134076_NULL_pcweb_b5a046cc508d0486c7ff650520da2678_&bulsatendtime=1488683077&bulsatstarttime=1488646777&bulsathash=-e6P7kX78wuZANaVI2jsGVj3de3yX_4Lq50YtDfhhuU=
 #EXTINF:-1 radio="False" tvg-shift=0 group-title="Спортни" tvg-logo="ams_hd" tvg-id="AutoMotorSport",AMS HD
-http://edge-sf-8.iptv.bulsat.com:1935/tv9/smil:ams_hd_mobile.smil/playlist.m3u8?bulsatCustomParameter=134076_3009630_134076_NULL_pcweb_3321c750f64dcd23909318c4661b0156_&bulsatendtime=1488600022&bulsatstarttime=1488563722&bulsathash=X58AriQCB9eDdf7gBDupUu_0-KWTSIRCv1ztj6MgGno=
+http://edge-sf-8.iptv.bulsat.com:1935/tv9/smil:ams_hd_mobile.smil/playlist.m3u8?bulsatCustomParameter=134076_3009630_134076_NULL_pcweb_b5a046cc508d0486c7ff650520da2678_&bulsatendtime=1488683077&bulsatstarttime=1488646777&bulsathash=fdEYv75lzoRdWK9wHTQyABokS52UH1N1Qzw2J3d_7W0=
 #EXTINF:-1 radio="False" tvg-shift=0 group-title="Спортни" tvg-logo="fight_world_hd" tvg-id="fight_world_hd",Fight World HD
-http://edge-sf-3.iptv.bulsat.com:1935/tv5/smil:fight_world_hd_mobile.smil/playlist.m3u8?bulsatCustomParameter=134076_3009630_134076_NULL_pcweb_3321c750f64dcd23909318c4661b0156_&bulsatendtime=1488600022&bulsatstarttime=1488563722&bulsathash=4sVf11Yw1KrBD6DoLpgsAO3rGK3t271M_zfRJ6fWgPE=
+http://edge-sf-3.iptv.bulsat.com:1935/tv5/smil:fight_world_hd_mobile.smil/playlist.m3u8?bulsatCustomParameter=134076_3009630_134076_NULL_pcweb_b5a046cc508d0486c7ff650520da2678_&bulsatendtime=1488683077&bulsatstarttime=1488646777&bulsathash=Hx1rRGtaIoQDTanCfLYb9PV-oS3HVq8Gf4WMuAfdBoY=
 #EXTINF:-1 radio="False" tvg-shift=0 group-title="Спортни" tvg-logo="fastfunbox" tvg-id="FastnFunBoxHD",Fast&amp;FunBox HD
-http://edge-sf-1.iptv.bulsat.com:1935/tv7/smil:fastfunbox_mobile.smil/playlist.m3u8?bulsatCustomParameter=134076_3009630_134076_NULL_pcweb_3321c750f64dcd23909318c4661b0156_&bulsatendtime=1488600022&bulsatstarttime=1488563722&bulsathash=IN40zLDI-y-sJsxZ6sH4ic0E7RuwJNuFbdF3aCawc7c=
+http://edge-sf-8.iptv.bulsat.com:1935/tv7/smil:fastfunbox_mobile.smil/playlist.m3u8?bulsatCustomParameter=134076_3009630_134076_NULL_pcweb_b5a046cc508d0486c7ff650520da2678_&bulsatendtime=1488683077&bulsatstarttime=1488646777&bulsathash=RiJKJJg3VaqD7_KoTOSy8yhlwlseWKE7buws4Y_v02k=
 #EXTINF:-1 radio="False" tvg-shift=0 group-title="Спортни" tvg-logo="fightbox" tvg-id="FightBox",Fight Box HD
-http://edge-sf-8.iptv.bulsat.com:1935/tv12/smil:fightbox_mobile.smil/playlist.m3u8?bulsatCustomParameter=134076_3009630_134076_NULL_pcweb_3321c750f64dcd23909318c4661b0156_&bulsatendtime=1488600022&bulsatstarttime=1488563722&bulsathash=IiQqSF7_8sF0PMFYPLrxLbUNfacGX5dkZJodFj9GUgY=
+http://edge-sf-8.iptv.bulsat.com:1935/tv12/smil:fightbox_mobile.smil/playlist.m3u8?bulsatCustomParameter=134076_3009630_134076_NULL_pcweb_b5a046cc508d0486c7ff650520da2678_&bulsatendtime=1488683077&bulsatstarttime=1488646777&bulsathash=h7cfoRDAtqzFZuaiVzERb0SAJ6C40EscflkJIoZrFwA=
 #EXTINF:-1 radio="False" tvg-shift=0 group-title="Научни" tvg-logo="discovery_hd" tvg-id="DiscoveryHDShowcase",Discovery HD
-http://edge-sf-8.iptv.bulsat.com:1935/tv6/smil:discovery_hd_mobile.smil/playlist.m3u8?bulsatCustomParameter=134076_3009630_134076_NULL_pcweb_3321c750f64dcd23909318c4661b0156_&bulsatendtime=1488600022&bulsatstarttime=1488563722&bulsathash=D7gL_eYqPP0sb1SV45o7F6Qy9tKan-Dcf1bWLlYcMQM=
+http://edge-sf-8.iptv.bulsat.com:1935/tv6/smil:discovery_hd_mobile.smil/playlist.m3u8?bulsatCustomParameter=134076_3009630_134076_NULL_pcweb_b5a046cc508d0486c7ff650520da2678_&bulsatendtime=1488683077&bulsatstarttime=1488646777&bulsathash=F0F_01RLBniJU-L8udnV9UFP5Z9D07kMfdXB01pEm8o=
 #EXTINF:-1 radio="False" tvg-shift=0 group-title="Научни" tvg-logo="discovery" tvg-id="Discovery",Discovery channel
-http://edge-sf-3.iptv.bulsat.com:1935/tv6/smil:discovery_mobile.smil/playlist.m3u8?bulsatCustomParameter=134076_3009630_134076_NULL_pcweb_3321c750f64dcd23909318c4661b0156_&bulsatendtime=1488600022&bulsatstarttime=1488563722&bulsathash=Ibxru3XWbIu2_VRLKWobyKfuYCagJ1qpsNe7nbAMEW8=
+http://edge-sf-1.iptv.bulsat.com:1935/tv6/smil:discovery_mobile.smil/playlist.m3u8?bulsatCustomParameter=134076_3009630_134076_NULL_pcweb_b5a046cc508d0486c7ff650520da2678_&bulsatendtime=1488683077&bulsatstarttime=1488646777&bulsathash=JQhJseSj6ZN5l3DaRgT4c2oQ1EtijpyRzm52zrT9tF4=
 #EXTINF:-1 radio="False" tvg-shift=0 group-title="Научни" tvg-logo="discovery_science" tvg-id="DiscoveryScience",Science
-http://edge-sf-3.iptv.bulsat.com:1935/tv9/smil:discovery_science_mobile.smil/playlist.m3u8?bulsatCustomParameter=134076_3009630_134076_NULL_pcweb_3321c750f64dcd23909318c4661b0156_&bulsatendtime=1488600022&bulsatstarttime=1488563722&bulsathash=nHl6JELKSoX_c5VuKn38o3btvuRquj3mGBIO4k7lh5U=
+http://edge-sf-1.iptv.bulsat.com:1935/tv9/smil:discovery_science_mobile.smil/playlist.m3u8?bulsatCustomParameter=134076_3009630_134076_NULL_pcweb_b5a046cc508d0486c7ff650520da2678_&bulsatendtime=1488683077&bulsatstarttime=1488646777&bulsathash=uIO8erLRn7F1Q1dvLt6sSqsgTggLmhRms2tGhBI2y-M=
 #EXTINF:-1 radio="False" tvg-shift=0 group-title="Научни" tvg-logo="discovery_world" tvg-id="DiscoveryWorld",Discovery World
-http://edge-sf-8.iptv.bulsat.com:1935/tv9/smil:discovery_world_mobile.smil/playlist.m3u8?bulsatCustomParameter=134076_3009630_134076_NULL_pcweb_3321c750f64dcd23909318c4661b0156_&bulsatendtime=1488600022&bulsatstarttime=1488563722&bulsathash=Zr11DG_mh55T7xnAxo9oqQK-WDfCIOUurVq0BVcmy84=
+http://edge-sf-1.iptv.bulsat.com:1935/tv9/smil:discovery_world_mobile.smil/playlist.m3u8?bulsatCustomParameter=134076_3009630_134076_NULL_pcweb_b5a046cc508d0486c7ff650520da2678_&bulsatendtime=1488683077&bulsatstarttime=1488646777&bulsathash=7oTiiMFMCCXPaPNSMK6G1mf_7CMz-hFTX-GElKqub3U=
 #EXTINF:-1 radio="False" tvg-shift=0 group-title="Научни" tvg-logo="hobby_tv_hd" tvg-id="HobbyTVHD",Hobby TV HD
-http://edge-sf-8.iptv.bulsat.com:1935/tv7/smil:hobby_tv_hd_mobile.smil/playlist.m3u8?bulsatCustomParameter=134076_3009630_134076_NULL_pcweb_3321c750f64dcd23909318c4661b0156_&bulsatendtime=1488600022&bulsatstarttime=1488563722&bulsathash=Uv90_n1PO-FImXaXTCJIA-R2P6-ocX1Qnodsth0ASjw=
+http://edge-sf-8.iptv.bulsat.com:1935/tv7/smil:hobby_tv_hd_mobile.smil/playlist.m3u8?bulsatCustomParameter=134076_3009630_134076_NULL_pcweb_b5a046cc508d0486c7ff650520da2678_&bulsatendtime=1488683077&bulsatstarttime=1488646777&bulsathash=c8gZdu8YCm7ddp0huW4_H76a1uCpWJzzb-4LBqfCGPk=
 #EXTINF:-1 radio="False" tvg-shift=0 group-title="Научни" tvg-logo="hobbytv" tvg-id="HobbyTV",Hobby TV
-http://edge-sf-1.iptv.bulsat.com:1935/tv2/smil:hobbytv_mobile.smil/playlist.m3u8?bulsatCustomParameter=134076_3009630_134076_NULL_pcweb_3321c750f64dcd23909318c4661b0156_&bulsatendtime=1488600022&bulsatstarttime=1488563722&bulsathash=Yv5782MRK4ZLYND71lx0cVek2-qJT_33UMKXlhH9zgg=
+http://edge-sf-1.iptv.bulsat.com:1935/tv2/smil:hobbytv_mobile.smil/playlist.m3u8?bulsatCustomParameter=134076_3009630_134076_NULL_pcweb_b5a046cc508d0486c7ff650520da2678_&bulsatendtime=1488683077&bulsatstarttime=1488646777&bulsathash=iOjqMbDvXIYEn_7Gksb7cjukhKvQBqsPmfd9RcLL6EQ=
 #EXTINF:-1 radio="False" tvg-shift=0 group-title="Научни" tvg-logo="hobby_lov_hd" tvg-id="HobbyLovHD",Hobby lov HD
-http://edge-sf-1.iptv.bulsat.com:1935/tv2/smil:hobby_lov_hd_mobile.smil/playlist.m3u8?bulsatCustomParameter=134076_3009630_134076_NULL_pcweb_3321c750f64dcd23909318c4661b0156_&bulsatendtime=1488600022&bulsatstarttime=1488563722&bulsathash=bpiV_dmWwWHphDE1vTxWVXgTg5HA2nkz8By2ZAaKD-w=
+http://edge-sf-1.iptv.bulsat.com:1935/tv2/smil:hobby_lov_hd_mobile.smil/playlist.m3u8?bulsatCustomParameter=134076_3009630_134076_NULL_pcweb_b5a046cc508d0486c7ff650520da2678_&bulsatendtime=1488683077&bulsatstarttime=1488646777&bulsathash=U6ITW-_EniETCxQlwVpC-FKNsLwD0LWihIz1Z1ZTge0=
 #EXTINF:-1 radio="False" tvg-shift=0 group-title="Научни" tvg-logo="nat_geo_hd" tvg-id="NatGeo",NGC HD
-http://edge-sf-8.iptv.bulsat.com:1935/tv6/smil:nat_geo_hd_mobile.smil/playlist.m3u8?bulsatCustomParameter=134076_3009630_134076_NULL_pcweb_3321c750f64dcd23909318c4661b0156_&bulsatendtime=1488600022&bulsatstarttime=1488563722&bulsathash=3AcVCz_VeO8UE-nn_DD44-CqpJDS2GqbEJNa0YpzsEg=
+http://edge-sf-1.iptv.bulsat.com:1935/tv6/smil:nat_geo_hd_mobile.smil/playlist.m3u8?bulsatCustomParameter=134076_3009630_134076_NULL_pcweb_b5a046cc508d0486c7ff650520da2678_&bulsatendtime=1488683077&bulsatstarttime=1488646777&bulsathash=Z2sIBF1soKjwysImTr3xspa5RZdm5oUcjUt9wJ2vYOM=
 #EXTINF:-1 radio="False" tvg-shift=0 group-title="Научни" tvg-logo="nat_geo_wild" tvg-id="NatGeoWild",National Geogrphic WILD HD
-http://edge-sf-3.iptv.bulsat.com:1935/tv6/smil:nat_geo_wild_mobile.smil/playlist.m3u8?bulsatCustomParameter=134076_3009630_134076_NULL_pcweb_3321c750f64dcd23909318c4661b0156_&bulsatendtime=1488600022&bulsatstarttime=1488563722&bulsathash=zguZcTbjlaBPr0vnjx3qxL4IPKuPusLCcWqb0h2i-xA=
+http://edge-sf-8.iptv.bulsat.com:1935/tv6/smil:nat_geo_wild_mobile.smil/playlist.m3u8?bulsatCustomParameter=134076_3009630_134076_NULL_pcweb_b5a046cc508d0486c7ff650520da2678_&bulsatendtime=1488683077&bulsatstarttime=1488646777&bulsathash=1YJqk7APUB8uM-Iy0w9iMyJqSniPPhxMET5ODHr67bg=
 #EXTINF:-1 radio="False" tvg-shift=0 group-title="Научни" tvg-logo="ot_blizo__hd" tvg-id="OtBlizoHD",От близо HD
-http://edge-sf-1.iptv.bulsat.com:1935/tv2/smil:ot_blizo__hd_mobile.smil/playlist.m3u8?bulsatCustomParameter=134076_3009630_134076_NULL_pcweb_3321c750f64dcd23909318c4661b0156_&bulsatendtime=1488600022&bulsatstarttime=1488563722&bulsathash=PBmPppQJwPDPaM4CPeMgS1v4Q52rYftRi4SI_KCWNv8=
+http://edge-sf-3.iptv.bulsat.com:1935/tv2/smil:ot_blizo__hd_mobile.smil/playlist.m3u8?bulsatCustomParameter=134076_3009630_134076_NULL_pcweb_b5a046cc508d0486c7ff650520da2678_&bulsatendtime=1488683078&bulsatstarttime=1488646778&bulsathash=5AXiqUKqCHTu9qwiHcm6WCmMDX-cO7sPPj56gx2YjDg=
 #EXTINF:-1 radio="False" tvg-shift=0 group-title="Научни" tvg-logo="destination_bg_hd" tvg-id="DestinationBG",Destination BG HD
-http://edge-sf-3.iptv.bulsat.com:1935/tv10/smil:destination_bg_hd_mobile.smil/playlist.m3u8?bulsatCustomParameter=134076_3009630_134076_NULL_pcweb_3321c750f64dcd23909318c4661b0156_&bulsatendtime=1488600022&bulsatstarttime=1488563722&bulsathash=B8qaFnC4HuUKDmwU9qDl4my_HKNncqhhPZuGjr6a9JA=
+http://edge-sf-1.iptv.bulsat.com:1935/tv10/smil:destination_bg_hd_mobile.smil/playlist.m3u8?bulsatCustomParameter=134076_3009630_134076_NULL_pcweb_b5a046cc508d0486c7ff650520da2678_&bulsatendtime=1488683078&bulsatstarttime=1488646778&bulsathash=PjlcVnJsXphpvFmFS5QlXmsEDxKAWLxRhLAfSYUZI6g=
 #EXTINF:-1 radio="False" tvg-shift=0 group-title="Научни" tvg-logo="bul_hist_hd" tvg-id="BulHistory",Българска история HD
-http://edge-sf-8.iptv.bulsat.com:1935/tv2/smil:bul_hist_hd_mobile.smil/playlist.m3u8?bulsatCustomParameter=134076_3009630_134076_NULL_pcweb_3321c750f64dcd23909318c4661b0156_&bulsatendtime=1488600022&bulsatstarttime=1488563722&bulsathash=NR9uxilIhP7uX7FL67C0OMuklqYlzMkxGS2rylmMdgg=
+http://edge-sf-3.iptv.bulsat.com:1935/tv2/smil:bul_hist_hd_mobile.smil/playlist.m3u8?bulsatCustomParameter=134076_3009630_134076_NULL_pcweb_b5a046cc508d0486c7ff650520da2678_&bulsatendtime=1488683078&bulsatstarttime=1488646778&bulsathash=d-PPWsUFgyqutyyg3TPtmH4JjWtiU_D1_txRW6eoa94=
 #EXTINF:-1 radio="False" tvg-shift=0 group-title="Научни" tvg-logo="history_channel_hd" tvg-id="History",History Channel HD
-http://edge-sf-1.iptv.bulsat.com:1935/tv7/smil:history_channel_hd_mobile.smil/playlist.m3u8?bulsatCustomParameter=134076_3009630_134076_NULL_pcweb_3321c750f64dcd23909318c4661b0156_&bulsatendtime=1488600022&bulsatstarttime=1488563722&bulsathash=EPZoWifF0SPq4H0w1l0qIJ6UIkWKJi4yWqhDG1vyh8I=
+http://edge-sf-8.iptv.bulsat.com:1935/tv7/smil:history_channel_hd_mobile.smil/playlist.m3u8?bulsatCustomParameter=134076_3009630_134076_NULL_pcweb_b5a046cc508d0486c7ff650520da2678_&bulsatendtime=1488683078&bulsatstarttime=1488646778&bulsathash=uPl77qLra_B6km3tXRmMtCAsw0sWJB_-23VfD-d4AgI=
 #EXTINF:-1 radio="False" tvg-shift=0 group-title="Научни" tvg-logo="travel_channel" tvg-id="TravelChannel",Travel Channel
-http://edge-sf-8.iptv.bulsat.com:1935/tv9/smil:travel_channel_mobile.smil/playlist.m3u8?bulsatCustomParameter=134076_3009630_134076_NULL_pcweb_3321c750f64dcd23909318c4661b0156_&bulsatendtime=1488600022&bulsatstarttime=1488563722&bulsathash=3BKw1NNopSx4mgwBuYGgV2rYiSW06G7KoP0QssKzTI4=
+http://edge-sf-8.iptv.bulsat.com:1935/tv9/smil:travel_channel_mobile.smil/playlist.m3u8?bulsatCustomParameter=134076_3009630_134076_NULL_pcweb_b5a046cc508d0486c7ff650520da2678_&bulsatendtime=1488683078&bulsatstarttime=1488646778&bulsathash=9AF24o08H6Ci_-ikv4GfjTdB-HVMekqpaQgbSc0Kq_w=
 #EXTINF:-1 radio="False" tvg-shift=0 group-title="Научни" tvg-logo="travel_tv_hd" tvg-id="TravelHD",Travel TV HD
-http://edge-sf-8.iptv.bulsat.com:1935/tv9/smil:travel_tv_hd_mobile.smil/playlist.m3u8?bulsatCustomParameter=134076_3009630_134076_NULL_pcweb_3321c750f64dcd23909318c4661b0156_&bulsatendtime=1488600022&bulsatstarttime=1488563722&bulsathash=2BSemFqfZR9-r0EthUdM3rYPotK-9Vxhcb6cEHkEk0o=
+http://edge-sf-1.iptv.bulsat.com:1935/tv9/smil:travel_tv_hd_mobile.smil/playlist.m3u8?bulsatCustomParameter=134076_3009630_134076_NULL_pcweb_b5a046cc508d0486c7ff650520da2678_&bulsatendtime=1488683078&bulsatstarttime=1488646778&bulsathash=_hhR4pZ3e2h1MN_M-T5wCqMDjztOrx73QkM00kwWkr8=
 #EXTINF:-1 radio="False" tvg-shift=0 group-title="Научни" tvg-logo="travel_tv" tvg-id="travel_tv",Travel TV
-http://edge-sf-1.iptv.bulsat.com:1935/tv9/smil:travel_tv_mobile.smil/playlist.m3u8?bulsatCustomParameter=134076_3009630_134076_NULL_pcweb_3321c750f64dcd23909318c4661b0156_&bulsatendtime=1488600022&bulsatstarttime=1488563722&bulsathash=jIDwlgyieb9salvoDAf_coKCN5AznAUR7iqPGokPxMs=
+http://edge-sf-3.iptv.bulsat.com:1935/tv9/smil:travel_tv_mobile.smil/playlist.m3u8?bulsatCustomParameter=134076_3009630_134076_NULL_pcweb_b5a046cc508d0486c7ff650520da2678_&bulsatendtime=1488683078&bulsatstarttime=1488646778&bulsathash=ohQ4-8bYPslXI4RMz8ZoqV9rFRnrHWQOkT0pfojUUKc=
 #EXTINF:-1 radio="False" tvg-shift=0 group-title="Научни" tvg-logo="fine_living" tvg-id="FineLiving",Fine Living
-http://edge-sf-1.iptv.bulsat.com:1935/tv1/smil:fine_living_mobile.smil/playlist.m3u8?bulsatCustomParameter=134076_3009630_134076_NULL_pcweb_3321c750f64dcd23909318c4661b0156_&bulsatendtime=1488600022&bulsatstarttime=1488563722&bulsathash=_pIXycwJ4rfaXKUYBVAMFRKAHeLWdQ7eURCg5UbmG4I=
+http://edge-sf-3.iptv.bulsat.com:1935/tv1/smil:fine_living_mobile.smil/playlist.m3u8?bulsatCustomParameter=134076_3009630_134076_NULL_pcweb_b5a046cc508d0486c7ff650520da2678_&bulsatendtime=1488683078&bulsatstarttime=1488646778&bulsathash=XrMeRt7kw1cn4V420js8Uw9GetmR0QwoI6PAGcEfpUc=
 #EXTINF:-1 radio="False" tvg-shift=0 group-title="Научни" tvg-logo="in_kitchen_hd" tvg-id="in_kitchen_hd",Хайде в кухнята HD
-http://edge-sf-8.iptv.bulsat.com:1935/tv10/smil:in_kitchen_hd_mobile.smil/playlist.m3u8?bulsatCustomParameter=134076_3009630_134076_NULL_pcweb_3321c750f64dcd23909318c4661b0156_&bulsatendtime=1488600022&bulsatstarttime=1488563722&bulsathash=ofGaESXCpqG_7LWAyJ2R3hT_awJB4Z1VHG06V8aK36Q=
+http://edge-sf-3.iptv.bulsat.com:1935/tv10/smil:in_kitchen_hd_mobile.smil/playlist.m3u8?bulsatCustomParameter=134076_3009630_134076_NULL_pcweb_b5a046cc508d0486c7ff650520da2678_&bulsatendtime=1488683078&bulsatstarttime=1488646778&bulsathash=UFx8QVSDFLsw_iUMZO4aC7IOxV7Fx8mfkKd-jfEjEEg=
 #EXTINF:-1 radio="False" tvg-shift=0 group-title="Научни" tvg-logo="24_kitchen" tvg-id="24kitchen",24 Kitchen
-http://edge-sf-1.iptv.bulsat.com:1935/tv4/smil:24_kitchen_mobile.smil/playlist.m3u8?bulsatCustomParameter=134076_3009630_134076_NULL_pcweb_3321c750f64dcd23909318c4661b0156_&bulsatendtime=1488600022&bulsatstarttime=1488563722&bulsathash=RPbSbyXmxoObEHapX1H9cNkOTlp4xy_mqdBCXx_Vb18=
+http://edge-sf-3.iptv.bulsat.com:1935/tv4/smil:24_kitchen_mobile.smil/playlist.m3u8?bulsatCustomParameter=134076_3009630_134076_NULL_pcweb_b5a046cc508d0486c7ff650520da2678_&bulsatendtime=1488683078&bulsatstarttime=1488646778&bulsathash=zOFSnrXl3flcdxIDLhQULCVAnF_tUVgA4SmNsmv7Qmc=
 #EXTINF:-1 radio="False" tvg-shift=0 group-title="Научни" tvg-logo="food_network_hd" tvg-id="FoodNetworkHD",Food network HD
-http://edge-sf-8.iptv.bulsat.com:1935/tv1/smil:food_network_hd_mobile.smil/playlist.m3u8?bulsatCustomParameter=134076_3009630_134076_NULL_pcweb_3321c750f64dcd23909318c4661b0156_&bulsatendtime=1488600022&bulsatstarttime=1488563722&bulsathash=EiJbfCgPKnPsa23dxNFM_T-cVotq-923OpCHPw5hEbw=
+http://edge-sf-3.iptv.bulsat.com:1935/tv1/smil:food_network_hd_mobile.smil/playlist.m3u8?bulsatCustomParameter=134076_3009630_134076_NULL_pcweb_b5a046cc508d0486c7ff650520da2678_&bulsatendtime=1488683078&bulsatstarttime=1488646778&bulsathash=Yadb25Lq_jeXkFW4fuYolEsNGvsz8ZszC31OXpHqv9U=
 #EXTINF:-1 radio="False" tvg-shift=0 group-title="Научни" tvg-logo="telekafe" tvg-id="telekafe",Телекафе
-http://edge-sf-1.iptv.bulsat.com:1935/tv12/smil:telekafe_mobile.smil/playlist.m3u8?bulsatCustomParameter=134076_3009630_134076_NULL_pcweb_3321c750f64dcd23909318c4661b0156_&bulsatendtime=1488600022&bulsatstarttime=1488563722&bulsathash=cyaU9oQLWTl0-lc28lovUuuYTsvjP-dZId65Z4AogyI=
+http://edge-sf-3.iptv.bulsat.com:1935/tv12/smil:telekafe_mobile.smil/playlist.m3u8?bulsatCustomParameter=134076_3009630_134076_NULL_pcweb_b5a046cc508d0486c7ff650520da2678_&bulsatendtime=1488683078&bulsatstarttime=1488646778&bulsathash=8SyO0Tsuwvqr0bsvBU2D-q_rG7CPtXzxgkw1ZYKxnqY=
 #EXTINF:-1 radio="False" tvg-shift=0 group-title="Научни" tvg-logo="rtdoc" tvg-id="rtdoc",RTDoc
-http://edge-sf-1.iptv.bulsat.com:1935/tv9/smil:rtdoc_mobile.smil/playlist.m3u8?bulsatCustomParameter=134076_3009630_134076_NULL_pcweb_3321c750f64dcd23909318c4661b0156_&bulsatendtime=1488600022&bulsatstarttime=1488563722&bulsathash=pBlVEj29vqGKruJS36o4xE-0xvDGKHGm9LXI2Lsa2e8=
+http://edge-sf-8.iptv.bulsat.com:1935/tv9/smil:rtdoc_mobile.smil/playlist.m3u8?bulsatCustomParameter=134076_3009630_134076_NULL_pcweb_b5a046cc508d0486c7ff650520da2678_&bulsatendtime=1488683078&bulsatstarttime=1488646778&bulsathash=vL14zk8l0XGZ3Tioyz2hMktZHtaZj6Dj2lOVgOVqzmk=
 #EXTINF:-1 radio="False" tvg-shift=0 group-title="Научни" tvg-logo="wness_tv" tvg-id="wness_tv",WNESS TV HD
-http://edge-sf-8.iptv.bulsat.com:1935/tv4/smil:wness_tv_mobile.smil/playlist.m3u8?bulsatCustomParameter=134076_3009630_134076_NULL_pcweb_3321c750f64dcd23909318c4661b0156_&bulsatendtime=1488600022&bulsatstarttime=1488563722&bulsathash=msG-CZRvrVVAM8fS-5sLdfSC4fJ4Ufp3oeRIl0Fq5ys=
+http://edge-sf-1.iptv.bulsat.com:1935/tv4/smil:wness_tv_mobile.smil/playlist.m3u8?bulsatCustomParameter=134076_3009630_134076_NULL_pcweb_b5a046cc508d0486c7ff650520da2678_&bulsatendtime=1488683078&bulsatstarttime=1488646778&bulsathash=TNGmqUF7CpXuVo7tcPUm_KtOoPKOy1y-rr7a6xxPJeo=
 #EXTINF:-1 radio="False" tvg-shift=0 group-title="Научни" tvg-logo="viasat_history" tvg-id="ViasatHistory",Viasat History
-http://edge-sf-1.iptv.bulsat.com:1935/tv/smil:viasat_history_mobile.smil/playlist.m3u8?bulsatCustomParameter=134076_3009630_134076_NULL_pcweb_3321c750f64dcd23909318c4661b0156_&bulsatendtime=1488600022&bulsatstarttime=1488563722&bulsathash=YLtGLb5wctRLrgpCJR4KxALDJdjYgj457ONgNhKvbyw=
+http://edge-sf-1.iptv.bulsat.com:1935/tv/smil:viasat_history_mobile.smil/playlist.m3u8?bulsatCustomParameter=134076_3009630_134076_NULL_pcweb_b5a046cc508d0486c7ff650520da2678_&bulsatendtime=1488683078&bulsatstarttime=1488646778&bulsathash=wXEdVDmsVwxzfpeAjn6LsZTA-icr9iTlYJIKYVt7klI=
 #EXTINF:-1 radio="False" tvg-shift=0 group-title="Научни" tvg-logo="viasat_explorer" tvg-id="ViasatExplorer",Viasat Explorer
-http://edge-sf-1.iptv.bulsat.com:1935/tv10/smil:viasat_explorer_mobile.smil/playlist.m3u8?bulsatCustomParameter=134076_3009630_134076_NULL_pcweb_3321c750f64dcd23909318c4661b0156_&bulsatendtime=1488600022&bulsatstarttime=1488563722&bulsathash=72SvgcBYhHQP9lXwwCELYPGIuZZARBVYaaZ5o5bgm98=
+http://edge-sf-1.iptv.bulsat.com:1935/tv10/smil:viasat_explorer_mobile.smil/playlist.m3u8?bulsatCustomParameter=134076_3009630_134076_NULL_pcweb_b5a046cc508d0486c7ff650520da2678_&bulsatendtime=1488683078&bulsatstarttime=1488646778&bulsathash=V5RGJLVgkLYRNzkOQuBcEqgllPQF8yxUuL9hv3lJLlQ=
 #EXTINF:-1 radio="False" tvg-shift=0 group-title="Научни" tvg-logo="viasat_nature" tvg-id="ViasatNature",Viasat Nature
-http://edge-sf-3.iptv.bulsat.com:1935/tv/smil:viasat_nature_mobile.smil/playlist.m3u8?bulsatCustomParameter=134076_3009630_134076_NULL_pcweb_3321c750f64dcd23909318c4661b0156_&bulsatendtime=1488600022&bulsatstarttime=1488563722&bulsathash=w66a6ZjDZPdldWDLOKYw2KnasWYWlD-DCAyktZnpHmM=
+http://edge-sf-3.iptv.bulsat.com:1935/tv/smil:viasat_nature_mobile.smil/playlist.m3u8?bulsatCustomParameter=134076_3009630_134076_NULL_pcweb_b5a046cc508d0486c7ff650520da2678_&bulsatendtime=1488683078&bulsatstarttime=1488646778&bulsathash=Mi3wwQjfucsUMADHVxOBIjOfZOmNbHfIiVE2BltZh5c=
 #EXTINF:-1 radio="False" tvg-shift=0 group-title="Научни" tvg-logo="cbs_reality" tvg-id="CBSDrama",CBS Reality
-http://edge-sf-1.iptv.bulsat.com:1935/tv11/smil:cbs_reality_mobile.smil/playlist.m3u8?bulsatCustomParameter=134076_3009630_134076_NULL_pcweb_3321c750f64dcd23909318c4661b0156_&bulsatendtime=1488600022&bulsatstarttime=1488563722&bulsathash=zZualn3DsqWnNpXzub9hqs01HN_QAPG0XKrrYM6HSAM=
+http://edge-sf-8.iptv.bulsat.com:1935/tv11/smil:cbs_reality_mobile.smil/playlist.m3u8?bulsatCustomParameter=134076_3009630_134076_NULL_pcweb_b5a046cc508d0486c7ff650520da2678_&bulsatendtime=1488683078&bulsatstarttime=1488646778&bulsathash=y5ygGijM9bUG3TnRg4aP-c8v7W1uWV_h7sAZ4Ymd70Y=
 #EXTINF:-1 radio="False" tvg-shift=0 group-title="Научни" tvg-logo="da_vinci_learning" tvg-id="DaVinciLearning",Da Vinci Learning
-http://edge-sf-3.iptv.bulsat.com:1935/tv35/smil:da_vinci_learning_mobile.smil/playlist.m3u8?bulsatCustomParameter=134076_3009630_134076_NULL_pcweb_3321c750f64dcd23909318c4661b0156_&bulsatendtime=1488600022&bulsatstarttime=1488563722&bulsathash=cHGHM4iUn7d32Rq-wUWjwngyOpPsYiFYYybZGY49Udg=
+http://edge-sf-3.iptv.bulsat.com:1935/tv35/smil:da_vinci_learning_mobile.smil/playlist.m3u8?bulsatCustomParameter=134076_3009630_134076_NULL_pcweb_b5a046cc508d0486c7ff650520da2678_&bulsatendtime=1488683078&bulsatstarttime=1488646778&bulsathash=wBk6SSUXAR4lN_YcpAhs56Xewrfs01MpxemnEv9Brus=
 #EXTINF:-1 radio="False" tvg-shift=0 group-title="Научни" tvg-logo="docubox" tvg-id="DocuBox",DocuBox HD
-http://edge-sf-8.iptv.bulsat.com:1935/tv2/smil:docubox_mobile.smil/playlist.m3u8?bulsatCustomParameter=134076_3009630_134076_NULL_pcweb_3321c750f64dcd23909318c4661b0156_&bulsatendtime=1488600022&bulsatstarttime=1488563722&bulsathash=qw-gqFLmTaVodyU9G1dBpt8lt-OLTabpwyoTRbrUvpg=
+http://edge-sf-1.iptv.bulsat.com:1935/tv2/smil:docubox_mobile.smil/playlist.m3u8?bulsatCustomParameter=134076_3009630_134076_NULL_pcweb_b5a046cc508d0486c7ff650520da2678_&bulsatendtime=1488683078&bulsatstarttime=1488646778&bulsathash=uXI0u8ZFpEXrZ4Ol2jdmupcceZimS7FsAqAvmSSeqcE=
 #EXTINF:-1 radio="False" tvg-shift=0 group-title="Научни" tvg-logo="outdor_hd" tvg-id="Outdoor",Outdoor HD
-http://edge-sf-8.iptv.bulsat.com:1935/tv1/smil:outdor_hd_mobile.smil/playlist.m3u8?bulsatCustomParameter=134076_3009630_134076_NULL_pcweb_3321c750f64dcd23909318c4661b0156_&bulsatendtime=1488600022&bulsatstarttime=1488563722&bulsathash=uK5RllvdpU99fV0ziO2URvsLz1EIKCSUFS-sk37gBrU=
+http://edge-sf-1.iptv.bulsat.com:1935/tv1/smil:outdor_hd_mobile.smil/playlist.m3u8?bulsatCustomParameter=134076_3009630_134076_NULL_pcweb_b5a046cc508d0486c7ff650520da2678_&bulsatendtime=1488683078&bulsatstarttime=1488646778&bulsathash=nbwP1-6SE63Rox_d5I3DVi2exGx5hPtQGrD7FN4A90w=
 #EXTINF:-1 radio="False" tvg-shift=0 group-title="Научни" tvg-logo="ohota_riba" tvg-id="Ribalka",Охота и рыбалка
-http://edge-sf-1.iptv.bulsat.com:1935/tv3/smil:ohota_riba_mobile.smil/playlist.m3u8?bulsatCustomParameter=134076_3009630_134076_NULL_pcweb_3321c750f64dcd23909318c4661b0156_&bulsatendtime=1488600022&bulsatstarttime=1488563722&bulsathash=hcdmLwrn9UcZp1F493Fhv-u9kCrIIwFCvYEc3p-v2D0=
+http://edge-sf-8.iptv.bulsat.com:1935/tv3/smil:ohota_riba_mobile.smil/playlist.m3u8?bulsatCustomParameter=134076_3009630_134076_NULL_pcweb_b5a046cc508d0486c7ff650520da2678_&bulsatendtime=1488683078&bulsatstarttime=1488646778&bulsathash=o2gqHvnBElu_3bX4vmGxX23E9HDsqO2iSh7GMpnZm24=
 #EXTINF:-1 radio="False" tvg-shift=0 group-title="Научни" tvg-logo="agro_tv_hd" tvg-id="agroTV",Agro TV
-http://edge-sf-8.iptv.bulsat.com:1935/tv5/smil:agro_tv_hd_mobile.smil/playlist.m3u8?bulsatCustomParameter=134076_3009630_134076_NULL_pcweb_3321c750f64dcd23909318c4661b0156_&bulsatendtime=1488600022&bulsatstarttime=1488563722&bulsathash=g_EBmp5oHAzllXMDbCcuDAtW5IhYHga7KrA0ic0eISU=
+http://edge-sf-1.iptv.bulsat.com:1935/tv5/smil:agro_tv_hd_mobile.smil/playlist.m3u8?bulsatCustomParameter=134076_3009630_134076_NULL_pcweb_b5a046cc508d0486c7ff650520da2678_&bulsatendtime=1488683078&bulsatstarttime=1488646778&bulsathash=3AtMghWABUGhWYo70fzt3v7M91BTKkuohaOGl4D-GWo=
 #EXTINF:-1 radio="False" tvg-shift=0 group-title="Научни" tvg-logo="tvt" tvg-id="tvt",TVT
-http://edge-sf-3.iptv.bulsat.com:1935/tv11/smil:tvt_mobile.smil/playlist.m3u8?bulsatCustomParameter=134076_3009630_134076_NULL_pcweb_3321c750f64dcd23909318c4661b0156_&bulsatendtime=1488600022&bulsatstarttime=1488563722&bulsathash=oVCpbO23Nm2eagQffZX4GWsOwxe1Dv42rbOuCmPjZSE=
+http://edge-sf-1.iptv.bulsat.com:1935/tv11/smil:tvt_mobile.smil/playlist.m3u8?bulsatCustomParameter=134076_3009630_134076_NULL_pcweb_b5a046cc508d0486c7ff650520da2678_&bulsatendtime=1488683078&bulsatstarttime=1488646778&bulsathash=7VJpzxLGEWQcdtflt2Tj5fVPStiyLOUxadyaGRVWY4o=
 #EXTINF:-1 radio="False" tvg-shift=0 group-title="Научни" tvg-logo="in_life_hd" tvg-id="in_life_hd",In LIFE TV
-http://edge-sf-3.iptv.bulsat.com:1935/tv6/smil:in_life_hd_mobile.smil/playlist.m3u8?bulsatCustomParameter=134076_3009630_134076_NULL_pcweb_3321c750f64dcd23909318c4661b0156_&bulsatendtime=1488600022&bulsatstarttime=1488563722&bulsathash=RY3BBgRdcJTS_m3AhM6WUAlvngosmmFUX8gd58PUn4E=
+http://edge-sf-1.iptv.bulsat.com:1935/tv6/smil:in_life_hd_mobile.smil/playlist.m3u8?bulsatCustomParameter=134076_3009630_134076_NULL_pcweb_b5a046cc508d0486c7ff650520da2678_&bulsatendtime=1488683078&bulsatstarttime=1488646778&bulsathash=KvnpSI2jAoD6Ya-SVN9C1udEet7m78mrf9A00lOCQJ4=
 #EXTINF:-1 radio="False" tvg-shift=0 group-title="Научни" tvg-logo="english_hd" tvg-id="english_hd",Еnglish HD
-http://edge-sf-8.iptv.bulsat.com:1935/tv/smil:english_hd_mobile.smil/playlist.m3u8?bulsatCustomParameter=134076_3009630_134076_NULL_pcweb_3321c750f64dcd23909318c4661b0156_&bulsatendtime=1488600022&bulsatstarttime=1488563722&bulsathash=wDBpn68a1cEo_z5vRk4sEVdlPv3pyrWBi2Edo9sSZk0=
+http://edge-sf-3.iptv.bulsat.com:1935/tv/smil:english_hd_mobile.smil/playlist.m3u8?bulsatCustomParameter=134076_3009630_134076_NULL_pcweb_b5a046cc508d0486c7ff650520da2678_&bulsatendtime=1488683078&bulsatstarttime=1488646778&bulsathash=8tF1_826m5Fqjtb3GWBxb8k9PYzacRWd6BjpJPmiR3Q=
 #EXTINF:-1 radio="False" tvg-shift=0 group-title="Научни" tvg-logo="the_world" tvg-id="the_world",The World
-http://edge-sf-8.iptv.bulsat.com:1935/tv6/smil:the_world_mobile.smil/playlist.m3u8?bulsatCustomParameter=134076_3009630_134076_NULL_pcweb_3321c750f64dcd23909318c4661b0156_&bulsatendtime=1488600022&bulsatstarttime=1488563722&bulsathash=C5pNWpFsEswRb6K0sOqI1_NHjrbr-KleAiG4nwv4q7U=
+http://edge-sf-3.iptv.bulsat.com:1935/tv6/smil:the_world_mobile.smil/playlist.m3u8?bulsatCustomParameter=134076_3009630_134076_NULL_pcweb_b5a046cc508d0486c7ff650520da2678_&bulsatendtime=1488683078&bulsatstarttime=1488646778&bulsathash=pktgmMJVMpskGJff6exOnpPO9lORH1ZpnsF205GPW6E=
 #EXTINF:-1 radio="False" tvg-shift=0 group-title="Филмови" tvg-logo="kinonova" tvg-id="KinoNova",KinoNova
-http://edge-sf-1.iptv.bulsat.com:1935/nova/smil:kinonova_mobile.smil/playlist.m3u8?bulsatCustomParameter=134076_3009630_134076_NULL_pcweb_3321c750f64dcd23909318c4661b0156_&bulsatendtime=1488600022&bulsatstarttime=1488563722&bulsathash=hRPcrttns6tK0QzB5FQMcf7U1xM4XnoOPlGWmmdXDxk=
+http://edge-sf-1.iptv.bulsat.com:1935/nova/smil:kinonova_mobile.smil/playlist.m3u8?bulsatCustomParameter=134076_3009630_134076_NULL_pcweb_b5a046cc508d0486c7ff650520da2678_&bulsatendtime=1488683078&bulsatstarttime=1488646778&bulsathash=NfFdHdm2bAHQV7esjiJkcB5hE760lJplXBSjy7WM4BM=
 #EXTINF:-1 radio="False" tvg-shift=0 group-title="Филмови" tvg-logo="filmplus_hd" tvg-id="FilmPlus",Film + HD
-http://edge-sf-8.iptv.bulsat.com:1935/tv/smil:filmplus_hd_mobile.smil/playlist.m3u8?bulsatCustomParameter=134076_3009630_134076_NULL_pcweb_3321c750f64dcd23909318c4661b0156_&bulsatendtime=1488600022&bulsatstarttime=1488563722&bulsathash=iDTukn794P6yWPXoNGb-JpmwL_qqCDcES7hh0jPHI-c=
+http://edge-sf-8.iptv.bulsat.com:1935/tv/smil:filmplus_hd_mobile.smil/playlist.m3u8?bulsatCustomParameter=134076_3009630_134076_NULL_pcweb_b5a046cc508d0486c7ff650520da2678_&bulsatendtime=1488683078&bulsatstarttime=1488646778&bulsathash=XhYKoG-XpKaaiSAb_sl_UxzzrbcLC7NiVBVCUc_noqE=
 #EXTINF:-1 radio="False" tvg-shift=0 group-title="Филмови" tvg-logo="cinemaplus_hd" tvg-id="CinemaPlus",Cinema + HD
-http://edge-sf-8.iptv.bulsat.com:1935/tv10/smil:cinemaplus_hd_mobile.smil/playlist.m3u8?bulsatCustomParameter=134076_3009630_134076_NULL_pcweb_3321c750f64dcd23909318c4661b0156_&bulsatendtime=1488600022&bulsatstarttime=1488563722&bulsathash=lNeuyyvl2Mp7B5m3FVdNSRWXhE0nZeYAeh2app5eYBo=
+http://edge-sf-8.iptv.bulsat.com:1935/tv10/smil:cinemaplus_hd_mobile.smil/playlist.m3u8?bulsatCustomParameter=134076_3009630_134076_NULL_pcweb_b5a046cc508d0486c7ff650520da2678_&bulsatendtime=1488683078&bulsatstarttime=1488646778&bulsathash=RlGfH33t2Ca4Sm_08caNV-ulqHhbKX378TSDT1ezcuc=
 #EXTINF:-1 radio="False" tvg-shift=0 group-title="Филмови" tvg-logo="actionplus_hd" tvg-id="ActionPlus",Action + HD
-http://edge-sf-8.iptv.bulsat.com:1935/tv10/smil:actionplus_hd_mobile.smil/playlist.m3u8?bulsatCustomParameter=134076_3009630_134076_NULL_pcweb_3321c750f64dcd23909318c4661b0156_&bulsatendtime=1488600022&bulsatstarttime=1488563722&bulsathash=87VPQQyiS0j-siTA-bEmEwItkx6sBP9J_4qp_-NL_jM=
+http://edge-sf-1.iptv.bulsat.com:1935/tv10/smil:actionplus_hd_mobile.smil/playlist.m3u8?bulsatCustomParameter=134076_3009630_134076_NULL_pcweb_b5a046cc508d0486c7ff650520da2678_&bulsatendtime=1488683078&bulsatstarttime=1488646778&bulsathash=HjhFqdnHvxyrplwnwDI8zSCXGkoqSo2AnriE3LylRy0=
 #EXTINF:-1 radio="False" tvg-shift=0 group-title="Филмови" tvg-logo="comedyplus_hd" tvg-id="ComedyPlus",Comedy + HD
-http://edge-sf-3.iptv.bulsat.com:1935/tv10/smil:comedyplus_hd_mobile.smil/playlist.m3u8?bulsatCustomParameter=134076_3009630_134076_NULL_pcweb_3321c750f64dcd23909318c4661b0156_&bulsatendtime=1488600022&bulsatstarttime=1488563722&bulsathash=m10JLfLDB2ZyPggldSgDcSVFlsRf_RozggPxMMzAHk8=
+http://edge-sf-8.iptv.bulsat.com:1935/tv10/smil:comedyplus_hd_mobile.smil/playlist.m3u8?bulsatCustomParameter=134076_3009630_134076_NULL_pcweb_b5a046cc508d0486c7ff650520da2678_&bulsatendtime=1488683078&bulsatstarttime=1488646778&bulsathash=zr5ssR-PE28BIuUNZqIsM2gIGf9xweAgOv8LdVq3Ew8=
 #EXTINF:-1 radio="False" tvg-shift=0 group-title="Филмови" tvg-logo="btv_cinema" tvg-id="bTVCinema",bTV Cinema
-http://edge-sf-3.iptv.bulsat.com:1935/btv/smil:btv_cinema_mobile.smil/playlist.m3u8?bulsatCustomParameter=134076_3009630_134076_NULL_pcweb_3321c750f64dcd23909318c4661b0156_&bulsatendtime=1488600022&bulsatstarttime=1488563722&bulsathash=EO89ODnJ7khAoahv5nTHAS7oeApaf015m8n8CCKzlC0=
+http://edge-sf-1.iptv.bulsat.com:1935/btv/smil:btv_cinema_mobile.smil/playlist.m3u8?bulsatCustomParameter=134076_3009630_134076_NULL_pcweb_b5a046cc508d0486c7ff650520da2678_&bulsatendtime=1488683078&bulsatstarttime=1488646778&bulsathash=GA4Ts2tpsMV1uKtvsjVmbkCAYS0rtIxm6l_sUeo0gEg=
 #EXTINF:-1 radio="False" tvg-shift=0 group-title="Филмови" tvg-logo="btv_comedy" tvg-id="bTVComedy",bTV Comedy
-http://edge-sf-8.iptv.bulsat.com:1935/btv/smil:btv_comedy_mobile.smil/playlist.m3u8?bulsatCustomParameter=134076_3009630_134076_NULL_pcweb_3321c750f64dcd23909318c4661b0156_&bulsatendtime=1488600022&bulsatstarttime=1488563722&bulsathash=y_2nzpSdLA0eNXeIZ9ZEMEUY057ayVyfCRMucKNEZtg=
+http://edge-sf-3.iptv.bulsat.com:1935/btv/smil:btv_comedy_mobile.smil/playlist.m3u8?bulsatCustomParameter=134076_3009630_134076_NULL_pcweb_b5a046cc508d0486c7ff650520da2678_&bulsatendtime=1488683078&bulsatstarttime=1488646778&bulsathash=8JDPwDQgzED8TMIza9qCvAPZxoHo8p11rFTXgfhi9eg=
 #EXTINF:-1 radio="False" tvg-shift=0 group-title="Филмови" tvg-logo="btv_lady" tvg-id="bTVLady",bTV Lady
-http://edge-sf-8.iptv.bulsat.com:1935/btv/smil:btv_lady_mobile.smil/playlist.m3u8?bulsatCustomParameter=134076_3009630_134076_NULL_pcweb_3321c750f64dcd23909318c4661b0156_&bulsatendtime=1488600022&bulsatstarttime=1488563722&bulsathash=fiuQyiDyh-DVTsguUqboP2Oj6RhuzxaDQNznB2sbwvs=
+http://edge-sf-3.iptv.bulsat.com:1935/btv/smil:btv_lady_mobile.smil/playlist.m3u8?bulsatCustomParameter=134076_3009630_134076_NULL_pcweb_b5a046cc508d0486c7ff650520da2678_&bulsatendtime=1488683078&bulsatstarttime=1488646778&bulsathash=YwQz-MNbQZNvDsiENvkzE78GgyuEnEQk0Mus50RKXmU=
 #EXTINF:-1 radio="False" tvg-shift=0 group-title="Филмови" tvg-logo="diema_family" tvg-id="DiemaFamily",Diema Family
-http://edge-sf-8.iptv.bulsat.com:1935/nova/smil:diema_family_mobile.smil/playlist.m3u8?bulsatCustomParameter=134076_3009630_134076_NULL_pcweb_3321c750f64dcd23909318c4661b0156_&bulsatendtime=1488600022&bulsatstarttime=1488563722&bulsathash=CVccHvthjBlfThLXxpkjw9bxilSYyzTcG8etkcc2qPg=
+http://edge-sf-1.iptv.bulsat.com:1935/nova/smil:diema_family_mobile.smil/playlist.m3u8?bulsatCustomParameter=134076_3009630_134076_NULL_pcweb_b5a046cc508d0486c7ff650520da2678_&bulsatendtime=1488683078&bulsatstarttime=1488646778&bulsathash=S9DOf-BIzsWjzVANuKjq6mvjm0FDSTj6mY7IVmhWjZ4=
 #EXTINF:-1 radio="False" tvg-shift=0 group-title="Филмови" tvg-logo="fox" tvg-id="FOX",FOX
-http://edge-sf-1.iptv.bulsat.com:1935/tv4/fox-high.stream/playlist.m3u8?bulsatCustomParameter=134076_3009630_134076_NULL_pcweb_3321c750f64dcd23909318c4661b0156_&bulsatendtime=1488600022&bulsatstarttime=1488563722&bulsathash=eU9ENLyEX74zsRCM_WqUsWkHHs-5RSe3OOXAuCXYcAE=
+http://edge-sf-3.iptv.bulsat.com:1935/tv4/fox-high.stream/playlist.m3u8?bulsatCustomParameter=134076_3009630_134076_NULL_pcweb_b5a046cc508d0486c7ff650520da2678_&bulsatendtime=1488683078&bulsatstarttime=1488646778&bulsathash=B98p4dDzSvEW3196KhT3MKTjAuCPCG2eJfMbq5fGHpA=
 #EXTINF:-1 radio="False" tvg-shift=0 group-title="Филмови" tvg-logo="fox_life" tvg-id="FOXLife",Fox Life
-http://edge-sf-1.iptv.bulsat.com:1935/tv4/fox_life-high.stream/playlist.m3u8?bulsatCustomParameter=134076_3009630_134076_NULL_pcweb_3321c750f64dcd23909318c4661b0156_&bulsatendtime=1488600022&bulsatstarttime=1488563722&bulsathash=XqdB0OqUkLdJUeEuzYup9M7vfB7Jp-lQwcylf7aWBJw=
+http://edge-sf-1.iptv.bulsat.com:1935/tv4/fox_life-high.stream/playlist.m3u8?bulsatCustomParameter=134076_3009630_134076_NULL_pcweb_b5a046cc508d0486c7ff650520da2678_&bulsatendtime=1488683078&bulsatstarttime=1488646778&bulsathash=yECfv03bX94Qe4cn7DzNijvehesN08XuvI03TJrK4iw=
 #EXTINF:-1 radio="False" tvg-shift=0 group-title="Филмови" tvg-logo="fox_crime" tvg-id="FOXCrime",Fox Crime
-http://edge-sf-3.iptv.bulsat.com:1935/tv4/fox_crime-high.stream/playlist.m3u8?bulsatCustomParameter=134076_3009630_134076_NULL_pcweb_3321c750f64dcd23909318c4661b0156_&bulsatendtime=1488600022&bulsatstarttime=1488563722&bulsathash=qHuwGtj0zPdosYbqoW0aPtxja1PUdZv7h62qoYHcW18=
+http://edge-sf-3.iptv.bulsat.com:1935/tv4/fox_crime-high.stream/playlist.m3u8?bulsatCustomParameter=134076_3009630_134076_NULL_pcweb_b5a046cc508d0486c7ff650520da2678_&bulsatendtime=1488683078&bulsatstarttime=1488646778&bulsathash=6IuYnzoxvYq_DjpgZoY15U9eOUb-Ldobo62FZf8jcWE=
 #EXTINF:-1 radio="False" tvg-shift=0 group-title="Филмови" tvg-logo="axn" tvg-id="AXN",AXN
-http://edge-sf-1.iptv.bulsat.com:1935/tv2/smil:axn_mobile.smil/playlist.m3u8?bulsatCustomParameter=134076_3009630_134076_NULL_pcweb_3321c750f64dcd23909318c4661b0156_&bulsatendtime=1488600022&bulsatstarttime=1488563722&bulsathash=TWTCwtEry9vd46nUSk_lN_yk2QW03lTWWpGAB9ixEIU=
+http://edge-sf-8.iptv.bulsat.com:1935/tv2/smil:axn_mobile.smil/playlist.m3u8?bulsatCustomParameter=134076_3009630_134076_NULL_pcweb_b5a046cc508d0486c7ff650520da2678_&bulsatendtime=1488683078&bulsatstarttime=1488646778&bulsathash=Sv9weVqNrgt9S4biCUNsD_HTG3FKb4GkpvBJT925FcE=
 #EXTINF:-1 radio="False" tvg-shift=0 group-title="Филмови" tvg-logo="tv1000" tvg-id="TV1000",TV1000
-http://edge-sf-1.iptv.bulsat.com:1935/tv8/smil:tv1000_mobile.smil/playlist.m3u8?bulsatCustomParameter=134076_3009630_134076_NULL_pcweb_3321c750f64dcd23909318c4661b0156_&bulsatendtime=1488600022&bulsatstarttime=1488563722&bulsathash=h6JzdYbmxGqPkey_X3LBWu7Qz1VCKkjt8O6kZKcuKWI=
+http://edge-sf-8.iptv.bulsat.com:1935/tv8/smil:tv1000_mobile.smil/playlist.m3u8?bulsatCustomParameter=134076_3009630_134076_NULL_pcweb_b5a046cc508d0486c7ff650520da2678_&bulsatendtime=1488683078&bulsatstarttime=1488646778&bulsathash=Uf8JQYF2A5gvQrC8kfho8q4frjUbsVeFbscvkt9FlnM=
 #EXTINF:-1 radio="False" tvg-shift=0 group-title="Филмови" tvg-logo="filmbox_hd" tvg-id="FilmBoXtraHD",FILMBOX HD
-http://edge-sf-3.iptv.bulsat.com:1935/tv7/smil:filmbox_hd_mobile.smil/playlist.m3u8?bulsatCustomParameter=134076_3009630_134076_NULL_pcweb_3321c750f64dcd23909318c4661b0156_&bulsatendtime=1488600022&bulsatstarttime=1488563722&bulsathash=e5SvsYkY78kDSeqBrgQPObYUtqUKpuJXfs-lkIBLm5c=
+http://edge-sf-8.iptv.bulsat.com:1935/tv7/smil:filmbox_hd_mobile.smil/playlist.m3u8?bulsatCustomParameter=134076_3009630_134076_NULL_pcweb_b5a046cc508d0486c7ff650520da2678_&bulsatendtime=1488683078&bulsatstarttime=1488646778&bulsathash=jRTBM3UDuRjpn4o2LCCkPaNJKHVd_N_MN_H6M0-NGKg=
 #EXTINF:-1 radio="False" tvg-shift=0 group-title="Филмови" tvg-logo="filmboxplus" tvg-id="FilmBoxPlusHD",FilmBoxPlus HD
-http://edge-sf-1.iptv.bulsat.com:1935/tv7/smil:filmboxplus_mobile.smil/playlist.m3u8?bulsatCustomParameter=134076_3009630_134076_NULL_pcweb_3321c750f64dcd23909318c4661b0156_&bulsatendtime=1488600022&bulsatstarttime=1488563722&bulsathash=SOIoEukvlcCRXO2LaRWNs7d106UGYnO1drdrDTSXcwE=
+http://edge-sf-8.iptv.bulsat.com:1935/tv7/smil:filmboxplus_mobile.smil/playlist.m3u8?bulsatCustomParameter=134076_3009630_134076_NULL_pcweb_b5a046cc508d0486c7ff650520da2678_&bulsatendtime=1488683078&bulsatstarttime=1488646778&bulsathash=uhyLIAt-sV4n6M1WnPCLCmGXeS8Qu8o5qSMfmJ83p0w=
 #EXTINF:-1 radio="False" tvg-shift=0 group-title="Филмови" tvg-logo="arthouse" tvg-id="FilmboxArthouseHD",Art House
-http://edge-sf-1.iptv.bulsat.com:1935/tv/smil:arthouse_mobile.smil/playlist.m3u8?bulsatCustomParameter=134076_3009630_134076_NULL_pcweb_3321c750f64dcd23909318c4661b0156_&bulsatendtime=1488600022&bulsatstarttime=1488563722&bulsathash=fh_Cg-RJz69S-Bc5Pw4NOSJa5RSClII2ERzUH5OC9nk=
+http://edge-sf-1.iptv.bulsat.com:1935/tv/smil:arthouse_mobile.smil/playlist.m3u8?bulsatCustomParameter=134076_3009630_134076_NULL_pcweb_b5a046cc508d0486c7ff650520da2678_&bulsatendtime=1488683078&bulsatstarttime=1488646778&bulsathash=dvy3Zlched1Nf0JlbhedAg1mTsDaqKrOQb5r4KwHxPg=
 #EXTINF:-1 radio="False" tvg-shift=0 group-title="Филмови" tvg-logo="sundance" tvg-id="sundance",Sundance TV
-http://edge-sf-8.iptv.bulsat.com:1935/tv7/smil:sundance_mobile.smil/playlist.m3u8?bulsatCustomParameter=134076_3009630_134076_NULL_pcweb_3321c750f64dcd23909318c4661b0156_&bulsatendtime=1488600022&bulsatstarttime=1488563722&bulsathash=YRExQdzQcx6kmUcajwJQMHSPz_oSvMCyS1VuJ7dZScg=
+http://edge-sf-1.iptv.bulsat.com:1935/tv7/smil:sundance_mobile.smil/playlist.m3u8?bulsatCustomParameter=134076_3009630_134076_NULL_pcweb_b5a046cc508d0486c7ff650520da2678_&bulsatendtime=1488683078&bulsatstarttime=1488646778&bulsathash=eI_Z211Q2cAOLpe864xnLCTKUDrQX4NrDVDpLJX_hDI=
 #EXTINF:-1 radio="False" tvg-shift=0 group-title="Филмови" tvg-logo="amc" tvg-id="amc",AMC
-http://edge-sf-8.iptv.bulsat.com:1935/tv5/smil:amc.smil/playlist.m3u8?bulsatCustomParameter=134076_3009630_134076_NULL_pcweb_3321c750f64dcd23909318c4661b0156_&bulsatendtime=1488600022&bulsatstarttime=1488563722&bulsathash=8CfGXZC_bFyM1o9sCktC2ln0lStDMJ3jzsd422HzHpU=
+http://edge-sf-8.iptv.bulsat.com:1935/tv5/smil:amc.smil/playlist.m3u8?bulsatCustomParameter=134076_3009630_134076_NULL_pcweb_b5a046cc508d0486c7ff650520da2678_&bulsatendtime=1488683078&bulsatstarttime=1488646778&bulsathash=M0BVfOp92CAl860vN8ID9haBm4yxbZg4n7WDenZ5cJc=
 #EXTINF:-1 radio="False" tvg-shift=0 group-title="Филмови" tvg-logo="cbs_drama" tvg-id="CBSReality",CBS Drama
-http://edge-sf-1.iptv.bulsat.com:1935/tv11/smil:cbs_drama_mobile.smil/playlist.m3u8?bulsatCustomParameter=134076_3009630_134076_NULL_pcweb_3321c750f64dcd23909318c4661b0156_&bulsatendtime=1488600022&bulsatstarttime=1488563722&bulsathash=Svl6-erGXirN5fJM4ywW-0b-M5gvJl7jbwLDRs7NquA=
+http://edge-sf-8.iptv.bulsat.com:1935/tv11/smil:cbs_drama_mobile.smil/playlist.m3u8?bulsatCustomParameter=134076_3009630_134076_NULL_pcweb_b5a046cc508d0486c7ff650520da2678_&bulsatendtime=1488683078&bulsatstarttime=1488646778&bulsathash=K-0kgjq0RDct70Cc5WcqiKAvy3ZvMpU8OxsNxV5mTM0=
 #EXTINF:-1 radio="False" tvg-shift=0 group-title="Филмови" tvg-logo="eurochannel" tvg-id="eurochannel",Eurochannel
-http://edge-sf-3.iptv.bulsat.com:1935/tv12/smil:eurochannel_mobile.smil/playlist.m3u8?bulsatCustomParameter=134076_3009630_134076_NULL_pcweb_3321c750f64dcd23909318c4661b0156_&bulsatendtime=1488600022&bulsatstarttime=1488563722&bulsathash=kPDV7Tam7569FPUml21Lrag6ud7-YvznUJeLFpx-ouQ=
+http://edge-sf-3.iptv.bulsat.com:1935/tv12/smil:eurochannel_mobile.smil/playlist.m3u8?bulsatCustomParameter=134076_3009630_134076_NULL_pcweb_b5a046cc508d0486c7ff650520da2678_&bulsatendtime=1488683078&bulsatstarttime=1488646778&bulsathash=jPWPYCDlr70lkn_hpJdIUdC8Zqa5B1vMrJn_s7jmrZI=
 #EXTINF:-1 radio="False" tvg-shift=0 group-title="Музикални" tvg-logo="planetahd" tvg-id="PlanetaHD",Planeta HD
-http://edge-sf-3.iptv.bulsat.com:1935/tv7/smil:planetahd_mobile.smil/playlist.m3u8?bulsatCustomParameter=134076_3009630_134076_NULL_pcweb_3321c750f64dcd23909318c4661b0156_&bulsatendtime=1488600022&bulsatstarttime=1488563722&bulsathash=DEHCebk9Z26D5teO_MjR3f77y50N068a9ks_W4SveG0=
+http://edge-sf-1.iptv.bulsat.com:1935/tv7/smil:planetahd_mobile.smil/playlist.m3u8?bulsatCustomParameter=134076_3009630_134076_NULL_pcweb_b5a046cc508d0486c7ff650520da2678_&bulsatendtime=1488683078&bulsatstarttime=1488646778&bulsathash=VojQN_L7tQQPB5ftIdc1F_Pf8D8OK16rUt4ASgB6r_k=
 #EXTINF:-1 radio="False" tvg-shift=0 group-title="Музикални" tvg-logo="planetatv" tvg-id="Planeta",Planeta
-http://edge-sf-8.iptv.bulsat.com:1935/tv8/smil:planetatv_mobile.smil/playlist.m3u8?bulsatCustomParameter=134076_3009630_134076_NULL_pcweb_3321c750f64dcd23909318c4661b0156_&bulsatendtime=1488600022&bulsatstarttime=1488563722&bulsathash=PMBhLXzB15h1L0j4fyW5iIDBRNKrKz4Y9ABd6RPJsCE=
+http://edge-sf-1.iptv.bulsat.com:1935/tv8/smil:planetatv_mobile.smil/playlist.m3u8?bulsatCustomParameter=134076_3009630_134076_NULL_pcweb_b5a046cc508d0486c7ff650520da2678_&bulsatendtime=1488683078&bulsatstarttime=1488646778&bulsathash=cSeKZSolng0kkhD7adjHaDCQqltVlasWUam9-dgOQOU=
 #EXTINF:-1 radio="False" tvg-shift=0 group-title="Музикални" tvg-logo="fan_tv_hd" tvg-id="FENTV",Fen TV HD
-http://edge-sf-8.iptv.bulsat.com:1935/tv2/smil:fan_tv_hd_mobile.smil/playlist.m3u8?bulsatCustomParameter=134076_3009630_134076_NULL_pcweb_3321c750f64dcd23909318c4661b0156_&bulsatendtime=1488600022&bulsatstarttime=1488563722&bulsathash=2X93YYYddmLCiT_Lkn33N5eF0hniXhlUinAHUu3sbcs=
+http://edge-sf-3.iptv.bulsat.com:1935/tv2/smil:fan_tv_hd_mobile.smil/playlist.m3u8?bulsatCustomParameter=134076_3009630_134076_NULL_pcweb_b5a046cc508d0486c7ff650520da2678_&bulsatendtime=1488683078&bulsatstarttime=1488646778&bulsathash=J_ExkI0N7Z_BvruEL9doulnHMM2dmxNfYLJk7DkAaNc=
 #EXTINF:-1 radio="False" tvg-shift=0 group-title="Музикални" tvg-logo="balkanica_hd" tvg-id="Balkanika",Balkanica HD
-http://edge-sf-1.iptv.bulsat.com:1935/tv2/smil:balkanica_hd_mobile.smil/playlist.m3u8?bulsatCustomParameter=134076_3009630_134076_NULL_pcweb_3321c750f64dcd23909318c4661b0156_&bulsatendtime=1488600022&bulsatstarttime=1488563722&bulsathash=BCVB531QV9QOSPDQe0v8s7Us-f6lQPPVj7jyKeeDXKU=
+http://edge-sf-8.iptv.bulsat.com:1935/tv2/smil:balkanica_hd_mobile.smil/playlist.m3u8?bulsatCustomParameter=134076_3009630_134076_NULL_pcweb_b5a046cc508d0486c7ff650520da2678_&bulsatendtime=1488683078&bulsatstarttime=1488646778&bulsathash=-82ka9HCZJ3lX8P1a5gbAaVcTehjEtMvm1ICDqRiHhE=
 #EXTINF:-1 radio="False" tvg-shift=0 group-title="Музикални" tvg-logo="planeta_folk" tvg-id="PlanetaFolk",Planeta Folk
-http://edge-sf-1.iptv.bulsat.com:1935/tv8/smil:planeta_folk_mobile.smil/playlist.m3u8?bulsatCustomParameter=134076_3009630_134076_NULL_pcweb_3321c750f64dcd23909318c4661b0156_&bulsatendtime=1488600022&bulsatstarttime=1488563722&bulsathash=EP_tJt23G0vQ_V8MfjDo4vnpqmok_4t4NMh-ZAn8ANw=
+http://edge-sf-1.iptv.bulsat.com:1935/tv8/smil:planeta_folk_mobile.smil/playlist.m3u8?bulsatCustomParameter=134076_3009630_134076_NULL_pcweb_b5a046cc508d0486c7ff650520da2678_&bulsatendtime=1488683078&bulsatstarttime=1488646778&bulsathash=AGUeOq_WA_FI8Po3c2VPp8LybvemqUH316QtMjY-KbM=
 #EXTINF:-1 radio="False" tvg-shift=0 group-title="Музикални" tvg-logo="folklor_tv_hd" tvg-id="FolklorTV",Folklor TV
-http://edge-sf-1.iptv.bulsat.com:1935/tv35/smil:folklor_tv_hd_mobile.smil/playlist.m3u8?bulsatCustomParameter=134076_3009630_134076_NULL_pcweb_3321c750f64dcd23909318c4661b0156_&bulsatendtime=1488600022&bulsatstarttime=1488563722&bulsathash=LQJ2-jyWAJ1djwJyZ--uErLwbDjwD57xp3GP_MKHxkg=
+http://edge-sf-3.iptv.bulsat.com:1935/tv35/smil:folklor_tv_hd_mobile.smil/playlist.m3u8?bulsatCustomParameter=134076_3009630_134076_NULL_pcweb_b5a046cc508d0486c7ff650520da2678_&bulsatendtime=1488683078&bulsatstarttime=1488646778&bulsathash=lAIUTYbcfU7lkZs_Bwp2pUhLE_wDufQ4tqi9JpESPfE=
 #EXTINF:-1 radio="False" tvg-shift=0 group-title="Музикални" tvg-logo="fen_folk_tv" tvg-id="FenFolk",Fen Folk TV
-http://edge-sf-3.iptv.bulsat.com:1935/tv2/smil:fen_folk_tv_mobile.smil/playlist.m3u8?bulsatCustomParameter=134076_3009630_134076_NULL_pcweb_3321c750f64dcd23909318c4661b0156_&bulsatendtime=1488600022&bulsatstarttime=1488563722&bulsathash=PuSKPZRMy2yE1gDHvU2xaivR5r4cIqqo5D9Mgku5_sU=
+http://edge-sf-8.iptv.bulsat.com:1935/tv2/smil:fen_folk_tv_mobile.smil/playlist.m3u8?bulsatCustomParameter=134076_3009630_134076_NULL_pcweb_b5a046cc508d0486c7ff650520da2678_&bulsatendtime=1488683078&bulsatstarttime=1488646778&bulsathash=I8g4CfBiQRU3FDa7T1LKLFAEWLaFmM2QbcnhFqWHG64=
 #EXTINF:-1 radio="False" tvg-shift=0 group-title="Музикални" tvg-logo="tiankov_folk_hd" tvg-id="TiankovFolk",Tiankov Folk HD
-http://edge-sf-1.iptv.bulsat.com:1935/tv4/smil:tiankov_folk_hd_mobile.smil/playlist.m3u8?bulsatCustomParameter=134076_3009630_134076_NULL_pcweb_3321c750f64dcd23909318c4661b0156_&bulsatendtime=1488600022&bulsatstarttime=1488563722&bulsathash=4uQuaWiYYB4IISu1Hjv8-4tSuYI6TzU23ZEI3FrboiU=
+http://edge-sf-8.iptv.bulsat.com:1935/tv4/smil:tiankov_folk_hd_mobile.smil/playlist.m3u8?bulsatCustomParameter=134076_3009630_134076_NULL_pcweb_b5a046cc508d0486c7ff650520da2678_&bulsatendtime=1488683078&bulsatstarttime=1488646778&bulsathash=auMcmdKoPDtvZ2yeIFU-nABmHJ-8cb6K23_xRiPzNbM=
 #EXTINF:-1 radio="False" tvg-shift=0 group-title="Музикални" tvg-logo="tiankov_misic_hd" tvg-id="tiankov_misic_hd",Tiankov Orient HD
-http://edge-sf-3.iptv.bulsat.com:1935/tv4/smil:tiankov_misic_hd_mobile.smil/playlist.m3u8?bulsatCustomParameter=134076_3009630_134076_NULL_pcweb_3321c750f64dcd23909318c4661b0156_&bulsatendtime=1488600022&bulsatstarttime=1488563722&bulsathash=m6x_7yuSZLpWiarnXTU8SknJncaTT_70vDAVF3PMKzg=
+http://edge-sf-3.iptv.bulsat.com:1935/tv4/smil:tiankov_misic_hd_mobile.smil/playlist.m3u8?bulsatCustomParameter=134076_3009630_134076_NULL_pcweb_b5a046cc508d0486c7ff650520da2678_&bulsatendtime=1488683078&bulsatstarttime=1488646778&bulsathash=9OuEEPhR_t5XFgL8IQHB7A3REdRilP4kEb1q_4Roirc=
 #EXTINF:-1 radio="False" tvg-shift=0 group-title="Музикални" tvg-logo="tiankov_popfolk" tvg-id="tiankov_popfolk",Tiankov Pop Folk
-http://edge-sf-1.iptv.bulsat.com:1935/tv12/smil:tiankov_popfolk_mobile.smil/playlist.m3u8?bulsatCustomParameter=134076_3009630_134076_NULL_pcweb_3321c750f64dcd23909318c4661b0156_&bulsatendtime=1488600022&bulsatstarttime=1488563722&bulsathash=9StuMFZeL6k7diOMEW-ZyoMDE_ESP0Gq2VYQK3V-tDY=
+http://edge-sf-1.iptv.bulsat.com:1935/tv12/smil:tiankov_popfolk_mobile.smil/playlist.m3u8?bulsatCustomParameter=134076_3009630_134076_NULL_pcweb_b5a046cc508d0486c7ff650520da2678_&bulsatendtime=1488683078&bulsatstarttime=1488646778&bulsathash=FBOqZd9d4PFTo9-F6ukpoVQXMAEvYZgiKF6LNiUEhzU=
 #EXTINF:-1 radio="False" tvg-shift=0 group-title="Музикални" tvg-logo="dstv" tvg-id="DSTV",DSTV
-http://edge-sf-3.iptv.bulsat.com:1935/tv2/smil:dstv_mobile.smil/playlist.m3u8?bulsatCustomParameter=134076_3009630_134076_NULL_pcweb_3321c750f64dcd23909318c4661b0156_&bulsatendtime=1488600022&bulsatstarttime=1488563722&bulsathash=JRsC_H8AerjL054QZt-H2q3UXZnPVOeKg34LFp7UsNM=
+http://edge-sf-8.iptv.bulsat.com:1935/tv2/smil:dstv_mobile.smil/playlist.m3u8?bulsatCustomParameter=134076_3009630_134076_NULL_pcweb_b5a046cc508d0486c7ff650520da2678_&bulsatendtime=1488683078&bulsatstarttime=1488646778&bulsathash=9rKcyMzTyuFrCF1pzyyzsrB9Nj044y2Y81SKromj1wo=
 #EXTINF:-1 radio="False" tvg-shift=0 group-title="Музикални" tvg-logo="hit_tv" tvg-id="hit_tv",Hit Mix Music
-http://edge-sf-8.iptv.bulsat.com:1935/tv5/smil:hit_tv_mobile.smil/playlist.m3u8?bulsatCustomParameter=134076_3009630_134076_NULL_pcweb_3321c750f64dcd23909318c4661b0156_&bulsatendtime=1488600022&bulsatstarttime=1488563722&bulsathash=w2IwhCCOKJpBhzbvRJcriGrZp8fOJKLV-_L1R7O-hxM=
+http://edge-sf-1.iptv.bulsat.com:1935/tv5/smil:hit_tv_mobile.smil/playlist.m3u8?bulsatCustomParameter=134076_3009630_134076_NULL_pcweb_b5a046cc508d0486c7ff650520da2678_&bulsatendtime=1488683078&bulsatstarttime=1488646778&bulsathash=fKp8fxArNYL8UjKwhWFX5JMQBU_twKxsrQPlT4NtlPE=
 #EXTINF:-1 radio="False" tvg-shift=0 group-title="Музикални" tvg-logo="roma_tv" tvg-id="roma_tv",Roma TV
-http://edge-sf-3.iptv.bulsat.com:1935/tv4/smil:roma_tv_mobile.smil/playlist.m3u8?bulsatCustomParameter=134076_3009630_134076_NULL_pcweb_3321c750f64dcd23909318c4661b0156_&bulsatendtime=1488600022&bulsatstarttime=1488563722&bulsathash=57nLS7BybpCj7K5pNY_eiin0XHRT79uzQdbbRzn5jHo=
+http://edge-sf-3.iptv.bulsat.com:1935/tv4/smil:roma_tv_mobile.smil/playlist.m3u8?bulsatCustomParameter=134076_3009630_134076_NULL_pcweb_b5a046cc508d0486c7ff650520da2678_&bulsatendtime=1488683078&bulsatstarttime=1488646778&bulsathash=1VLLwYokDIOcp2WMq9DaeRChtORhsL8icKHZP2csn1U=
 #EXTINF:-1 radio="False" tvg-shift=0 group-title="Музикални" tvg-logo="dm_sat" tvg-id="DMSat",DM Sat
-http://edge-sf-8.iptv.bulsat.com:1935/tv3/smil:dm_sat_mobile.smil/playlist.m3u8?bulsatCustomParameter=134076_3009630_134076_NULL_pcweb_3321c750f64dcd23909318c4661b0156_&bulsatendtime=1488600022&bulsatstarttime=1488563722&bulsathash=2G503eVN-6LKVnfzpFc8Zzq-wNlEDSpLhkHiuBAessk=
+http://edge-sf-3.iptv.bulsat.com:1935/tv3/smil:dm_sat_mobile.smil/playlist.m3u8?bulsatCustomParameter=134076_3009630_134076_NULL_pcweb_b5a046cc508d0486c7ff650520da2678_&bulsatendtime=1488683078&bulsatstarttime=1488646778&bulsathash=ktkX-X4fsk_qwb5n4lfxhSbXltgbXFPlUQRSlR7ixYI=
 #EXTINF:-1 radio="False" tvg-shift=0 group-title="Музикални" tvg-logo="kcn_music_2" tvg-id="music",KCN Music 2
-http://edge-sf-8.iptv.bulsat.com:1935/tv11/smil:kcn_music_2_mobile.smil/playlist.m3u8?bulsatCustomParameter=134076_3009630_134076_NULL_pcweb_3321c750f64dcd23909318c4661b0156_&bulsatendtime=1488600022&bulsatstarttime=1488563722&bulsathash=Se0k_RRa1FjjMXkPOWr6Zjqcs9l_MySfZ5j2y347KsE=
+http://edge-sf-8.iptv.bulsat.com:1935/tv11/smil:kcn_music_2_mobile.smil/playlist.m3u8?bulsatCustomParameter=134076_3009630_134076_NULL_pcweb_b5a046cc508d0486c7ff650520da2678_&bulsatendtime=1488683078&bulsatstarttime=1488646778&bulsathash=_Z0RShD0O8eo7xfRawLlftnm1Yr5OPMGnrW9SAsRVIQ=
 #EXTINF:-1 radio="False" tvg-shift=0 group-title="Музикални" tvg-logo="kcn_music_3" tvg-id="music",KCN Music 3
-http://edge-sf-3.iptv.bulsat.com:1935/tv11/smil:kcn_music_3_mobile.smil/playlist.m3u8?bulsatCustomParameter=134076_3009630_134076_NULL_pcweb_3321c750f64dcd23909318c4661b0156_&bulsatendtime=1488600022&bulsatstarttime=1488563722&bulsathash=B4Oge7PZIzqgzctNPIrpUgZjdBbZHP6FQdA7_S2V5XY=
+http://edge-sf-8.iptv.bulsat.com:1935/tv11/smil:kcn_music_3_mobile.smil/playlist.m3u8?bulsatCustomParameter=134076_3009630_134076_NULL_pcweb_b5a046cc508d0486c7ff650520da2678_&bulsatendtime=1488683078&bulsatstarttime=1488646778&bulsathash=QgLRPr4--Vy_Zif2Lvghidm5zkn_rpJv3zEhoTRdPIE=
 #EXTINF:-1 radio="False" tvg-shift=0 group-title="Музикални" tvg-logo="bn_music" tvg-id="music",BN Music
-http://edge-sf-1.iptv.bulsat.com:1935/tv11/smil:bn_music_mobile.smil/playlist.m3u8?bulsatCustomParameter=134076_3009630_134076_NULL_pcweb_3321c750f64dcd23909318c4661b0156_&bulsatendtime=1488600022&bulsatstarttime=1488563722&bulsathash=Kf2ZkWJrUuJwqU0FZXVpWmb4L_TexGpnHrn_f8LTtAY=
+http://edge-sf-1.iptv.bulsat.com:1935/tv11/smil:bn_music_mobile.smil/playlist.m3u8?bulsatCustomParameter=134076_3009630_134076_NULL_pcweb_b5a046cc508d0486c7ff650520da2678_&bulsatendtime=1488683078&bulsatstarttime=1488646778&bulsathash=rcHNmQkbAQ2RVJ9ap45TXCguzYVkBKIM-NtyDtiNflY=
 #EXTINF:-1 radio="False" tvg-shift=0 group-title="Музикални" tvg-logo="duga_tv" tvg-id="duga_tv",Duga TV
-http://edge-sf-1.iptv.bulsat.com:1935/tv35/smil:duga_tv_mobile.smil/playlist.m3u8?bulsatCustomParameter=134076_3009630_134076_NULL_pcweb_3321c750f64dcd23909318c4661b0156_&bulsatendtime=1488600022&bulsatstarttime=1488563722&bulsathash=YQnsb0c-JEcAUuVACbVDHuCQzcUxI2kx-Ebfg07eu-0=
+http://edge-sf-8.iptv.bulsat.com:1935/tv35/smil:duga_tv_mobile.smil/playlist.m3u8?bulsatCustomParameter=134076_3009630_134076_NULL_pcweb_b5a046cc508d0486c7ff650520da2678_&bulsatendtime=1488683078&bulsatstarttime=1488646778&bulsathash=F0sm2h0PLsQcU52G-PnXZLzzvj2uJIVv-pT-AywTSJI=
 #EXTINF:-1 radio="False" tvg-shift=0 group-title="Музикални" tvg-logo="the_voice" tvg-id="TheVoice",The Voice
-http://edge-sf-3.iptv.bulsat.com:1935/tv8/smil:the_voice_mobile.smil/playlist.m3u8?bulsatCustomParameter=134076_3009630_134076_NULL_pcweb_3321c750f64dcd23909318c4661b0156_&bulsatendtime=1488600022&bulsatstarttime=1488563722&bulsathash=IFRwUXQA4h5LW1xVW5J2bh1OlWiPoT1dy6sonnRJsk8=
+http://edge-sf-3.iptv.bulsat.com:1935/tv8/smil:the_voice_mobile.smil/playlist.m3u8?bulsatCustomParameter=134076_3009630_134076_NULL_pcweb_b5a046cc508d0486c7ff650520da2678_&bulsatendtime=1488683078&bulsatstarttime=1488646778&bulsathash=NPMU6Yg2u14SsuFTrxCmPfd8eilPyU_HUk_ZakbuxXA=
 #EXTINF:-1 radio="False" tvg-shift=0 group-title="Музикални" tvg-logo="city_tv" tvg-id="City",City TV
-http://edge-sf-8.iptv.bulsat.com:1935/tv8/smil:city_tv_mobile.smil/playlist.m3u8?bulsatCustomParameter=134076_3009630_134076_NULL_pcweb_3321c750f64dcd23909318c4661b0156_&bulsatendtime=1488600022&bulsatstarttime=1488563722&bulsathash=N_-u50ZncEhXwpNSZiXIO_L-bUW7_LwROX_bcrj7kSQ=
+http://edge-sf-3.iptv.bulsat.com:1935/tv8/smil:city_tv_mobile.smil/playlist.m3u8?bulsatCustomParameter=134076_3009630_134076_NULL_pcweb_b5a046cc508d0486c7ff650520da2678_&bulsatendtime=1488683078&bulsatstarttime=1488646778&bulsathash=OdUMDgGWgyPrUp6PsTlQBMLtGqik8ahTkGSPRu9oN6Y=
 #EXTINF:-1 radio="False" tvg-shift=0 group-title="Музикални" tvg-logo="magic_tv" tvg-id="MagicTV",Magic TV
-http://edge-sf-1.iptv.bulsat.com:1935/tv5/smil:magic_tv_mobile.smil/playlist.m3u8?bulsatCustomParameter=134076_3009630_134076_NULL_pcweb_3321c750f64dcd23909318c4661b0156_&bulsatendtime=1488600022&bulsatstarttime=1488563722&bulsathash=xHlIt6iDbYB8wWApdgpUehUOo4wXIhmw6Na56HdcZQ0=
+http://edge-sf-1.iptv.bulsat.com:1935/tv5/smil:magic_tv_mobile.smil/playlist.m3u8?bulsatCustomParameter=134076_3009630_134076_NULL_pcweb_b5a046cc508d0486c7ff650520da2678_&bulsatendtime=1488683078&bulsatstarttime=1488646778&bulsathash=0EuFB2H0Q5omwzJw9gJ4uwSCMfKikr_eoC1WKkKXBIk=
 #EXTINF:-1 radio="False" tvg-shift=0 group-title="Музикални" tvg-logo="bg_top_music" tvg-id="music",BG Top Music
-http://edge-sf-8.iptv.bulsat.com:1935/tv10/smil:bg_top_music_mobile.smil/playlist.m3u8?bulsatCustomParameter=134076_3009630_134076_NULL_pcweb_3321c750f64dcd23909318c4661b0156_&bulsatendtime=1488600022&bulsatstarttime=1488563722&bulsathash=u8AJ2WrC3OeWK87SIDOiXkcBEfUNzagbsQ23KhL9w9g=
+http://edge-sf-8.iptv.bulsat.com:1935/tv10/smil:bg_top_music_mobile.smil/playlist.m3u8?bulsatCustomParameter=134076_3009630_134076_NULL_pcweb_b5a046cc508d0486c7ff650520da2678_&bulsatendtime=1488683078&bulsatstarttime=1488646778&bulsathash=tUvlaRUcF0kyaDlqoD1yLkCgjZtJXftF5cAvB_bQsik=
 #EXTINF:-1 radio="False" tvg-shift=0 group-title="Музикални" tvg-logo="box_tv_hd" tvg-id="BoxTV",BOX TV HD
-http://edge-sf-1.iptv.bulsat.com:1935/tv7/smil:box_tv_hd_mobile.smil/playlist.m3u8?bulsatCustomParameter=134076_3009630_134076_NULL_pcweb_3321c750f64dcd23909318c4661b0156_&bulsatendtime=1488600022&bulsatstarttime=1488563722&bulsathash=0CPL3qtZ44y_-yuHpCaVUV0cNzro9IoYMU41RocWt-8=
+http://edge-sf-8.iptv.bulsat.com:1935/tv7/smil:box_tv_hd_mobile.smil/playlist.m3u8?bulsatCustomParameter=134076_3009630_134076_NULL_pcweb_b5a046cc508d0486c7ff650520da2678_&bulsatendtime=1488683078&bulsatstarttime=1488646778&bulsathash=KDg0AmRBWB9WM4Gk1i2OhWcHoHGIJf2zXrAdC5H7rM4=
 #EXTINF:-1 radio="False" tvg-shift=0 group-title="Музикални" tvg-logo="bg_music_channel_hd" tvg-id="BGMusicChannel",BG Music Channel HD
-http://edge-sf-3.iptv.bulsat.com:1935/tv2/smil:bg_music_channel_hd_mobile.smil/playlist.m3u8?bulsatCustomParameter=134076_3009630_134076_NULL_pcweb_3321c750f64dcd23909318c4661b0156_&bulsatendtime=1488600022&bulsatstarttime=1488563722&bulsathash=rGjoDp6mGnKD0ZENVt5COtZR_Cp05Vsu_-LJEfdAt2k=
+http://edge-sf-3.iptv.bulsat.com:1935/tv2/smil:bg_music_channel_hd_mobile.smil/playlist.m3u8?bulsatCustomParameter=134076_3009630_134076_NULL_pcweb_b5a046cc508d0486c7ff650520da2678_&bulsatendtime=1488683078&bulsatstarttime=1488646778&bulsathash=oy1N0IC3m4r4OlSkaNlSWkAMd38e4TbwYfWu_xkq0JU=
 #EXTINF:-1 radio="False" tvg-shift=0 group-title="Музикални" tvg-logo="jukebox_hd" tvg-id="DEJukeBox",Jukebox
-http://edge-sf-8.iptv.bulsat.com:1935/tv3/smil:jukebox_hd_mobile.smil/playlist.m3u8?bulsatCustomParameter=134076_3009630_134076_NULL_pcweb_3321c750f64dcd23909318c4661b0156_&bulsatendtime=1488600022&bulsatstarttime=1488563722&bulsathash=w1SaIT14wLV-H44hvKzi4bwOpNfYGvTxq7GF9ZAG1LI=
+http://edge-sf-8.iptv.bulsat.com:1935/tv3/smil:jukebox_hd_mobile.smil/playlist.m3u8?bulsatCustomParameter=134076_3009630_134076_NULL_pcweb_b5a046cc508d0486c7ff650520da2678_&bulsatendtime=1488683078&bulsatstarttime=1488646778&bulsathash=z35g6ptnsXmWUEx3y-ywup6VagHlCGToHOZipCsbluQ=
 #EXTINF:-1 radio="False" tvg-shift=0 group-title="Музикални" tvg-logo="deluxe_lounge_hd" tvg-id="DeluxeLoungeHD",Deluxe Lounge HD
-http://edge-sf-8.iptv.bulsat.com:1935/tv35/smil:deluxe_lounge_hd_mobile.smil/playlist.m3u8?bulsatCustomParameter=134076_3009630_134076_NULL_pcweb_3321c750f64dcd23909318c4661b0156_&bulsatendtime=1488600022&bulsatstarttime=1488563722&bulsathash=ipnR6It12QVCLjom4lzx3mM31l9XGFmhKIpnNcrS67Y=
+http://edge-sf-8.iptv.bulsat.com:1935/tv35/smil:deluxe_lounge_hd_mobile.smil/playlist.m3u8?bulsatCustomParameter=134076_3009630_134076_NULL_pcweb_b5a046cc508d0486c7ff650520da2678_&bulsatendtime=1488683078&bulsatstarttime=1488646778&bulsathash=oMZolz3vPzE2i5AK1_h8NfPzCsp50dAHZ8jjdtesc8Q=
 #EXTINF:-1 radio="False" tvg-shift=0 group-title="Музикални" tvg-logo="deluxe_music_hd" tvg-id="DEDeluxeMusic",Deluxe Music HD
-http://edge-sf-1.iptv.bulsat.com:1935/tv35/smil:deluxe_music_hd_mobile.smil/playlist.m3u8?bulsatCustomParameter=134076_3009630_134076_NULL_pcweb_3321c750f64dcd23909318c4661b0156_&bulsatendtime=1488600022&bulsatstarttime=1488563722&bulsathash=m_lrjMjSz0YLzoRfAD22PaFPHkjWJySfL6gtXnTPlJM=
+http://edge-sf-8.iptv.bulsat.com:1935/tv35/smil:deluxe_music_hd_mobile.smil/playlist.m3u8?bulsatCustomParameter=134076_3009630_134076_NULL_pcweb_b5a046cc508d0486c7ff650520da2678_&bulsatendtime=1488683078&bulsatstarttime=1488646778&bulsathash=4iVialTSyVtH_ocWOXHwagfaMjROZ2Qnn4QI4WGo6Ts=
 #EXTINF:-1 radio="False" tvg-shift=0 group-title="Музикални" tvg-logo="vh1_classic" tvg-id="VH1Classic",VH1 Classic
-http://edge-sf-3.iptv.bulsat.com:1935/tv8/smil:vh1_classic_mobile.smil/playlist.m3u8?bulsatCustomParameter=134076_3009630_134076_NULL_pcweb_3321c750f64dcd23909318c4661b0156_&bulsatendtime=1488600022&bulsatstarttime=1488563722&bulsathash=VH7qjt-lbT6xblgvn3e3dSwy2n21-4ZsXOcVz6Uv6sc=
+http://edge-sf-3.iptv.bulsat.com:1935/tv8/smil:vh1_classic_mobile.smil/playlist.m3u8?bulsatCustomParameter=134076_3009630_134076_NULL_pcweb_b5a046cc508d0486c7ff650520da2678_&bulsatendtime=1488683078&bulsatstarttime=1488646778&bulsathash=Vz0tqewlkULlL9hMQ229qOGIenKUo1JgKPEtB29MLFk=
 #EXTINF:-1 radio="False" tvg-shift=0 group-title="Музикални" tvg-logo="vh1" tvg-id="VH1",VH1
-http://edge-sf-1.iptv.bulsat.com:1935/tv8/smil:vh1_mobile.smil/playlist.m3u8?bulsatCustomParameter=134076_3009630_134076_NULL_pcweb_3321c750f64dcd23909318c4661b0156_&bulsatendtime=1488600022&bulsatstarttime=1488563722&bulsathash=LSQNTnsJ0cVlVhBtv2nndIGsT2GOVsDpBuohTxRpUfM=
+http://edge-sf-3.iptv.bulsat.com:1935/tv8/smil:vh1_mobile.smil/playlist.m3u8?bulsatCustomParameter=134076_3009630_134076_NULL_pcweb_b5a046cc508d0486c7ff650520da2678_&bulsatendtime=1488683078&bulsatstarttime=1488646778&bulsathash=LG_-zIIchW-SNDrt7uxJP3nHubYtPEFtOiiV7ai2Kew=
 #EXTINF:-1 radio="False" tvg-shift=0 group-title="Музикални" tvg-logo="mtvlivehd" tvg-id="MTVLiveHD",MTV Live HD
-http://edge-sf-1.iptv.bulsat.com:1935/tv/smil:mtvlivehd_mobile.smil/playlist.m3u8?bulsatCustomParameter=134076_3009630_134076_NULL_pcweb_3321c750f64dcd23909318c4661b0156_&bulsatendtime=1488600022&bulsatstarttime=1488563722&bulsathash=mt3c78tEVuQkptWMvdV307tmHsdMB0LhErEBwrCIsNs=
+http://edge-sf-8.iptv.bulsat.com:1935/tv/smil:mtvlivehd_mobile.smil/playlist.m3u8?bulsatCustomParameter=134076_3009630_134076_NULL_pcweb_b5a046cc508d0486c7ff650520da2678_&bulsatendtime=1488683078&bulsatstarttime=1488646778&bulsathash=yQ4bqNqSIIrb9dPVnubMMghF2I2PgjF5QbuMoGf_FVw=
 #EXTINF:-1 radio="False" tvg-shift=0 group-title="Музикални" tvg-logo="mtv_rock" tvg-id="MTVRocks",MTV Rock
-http://edge-sf-3.iptv.bulsat.com:1935/tv8/smil:mtv_rock_mobile.smil/playlist.m3u8?bulsatCustomParameter=134076_3009630_134076_NULL_pcweb_3321c750f64dcd23909318c4661b0156_&bulsatendtime=1488600022&bulsatstarttime=1488563722&bulsathash=lNFabVCVtgvFepnb5DN9D_B3lU6e1hk-wU8p192136Y=
+http://edge-sf-8.iptv.bulsat.com:1935/tv8/smil:mtv_rock_mobile.smil/playlist.m3u8?bulsatCustomParameter=134076_3009630_134076_NULL_pcweb_b5a046cc508d0486c7ff650520da2678_&bulsatendtime=1488683078&bulsatstarttime=1488646778&bulsathash=loA0e0VxSoHU1r3WKJ6ZoWnB8nUbYL2YNgeP6uojROg=
 #EXTINF:-1 radio="False" tvg-shift=0 group-title="Музикални" tvg-logo="mtv_hits" tvg-id="MTVHits",MTV Hits
-http://edge-sf-1.iptv.bulsat.com:1935/tv3/smil:mtv_hits_mobile.smil/playlist.m3u8?bulsatCustomParameter=134076_3009630_134076_NULL_pcweb_3321c750f64dcd23909318c4661b0156_&bulsatendtime=1488600022&bulsatstarttime=1488563722&bulsathash=WJpfOWUlIK7nwlj9T2SziLYtTLsNds0Q87Dd1983gnU=
+http://edge-sf-8.iptv.bulsat.com:1935/tv3/smil:mtv_hits_mobile.smil/playlist.m3u8?bulsatCustomParameter=134076_3009630_134076_NULL_pcweb_b5a046cc508d0486c7ff650520da2678_&bulsatendtime=1488683078&bulsatstarttime=1488646778&bulsathash=5W4lLr92Daca_cGFIBdgmxHNZs4CPtTTAf2qSSWB1LI=
 #EXTINF:-1 radio="False" tvg-shift=0 group-title="Музикални" tvg-logo="rck_tv_hd" tvg-id="rck_tv_hd",RCK TV
-http://edge-sf-3.iptv.bulsat.com:1935/tv/smil:rck_tv_hd_mobile.smil/playlist.m3u8?bulsatCustomParameter=134076_3009630_134076_NULL_pcweb_3321c750f64dcd23909318c4661b0156_&bulsatendtime=1488600022&bulsatstarttime=1488563722&bulsathash=R-lyOFsdU3hoAcQ2cgJt9ffVG9vcFekos7bMWZ3gaRc=
+http://edge-sf-1.iptv.bulsat.com:1935/tv/smil:rck_tv_hd_mobile.smil/playlist.m3u8?bulsatCustomParameter=134076_3009630_134076_NULL_pcweb_b5a046cc508d0486c7ff650520da2678_&bulsatendtime=1488683078&bulsatstarttime=1488646778&bulsathash=50HWfx7hkaX3rnLYsPFv0xpU9qd_Ph2ZvSWvstTW88Q=
 #EXTINF:-1 radio="False" tvg-shift=0 group-title="Музикални" tvg-logo="mezzo" tvg-id="Mezzo",Mezzo
-http://edge-sf-8.iptv.bulsat.com:1935/tv35/smil:mezzo_mobile.smil/playlist.m3u8?bulsatCustomParameter=134076_3009630_134076_NULL_pcweb_3321c750f64dcd23909318c4661b0156_&bulsatendtime=1488600022&bulsatstarttime=1488563722&bulsathash=Z1hI4qw_xBmopLEE2MSm8ijAJz4MBJyp1UfMYt6DRX4=
+http://edge-sf-1.iptv.bulsat.com:1935/tv35/smil:mezzo_mobile.smil/playlist.m3u8?bulsatCustomParameter=134076_3009630_134076_NULL_pcweb_b5a046cc508d0486c7ff650520da2678_&bulsatendtime=1488683078&bulsatstarttime=1488646778&bulsathash=D1twrnp-zGC3NtS5P00AYc2d4wB73_5LhQbzU70YNkE=
 #EXTINF:-1 radio="False" tvg-shift=0 group-title="Музикални" tvg-logo="mezzo_live_hd" tvg-id="mezzolivehd",Mezzo Live HD
-http://edge-sf-8.iptv.bulsat.com:1935/tv35/smil:mezzo_live_hd_mobile.smil/playlist.m3u8?bulsatCustomParameter=134076_3009630_134076_NULL_pcweb_3321c750f64dcd23909318c4661b0156_&bulsatendtime=1488600022&bulsatstarttime=1488563722&bulsathash=0Sj1bEjm0jVBWSoaN7D-v0j5dv5dWrmUEb-JbdBitVk=
+http://edge-sf-3.iptv.bulsat.com:1935/tv35/smil:mezzo_live_hd_mobile.smil/playlist.m3u8?bulsatCustomParameter=134076_3009630_134076_NULL_pcweb_b5a046cc508d0486c7ff650520da2678_&bulsatendtime=1488683078&bulsatstarttime=1488646778&bulsathash=85WA7L_2nE3H1SVOwGXQ_b6loqv6tohJOP51_EKgTnk=
 #EXTINF:-1 radio="False" tvg-shift=0 group-title="Музикални" tvg-logo="360tunebox" tvg-id="360TuneBoxHD",360TuneBox HD
-http://edge-sf-1.iptv.bulsat.com:1935/tv2/smil:360tunebox_mobile.smil/playlist.m3u8?bulsatCustomParameter=134076_3009630_134076_NULL_pcweb_3321c750f64dcd23909318c4661b0156_&bulsatendtime=1488600022&bulsatstarttime=1488563722&bulsathash=5tFYakNnu7MtiwfAkg6xqqL0nPtrsZ8qpTa3hVuOPjA=
+http://edge-sf-8.iptv.bulsat.com:1935/tv2/smil:360tunebox_mobile.smil/playlist.m3u8?bulsatCustomParameter=134076_3009630_134076_NULL_pcweb_b5a046cc508d0486c7ff650520da2678_&bulsatendtime=1488683078&bulsatstarttime=1488646778&bulsathash=6o7knIR2RHmzSM-Jnb5DR-ijRrKugNLq-1RiTMoVUCU=
 #EXTINF:-1 radio="False" tvg-shift=0 group-title="Музикални" tvg-logo="music_box_ru" tvg-id="MusicBoxRU",Music BOX RU
-http://edge-sf-8.iptv.bulsat.com:1935/tv/smil:music_box_ru_mobile.smil/playlist.m3u8?bulsatCustomParameter=134076_3009630_134076_NULL_pcweb_3321c750f64dcd23909318c4661b0156_&bulsatendtime=1488600022&bulsatstarttime=1488563722&bulsathash=i4-A1ip2aTIGfTtNBqLc3ZOe6FxmuCQbjIl3QLI8Kgk=
+http://edge-sf-3.iptv.bulsat.com:1935/tv/smil:music_box_ru_mobile.smil/playlist.m3u8?bulsatCustomParameter=134076_3009630_134076_NULL_pcweb_b5a046cc508d0486c7ff650520da2678_&bulsatendtime=1488683078&bulsatstarttime=1488646778&bulsathash=sUxfdhmxZrHAY4IsaxTWQh-1YQx54ePJ2OOzrt9ZZ8s=
 #EXTINF:-1 radio="False" tvg-shift=0 group-title="Музикални" tvg-logo="musicbox_ukraina" tvg-id="MusicBoxUA",Music BOX UA
-http://edge-sf-8.iptv.bulsat.com:1935/tv/smil:musicbox_ukraina_mobile.smil/playlist.m3u8?bulsatCustomParameter=134076_3009630_134076_NULL_pcweb_3321c750f64dcd23909318c4661b0156_&bulsatendtime=1488600022&bulsatstarttime=1488563722&bulsathash=eoRtWekDdaJc7qVJ0-rHdVJs99GE0AcLq5ucK3s_XBw=
+http://edge-sf-3.iptv.bulsat.com:1935/tv/smil:musicbox_ukraina_mobile.smil/playlist.m3u8?bulsatCustomParameter=134076_3009630_134076_NULL_pcweb_b5a046cc508d0486c7ff650520da2678_&bulsatendtime=1488683078&bulsatstarttime=1488646778&bulsathash=FjYuQKsT2m7P6fiN2Txl0ALrL8tcqi_Qq5oGEPnUQRs=
 #EXTINF:-1 radio="False" tvg-shift=0 group-title="Музикални" tvg-logo="musica" tvg-id="musica",Музыка
-http://edge-sf-3.iptv.bulsat.com:1935/tv12/smil:musica_mobile.smil/playlist.m3u8?bulsatCustomParameter=134076_3009630_134076_NULL_pcweb_3321c750f64dcd23909318c4661b0156_&bulsatendtime=1488600022&bulsatstarttime=1488563722&bulsathash=I2Dy9X6N8Ps4Ckg1G644yKbk32YjCnt2_fFXtWXe2I4=
+http://edge-sf-3.iptv.bulsat.com:1935/tv12/smil:musica_mobile.smil/playlist.m3u8?bulsatCustomParameter=134076_3009630_134076_NULL_pcweb_b5a046cc508d0486c7ff650520da2678_&bulsatendtime=1488683078&bulsatstarttime=1488646778&bulsathash=qNr2mvnYSM4LLdw3ggBXSKp6jjjglw1UZFxm-Ewd5fA=
 #EXTINF:-1 radio="False" tvg-shift=0 group-title="Музикални" tvg-logo="kral_tv" tvg-id="kral_tv",Kral TV
-http://edge-sf-1.iptv.bulsat.com:1935/tv/smil:kral_tv_mobile.smil/playlist.m3u8?bulsatCustomParameter=134076_3009630_134076_NULL_pcweb_3321c750f64dcd23909318c4661b0156_&bulsatendtime=1488600022&bulsatstarttime=1488563722&bulsathash=0eE8Dke8vzAgOEWnd1NY9UphLPaTWL1MgolHRpx5AKI=
+http://edge-sf-8.iptv.bulsat.com:1935/tv/smil:kral_tv_mobile.smil/playlist.m3u8?bulsatCustomParameter=134076_3009630_134076_NULL_pcweb_b5a046cc508d0486c7ff650520da2678_&bulsatendtime=1488683078&bulsatstarttime=1488646778&bulsathash=45wnT7QXA-FaBPmMH9AXoVBdEcTH-C6JBHO2fp_yKuE=
 #EXTINF:-1 radio="False" tvg-shift=0 group-title="Детски" tvg-logo="disney_channel" tvg-id="Disney",Disney channel
-http://edge-sf-1.iptv.bulsat.com:1935/tv7/smil:disney_channel_mobile.smil/playlist.m3u8?bulsatCustomParameter=134076_3009630_134076_NULL_pcweb_3321c750f64dcd23909318c4661b0156_&bulsatendtime=1488600022&bulsatstarttime=1488563722&bulsathash=eTmzZzmnMxozWyMFrcGFpSjdheWjVKvwiGKNevKnTUI=
+http://edge-sf-3.iptv.bulsat.com:1935/tv7/smil:disney_channel_mobile.smil/playlist.m3u8?bulsatCustomParameter=134076_3009630_134076_NULL_pcweb_b5a046cc508d0486c7ff650520da2678_&bulsatendtime=1488683078&bulsatstarttime=1488646778&bulsathash=t883T8_bUf97b7Yy_i1sLNU1BV5yHkOOwYEDg9o8uL0=
 #EXTINF:-1 radio="False" tvg-shift=0 group-title="Детски" tvg-logo="cn" tvg-id="CartoonNetwork",CN
-http://edge-sf-8.iptv.bulsat.com:1935/tv228/smil:cn_mobile.smil/playlist.m3u8?bulsatCustomParameter=134076_3009630_134076_NULL_pcweb_3321c750f64dcd23909318c4661b0156_&bulsatendtime=1488600022&bulsatstarttime=1488563722&bulsathash=Sj4DXrvHcskIWBWA5pc8Rqm4CjWYdySbzu8hB1pDH-Q=
+http://edge-sf-3.iptv.bulsat.com:1935/tv228/smil:cn_mobile.smil/playlist.m3u8?bulsatCustomParameter=134076_3009630_134076_NULL_pcweb_b5a046cc508d0486c7ff650520da2678_&bulsatendtime=1488683078&bulsatstarttime=1488646778&bulsathash=TpnO-qWTe3_j48MQFY2wdpt3MU8ra_rWqs9y3aI8vfM=
 #EXTINF:-1 radio="False" tvg-shift=0 group-title="Детски" tvg-logo="nick_jr" tvg-id="NickJr",Nick Jr.
-http://edge-sf-8.iptv.bulsat.com:1935/tv228/smil:nick_jr_mobile.smil/playlist.m3u8?bulsatCustomParameter=134076_3009630_134076_NULL_pcweb_3321c750f64dcd23909318c4661b0156_&bulsatendtime=1488600022&bulsatstarttime=1488563722&bulsathash=nd6jRNLUpx880TA4aPa1U7kP_8hZU0iuTtyKrKthkJE=
+http://edge-sf-1.iptv.bulsat.com:1935/tv228/smil:nick_jr_mobile.smil/playlist.m3u8?bulsatCustomParameter=134076_3009630_134076_NULL_pcweb_b5a046cc508d0486c7ff650520da2678_&bulsatendtime=1488683078&bulsatstarttime=1488646778&bulsathash=2ripBvZKHpg1RUxF7_bUEMSbVRElad9YaqoknxSRJLs=
 #EXTINF:-1 radio="False" tvg-shift=0 group-title="Детски" tvg-logo="boomerang" tvg-id="Boomerang",Boomerang
-http://edge-sf-8.iptv.bulsat.com:1935/tv228/smil:boomerang_mobile.smil/playlist.m3u8?bulsatCustomParameter=134076_3009630_134076_NULL_pcweb_3321c750f64dcd23909318c4661b0156_&bulsatendtime=1488600022&bulsatstarttime=1488563722&bulsathash=snCvjtFR44MivEEox5Hpx-ZlCg6lHRO4JOvoHdbKows=
+http://edge-sf-8.iptv.bulsat.com:1935/tv228/smil:boomerang_mobile.smil/playlist.m3u8?bulsatCustomParameter=134076_3009630_134076_NULL_pcweb_b5a046cc508d0486c7ff650520da2678_&bulsatendtime=1488683078&bulsatstarttime=1488646778&bulsathash=G64zH_JX87f5OR9X9j_mwW0kcb5Qnhc5NAzIVubCXpo=
 #EXTINF:-1 radio="False" tvg-shift=0 group-title="Детски" tvg-logo="nickelodeon" tvg-id="Nickelodeon",Nickelodeon
-http://edge-sf-1.iptv.bulsat.com:1935/tv7/smil:nickelodeon_mobile.smil/playlist.m3u8?bulsatCustomParameter=134076_3009630_134076_NULL_pcweb_3321c750f64dcd23909318c4661b0156_&bulsatendtime=1488600022&bulsatstarttime=1488563722&bulsathash=BgamC3lFw_iD4wMHVWq8BbARvZ3_pDc0TdczMF04PhU=
+http://edge-sf-3.iptv.bulsat.com:1935/tv7/smil:nickelodeon_mobile.smil/playlist.m3u8?bulsatCustomParameter=134076_3009630_134076_NULL_pcweb_b5a046cc508d0486c7ff650520da2678_&bulsatendtime=1488683078&bulsatstarttime=1488646778&bulsathash=qHWvdZbztRmCu352jDVGZELAJkjQT2yOjcAgRl1-6gs=
 #EXTINF:-1 radio="False" tvg-shift=0 group-title="Детски" tvg-logo="ekids" tvg-id="EKids",Ekids
-http://edge-sf-8.iptv.bulsat.com:1935/tv228/smil:ekids_mobile.smil/playlist.m3u8?bulsatCustomParameter=134076_3009630_134076_NULL_pcweb_3321c750f64dcd23909318c4661b0156_&bulsatendtime=1488600022&bulsatstarttime=1488563722&bulsathash=3_3SKZxcgvaMHssmCT_nTHlgeaBhs5hU6rbt9AdDx9I=
+http://edge-sf-8.iptv.bulsat.com:1935/tv228/smil:ekids_mobile.smil/playlist.m3u8?bulsatCustomParameter=134076_3009630_134076_NULL_pcweb_b5a046cc508d0486c7ff650520da2678_&bulsatendtime=1488683078&bulsatstarttime=1488646778&bulsathash=bNphCj5Q987XLbdxTaVmbED3L0EGqBVBKKWY31oR9V8=
 #EXTINF:-1 radio="False" tvg-shift=0 group-title="Детски" tvg-logo="disney_junior" tvg-id="DisneyJunior",Disney Junior
-http://edge-sf-8.iptv.bulsat.com:1935/tv228/smil:disney_junior_mobile.smil/playlist.m3u8?bulsatCustomParameter=134076_3009630_134076_NULL_pcweb_3321c750f64dcd23909318c4661b0156_&bulsatendtime=1488600022&bulsatstarttime=1488563722&bulsathash=N1UjibMRIZnd1olLL0uks2oAKHIcBRDxBCZKjyqsSwc=
+http://edge-sf-8.iptv.bulsat.com:1935/tv228/smil:disney_junior_mobile.smil/playlist.m3u8?bulsatCustomParameter=134076_3009630_134076_NULL_pcweb_b5a046cc508d0486c7ff650520da2678_&bulsatendtime=1488683078&bulsatstarttime=1488646778&bulsathash=LJ4ETddCRNR_aoCRWuNygQRdHYCTTKJzduvoemNR7iM=
 #EXTINF:-1 radio="False" tvg-shift=0 group-title="Детски" tvg-logo="kika_hd" tvg-id="kika_hd",KiKa HD
-http://edge-sf-8.iptv.bulsat.com:1935/tv228/smil:kika_hd_mobile.smil/playlist.m3u8?bulsatCustomParameter=134076_3009630_134076_NULL_pcweb_3321c750f64dcd23909318c4661b0156_&bulsatendtime=1488600022&bulsatstarttime=1488563722&bulsathash=D_kpZgankQuvNUCdyhzIqqnzHziC688LKp2lBelCXo4=
+http://edge-sf-8.iptv.bulsat.com:1935/tv228/smil:kika_hd_mobile.smil/playlist.m3u8?bulsatCustomParameter=134076_3009630_134076_NULL_pcweb_b5a046cc508d0486c7ff650520da2678_&bulsatendtime=1488683078&bulsatstarttime=1488646778&bulsathash=aSG24SGKdLVWG8g5x6PuC2JmpI-2btjQ5QTxhXmoie8=
 #EXTINF:-1 radio="False" tvg-shift=0 group-title="Детски" tvg-logo="duck_tv_sd" tvg-id="DuckTV",Duck TV SD
-http://edge-sf-8.iptv.bulsat.com:1935/tv1/smil:duck_tv_sd_mobile.smil/playlist.m3u8?bulsatCustomParameter=134076_3009630_134076_NULL_pcweb_3321c750f64dcd23909318c4661b0156_&bulsatendtime=1488600022&bulsatstarttime=1488563722&bulsathash=WiDMcqnntUd0PRUIMT21hUXEBEMulQ7eaBLXcE7W0Qo=
+http://edge-sf-1.iptv.bulsat.com:1935/tv1/smil:duck_tv_sd_mobile.smil/playlist.m3u8?bulsatCustomParameter=134076_3009630_134076_NULL_pcweb_b5a046cc508d0486c7ff650520da2678_&bulsatendtime=1488683078&bulsatstarttime=1488646778&bulsathash=L9NhPTShp47ctQGFd2RlIjS3eaF_KVpFxz8Swef439I=
 #EXTINF:-1 radio="False" tvg-shift=0 group-title="Детски" tvg-logo="jim_jam" tvg-id="JimJam",Jim Jam
-http://edge-sf-8.iptv.bulsat.com:1935/tv7/smil:jim_jam_mobile.smil/playlist.m3u8?bulsatCustomParameter=134076_3009630_134076_NULL_pcweb_3321c750f64dcd23909318c4661b0156_&bulsatendtime=1488600022&bulsatstarttime=1488563722&bulsathash=wa_24WnFHuxp2kgAFZx1rPVRN2t__PIQt5c1VlSA8LM=
+http://edge-sf-1.iptv.bulsat.com:1935/tv7/smil:jim_jam_mobile.smil/playlist.m3u8?bulsatCustomParameter=134076_3009630_134076_NULL_pcweb_b5a046cc508d0486c7ff650520da2678_&bulsatendtime=1488683078&bulsatstarttime=1488646778&bulsathash=2y8b6vh9FkjRNpcQtb_4YYu6dxjWt-RVOEqLPsstj94=
 #EXTINF:-1 radio="False" tvg-shift=0 group-title="Детски" tvg-logo="fix_foxi" tvg-id="FixFoxy",Fix&amp;Foxi
-http://edge-sf-8.iptv.bulsat.com:1935/tv35/smil:fix_foxi_mobile.smil/playlist.m3u8?bulsatCustomParameter=134076_3009630_134076_NULL_pcweb_3321c750f64dcd23909318c4661b0156_&bulsatendtime=1488600022&bulsatstarttime=1488563722&bulsathash=8tCA6wIcjtvyeU-is_zBJoarYhdSK1_k5BnU-7ss5ls=
+http://edge-sf-3.iptv.bulsat.com:1935/tv35/smil:fix_foxi_mobile.smil/playlist.m3u8?bulsatCustomParameter=134076_3009630_134076_NULL_pcweb_b5a046cc508d0486c7ff650520da2678_&bulsatendtime=1488683078&bulsatstarttime=1488646778&bulsathash=c4yx1gSlxFYsofv4xkNIF424SqPqQ7bB9RrXPRaa4Gs=
 #EXTINF:-1 radio="False" tvg-shift=0 group-title="Детски" tvg-logo="karusel" tvg-id="karusel",Карусель
-http://edge-sf-1.iptv.bulsat.com:1935/tv35/smil:karusel_mobile.smil/playlist.m3u8?bulsatCustomParameter=134076_3009630_134076_NULL_pcweb_3321c750f64dcd23909318c4661b0156_&bulsatendtime=1488600022&bulsatstarttime=1488563722&bulsathash=3S9kW2Gho6LMi7JFes1L2aXcLpwqn8vTI5h2dqgfb2o=
+http://edge-sf-1.iptv.bulsat.com:1935/tv35/smil:karusel_mobile.smil/playlist.m3u8?bulsatCustomParameter=134076_3009630_134076_NULL_pcweb_b5a046cc508d0486c7ff650520da2678_&bulsatendtime=1488683078&bulsatstarttime=1488646778&bulsathash=Jem5liirN88UOqxrtWnfoxkarTAog9UWj6OgZ8frHLg=
 #EXTINF:-1 radio="False" tvg-shift=0 group-title="Детски" tvg-logo="detski_mir" tvg-id="detski_mir",Детский Мир
-http://edge-sf-3.iptv.bulsat.com:1935/tv/smil:detski_mir_mobile.smil/playlist.m3u8?bulsatCustomParameter=134076_3009630_134076_NULL_pcweb_3321c750f64dcd23909318c4661b0156_&bulsatendtime=1488600022&bulsatstarttime=1488563722&bulsathash=wphNq94mRkQS97Bd34PjlSaFCC2LkiprzHa7s0RUMM4=
+http://edge-sf-1.iptv.bulsat.com:1935/tv/smil:detski_mir_mobile.smil/playlist.m3u8?bulsatCustomParameter=134076_3009630_134076_NULL_pcweb_b5a046cc508d0486c7ff650520da2678_&bulsatendtime=1488683078&bulsatstarttime=1488646778&bulsathash=GwYluCBiaD3bzgbYyac_AlSCBgA23-xkwR8UU6RvN9M=
 #EXTINF:-1 radio="False" tvg-shift=0 group-title="ДРУГИ" tvg-logo="tv1_hd" tvg-id="TV1",TV 1 HD
-http://edge-sf-1.iptv.bulsat.com:1935/tv4/smil:tv1_hd_mobile.smil/playlist.m3u8?bulsatCustomParameter=134076_3009630_134076_NULL_pcweb_3321c750f64dcd23909318c4661b0156_&bulsatendtime=1488600022&bulsatstarttime=1488563722&bulsathash=4K9aQDGWOkKpDm64VZXIXtUmSkHyeo-VvoTZ7tG6KUo=
+http://edge-sf-8.iptv.bulsat.com:1935/tv4/smil:tv1_hd_mobile.smil/playlist.m3u8?bulsatCustomParameter=134076_3009630_134076_NULL_pcweb_b5a046cc508d0486c7ff650520da2678_&bulsatendtime=1488683078&bulsatstarttime=1488646778&bulsathash=qlRp2xiOkbVP4A53FKVJynbI0vDFvyKJehO6zQJQrZU=
 #EXTINF:-1 radio="False" tvg-shift=0 group-title="ДРУГИ" tvg-logo="tv_stara_zagora" tvg-id="tvstz",TV Zagora
-http://edge-sf-3.iptv.bulsat.com:1935/tv2/smil:tv_stara_zagora_mobile.smil/playlist.m3u8?bulsatCustomParameter=134076_3009630_134076_NULL_pcweb_3321c750f64dcd23909318c4661b0156_&bulsatendtime=1488600022&bulsatstarttime=1488563722&bulsathash=Z5Duz3Xohh75azRL-3F-MwDUCtHAh5NQwKD1rG_TwMM=
+http://edge-sf-3.iptv.bulsat.com:1935/tv2/smil:tv_stara_zagora_mobile.smil/playlist.m3u8?bulsatCustomParameter=134076_3009630_134076_NULL_pcweb_b5a046cc508d0486c7ff650520da2678_&bulsatendtime=1488683078&bulsatstarttime=1488646778&bulsathash=E0BP2XEkTBzE1AYTYRFgmKT1ACVNHcKdLpbXF4CvEDI=
 #EXTINF:-1 radio="False" tvg-shift=0 group-title="ДРУГИ" tvg-logo="stara_zagora_tv" tvg-id="stara_zagora_tv",TV Stara Zagora
-http://edge-sf-1.iptv.bulsat.com:1935/tv228/smil:stara_zagora_tv_mobile.smil/playlist.m3u8?bulsatCustomParameter=134076_3009630_134076_NULL_pcweb_3321c750f64dcd23909318c4661b0156_&bulsatendtime=1488600022&bulsatstarttime=1488563722&bulsathash=JEZ4ox_33w0hVaWeOIJBKU6IRoIw7inbXAS0jaH45IY=
+http://edge-sf-3.iptv.bulsat.com:1935/tv228/smil:stara_zagora_tv_mobile.smil/playlist.m3u8?bulsatCustomParameter=134076_3009630_134076_NULL_pcweb_b5a046cc508d0486c7ff650520da2678_&bulsatendtime=1488683078&bulsatstarttime=1488646778&bulsathash=TpDNZY66v6MelBSjxmKpusyo9kIGyWvQ2xvaKulyUcI=
 #EXTINF:-1 radio="False" tvg-shift=0 group-title="ДРУГИ" tvg-logo="stoychev" tvg-id="stoychev",Stoychev HD
-http://edge-sf-8.iptv.bulsat.com:1935/tv6/smil:stoychev_mobile.smil/playlist.m3u8?bulsatCustomParameter=134076_3009630_134076_NULL_pcweb_3321c750f64dcd23909318c4661b0156_&bulsatendtime=1488600022&bulsatstarttime=1488563722&bulsathash=l53q5aIx9LUtC3sIK9gGiOnwnrg2i3muvK-uK3YdDgo=
+http://edge-sf-8.iptv.bulsat.com:1935/tv6/smil:stoychev_mobile.smil/playlist.m3u8?bulsatCustomParameter=134076_3009630_134076_NULL_pcweb_b5a046cc508d0486c7ff650520da2678_&bulsatendtime=1488683078&bulsatstarttime=1488646778&bulsathash=IsTOYJ96YTzdSJsRJN6LhwPMCcrMB9fzR6yAZ3ipJsQ=
 #EXTINF:-1 radio="False" tvg-shift=0 group-title="ДРУГИ" tvg-logo="po_tv_trakia" tvg-id="Trakiq",PO TV Trakia
-http://edge-sf-1.iptv.bulsat.com:1935/tv1/smil:po_tv_trakia_mobile.smil/playlist.m3u8?bulsatCustomParameter=134076_3009630_134076_NULL_pcweb_3321c750f64dcd23909318c4661b0156_&bulsatendtime=1488600022&bulsatstarttime=1488563722&bulsathash=wyk7Ptnxyk7HjpFMpkT2cfzvxDspB5qjgjKLISRFo9E=
+http://edge-sf-8.iptv.bulsat.com:1935/tv1/smil:po_tv_trakia_mobile.smil/playlist.m3u8?bulsatCustomParameter=134076_3009630_134076_NULL_pcweb_b5a046cc508d0486c7ff650520da2678_&bulsatendtime=1488683078&bulsatstarttime=1488646778&bulsathash=M1rLofJM2h_M73emkzEwSSqtA6gdqQGPLejpGqwaUpE=
 #EXTINF:-1 radio="False" tvg-shift=0 group-title="ДРУГИ" tvg-logo="cherno_more" tvg-id="ChernoMore",Черно Море
-http://edge-sf-3.iptv.bulsat.com:1935/tv2/smil:cherno_more_mobile.smil/playlist.m3u8?bulsatCustomParameter=134076_3009630_134076_NULL_pcweb_3321c750f64dcd23909318c4661b0156_&bulsatendtime=1488600022&bulsatstarttime=1488563722&bulsathash=2oei9PIF_4xTAXd0Y4jAA3Cmy5RA9bwElDaTr9--m9Q=
+http://edge-sf-1.iptv.bulsat.com:1935/tv2/smil:cherno_more_mobile.smil/playlist.m3u8?bulsatCustomParameter=134076_3009630_134076_NULL_pcweb_b5a046cc508d0486c7ff650520da2678_&bulsatendtime=1488683078&bulsatstarttime=1488646778&bulsathash=RPt4Tm8Wwf9iznGZGyPB-JVlonZmuWGGuBRrBArlI9s=
 #EXTINF:-1 radio="False" tvg-shift=0 group-title="ДРУГИ" tvg-logo="bloomberg_tv" tvg-id="Bloomberg",Bloomberg TV Bulgaria
-http://edge-sf-8.iptv.bulsat.com:1935/tv4/smil:bloomberg_tv_mobile.smil/playlist.m3u8?bulsatCustomParameter=134076_3009630_134076_NULL_pcweb_3321c750f64dcd23909318c4661b0156_&bulsatendtime=1488600022&bulsatstarttime=1488563722&bulsathash=cTxSFhGwbgQTlXEoKlDNHue1i39Y70tF6hr0d03woeQ=
+http://edge-sf-8.iptv.bulsat.com:1935/tv4/smil:bloomberg_tv_mobile.smil/playlist.m3u8?bulsatCustomParameter=134076_3009630_134076_NULL_pcweb_b5a046cc508d0486c7ff650520da2678_&bulsatendtime=1488683078&bulsatstarttime=1488646778&bulsathash=kT7Na8E9zTlkauc06AhD2_xh9R41QMfoP5IV9984G8A=
 #EXTINF:-1 radio="False" tvg-shift=0 group-title="ДРУГИ" tvg-logo="kanal4" tvg-id="kanal4",Kanal 4
-http://edge-sf-8.iptv.bulsat.com:1935/tv1/smil:kanal4_mobile.smil/playlist.m3u8?bulsatCustomParameter=134076_3009630_134076_NULL_pcweb_3321c750f64dcd23909318c4661b0156_&bulsatendtime=1488600022&bulsatstarttime=1488563722&bulsathash=fy8BA8as3uKV_UZgRWlJ6CJygbBuN0SZaKGvScjv8uY=
+http://edge-sf-3.iptv.bulsat.com:1935/tv1/smil:kanal4_mobile.smil/playlist.m3u8?bulsatCustomParameter=134076_3009630_134076_NULL_pcweb_b5a046cc508d0486c7ff650520da2678_&bulsatendtime=1488683078&bulsatstarttime=1488646778&bulsathash=KX17HoNO8-jTRnaLx6NJBTtsp6hu_xlwThf3H_nzZtQ=
 #EXTINF:-1 radio="False" tvg-shift=0 group-title="ДРУГИ" tvg-logo="bhtv" tvg-id="bhtv",BHTV
-http://edge-sf-1.iptv.bulsat.com:1935/tv9/smil:bhtv_mobile.smil/playlist.m3u8?bulsatCustomParameter=134076_3009630_134076_NULL_pcweb_3321c750f64dcd23909318c4661b0156_&bulsatendtime=1488600022&bulsatstarttime=1488563722&bulsathash=n8N5D0bINCQ37b-ifv0jaioXOO6UTenm8jw4D6sY3v0=
+http://edge-sf-1.iptv.bulsat.com:1935/tv9/smil:bhtv_mobile.smil/playlist.m3u8?bulsatCustomParameter=134076_3009630_134076_NULL_pcweb_b5a046cc508d0486c7ff650520da2678_&bulsatendtime=1488683078&bulsatstarttime=1488646778&bulsathash=zWwpcNlqR0_URK_ZD8vEq9uhlbnW5YfGPUzCVUcFGQ0=
 #EXTINF:-1 radio="False" tvg-shift=0 group-title="ДРУГИ" tvg-logo="hmtv_hd" tvg-id="hmtv_hd",HMTV HD
-http://edge-sf-8.iptv.bulsat.com:1935/tv9/smil:hmtv_hd_mobile.smil/playlist.m3u8?bulsatCustomParameter=134076_3009630_134076_NULL_pcweb_3321c750f64dcd23909318c4661b0156_&bulsatendtime=1488600022&bulsatstarttime=1488563722&bulsathash=sFOZMnR6uGNP9NYdNH-JtmKt3eZB8_Uq1wJv-C2jMZ4=
+http://edge-sf-3.iptv.bulsat.com:1935/tv9/smil:hmtv_hd_mobile.smil/playlist.m3u8?bulsatCustomParameter=134076_3009630_134076_NULL_pcweb_b5a046cc508d0486c7ff650520da2678_&bulsatendtime=1488683078&bulsatstarttime=1488646778&bulsathash=QBxg_QXoqx3Ys_duH80P6ljHrXGZGCEhf5BA7qmogd8=
 #EXTINF:-1 radio="False" tvg-shift=0 group-title="ДРУГИ" tvg-logo="perviy_kanal" tvg-id="PerviyKanal",Perviy Kanal
-http://edge-sf-8.iptv.bulsat.com:1935/tv5/smil:perviy_kanal.smil/playlist.m3u8?bulsatCustomParameter=134076_3009630_134076_NULL_pcweb_3321c750f64dcd23909318c4661b0156_&bulsatendtime=1488600022&bulsatstarttime=1488563722&bulsathash=dl8H3oDlBwt4irOitkXCM7jCg1qld6QZ8kNonzXhypU=
+http://edge-sf-8.iptv.bulsat.com:1935/tv5/smil:perviy_kanal.smil/playlist.m3u8?bulsatCustomParameter=134076_3009630_134076_NULL_pcweb_b5a046cc508d0486c7ff650520da2678_&bulsatendtime=1488683078&bulsatstarttime=1488646778&bulsathash=iunb2fAgw_v8u7Gu3BrUNZm5gmY4ZImQtRO9YuuRYjY=
 #EXTINF:-1 radio="False" tvg-shift=0 group-title="ДРУГИ" tvg-logo="russia_24" tvg-id="russia_24",Русия 24
-http://edge-sf-3.iptv.bulsat.com:1935/tv/smil:russia_24_mobile.smil/playlist.m3u8?bulsatCustomParameter=134076_3009630_134076_NULL_pcweb_3321c750f64dcd23909318c4661b0156_&bulsatendtime=1488600022&bulsatstarttime=1488563722&bulsathash=jhpG4R7Y-gkDNsHqM-UgDAXb3XrP6ZTS_N5Ivf-pTqw=
+http://edge-sf-1.iptv.bulsat.com:1935/tv/smil:russia_24_mobile.smil/playlist.m3u8?bulsatCustomParameter=134076_3009630_134076_NULL_pcweb_b5a046cc508d0486c7ff650520da2678_&bulsatendtime=1488683078&bulsatstarttime=1488646778&bulsathash=obcpRuSd4Lb5ux2ZoMEErpVYJdnocQEGdAieLIbilNw=
 #EXTINF:-1 radio="False" tvg-shift=0 group-title="ДРУГИ" tvg-logo="rtr_planeta" tvg-id="rtr_planeta",PTP Планета
-http://edge-sf-8.iptv.bulsat.com:1935/tv11/smil:rtr_planeta_mobile.smil/playlist.m3u8?bulsatCustomParameter=134076_3009630_134076_NULL_pcweb_3321c750f64dcd23909318c4661b0156_&bulsatendtime=1488600022&bulsatstarttime=1488563722&bulsathash=hZtvGrbVqYHW5tlw6gTS72tSpasvDfEW2xLuJ9o7y6w=
+http://edge-sf-8.iptv.bulsat.com:1935/tv11/smil:rtr_planeta_mobile.smil/playlist.m3u8?bulsatCustomParameter=134076_3009630_134076_NULL_pcweb_b5a046cc508d0486c7ff650520da2678_&bulsatendtime=1488683078&bulsatstarttime=1488646778&bulsathash=Xb0eORjexaS7K0iQGALqg4CT4hj2S78IqlKEWXmbNB0=
 #EXTINF:-1 radio="False" tvg-shift=0 group-title="ДРУГИ" tvg-logo="mir_tv" tvg-id="mir_tv",MirTv
-http://edge-sf-1.iptv.bulsat.com:1935/tv35/smil:mir_tv_mobile.smil/playlist.m3u8?bulsatCustomParameter=134076_3009630_134076_NULL_pcweb_3321c750f64dcd23909318c4661b0156_&bulsatendtime=1488600022&bulsatstarttime=1488563722&bulsathash=E5AAiSCktQJHfjk42tDAPpuRUMJosG6eChx8FxvQo-A=
+http://edge-sf-1.iptv.bulsat.com:1935/tv35/smil:mir_tv_mobile.smil/playlist.m3u8?bulsatCustomParameter=134076_3009630_134076_NULL_pcweb_b5a046cc508d0486c7ff650520da2678_&bulsatendtime=1488683078&bulsatstarttime=1488646778&bulsathash=vcfH0ekWlXCGf8LQGzYsC2IuYlJAh7XBYxYWzZNb4NA=
 #EXTINF:-1 radio="False" tvg-shift=0 group-title="ДРУГИ" tvg-logo="rtvi" tvg-id="rtvi",RTVi
-http://edge-sf-8.iptv.bulsat.com:1935/tv3/smil:rtvi_mobile.smil/playlist.m3u8?bulsatCustomParameter=134076_3009630_134076_NULL_pcweb_3321c750f64dcd23909318c4661b0156_&bulsatendtime=1488600022&bulsatstarttime=1488563722&bulsathash=wfHZrIaTvv-dT3wSkNnbBa40PCrYM3ATC3-AnYonuDM=
+http://edge-sf-1.iptv.bulsat.com:1935/tv3/smil:rtvi_mobile.smil/playlist.m3u8?bulsatCustomParameter=134076_3009630_134076_NULL_pcweb_b5a046cc508d0486c7ff650520da2678_&bulsatendtime=1488683078&bulsatstarttime=1488646778&bulsathash=OxdMtcR1LJkt3Sxnz9n543mY7jTJWHpVDxRTDCi5Ra8=
 #EXTINF:-1 radio="False" tvg-shift=0 group-title="ДРУГИ" tvg-logo="24_techno" tvg-id="music",24 техно
-http://edge-sf-1.iptv.bulsat.com:1935/tv35/smil:24_techno_mobile.smil/playlist.m3u8?bulsatCustomParameter=134076_3009630_134076_NULL_pcweb_3321c750f64dcd23909318c4661b0156_&bulsatendtime=1488600022&bulsatstarttime=1488563722&bulsathash=CrEDEfEje4WWIGJx6uen3XNcequ6p9z0aezhJDuSX3M=
+http://edge-sf-8.iptv.bulsat.com:1935/tv35/smil:24_techno_mobile.smil/playlist.m3u8?bulsatCustomParameter=134076_3009630_134076_NULL_pcweb_b5a046cc508d0486c7ff650520da2678_&bulsatendtime=1488683078&bulsatstarttime=1488646778&bulsathash=Hrp1yKZ2RcKDNqwm1UF47ESP1BRjEsdOiBywd3WPyhU=
 #EXTINF:-1 radio="False" tvg-shift=0 group-title="ДРУГИ" tvg-logo="dom_kino" tvg-id="dom_kino",Дом кино
-http://edge-sf-8.iptv.bulsat.com:1935/tv11/smil:dom_kino_mobile.smil/playlist.m3u8?bulsatCustomParameter=134076_3009630_134076_NULL_pcweb_3321c750f64dcd23909318c4661b0156_&bulsatendtime=1488600022&bulsatstarttime=1488563722&bulsathash=VXVqKAG75LqGO5xjbGHGZ09_FulFyjULFm7ZMb2n-mw=
+http://edge-sf-1.iptv.bulsat.com:1935/tv11/smil:dom_kino_mobile.smil/playlist.m3u8?bulsatCustomParameter=134076_3009630_134076_NULL_pcweb_b5a046cc508d0486c7ff650520da2678_&bulsatendtime=1488683078&bulsatstarttime=1488646778&bulsathash=IEsHOQwDITMeKw77uPAQjkBxNJNujD2J6w8uQ1CpwZA=
 #EXTINF:-1 radio="False" tvg-shift=0 group-title="ДРУГИ" tvg-logo="nashe_kino" tvg-id="nashe_kino",Nashe kino
-http://edge-sf-8.iptv.bulsat.com:1935/tv35/smil:nashe_kino_mobile.smil/playlist.m3u8?bulsatCustomParameter=134076_3009630_134076_NULL_pcweb_3321c750f64dcd23909318c4661b0156_&bulsatendtime=1488600022&bulsatstarttime=1488563722&bulsathash=x3zZLuzWxEJncC1rJYn9dqtQuMbpqSMenjcTeFVkKd0=
+http://edge-sf-3.iptv.bulsat.com:1935/tv35/smil:nashe_kino_mobile.smil/playlist.m3u8?bulsatCustomParameter=134076_3009630_134076_NULL_pcweb_b5a046cc508d0486c7ff650520da2678_&bulsatendtime=1488683078&bulsatstarttime=1488646778&bulsathash=0I9NBIu8KUXFWUE1YKWL5FX0vNoI-tPp5INzZLB_uBM=
 #EXTINF:-1 radio="False" tvg-shift=0 group-title="ДРУГИ" tvg-logo="perec" tvg-id="perec",Перец
-http://edge-sf-3.iptv.bulsat.com:1935/tv1/smil:perec_mobile.smil/playlist.m3u8?bulsatCustomParameter=134076_3009630_134076_NULL_pcweb_3321c750f64dcd23909318c4661b0156_&bulsatendtime=1488600022&bulsatstarttime=1488563722&bulsathash=2fdJw0gzMG70LlOMZO5I9Jy87JShnwuAasYQfPpa3Tg=
+http://edge-sf-8.iptv.bulsat.com:1935/tv1/smil:perec_mobile.smil/playlist.m3u8?bulsatCustomParameter=134076_3009630_134076_NULL_pcweb_b5a046cc508d0486c7ff650520da2678_&bulsatendtime=1488683078&bulsatstarttime=1488646778&bulsathash=l8Yac7gT8wPbSDSkxdh19Ly3Z0YxNpDQnnBxVXIB0pg=
 #EXTINF:-1 radio="False" tvg-shift=0 group-title="ДРУГИ" tvg-logo="vremeru" tvg-id="vremeru",Время
-http://edge-sf-8.iptv.bulsat.com:1935/tv12/smil:vremeru_mobile.smil/playlist.m3u8?bulsatCustomParameter=134076_3009630_134076_NULL_pcweb_3321c750f64dcd23909318c4661b0156_&bulsatendtime=1488600022&bulsatstarttime=1488563722&bulsathash=RN-_7vdLqDE-1_42f-08f427eliZKZZvczfYYXzF294=
+http://edge-sf-1.iptv.bulsat.com:1935/tv12/smil:vremeru_mobile.smil/playlist.m3u8?bulsatCustomParameter=134076_3009630_134076_NULL_pcweb_b5a046cc508d0486c7ff650520da2678_&bulsatendtime=1488683078&bulsatstarttime=1488646778&bulsathash=LWnFeYQfbJ0HsrTPoLhinPxKCvu_Aguj_sOEK9nVFPU=
 #EXTINF:-1 radio="False" tvg-shift=0 group-title="ДРУГИ" tvg-logo="euro_d" tvg-id="euro_d",Euro D
-http://edge-sf-3.iptv.bulsat.com:1935/tv3/smil:euro_d_mobile.smil/playlist.m3u8?bulsatCustomParameter=134076_3009630_134076_NULL_pcweb_3321c750f64dcd23909318c4661b0156_&bulsatendtime=1488600022&bulsatstarttime=1488563722&bulsathash=Z004EgPUIc_qNajYSMsra8Z1dh9r64OK4s3_6q1Jnwg=
+http://edge-sf-8.iptv.bulsat.com:1935/tv3/smil:euro_d_mobile.smil/playlist.m3u8?bulsatCustomParameter=134076_3009630_134076_NULL_pcweb_b5a046cc508d0486c7ff650520da2678_&bulsatendtime=1488683078&bulsatstarttime=1488646778&bulsathash=tjQu2KM8-82KV8ByQ4X7YHzoNtTylfFqAcCktRkGpmQ=
 #EXTINF:-1 radio="False" tvg-shift=0 group-title="ДРУГИ" tvg-logo="show_turk" tvg-id="show_turk",Show Turk
-http://edge-sf-3.iptv.bulsat.com:1935/tv35/smil:show_turk_mobile.smil/playlist.m3u8?bulsatCustomParameter=134076_3009630_134076_NULL_pcweb_3321c750f64dcd23909318c4661b0156_&bulsatendtime=1488600022&bulsatstarttime=1488563722&bulsathash=kY8F-ZWF8ni9YTeBbvNI_SVF5MRfK4YXC0uDW9P2F4U=
+http://edge-sf-8.iptv.bulsat.com:1935/tv35/smil:show_turk_mobile.smil/playlist.m3u8?bulsatCustomParameter=134076_3009630_134076_NULL_pcweb_b5a046cc508d0486c7ff650520da2678_&bulsatendtime=1488683078&bulsatstarttime=1488646778&bulsathash=DHaeoSf0QbqPMbWTIHPrqvRRs27uo9jHcSqqpTi8kqQ=
 #EXTINF:-1 radio="False" tvg-shift=0 group-title="ДРУГИ" tvg-logo="atv" tvg-id="atv",ATV
-http://edge-sf-8.iptv.bulsat.com:1935/tv3/smil:atv_mobile.smil/playlist.m3u8?bulsatCustomParameter=134076_3009630_134076_NULL_pcweb_3321c750f64dcd23909318c4661b0156_&bulsatendtime=1488600022&bulsatstarttime=1488563722&bulsathash=TqP5bcR1fPofMAZKE48PMJx0xwX2EdW4HuK1Ozq6E8Y=
+http://edge-sf-3.iptv.bulsat.com:1935/tv3/smil:atv_mobile.smil/playlist.m3u8?bulsatCustomParameter=134076_3009630_134076_NULL_pcweb_b5a046cc508d0486c7ff650520da2678_&bulsatendtime=1488683078&bulsatstarttime=1488646778&bulsathash=UC4G3-izCWPdlYoTVta0_6RNtOrDdK0Yy5NZmr7e-zE=
 #EXTINF:-1 radio="False" tvg-shift=0 group-title="ДРУГИ" tvg-logo="ntv_avrupa" tvg-id="ntv_avrupa",NTV Avrupa
-http://edge-sf-8.iptv.bulsat.com:1935/tv/smil:ntv_avrupa_mobile.smil/playlist.m3u8?bulsatCustomParameter=134076_3009630_134076_NULL_pcweb_3321c750f64dcd23909318c4661b0156_&bulsatendtime=1488600022&bulsatstarttime=1488563722&bulsathash=IzWg9Tkb_WX8I5CXvgYNsgVP5Mgz5reUBtbKiRyj-DE=
+http://edge-sf-3.iptv.bulsat.com:1935/tv/smil:ntv_avrupa_mobile.smil/playlist.m3u8?bulsatCustomParameter=134076_3009630_134076_NULL_pcweb_b5a046cc508d0486c7ff650520da2678_&bulsatendtime=1488683078&bulsatstarttime=1488646778&bulsathash=ukLmvOEXBCob6iy4xtA8EsTbrjLWe1fPdW2CfAOpgdY=
 #EXTINF:-1 radio="False" tvg-shift=0 group-title="ДРУГИ" tvg-logo="sky_news" tvg-id="sky_news",SKY NEWS
-http://edge-sf-1.iptv.bulsat.com:1935/tv35/smil:sky_news_mobile.smil/playlist.m3u8?bulsatCustomParameter=134076_3009630_134076_NULL_pcweb_3321c750f64dcd23909318c4661b0156_&bulsatendtime=1488600022&bulsatstarttime=1488563722&bulsathash=dcfYDoDDSkuS-A3Hj4kseZNeAiS8vKhErnvpHMye-Qw=
+http://edge-sf-1.iptv.bulsat.com:1935/tv35/smil:sky_news_mobile.smil/playlist.m3u8?bulsatCustomParameter=134076_3009630_134076_NULL_pcweb_b5a046cc508d0486c7ff650520da2678_&bulsatendtime=1488683078&bulsatstarttime=1488646778&bulsathash=ZaCtEHQ0T3qc9CNqvoKvABmHxQxQoK0XCUV722PI1Mw=
 #EXTINF:-1 radio="False" tvg-shift=0 group-title="ДРУГИ" tvg-logo="cnn" tvg-id="CNN",CNN
-http://edge-sf-8.iptv.bulsat.com:1935/tv11/smil:cnn_mobile.smil/playlist.m3u8?bulsatCustomParameter=134076_3009630_134076_NULL_pcweb_3321c750f64dcd23909318c4661b0156_&bulsatendtime=1488600022&bulsatstarttime=1488563722&bulsathash=I-jwmyAclu-6dpPRgkbI1YjX-B_oyp95MLB3PlYyhg8=
+http://edge-sf-8.iptv.bulsat.com:1935/tv11/smil:cnn_mobile.smil/playlist.m3u8?bulsatCustomParameter=134076_3009630_134076_NULL_pcweb_b5a046cc508d0486c7ff650520da2678_&bulsatendtime=1488683078&bulsatstarttime=1488646778&bulsathash=B40yMRjGluhm0HWDQfEVrLlvkBbvbnxVd270U9UONgA=
 #EXTINF:-1 radio="False" tvg-shift=0 group-title="ДРУГИ" tvg-logo="russia_today" tvg-id="RussiaToday",Russia Today
-http://edge-sf-1.iptv.bulsat.com:1935/tv11/smil:russia_today_mobile.smil/playlist.m3u8?bulsatCustomParameter=134076_3009630_134076_NULL_pcweb_3321c750f64dcd23909318c4661b0156_&bulsatendtime=1488600022&bulsatstarttime=1488563722&bulsathash=pU_Kug2a9HSDYREWPaBIynpyuJVTkqIybXuT9V6O7fc=
+http://edge-sf-1.iptv.bulsat.com:1935/tv11/smil:russia_today_mobile.smil/playlist.m3u8?bulsatCustomParameter=134076_3009630_134076_NULL_pcweb_b5a046cc508d0486c7ff650520da2678_&bulsatendtime=1488683078&bulsatstarttime=1488646778&bulsathash=tvuEKYxNjWc1S8gXbXMB5rE2V5-StbzI2bHbyq3yfyE=
 #EXTINF:-1 radio="False" tvg-shift=0 group-title="ДРУГИ" tvg-logo="dw" tvg-id="DeutscheWelle",Deutsche welle
-http://edge-sf-3.iptv.bulsat.com:1935/tv11/smil:dw_mobile.smil/playlist.m3u8?bulsatCustomParameter=134076_3009630_134076_NULL_pcweb_3321c750f64dcd23909318c4661b0156_&bulsatendtime=1488600022&bulsatstarttime=1488563722&bulsathash=U91-dBdPl_zraVJ6iXn_z297l6cp3xvb6l02j1pK-jE=
+http://edge-sf-3.iptv.bulsat.com:1935/tv11/smil:dw_mobile.smil/playlist.m3u8?bulsatCustomParameter=134076_3009630_134076_NULL_pcweb_b5a046cc508d0486c7ff650520da2678_&bulsatendtime=1488683078&bulsatstarttime=1488646778&bulsathash=fdCrr0bpWQ3fWUkd9Y3Chcu9LXtBSjkenXxtXs29XOg=
 #EXTINF:-1 radio="False" tvg-shift=0 group-title="ДРУГИ" tvg-logo="al_jazeera" tvg-id="al_jazeera",Al Jazeera
-http://edge-sf-3.iptv.bulsat.com:1935/tv3/smil:al_jazeera_mobile.smil/playlist.m3u8?bulsatCustomParameter=134076_3009630_134076_NULL_pcweb_3321c750f64dcd23909318c4661b0156_&bulsatendtime=1488600022&bulsatstarttime=1488563722&bulsathash=RYNL-Dlb_K9bhP1T2cKBXQUljXtSGcatRtc-sz2kqDw=
+http://edge-sf-3.iptv.bulsat.com:1935/tv3/smil:al_jazeera_mobile.smil/playlist.m3u8?bulsatCustomParameter=134076_3009630_134076_NULL_pcweb_b5a046cc508d0486c7ff650520da2678_&bulsatendtime=1488683078&bulsatstarttime=1488646778&bulsathash=edhWwR9tNevULLH8afptmaeRjSIoYrhU2eoB3uhjb1M=
 #EXTINF:-1 radio="False" tvg-shift=0 group-title="ДРУГИ" tvg-logo="359tv_hd" tvg-id="359tv_hd",CODE FASHION TV
-http://edge-sf-8.iptv.bulsat.com:1935/tv9/smil:359tv_hd_mobile.smil/playlist.m3u8?bulsatCustomParameter=134076_3009630_134076_NULL_pcweb_3321c750f64dcd23909318c4661b0156_&bulsatendtime=1488600022&bulsatstarttime=1488563722&bulsathash=0_jNc0zKGNwF67TpKOldHPtd9TWxy8flOx3USeiC2I4=
+http://edge-sf-1.iptv.bulsat.com:1935/tv9/smil:359tv_hd_mobile.smil/playlist.m3u8?bulsatCustomParameter=134076_3009630_134076_NULL_pcweb_b5a046cc508d0486c7ff650520da2678_&bulsatendtime=1488683078&bulsatstarttime=1488646778&bulsathash=ZCuWfzoy81ChBjZcRupes5-XZ9swU3-EP62kejKWCK4=
 #EXTINF:-1 radio="False" tvg-shift=0 group-title="ДРУГИ" tvg-logo="fashion_tv" tvg-id="FashionTV",Fashion TV
-http://edge-sf-8.iptv.bulsat.com:1935/tv8/smil:fashion_tv_mobile.smil/playlist.m3u8?bulsatCustomParameter=134076_3009630_134076_NULL_pcweb_3321c750f64dcd23909318c4661b0156_&bulsatendtime=1488600022&bulsatstarttime=1488563722&bulsathash=oB-p9jjEelH2ahiuYGdIbl30DTs90MHX-HEbzvqFwzo=
+http://edge-sf-8.iptv.bulsat.com:1935/tv8/smil:fashion_tv_mobile.smil/playlist.m3u8?bulsatCustomParameter=134076_3009630_134076_NULL_pcweb_b5a046cc508d0486c7ff650520da2678_&bulsatendtime=1488683078&bulsatstarttime=1488646778&bulsathash=Bt1z5D76QQdDQ7euebjTfBpmHEJwD4c8zWJP_aXFPWk=
 #EXTINF:-1 radio="False" tvg-shift=-2 group-title="ДРУГИ" tvg-logo="fashion_one_hd" tvg-id="FashionOneHD",Fashion One HD
-http://edge-sf-3.iptv.bulsat.com:1935/tv5/smil:fashion_one_hd_mobile.smil/playlist.m3u8?bulsatCustomParameter=134076_3009630_134076_NULL_pcweb_3321c750f64dcd23909318c4661b0156_&bulsatendtime=1488600022&bulsatstarttime=1488563722&bulsathash=xvuS9LpUHy3GudnVwOHy4hmfnzNZvZk8h9qQS-SCcTQ=
+http://edge-sf-1.iptv.bulsat.com:1935/tv5/smil:fashion_one_hd_mobile.smil/playlist.m3u8?bulsatCustomParameter=134076_3009630_134076_NULL_pcweb_b5a046cc508d0486c7ff650520da2678_&bulsatendtime=1488683078&bulsatstarttime=1488646778&bulsathash=KpQX4Rv_hfG86W4XfWchdIH24W-KXr8brLP-GqjkYVM=
 #EXTINF:-1 radio="False" tvg-shift=0 group-title="ДРУГИ" tvg-logo="fashionbox" tvg-id="FashionBox",FashionBox HD
-http://edge-sf-3.iptv.bulsat.com:1935/tv3/smil:fashionbox_mobile.smil/playlist.m3u8?bulsatCustomParameter=134076_3009630_134076_NULL_pcweb_3321c750f64dcd23909318c4661b0156_&bulsatendtime=1488600022&bulsatstarttime=1488563722&bulsathash=zhGM02OER6sMi-IaJJNcmsV6mYMCBBDpheuKVDN_ssw=
+http://edge-sf-8.iptv.bulsat.com:1935/tv3/smil:fashionbox_mobile.smil/playlist.m3u8?bulsatCustomParameter=134076_3009630_134076_NULL_pcweb_b5a046cc508d0486c7ff650520da2678_&bulsatendtime=1488683078&bulsatstarttime=1488646778&bulsathash=PKjXgJNLhBehhNKXe7Al5eUTtfM7sBm6ElVcK8Ya3-0=
 #EXTINF:-1 radio="False" tvg-shift=0 group-title="ДРУГИ" tvg-logo="rtl_hd" tvg-id="rtl_hd",RTL HD
-http://edge-sf-3.iptv.bulsat.com:1935/tv12/smil:rtl_hd_mobile.smil/playlist.m3u8?bulsatCustomParameter=134076_3009630_134076_NULL_pcweb_3321c750f64dcd23909318c4661b0156_&bulsatendtime=1488600022&bulsatstarttime=1488563722&bulsathash=3zYdHFYlWPlSKdoW17kcRcjFXB5098f-7IOzMzzo7_Y=
+http://edge-sf-8.iptv.bulsat.com:1935/tv12/smil:rtl_hd_mobile.smil/playlist.m3u8?bulsatCustomParameter=134076_3009630_134076_NULL_pcweb_b5a046cc508d0486c7ff650520da2678_&bulsatendtime=1488683078&bulsatstarttime=1488646778&bulsathash=Ir0EfPPWwRGfaQdbdiq-H7XFpgVU2hv-SJbDHHzgwpQ=
 #EXTINF:-1 radio="False" tvg-shift=0 group-title="ДРУГИ" tvg-logo="rtl_2_hd" tvg-id="rtl_2_hd",RTL 2 HD
-http://edge-sf-1.iptv.bulsat.com:1935/tv12/smil:rtl_2_hd_mobile.smil/playlist.m3u8?bulsatCustomParameter=134076_3009630_134076_NULL_pcweb_3321c750f64dcd23909318c4661b0156_&bulsatendtime=1488600022&bulsatstarttime=1488563722&bulsathash=whmZJQmlKaT7Lkz7fZuZ63xC78LMzOdjKe8FYwl6Mvo=
+http://edge-sf-3.iptv.bulsat.com:1935/tv12/smil:rtl_2_hd_mobile.smil/playlist.m3u8?bulsatCustomParameter=134076_3009630_134076_NULL_pcweb_b5a046cc508d0486c7ff650520da2678_&bulsatendtime=1488683078&bulsatstarttime=1488646778&bulsathash=_hz1Rv95OAt90L55Bf3IuRy9hiTV3LOCiJGXjgIecnQ=
 #EXTINF:-1 radio="False" tvg-shift=0 group-title="ДРУГИ" tvg-logo="super_rtl_hd" tvg-id="super_rtl_hd",Super RTL HD
-http://edge-sf-1.iptv.bulsat.com:1935/tv12/smil:super_rtl_hd_mobile.smil/playlist.m3u8?bulsatCustomParameter=134076_3009630_134076_NULL_pcweb_3321c750f64dcd23909318c4661b0156_&bulsatendtime=1488600022&bulsatstarttime=1488563722&bulsathash=Szn6eVEt3q-6Zwgoc4YcBq0r7kLeDGw00oj9GnYsofU=
+http://edge-sf-1.iptv.bulsat.com:1935/tv12/smil:super_rtl_hd_mobile.smil/playlist.m3u8?bulsatCustomParameter=134076_3009630_134076_NULL_pcweb_b5a046cc508d0486c7ff650520da2678_&bulsatendtime=1488683078&bulsatstarttime=1488646778&bulsathash=s4iVbw5qJbAq3gB2tnhONB2JcOw7WCzvg7-niqhM7ws=
 #EXTINF:-1 radio="False" tvg-shift=0 group-title="ДРУГИ" tvg-logo="rtl_nitro_hd" tvg-id="rtl_nitro_hd",RTL Nitro HD
-http://edge-sf-8.iptv.bulsat.com:1935/tv12/smil:rtl_nitro_hd_mobile.smil/playlist.m3u8?bulsatCustomParameter=134076_3009630_134076_NULL_pcweb_3321c750f64dcd23909318c4661b0156_&bulsatendtime=1488600022&bulsatstarttime=1488563722&bulsathash=Sh1xsrIJbbIaOh1ZX_tPNIR57WeoY8XBnZoa8j_N4c0=
+http://edge-sf-3.iptv.bulsat.com:1935/tv12/smil:rtl_nitro_hd_mobile.smil/playlist.m3u8?bulsatCustomParameter=134076_3009630_134076_NULL_pcweb_b5a046cc508d0486c7ff650520da2678_&bulsatendtime=1488683078&bulsatstarttime=1488646778&bulsathash=opVl7PgFmtiTNfYsYGc_Dzj5A9fpv8Xe-_BcykzSlZg=
 #EXTINF:-1 radio="False" tvg-shift=0 group-title="ДРУГИ" tvg-logo="ard_hd" tvg-id="ard_hd",ARD HD
-http://edge-sf-1.iptv.bulsat.com:1935/tv1/smil:ard_hd_mobile.smil/playlist.m3u8?bulsatCustomParameter=134076_3009630_134076_NULL_pcweb_3321c750f64dcd23909318c4661b0156_&bulsatendtime=1488600022&bulsatstarttime=1488563722&bulsathash=Lxd0p0rG4zuuNxicgeZgHBQUGGzEk9Y1UKuBQV-YC6g=
+http://edge-sf-1.iptv.bulsat.com:1935/tv1/smil:ard_hd_mobile.smil/playlist.m3u8?bulsatCustomParameter=134076_3009630_134076_NULL_pcweb_b5a046cc508d0486c7ff650520da2678_&bulsatendtime=1488683078&bulsatstarttime=1488646778&bulsathash=TNrheUPlgFUkaRncrTlRDSg_veRu_3umgBVe5MrRBeY=
 #EXTINF:-1 radio="False" tvg-shift=0 group-title="ДРУГИ" tvg-logo="arte_hd" tvg-id="arte_hd",ARTE HD
-http://edge-sf-1.iptv.bulsat.com:1935/tv1/smil:arte_hd_mobile.smil/playlist.m3u8?bulsatCustomParameter=134076_3009630_134076_NULL_pcweb_3321c750f64dcd23909318c4661b0156_&bulsatendtime=1488600022&bulsatstarttime=1488563722&bulsathash=GfD0qlsQol2wnzaNv8FSDzbaI6Y7OwJS5tDyBR-J9C0=
+http://edge-sf-1.iptv.bulsat.com:1935/tv1/smil:arte_hd_mobile.smil/playlist.m3u8?bulsatCustomParameter=134076_3009630_134076_NULL_pcweb_b5a046cc508d0486c7ff650520da2678_&bulsatendtime=1488683078&bulsatstarttime=1488646778&bulsathash=x4PRlA8ZRe3c8WRvSCSXgVu8j0Vbo9P2iutq_yVVhC4=
 #EXTINF:-1 radio="False" tvg-shift=0 group-title="ДРУГИ" tvg-logo="zdf_hd" tvg-id="zdf_hd",ZDF HD
-http://edge-sf-1.iptv.bulsat.com:1935/tv12/smil:zdf_hd_mobile.smil/playlist.m3u8?bulsatCustomParameter=134076_3009630_134076_NULL_pcweb_3321c750f64dcd23909318c4661b0156_&bulsatendtime=1488600022&bulsatstarttime=1488563722&bulsathash=og85ODBVWaLLYF0rbWHOpUXTEWqL2r_Z_TrV_GGWcSI=
+http://edge-sf-3.iptv.bulsat.com:1935/tv12/smil:zdf_hd_mobile.smil/playlist.m3u8?bulsatCustomParameter=134076_3009630_134076_NULL_pcweb_b5a046cc508d0486c7ff650520da2678_&bulsatendtime=1488683078&bulsatstarttime=1488646778&bulsathash=5aRxYlrU_g1C5MCVx0O186IjW9ZWJjjQzQ-RHUp03ns=
 #EXTINF:-1 radio="False" tvg-shift=0 group-title="ДРУГИ" tvg-logo="vox_hd" tvg-id="vox_hd",VOX HD
-http://edge-sf-8.iptv.bulsat.com:1935/tv12/smil:vox_hd_mobile.smil/playlist.m3u8?bulsatCustomParameter=134076_3009630_134076_NULL_pcweb_3321c750f64dcd23909318c4661b0156_&bulsatendtime=1488600022&bulsatstarttime=1488563722&bulsathash=P_fUf1BDM0wxoo3rKP3ou8GHYi4q4ftOBgUrE7FhFt8=
+http://edge-sf-3.iptv.bulsat.com:1935/tv12/smil:vox_hd_mobile.smil/playlist.m3u8?bulsatCustomParameter=134076_3009630_134076_NULL_pcweb_b5a046cc508d0486c7ff650520da2678_&bulsatendtime=1488683078&bulsatstarttime=1488646778&bulsathash=lrhGmY7Lkt1NCobHiZcphHznlOL3vkl-IbCN7mu3NmE=
 #EXTINF:-1 radio="False" tvg-shift=0 group-title="ДРУГИ" tvg-logo="pro_7_hd" tvg-id="pro_7_hd",Pro 7 HD
-http://edge-sf-8.iptv.bulsat.com:1935/tv12/smil:pro_7_hd_mobile.smil/playlist.m3u8?bulsatCustomParameter=134076_3009630_134076_NULL_pcweb_3321c750f64dcd23909318c4661b0156_&bulsatendtime=1488600022&bulsatstarttime=1488563722&bulsathash=IiP3o87Lkef9vIHwTBVvf3q52G3EJrd5oYO_8WbapaA=
+http://edge-sf-8.iptv.bulsat.com:1935/tv12/smil:pro_7_hd_mobile.smil/playlist.m3u8?bulsatCustomParameter=134076_3009630_134076_NULL_pcweb_b5a046cc508d0486c7ff650520da2678_&bulsatendtime=1488683078&bulsatstarttime=1488646778&bulsathash=cZuzGUna18McZpFpS8vaLO5OYO9Ka30KqpvDO4YRxeM=
 #EXTINF:-1 radio="False" tvg-shift=0 group-title="ДРУГИ" tvg-logo="sat1" tvg-id="sat1",SAT1
-http://edge-sf-1.iptv.bulsat.com:1935/tv12/smil:sat1_mobile.smil/playlist.m3u8?bulsatCustomParameter=134076_3009630_134076_NULL_pcweb_3321c750f64dcd23909318c4661b0156_&bulsatendtime=1488600022&bulsatstarttime=1488563722&bulsathash=i-1N_UHVKpi6EoL2lXxV8f5XakrGVxLG4zGM2jh66qA=
+http://edge-sf-1.iptv.bulsat.com:1935/tv12/smil:sat1_mobile.smil/playlist.m3u8?bulsatCustomParameter=134076_3009630_134076_NULL_pcweb_b5a046cc508d0486c7ff650520da2678_&bulsatendtime=1488683078&bulsatstarttime=1488646778&bulsathash=xmZv44_DmzD7erau4puPP0aNaN2aFPzHxJpYPWE_Smg=
 #EXTINF:-1 radio="False" tvg-shift=0 group-title="ДРУГИ" tvg-logo="3sat_hd" tvg-id="3sat_hd",3SAT HD
-http://edge-sf-3.iptv.bulsat.com:1935/tv12/smil:3sat_hd_mobile.smil/playlist.m3u8?bulsatCustomParameter=134076_3009630_134076_NULL_pcweb_3321c750f64dcd23909318c4661b0156_&bulsatendtime=1488600022&bulsatstarttime=1488563722&bulsathash=tf9d3uwoDuMGWsplyAA36AINRXyEN9sYVmyginpKG88=
+http://edge-sf-3.iptv.bulsat.com:1935/tv12/smil:3sat_hd_mobile.smil/playlist.m3u8?bulsatCustomParameter=134076_3009630_134076_NULL_pcweb_b5a046cc508d0486c7ff650520da2678_&bulsatendtime=1488683078&bulsatstarttime=1488646778&bulsathash=ELqcoQ_NxJQELpnS4QlzDDwdtDhj_ESG6njtsa3mB7M=
 #EXTINF:-1 radio="False" tvg-shift=0 group-title="ДРУГИ" tvg-logo="n24" tvg-id="n24",N24
-http://edge-sf-1.iptv.bulsat.com:1935/tv5/smil:n24_mobile.smil/playlist.m3u8?bulsatCustomParameter=134076_3009630_134076_NULL_pcweb_3321c750f64dcd23909318c4661b0156_&bulsatendtime=1488600022&bulsatstarttime=1488563722&bulsathash=KgTSnsmMDdTJeva7SLs8xocA-INv_NrgCVpPyocT6Cs=
+http://edge-sf-3.iptv.bulsat.com:1935/tv5/smil:n24_mobile.smil/playlist.m3u8?bulsatCustomParameter=134076_3009630_134076_NULL_pcweb_b5a046cc508d0486c7ff650520da2678_&bulsatendtime=1488683078&bulsatstarttime=1488646778&bulsathash=Cdg0JN1MrVhdNS0Rco1XaUiKnPiNyLXzpbuNCIo9ADo=
 #EXTINF:-1 radio="False" tvg-shift=0 group-title="ДРУГИ" tvg-logo="sixx" tvg-id="sixx",Sixx
-http://edge-sf-8.iptv.bulsat.com:1935/tv5/smil:sixx_mobile.smil/playlist.m3u8?bulsatCustomParameter=134076_3009630_134076_NULL_pcweb_3321c750f64dcd23909318c4661b0156_&bulsatendtime=1488600022&bulsatstarttime=1488563722&bulsathash=FiEZcI6cMv__-9mqt2tLxsG-8jnCv0M4lgAtzfFAS2I=
+http://edge-sf-3.iptv.bulsat.com:1935/tv5/smil:sixx_mobile.smil/playlist.m3u8?bulsatCustomParameter=134076_3009630_134076_NULL_pcweb_b5a046cc508d0486c7ff650520da2678_&bulsatendtime=1488683078&bulsatstarttime=1488646778&bulsathash=VG8SyhP9xqz0lCslQkPiMnluNslO1Mv2Vfhsxqzd0tE=
 #EXTINF:-1 radio="False" tvg-shift=0 group-title="ДРУГИ" tvg-logo="kabeleins" tvg-id="kabeleins",Kabeleins
-http://edge-sf-3.iptv.bulsat.com:1935/tv5/smil:kabeleins_mobile.smil/playlist.m3u8?bulsatCustomParameter=134076_3009630_134076_NULL_pcweb_3321c750f64dcd23909318c4661b0156_&bulsatendtime=1488600022&bulsatstarttime=1488563722&bulsathash=neB0UneGU1MqXCldyizc4kBXUxouvasH5F3gNi2Tgkw=
+http://edge-sf-8.iptv.bulsat.com:1935/tv5/smil:kabeleins_mobile.smil/playlist.m3u8?bulsatCustomParameter=134076_3009630_134076_NULL_pcweb_b5a046cc508d0486c7ff650520da2678_&bulsatendtime=1488683078&bulsatstarttime=1488646778&bulsathash=NN1kkSRhIIJufydQFmjA9qi45mD-fOElAxyISEdLfz0=
 #EXTINF:-1 radio="False" tvg-shift=0 group-title="ДРУГИ" tvg-logo="n-tv" tvg-id="n-tv",n-TV HD
-http://edge-sf-1.iptv.bulsat.com:1935/tv12/smil:n-tv_mobile.smil/playlist.m3u8?bulsatCustomParameter=134076_3009630_134076_NULL_pcweb_3321c750f64dcd23909318c4661b0156_&bulsatendtime=1488600022&bulsatstarttime=1488563722&bulsathash=-8rQY4d33FMmPF45N39W-UhocvhniBtzdXCPUjhk9qc=
+http://edge-sf-1.iptv.bulsat.com:1935/tv12/smil:n-tv_mobile.smil/playlist.m3u8?bulsatCustomParameter=134076_3009630_134076_NULL_pcweb_b5a046cc508d0486c7ff650520da2678_&bulsatendtime=1488683078&bulsatstarttime=1488646778&bulsathash=YZtA2PjqRJAJ1mSYSPHblWnSnrv0mX5h3b7kbPLrJiw=
 #EXTINF:-1 radio="False" tvg-shift=0 group-title="ДРУГИ" tvg-logo="france_24" tvg-id="france_24",France 24
-http://edge-sf-1.iptv.bulsat.com:1935/tv12/smil:france_24_mobile.smil/playlist.m3u8?bulsatCustomParameter=134076_3009630_134076_NULL_pcweb_3321c750f64dcd23909318c4661b0156_&bulsatendtime=1488600022&bulsatstarttime=1488563722&bulsathash=kCpoCmcXZPxJ34kX98TMx5_6vRFi4Rv2sY92zNETvTA=
+http://edge-sf-1.iptv.bulsat.com:1935/tv12/smil:france_24_mobile.smil/playlist.m3u8?bulsatCustomParameter=134076_3009630_134076_NULL_pcweb_b5a046cc508d0486c7ff650520da2678_&bulsatendtime=1488683078&bulsatstarttime=1488646778&bulsathash=btlm3343VhJecDZp6jJSVWZYqsNePssCHnqQD0tq2aw=
 #EXTINF:-1 radio="False" tvg-shift=0 group-title="ДРУГИ" tvg-logo="france_2" tvg-id="france_2",France 2
-http://edge-sf-3.iptv.bulsat.com:1935/tv1/smil:france_2_mobile.smil/playlist.m3u8?bulsatCustomParameter=134076_3009630_134076_NULL_pcweb_3321c750f64dcd23909318c4661b0156_&bulsatendtime=1488600022&bulsatstarttime=1488563722&bulsathash=0ZGMYudqX3_MnBj6b6ay7xde9RIkkbfzFgP-_2Rsll4=
+http://edge-sf-8.iptv.bulsat.com:1935/tv1/smil:france_2_mobile.smil/playlist.m3u8?bulsatCustomParameter=134076_3009630_134076_NULL_pcweb_b5a046cc508d0486c7ff650520da2678_&bulsatendtime=1488683078&bulsatstarttime=1488646778&bulsathash=uyI0TnlHKFq3FPTeOYUdMA7McFA8M2HngNWn7GowhUM=
 #EXTINF:-1 radio="False" tvg-shift=0 group-title="ДРУГИ" tvg-logo="tv5" tvg-id="tv5",TV5
-http://edge-sf-1.iptv.bulsat.com:1935/tv12/smil:tv5_mobile.smil/playlist.m3u8?bulsatCustomParameter=134076_3009630_134076_NULL_pcweb_3321c750f64dcd23909318c4661b0156_&bulsatendtime=1488600022&bulsatstarttime=1488563722&bulsathash=VQbp2jRTrZ01ZrVGGTpY8O9U_jXwwhsdYwweOILjDLE=
+http://edge-sf-3.iptv.bulsat.com:1935/tv12/smil:tv5_mobile.smil/playlist.m3u8?bulsatCustomParameter=134076_3009630_134076_NULL_pcweb_b5a046cc508d0486c7ff650520da2678_&bulsatendtime=1488683078&bulsatstarttime=1488646778&bulsathash=jT8V1YdcIoLkek8Ggi1--AHhvMRGRwj7LgvrSTqNPJU=
 #EXTINF:-1 radio="False" tvg-shift=0 group-title="ДРУГИ" tvg-logo="rai_news" tvg-id="rai_news",RAI News
-http://edge-sf-3.iptv.bulsat.com:1935/tv3/smil:rai_news_mobile.smil/playlist.m3u8?bulsatCustomParameter=134076_3009630_134076_NULL_pcweb_3321c750f64dcd23909318c4661b0156_&bulsatendtime=1488600022&bulsatstarttime=1488563722&bulsathash=pFwcD8uxGMfzY6yCvzCAmyRHQNr96IDn7Mb8WfT51f0=
+http://edge-sf-8.iptv.bulsat.com:1935/tv3/smil:rai_news_mobile.smil/playlist.m3u8?bulsatCustomParameter=134076_3009630_134076_NULL_pcweb_b5a046cc508d0486c7ff650520da2678_&bulsatendtime=1488683078&bulsatstarttime=1488646778&bulsathash=uNYr-CkH460JBQOS_BdB-ku8aHoCHDaLUTrgvU05qLY=
 #EXTINF:-1 radio="False" tvg-shift=0 group-title="ДРУГИ" tvg-logo="rai_uno" tvg-id="rai_uno",Rai Uno
-http://edge-sf-3.iptv.bulsat.com:1935/tv35/smil:rai_uno_mobile.smil/playlist.m3u8?bulsatCustomParameter=134076_3009630_134076_NULL_pcweb_3321c750f64dcd23909318c4661b0156_&bulsatendtime=1488600022&bulsatstarttime=1488563722&bulsathash=862aPwnL6C5ozrKgFAI17hVa4dBhghTC_HGrtAhlEOY=
+http://edge-sf-8.iptv.bulsat.com:1935/tv35/smil:rai_uno_mobile.smil/playlist.m3u8?bulsatCustomParameter=134076_3009630_134076_NULL_pcweb_b5a046cc508d0486c7ff650520da2678_&bulsatendtime=1488683078&bulsatstarttime=1488646778&bulsathash=Pvg8Mk0FXkGzgXN9PxNmbBxFgX1ZIkD-HBGxhAOKyZQ=
 #EXTINF:-1 radio="False" tvg-shift=0 group-title="ДРУГИ" tvg-logo="tve" tvg-id="tve",TVE
-http://edge-sf-3.iptv.bulsat.com:1935/tv/smil:tve_mobile.smil/playlist.m3u8?bulsatCustomParameter=134076_3009630_134076_NULL_pcweb_3321c750f64dcd23909318c4661b0156_&bulsatendtime=1488600022&bulsatstarttime=1488563722&bulsathash=QXlx1jfATsZrVnJgshEIVK5qujAxoLQf1asN2NyOHxA=
+http://edge-sf-3.iptv.bulsat.com:1935/tv/smil:tve_mobile.smil/playlist.m3u8?bulsatCustomParameter=134076_3009630_134076_NULL_pcweb_b5a046cc508d0486c7ff650520da2678_&bulsatendtime=1488683078&bulsatstarttime=1488646778&bulsathash=YnzoUVTZpbnfBdKQr-x3qH66idpiw_eTgdZdTtZozqo=
 #EXTINF:-1 radio="False" tvg-shift=0 group-title="ДРУГИ" tvg-logo="rtp_int" tvg-id="rtp_int",RTP Int.
-http://edge-sf-8.iptv.bulsat.com:1935/tv6/smil:rtp_int_mobile.smil/playlist.m3u8?bulsatCustomParameter=134076_3009630_134076_NULL_pcweb_3321c750f64dcd23909318c4661b0156_&bulsatendtime=1488600022&bulsatstarttime=1488563722&bulsathash=gleoI6hHGQl_olnth-EzxxG4oEU83doG-aNs27RYF1I=
+http://edge-sf-3.iptv.bulsat.com:1935/tv6/smil:rtp_int_mobile.smil/playlist.m3u8?bulsatCustomParameter=134076_3009630_134076_NULL_pcweb_b5a046cc508d0486c7ff650520da2678_&bulsatendtime=1488683078&bulsatstarttime=1488646778&bulsathash=G2ozL-fStSMaB3CTFO0-Y16Q5YQ2CRTte-EoAzxrLtw=
 #EXTINF:-1 radio="True" tvg-shift=0 group-title="Радио" tvg-logo="darik" tvg-id="darik",Дарик радио
-http://edge-sf-1.iptv.bulsat.com:1935/radio/darik.stream/playlist.m3u8?bulsatCustomParameter=134076_3009630_134076_NULL_pcweb_3321c750f64dcd23909318c4661b0156_&bulsatendtime=1488600022&bulsatstarttime=1488563722&bulsathash=c2TUxx0R5fLArDMweiewRODU9H3XvXwZ8xoHrr6jKDU=
+http://edge-sf-3.iptv.bulsat.com:1935/radio/darik.stream/playlist.m3u8?bulsatCustomParameter=134076_3009630_134076_NULL_pcweb_b5a046cc508d0486c7ff650520da2678_&bulsatendtime=1488683078&bulsatstarttime=1488646778&bulsathash=hGLxGdui8lbXCi9im3zUca14G6Xyyc4AO2ovJiALL9Q=
 #EXTINF:-1 radio="True" tvg-shift=0 group-title="Радио" tvg-logo="radiofocus" tvg-id="radiofocus",Radio Focus
-http://edge-sf-1.iptv.bulsat.com:1935/radio/radiofocus.stream/playlist.m3u8?bulsatCustomParameter=134076_3009630_134076_NULL_pcweb_3321c750f64dcd23909318c4661b0156_&bulsatendtime=1488600022&bulsatstarttime=1488563722&bulsathash=S6KVEKkVdnEWJ6JJR1WX-n0IxBIF5cVBrHLPYi1dSNk=
+http://edge-sf-8.iptv.bulsat.com:1935/radio/radiofocus.stream/playlist.m3u8?bulsatCustomParameter=134076_3009630_134076_NULL_pcweb_b5a046cc508d0486c7ff650520da2678_&bulsatendtime=1488683078&bulsatstarttime=1488646778&bulsathash=52-nHPMrxjckGbN-7a5ZdlIY16SOl_0YA9dlyu57fVs=
 #EXTINF:-1 radio="True" tvg-shift=0 group-title="Радио" tvg-logo="nova" tvg-id="nova",Radio Nova
-http://edge-sf-8.iptv.bulsat.com:1935/radio/nova.stream/playlist.m3u8?bulsatCustomParameter=134076_3009630_134076_NULL_pcweb_3321c750f64dcd23909318c4661b0156_&bulsatendtime=1488600022&bulsatstarttime=1488563722&bulsathash=IB799kVCFCrX91eQ7vBgguukrg3g-t4d4_yNeQzq-wY=
+http://edge-sf-8.iptv.bulsat.com:1935/radio/nova.stream/playlist.m3u8?bulsatCustomParameter=134076_3009630_134076_NULL_pcweb_b5a046cc508d0486c7ff650520da2678_&bulsatendtime=1488683078&bulsatstarttime=1488646778&bulsathash=7nGeNFnlBaOY1CTDVMZPr1qp8TftXmgLGncTt0sfiwg=
 #EXTINF:-1 radio="True" tvg-shift=0 group-title="Радио" tvg-logo="btv_radio" tvg-id="btv_radio",BTV radio
-http://edge-sf-3.iptv.bulsat.com:1935/radio/btv_radio.stream/playlist.m3u8?bulsatCustomParameter=134076_3009630_134076_NULL_pcweb_3321c750f64dcd23909318c4661b0156_&bulsatendtime=1488600022&bulsatstarttime=1488563722&bulsathash=gb-tG6ZqDBX1yFGv8ATi_bjbMj1z0EIBK3O-xd3ngaU=
+http://edge-sf-1.iptv.bulsat.com:1935/radio/btv_radio.stream/playlist.m3u8?bulsatCustomParameter=134076_3009630_134076_NULL_pcweb_b5a046cc508d0486c7ff650520da2678_&bulsatendtime=1488683078&bulsatstarttime=1488646778&bulsathash=ptMgui11fh8YDFsPKFsIElxK_p5OdAWNcOXRnfy6gRg=
 #EXTINF:-1 radio="True" tvg-shift=0 group-title="Радио" tvg-logo="rbulgaria_on_air" tvg-id="rbulgaria_on_air",Bulgaria On Air
-http://edge-sf-1.iptv.bulsat.com:1935/radio/rbulgaria_on_air.stream/playlist.m3u8?bulsatCustomParameter=134076_3009630_134076_NULL_pcweb_3321c750f64dcd23909318c4661b0156_&bulsatendtime=1488600022&bulsatstarttime=1488563722&bulsathash=4kjVSMILPaqbBCgCUvuC4j2NTPm73fT0SbfJGktzj9g=
+http://edge-sf-8.iptv.bulsat.com:1935/radio/rbulgaria_on_air.stream/playlist.m3u8?bulsatCustomParameter=134076_3009630_134076_NULL_pcweb_b5a046cc508d0486c7ff650520da2678_&bulsatendtime=1488683078&bulsatstarttime=1488646778&bulsathash=y4Um8fx2JGf3Robrdu1uBnHcLDl8kREZE24p9yg4YNw=
 #EXTINF:-1 radio="True" tvg-shift=0 group-title="Радио" tvg-logo="horizont" tvg-id="horizont",horizont
-http://edge-sf-1.iptv.bulsat.com:1935/radio/horizont.stream/playlist.m3u8?bulsatCustomParameter=134076_3009630_134076_NULL_pcweb_3321c750f64dcd23909318c4661b0156_&bulsatendtime=1488600022&bulsatstarttime=1488563722&bulsathash=bosgCXChcDESUgqg8PbJkVQWP1adPjJt2aO1SU1euN8=
+http://edge-sf-3.iptv.bulsat.com:1935/radio/horizont.stream/playlist.m3u8?bulsatCustomParameter=134076_3009630_134076_NULL_pcweb_b5a046cc508d0486c7ff650520da2678_&bulsatendtime=1488683078&bulsatstarttime=1488646778&bulsathash=dGkUwejZeCr5_XPDYZlzUaebJNubHHVsTYjDQ_nNp2k=
 #EXTINF:-1 radio="True" tvg-shift=0 group-title="Радио" tvg-logo="hristobotev" tvg-id="hristobotev",Hristo Botev BNR
-http://edge-sf-1.iptv.bulsat.com:1935/radio/hristobotev.stream/playlist.m3u8?bulsatCustomParameter=134076_3009630_134076_NULL_pcweb_3321c750f64dcd23909318c4661b0156_&bulsatendtime=1488600022&bulsatstarttime=1488563722&bulsathash=bnw0ltCI_a7UGaAvUVER5Q9i_H9UfbZBGtp290TpUZg=
+http://edge-sf-3.iptv.bulsat.com:1935/radio/hristobotev.stream/playlist.m3u8?bulsatCustomParameter=134076_3009630_134076_NULL_pcweb_b5a046cc508d0486c7ff650520da2678_&bulsatendtime=1488683078&bulsatstarttime=1488646778&bulsathash=Q6gDmKcK8ShiRqyxcqwh9MsG5bqslpBMNy3Qin5B0ug=
 #EXTINF:-1 radio="True" tvg-shift=0 group-title="Радио" tvg-logo="radio_varna" tvg-id="radio_varna",Radio Varna
-http://edge-sf-3.iptv.bulsat.com:1935/radio/radio_varna.stream/playlist.m3u8?bulsatCustomParameter=134076_3009630_134076_NULL_pcweb_3321c750f64dcd23909318c4661b0156_&bulsatendtime=1488600022&bulsatstarttime=1488563722&bulsathash=ADZiGoQRiIZTSvZzTQVk5mToJDA9p1dVC4L1K2-iBKc=
+http://edge-sf-8.iptv.bulsat.com:1935/radio/radio_varna.stream/playlist.m3u8?bulsatCustomParameter=134076_3009630_134076_NULL_pcweb_b5a046cc508d0486c7ff650520da2678_&bulsatendtime=1488683078&bulsatstarttime=1488646778&bulsathash=0Czq23btYGPMCYEqigleJPHGWcN9B1d5HrUjrS8_8_Q=
 #EXTINF:-1 radio="True" tvg-shift=0 group-title="Радио" tvg-logo="bgradio" tvg-id="bgradio",BG radio
-http://edge-sf-1.iptv.bulsat.com:1935/radio/bgradio.stream/playlist.m3u8?bulsatCustomParameter=134076_3009630_134076_NULL_pcweb_3321c750f64dcd23909318c4661b0156_&bulsatendtime=1488600022&bulsatstarttime=1488563722&bulsathash=7--D1hBqRo5HADoNej0l_McKgZRo2_UIys3ijSTWmQ8=
+http://edge-sf-1.iptv.bulsat.com:1935/radio/bgradio.stream/playlist.m3u8?bulsatCustomParameter=134076_3009630_134076_NULL_pcweb_b5a046cc508d0486c7ff650520da2678_&bulsatendtime=1488683078&bulsatstarttime=1488646778&bulsathash=1UNI-b5ITanPt8-q5Hv92hfbK3vKtqBVifeklnTChpQ=
 #EXTINF:-1 radio="True" tvg-shift=0 group-title="Радио" tvg-logo="zorana" tvg-id="zorana",Radio Zorana
-http://edge-sf-1.iptv.bulsat.com:1935/radio/zorana.stream/playlist.m3u8?bulsatCustomParameter=134076_3009630_134076_NULL_pcweb_3321c750f64dcd23909318c4661b0156_&bulsatendtime=1488600022&bulsatstarttime=1488563722&bulsathash=tkq__40SmWH_Noqez2qj_KoVFnz0UQW_m5C_RIiq4zM=
+http://edge-sf-3.iptv.bulsat.com:1935/radio/zorana.stream/playlist.m3u8?bulsatCustomParameter=134076_3009630_134076_NULL_pcweb_b5a046cc508d0486c7ff650520da2678_&bulsatendtime=1488683078&bulsatstarttime=1488646778&bulsathash=sqXYto-1i6BIzPRadsCDvguJgB3kgGgQPo3Jrb8U4jQ=
 #EXTINF:-1 radio="True" tvg-shift=0 group-title="Радио" tvg-logo="veselina" tvg-id="veselina",Veselina
-http://edge-sf-1.iptv.bulsat.com:1935/radio/veselina.stream/playlist.m3u8?bulsatCustomParameter=134076_3009630_134076_NULL_pcweb_3321c750f64dcd23909318c4661b0156_&bulsatendtime=1488600022&bulsatstarttime=1488563722&bulsathash=kYzkNgdPPurO4Vp3PuWDOhEpAq3hrnyAPqK-28cdheo=
+http://edge-sf-3.iptv.bulsat.com:1935/radio/veselina.stream/playlist.m3u8?bulsatCustomParameter=134076_3009630_134076_NULL_pcweb_b5a046cc508d0486c7ff650520da2678_&bulsatendtime=1488683078&bulsatstarttime=1488646778&bulsathash=pB0VIaZi0mOWwAdi1JabriyEGNi70F7NMHPBc-eApGc=
 #EXTINF:-1 radio="True" tvg-shift=0 group-title="Радио" tvg-logo="veronika" tvg-id="veronika",veronika
-http://edge-sf-3.iptv.bulsat.com:1935/radio/veronika.stream/playlist.m3u8?bulsatCustomParameter=134076_3009630_134076_NULL_pcweb_3321c750f64dcd23909318c4661b0156_&bulsatendtime=1488600022&bulsatstarttime=1488563722&bulsathash=ZCBHllseFxs8Yuww-h1Kn3taKyA_BUHKi_fNY4dSZXY=
+http://edge-sf-3.iptv.bulsat.com:1935/radio/veronika.stream/playlist.m3u8?bulsatCustomParameter=134076_3009630_134076_NULL_pcweb_b5a046cc508d0486c7ff650520da2678_&bulsatendtime=1488683078&bulsatstarttime=1488646778&bulsathash=FsduzgNmc-o_10r12hHERUV2cw7UnMTEkoglqnsgIqs=
 #EXTINF:-1 radio="True" tvg-shift=0 group-title="Радио" tvg-logo="payner" tvg-id="payner",Radio Payner
-http://edge-sf-8.iptv.bulsat.com:1935/radio/payner.stream/playlist.m3u8?bulsatCustomParameter=134076_3009630_134076_NULL_pcweb_3321c750f64dcd23909318c4661b0156_&bulsatendtime=1488600022&bulsatstarttime=1488563722&bulsathash=jWkUlsTrCJ3d03fn6o_EpudBk7q7XL5Ab9EfsZ_sWT4=
+http://edge-sf-3.iptv.bulsat.com:1935/radio/payner.stream/playlist.m3u8?bulsatCustomParameter=134076_3009630_134076_NULL_pcweb_b5a046cc508d0486c7ff650520da2678_&bulsatendtime=1488683078&bulsatstarttime=1488646778&bulsathash=qako4hLYlw0jt6MxHp3ONBQPIIDRQpyF5yGou4GFpkQ=
 #EXTINF:-1 radio="True" tvg-shift=0 group-title="Радио" tvg-logo="ultra" tvg-id="ultra",Radio Ultra
-http://edge-sf-1.iptv.bulsat.com:1935/radio/ultra.stream/playlist.m3u8?bulsatCustomParameter=134076_3009630_134076_NULL_pcweb_3321c750f64dcd23909318c4661b0156_&bulsatendtime=1488600022&bulsatstarttime=1488563722&bulsathash=LICQZsHh04H2B5wU_IEk4s-OGlr40NnVNRzDcAc0Lwk=
+http://edge-sf-8.iptv.bulsat.com:1935/radio/ultra.stream/playlist.m3u8?bulsatCustomParameter=134076_3009630_134076_NULL_pcweb_b5a046cc508d0486c7ff650520da2678_&bulsatendtime=1488683078&bulsatstarttime=1488646778&bulsathash=-96YX83cNDS6aPviFmqULkhC2VHzrmLmsW5FtknobJs=
 #EXTINF:-1 radio="True" tvg-shift=0 group-title="Радио" tvg-logo="folk_radio_nazdrave" tvg-id="folk_radio_nazdrave",Folk radio Nazdrave
-http://edge-sf-1.iptv.bulsat.com:1935/radio/folk_radio_nazdrave.stream/playlist.m3u8?bulsatCustomParameter=134076_3009630_134076_NULL_pcweb_3321c750f64dcd23909318c4661b0156_&bulsatendtime=1488600022&bulsatstarttime=1488563722&bulsathash=GL0ia_AURnZmRdjtl3fkn1rzzxCvNUWhcENWR-AfI7o=
+http://edge-sf-1.iptv.bulsat.com:1935/radio/folk_radio_nazdrave.stream/playlist.m3u8?bulsatCustomParameter=134076_3009630_134076_NULL_pcweb_b5a046cc508d0486c7ff650520da2678_&bulsatendtime=1488683078&bulsatstarttime=1488646778&bulsathash=7plBMyXNzOieui4JABPK_BozTSv2coP_F8j5sp092Qw=
 #EXTINF:-1 radio="True" tvg-shift=0 group-title="Радио" tvg-logo="folk_radio" tvg-id="folk_radio",Folk Radio
-http://edge-sf-1.iptv.bulsat.com:1935/radio/folk_radio.stream/playlist.m3u8?bulsatCustomParameter=134076_3009630_134076_NULL_pcweb_3321c750f64dcd23909318c4661b0156_&bulsatendtime=1488600022&bulsatstarttime=1488563722&bulsathash=gMcY4QKr6Hc0TL14j8Xl7kvnjA0f0sLx3tQTMp1xZhg=
+http://edge-sf-1.iptv.bulsat.com:1935/radio/folk_radio.stream/playlist.m3u8?bulsatCustomParameter=134076_3009630_134076_NULL_pcweb_b5a046cc508d0486c7ff650520da2678_&bulsatendtime=1488683078&bulsatstarttime=1488646778&bulsathash=rrWQnVJ6tyR0_yHM0hs8-cutYxW5F67qUWDdYP5Zr0U=
 #EXTINF:-1 radio="True" tvg-shift=0 group-title="Радио" tvg-logo="chanove" tvg-id="chanove",Radio Chanove
-http://edge-sf-8.iptv.bulsat.com:1935/radio/chanove.stream/playlist.m3u8?bulsatCustomParameter=134076_3009630_134076_NULL_pcweb_3321c750f64dcd23909318c4661b0156_&bulsatendtime=1488600022&bulsatstarttime=1488563722&bulsathash=OfHpm-Y4r6ijU0WUufVJzW_BgD5bPmFn-JscF_JC5us=
+http://edge-sf-3.iptv.bulsat.com:1935/radio/chanove.stream/playlist.m3u8?bulsatCustomParameter=134076_3009630_134076_NULL_pcweb_b5a046cc508d0486c7ff650520da2678_&bulsatendtime=1488683078&bulsatstarttime=1488646778&bulsathash=b9q3GhuB3SDH4Z1UnkJPuVvX-f684yXp1vE8XkqO0V8=
 #EXTINF:-1 radio="True" tvg-shift=0 group-title="Радио" tvg-logo="vitosha" tvg-id="vitosha",vitosha
-http://edge-sf-8.iptv.bulsat.com:1935/radio/vitosha.stream/playlist.m3u8?bulsatCustomParameter=134076_3009630_134076_NULL_pcweb_3321c750f64dcd23909318c4661b0156_&bulsatendtime=1488600022&bulsatstarttime=1488563722&bulsathash=VfHnChTfgrBO1eXls6sGyg_LTmhRTI3e2YoYffOfwvE=
+http://edge-sf-3.iptv.bulsat.com:1935/radio/vitosha.stream/playlist.m3u8?bulsatCustomParameter=134076_3009630_134076_NULL_pcweb_b5a046cc508d0486c7ff650520da2678_&bulsatendtime=1488683078&bulsatstarttime=1488646778&bulsathash=mJ6EpEwjZdEqlbV3yLR4GfXqjfnNpDdNc0_VnwQX9PI=
 #EXTINF:-1 radio="True" tvg-shift=0 group-title="Радио" tvg-logo="njoy" tvg-id="njoy",njoy
-http://edge-sf-1.iptv.bulsat.com:1935/radio/njoy.stream/playlist.m3u8?bulsatCustomParameter=134076_3009630_134076_NULL_pcweb_3321c750f64dcd23909318c4661b0156_&bulsatendtime=1488600022&bulsatstarttime=1488563722&bulsathash=-hG0pWL2ZTNJFgNzHIv5_fYP54Ja6osvKkEzXWQJXFA=
+http://edge-sf-3.iptv.bulsat.com:1935/radio/njoy.stream/playlist.m3u8?bulsatCustomParameter=134076_3009630_134076_NULL_pcweb_b5a046cc508d0486c7ff650520da2678_&bulsatendtime=1488683078&bulsatstarttime=1488646778&bulsathash=7LCkYznfjMQhtXs3F-KHxdGxX85UjmToN_t32YV6Rb4=
 #EXTINF:-1 radio="True" tvg-shift=0 group-title="Радио" tvg-logo="rthevoice" tvg-id="rthevoice",The Voice
-http://edge-sf-1.iptv.bulsat.com:1935/radio/rthevoice.stream/playlist.m3u8?bulsatCustomParameter=134076_3009630_134076_NULL_pcweb_3321c750f64dcd23909318c4661b0156_&bulsatendtime=1488600022&bulsatstarttime=1488563722&bulsathash=S4xbEqK_n8QRfOzTI9JygPg_sOi1wdCyQum5kKJLq1A=
+http://edge-sf-8.iptv.bulsat.com:1935/radio/rthevoice.stream/playlist.m3u8?bulsatCustomParameter=134076_3009630_134076_NULL_pcweb_b5a046cc508d0486c7ff650520da2678_&bulsatendtime=1488683078&bulsatstarttime=1488646778&bulsathash=1SV_rYdwtWbInyjcLd_r9WBG3eswDwVUkXpW1sa3_yA=
 #EXTINF:-1 radio="True" tvg-shift=0 group-title="Радио" tvg-logo="fresh" tvg-id="fresh",Radio Fresh
-http://edge-sf-3.iptv.bulsat.com:1935/radio/fresh.stream/playlist.m3u8?bulsatCustomParameter=134076_3009630_134076_NULL_pcweb_3321c750f64dcd23909318c4661b0156_&bulsatendtime=1488600022&bulsatstarttime=1488563722&bulsathash=fs1H_Vd0aFEzpJOguPieg9si6nP1-DxscyhLSXDn7jg=
+http://edge-sf-1.iptv.bulsat.com:1935/radio/fresh.stream/playlist.m3u8?bulsatCustomParameter=134076_3009630_134076_NULL_pcweb_b5a046cc508d0486c7ff650520da2678_&bulsatendtime=1488683078&bulsatstarttime=1488646778&bulsathash=jRcBH1PC6lRDPciaJcUmzzscxxWcliwajTHicuddHuw=
 #EXTINF:-1 radio="True" tvg-shift=0 group-title="Радио" tvg-logo="city" tvg-id="city",Radio City
-http://edge-sf-8.iptv.bulsat.com:1935/radio/city.stream/playlist.m3u8?bulsatCustomParameter=134076_3009630_134076_NULL_pcweb_3321c750f64dcd23909318c4661b0156_&bulsatendtime=1488600022&bulsatstarttime=1488563722&bulsathash=FwPQ0lIDxQyR0t1IBIIFTzeUs0qJBHCXa24MrwSZ70E=
+http://edge-sf-8.iptv.bulsat.com:1935/radio/city.stream/playlist.m3u8?bulsatCustomParameter=134076_3009630_134076_NULL_pcweb_b5a046cc508d0486c7ff650520da2678_&bulsatendtime=1488683078&bulsatstarttime=1488646778&bulsathash=O-GmBzn2ceGAZu62OTMtR7UT0ewxy7lMhlxp9043yYQ=
 #EXTINF:-1 radio="True" tvg-shift=0 group-title="Радио" tvg-logo="nrj" tvg-id="nrj",nrj
-http://edge-sf-1.iptv.bulsat.com:1935/radio/nrj.stream/playlist.m3u8?bulsatCustomParameter=134076_3009630_134076_NULL_pcweb_3321c750f64dcd23909318c4661b0156_&bulsatendtime=1488600022&bulsatstarttime=1488563722&bulsathash=RsERSglmqOmHR0yAKN2nSi5ofS10GGVh37lDRAnhOG8=
+http://edge-sf-1.iptv.bulsat.com:1935/radio/nrj.stream/playlist.m3u8?bulsatCustomParameter=134076_3009630_134076_NULL_pcweb_b5a046cc508d0486c7ff650520da2678_&bulsatendtime=1488683078&bulsatstarttime=1488646778&bulsathash=PAZJ5FC5akUlRBqoXCsOhciYFQZjlasP_r0mlljgO_I=
 #EXTINF:-1 radio="True" tvg-shift=0 group-title="Радио" tvg-logo="100_hit_radio" tvg-id="100_hit_radio",100 HIT radio
-http://edge-sf-1.iptv.bulsat.com:1935/radio/100_hit_radio.stream/playlist.m3u8?bulsatCustomParameter=134076_3009630_134076_NULL_pcweb_3321c750f64dcd23909318c4661b0156_&bulsatendtime=1488600022&bulsatstarttime=1488563722&bulsathash=r0PoaHGSpiUsZ88F3z-Sllr8iRhw15O7-aixZvyey-c=
+http://edge-sf-8.iptv.bulsat.com:1935/radio/100_hit_radio.stream/playlist.m3u8?bulsatCustomParameter=134076_3009630_134076_NULL_pcweb_b5a046cc508d0486c7ff650520da2678_&bulsatendtime=1488683078&bulsatstarttime=1488646778&bulsathash=N_Lau3WreSycccJMfUWcc9MsluyEZJgvd5YRM_gK3lg=
 #EXTINF:-1 radio="True" tvg-shift=0 group-title="Радио" tvg-logo="top_100_station" tvg-id="top_100_station",Top 100 Station
-http://edge-sf-1.iptv.bulsat.com:1935/radio/top_100_station.stream/playlist.m3u8?bulsatCustomParameter=134076_3009630_134076_NULL_pcweb_3321c750f64dcd23909318c4661b0156_&bulsatendtime=1488600022&bulsatstarttime=1488563722&bulsathash=J7yRRHOwOc_2ykNDppPU2QbPh_r5dv-n7NiM7CbNpHE=
+http://edge-sf-1.iptv.bulsat.com:1935/radio/top_100_station.stream/playlist.m3u8?bulsatCustomParameter=134076_3009630_134076_NULL_pcweb_b5a046cc508d0486c7ff650520da2678_&bulsatendtime=1488683078&bulsatstarttime=1488646778&bulsathash=JHKyWlYyDgJKzHU9SP9RhLjbyldU1j6PIjUQ4cLj9lk=
 #EXTINF:-1 radio="True" tvg-shift=0 group-title="Радио" tvg-logo="radio_family" tvg-id="radio_family",Radio Family
-http://edge-sf-3.iptv.bulsat.com:1935/radio/radio_family.stream/playlist.m3u8?bulsatCustomParameter=134076_3009630_134076_NULL_pcweb_3321c750f64dcd23909318c4661b0156_&bulsatendtime=1488600022&bulsatstarttime=1488563722&bulsathash=6fec18ZHF36JQ2fI0FR3G00_rFPdX5B8ZMpTafz4jjk=
+http://edge-sf-1.iptv.bulsat.com:1935/radio/radio_family.stream/playlist.m3u8?bulsatCustomParameter=134076_3009630_134076_NULL_pcweb_b5a046cc508d0486c7ff650520da2678_&bulsatendtime=1488683078&bulsatstarttime=1488646778&bulsathash=grk83i5BeJgz83-R3Uv4p0CjX8XJ0EcAihTPAWY4s2g=
 #EXTINF:-1 radio="True" tvg-shift=0 group-title="Радио" tvg-logo="ndr_blue" tvg-id="ndr_blue",NDR Blue
-http://edge-sf-1.iptv.bulsat.com:1935/radio/ndr_blue.stream/playlist.m3u8?bulsatCustomParameter=134076_3009630_134076_NULL_pcweb_3321c750f64dcd23909318c4661b0156_&bulsatendtime=1488600022&bulsatstarttime=1488563722&bulsathash=XlNQAe-3IGO_qBpVbc9pdRQzMjAnLCxs77e52d4OcGg=
+http://edge-sf-3.iptv.bulsat.com:1935/radio/ndr_blue.stream/playlist.m3u8?bulsatCustomParameter=134076_3009630_134076_NULL_pcweb_b5a046cc508d0486c7ff650520da2678_&bulsatendtime=1488683078&bulsatstarttime=1488646778&bulsathash=Z3DxxgR9iwANgHOLIwwC88s9mLXsxMPlFRKDJoSZy0o=
 #EXTINF:-1 radio="True" tvg-shift=0 group-title="Радио" tvg-logo="fantasy" tvg-id="fantasy",Radio Fantasy
-http://edge-sf-3.iptv.bulsat.com:1935/radio/fantasy.stream/playlist.m3u8?bulsatCustomParameter=134076_3009630_134076_NULL_pcweb_3321c750f64dcd23909318c4661b0156_&bulsatendtime=1488600022&bulsatstarttime=1488563722&bulsathash=AYCSNobmZZryUHaVJ9O2Peo3ckv2vffgogAKQNdv1Yo=
+http://edge-sf-3.iptv.bulsat.com:1935/radio/fantasy.stream/playlist.m3u8?bulsatCustomParameter=134076_3009630_134076_NULL_pcweb_b5a046cc508d0486c7ff650520da2678_&bulsatendtime=1488683078&bulsatstarttime=1488646778&bulsathash=ohTJXi3SA_90X0WLh2V0_n3_UPEGpxp1jwN5ES-FnUw=
 #EXTINF:-1 radio="True" tvg-shift=0 group-title="Радио" tvg-logo="radio1" tvg-id="radio1",Radio 1
-http://edge-sf-3.iptv.bulsat.com:1935/radio/radio1.stream/playlist.m3u8?bulsatCustomParameter=134076_3009630_134076_NULL_pcweb_3321c750f64dcd23909318c4661b0156_&bulsatendtime=1488600022&bulsatstarttime=1488563722&bulsathash=k0C2mdXFzevTynBQIyDsuus71AJTM3gZAuyIxcfoJPc=
+http://edge-sf-8.iptv.bulsat.com:1935/radio/radio1.stream/playlist.m3u8?bulsatCustomParameter=134076_3009630_134076_NULL_pcweb_b5a046cc508d0486c7ff650520da2678_&bulsatendtime=1488683078&bulsatstarttime=1488646778&bulsathash=i2Cm0rZiXvlnaLgmcwB3Si5nzHSikDbRaAzPDo7dqSI=
 #EXTINF:-1 radio="True" tvg-shift=0 group-title="Радио" tvg-logo="fm_plus" tvg-id="fm_plus",FM+
-http://edge-sf-3.iptv.bulsat.com:1935/radio/fm_plus.stream/playlist.m3u8?bulsatCustomParameter=134076_3009630_134076_NULL_pcweb_3321c750f64dcd23909318c4661b0156_&bulsatendtime=1488600022&bulsatstarttime=1488563722&bulsathash=4yo32I4v7CMZhv9E7ZUrf7o7xnOKfkUJktCgMKlBYnQ=
+http://edge-sf-1.iptv.bulsat.com:1935/radio/fm_plus.stream/playlist.m3u8?bulsatCustomParameter=134076_3009630_134076_NULL_pcweb_b5a046cc508d0486c7ff650520da2678_&bulsatendtime=1488683078&bulsatstarttime=1488646778&bulsathash=gv6hzx6kiZBCbTL36E7VouF0KdnTcvlxcG60SKsZzek=
 #EXTINF:-1 radio="True" tvg-shift=0 group-title="Радио" tvg-logo="melody" tvg-id="melody",Melody
-http://edge-sf-3.iptv.bulsat.com:1935/radio/melody.stream/playlist.m3u8?bulsatCustomParameter=134076_3009630_134076_NULL_pcweb_3321c750f64dcd23909318c4661b0156_&bulsatendtime=1488600022&bulsatstarttime=1488563722&bulsathash=LdQfiYvncKOecrpq50ABpu5FNZBUOrkmXTEenD5u9v4=
+http://edge-sf-8.iptv.bulsat.com:1935/radio/melody.stream/playlist.m3u8?bulsatCustomParameter=134076_3009630_134076_NULL_pcweb_b5a046cc508d0486c7ff650520da2678_&bulsatendtime=1488683078&bulsatstarttime=1488646778&bulsathash=K5EMvm9Zr8q23gOSQEyG9KyVIJdfavxYlhnmAzhVly4=
 #EXTINF:-1 radio="True" tvg-shift=0 group-title="Радио" tvg-logo="magic_fm" tvg-id="magic_fm",Magic FM
-http://edge-sf-1.iptv.bulsat.com:1935/radio/magic_fm.stream/playlist.m3u8?bulsatCustomParameter=134076_3009630_134076_NULL_pcweb_3321c750f64dcd23909318c4661b0156_&bulsatendtime=1488600022&bulsatstarttime=1488563722&bulsathash=KlEw2RM7lG5mKjQrFqCG8-db5iaJuUVy4mrLdUGftW8=
+http://edge-sf-1.iptv.bulsat.com:1935/radio/magic_fm.stream/playlist.m3u8?bulsatCustomParameter=134076_3009630_134076_NULL_pcweb_b5a046cc508d0486c7ff650520da2678_&bulsatendtime=1488683078&bulsatstarttime=1488646778&bulsathash=_gT3u6BldSr06wg_4nQ077SGQFo5EL9q6t1RW_jODk4=
 #EXTINF:-1 radio="True" tvg-shift=0 group-title="Радио" tvg-logo="maq" tvg-id="maq",Radio Maq
-http://edge-sf-8.iptv.bulsat.com:1935/radio/maq.stream/playlist.m3u8?bulsatCustomParameter=134076_3009630_134076_NULL_pcweb_3321c750f64dcd23909318c4661b0156_&bulsatendtime=1488600022&bulsatstarttime=1488563722&bulsathash=1No5JHtF1WinYOSVpdnWKpfKxF9eWr3Ni8YTu12R2Lo=
+http://edge-sf-3.iptv.bulsat.com:1935/radio/maq.stream/playlist.m3u8?bulsatCustomParameter=134076_3009630_134076_NULL_pcweb_b5a046cc508d0486c7ff650520da2678_&bulsatendtime=1488683078&bulsatstarttime=1488646778&bulsathash=lO5N9Qtb1PF65j4BgOHK4fBKOhji1KxzjYyKXRngGXw=
 #EXTINF:-1 radio="True" tvg-shift=0 group-title="Радио" tvg-logo="power_fm" tvg-id="power_fm",Power FM
-http://edge-sf-3.iptv.bulsat.com:1935/radio/power_fm.stream/playlist.m3u8?bulsatCustomParameter=134076_3009630_134076_NULL_pcweb_3321c750f64dcd23909318c4661b0156_&bulsatendtime=1488600022&bulsatstarttime=1488563722&bulsathash=xrUMgMoVMFm_PAkSAywP1oQvMu1Ftj9qav_y9SXflsM=
+http://edge-sf-3.iptv.bulsat.com:1935/radio/power_fm.stream/playlist.m3u8?bulsatCustomParameter=134076_3009630_134076_NULL_pcweb_b5a046cc508d0486c7ff650520da2678_&bulsatendtime=1488683078&bulsatstarttime=1488646778&bulsathash=mQ7VxqZ_oqLySbx-yyGg3nigYqh8DJ3yCCcWuVDIxns=
 #EXTINF:-1 radio="True" tvg-shift=0 group-title="Радио" tvg-logo="kid_red_radio" tvg-id="kid_red_radio",Kid Red Radio
-http://edge-sf-1.iptv.bulsat.com:1935/radio/kid_red_radio.stream/playlist.m3u8?bulsatCustomParameter=134076_3009630_134076_NULL_pcweb_3321c750f64dcd23909318c4661b0156_&bulsatendtime=1488600022&bulsatstarttime=1488563722&bulsathash=kuNpNOh5_tuXDEAXAOZpLwnfzTTnl4wJHcSMppRJGg4=
+http://edge-sf-1.iptv.bulsat.com:1935/radio/kid_red_radio.stream/playlist.m3u8?bulsatCustomParameter=134076_3009630_134076_NULL_pcweb_b5a046cc508d0486c7ff650520da2678_&bulsatendtime=1488683078&bulsatstarttime=1488646778&bulsathash=Ggr96HXav5Ugr6s-R1fn_qPZk-GzVMew0NVgWafdbPQ=
 #EXTINF:-1 radio="True" tvg-shift=0 group-title="Радио" tvg-logo="radio5_npo" tvg-id="radio5_npo",Radio5 nostalgia
-http://edge-sf-8.iptv.bulsat.com:1935/radio/radio5_npo.stream/playlist.m3u8?bulsatCustomParameter=134076_3009630_134076_NULL_pcweb_3321c750f64dcd23909318c4661b0156_&bulsatendtime=1488600022&bulsatstarttime=1488563722&bulsathash=TCy0QFFcHl4a3t2AhtpW1-B-gKWqd5aznjTL2WsusBc=
+http://edge-sf-3.iptv.bulsat.com:1935/radio/radio5_npo.stream/playlist.m3u8?bulsatCustomParameter=134076_3009630_134076_NULL_pcweb_b5a046cc508d0486c7ff650520da2678_&bulsatendtime=1488683078&bulsatstarttime=1488646778&bulsathash=WT_U5HBXe_-UTBhJrOc1eD7BlLiqhvib8YrVaND0jjE=
 #EXTINF:-1 radio="True" tvg-shift=0 group-title="Радио" tvg-logo="raven_radio" tvg-id="raven_radio",Raven Radio
-http://edge-sf-8.iptv.bulsat.com:1935/radio/raven_radio.stream/playlist.m3u8?bulsatCustomParameter=134076_3009630_134076_NULL_pcweb_3321c750f64dcd23909318c4661b0156_&bulsatendtime=1488600022&bulsatstarttime=1488563722&bulsathash=Ls1lduUZ8Z9wGUMry7CxrgUBOdwj3VuPsXJkDSClZYI=
+http://edge-sf-3.iptv.bulsat.com:1935/radio/raven_radio.stream/playlist.m3u8?bulsatCustomParameter=134076_3009630_134076_NULL_pcweb_b5a046cc508d0486c7ff650520da2678_&bulsatendtime=1488683078&bulsatstarttime=1488646778&bulsathash=rJl5VKkz8jEHXccr7-6OvI-9hMoea_uGCCkXXYxv2Ys=
 #EXTINF:-1 radio="True" tvg-shift=0 group-title="Радио" tvg-logo="4u_80s" tvg-id="4u_80s",4U 80s
-http://edge-sf-3.iptv.bulsat.com:1935/radio/4u_80s.stream/playlist.m3u8?bulsatCustomParameter=134076_3009630_134076_NULL_pcweb_3321c750f64dcd23909318c4661b0156_&bulsatendtime=1488600022&bulsatstarttime=1488563722&bulsathash=gz6rQf0klSShL4I-pJ6ovV8PqdVHnjnttdRGUenVluI=
+http://edge-sf-8.iptv.bulsat.com:1935/radio/4u_80s.stream/playlist.m3u8?bulsatCustomParameter=134076_3009630_134076_NULL_pcweb_b5a046cc508d0486c7ff650520da2678_&bulsatendtime=1488683078&bulsatstarttime=1488646778&bulsathash=gU7WFeGXiaOlUwpa3GX54v6vAqxVZ8CpbpwScK28ofY=
 #EXTINF:-1 radio="True" tvg-shift=0 group-title="Радио" tvg-logo="classic_fm" tvg-id="classic_fm",Classic FM
-http://edge-sf-8.iptv.bulsat.com:1935/radio/classic_fm.stream/playlist.m3u8?bulsatCustomParameter=134076_3009630_134076_NULL_pcweb_3321c750f64dcd23909318c4661b0156_&bulsatendtime=1488600022&bulsatstarttime=1488563722&bulsathash=c_imRKst_u6hOO38th7Z01B5y9yesKfN1YeV4ZOvqHI=
+http://edge-sf-1.iptv.bulsat.com:1935/radio/classic_fm.stream/playlist.m3u8?bulsatCustomParameter=134076_3009630_134076_NULL_pcweb_b5a046cc508d0486c7ff650520da2678_&bulsatendtime=1488683078&bulsatstarttime=1488646778&bulsathash=h3CDYKToJIkRvVruMG0y28mUVMcjjAdOpUMIikj-T2M=
 #EXTINF:-1 radio="True" tvg-shift=0 group-title="Радио" tvg-logo="zrock" tvg-id="zrock",zrock
-http://edge-sf-8.iptv.bulsat.com:1935/radio/zrock.stream/playlist.m3u8?bulsatCustomParameter=134076_3009630_134076_NULL_pcweb_3321c750f64dcd23909318c4661b0156_&bulsatendtime=1488600022&bulsatstarttime=1488563722&bulsathash=D4h61IffdbCEZItIM99c04p_DCzybnLRhEQ7en_ImsQ=
+http://edge-sf-3.iptv.bulsat.com:1935/radio/zrock.stream/playlist.m3u8?bulsatCustomParameter=134076_3009630_134076_NULL_pcweb_b5a046cc508d0486c7ff650520da2678_&bulsatendtime=1488683078&bulsatstarttime=1488646778&bulsathash=z7xLa7nDGEO5zgMMddajgOS3BKI-yntRwPGmAi5X-LE=
 #EXTINF:-1 radio="True" tvg-shift=0 group-title="Радио" tvg-logo="tangramegarock" tvg-id="tangramegarock",tangramegarock
-http://edge-sf-1.iptv.bulsat.com:1935/radio/tangramegarock.stream/playlist.m3u8?bulsatCustomParameter=134076_3009630_134076_NULL_pcweb_3321c750f64dcd23909318c4661b0156_&bulsatendtime=1488600022&bulsatstarttime=1488563722&bulsathash=-4LfsFVvPD6nkfcKZfaYPHZWwdM_h8qc7kHZfrNalds=
+http://edge-sf-1.iptv.bulsat.com:1935/radio/tangramegarock.stream/playlist.m3u8?bulsatCustomParameter=134076_3009630_134076_NULL_pcweb_b5a046cc508d0486c7ff650520da2678_&bulsatendtime=1488683078&bulsatstarttime=1488646778&bulsathash=kNtSWjnOis77jv9uLmgdqB-qbd4bk_nIDOuDwUhiuEg=
 #EXTINF:-1 radio="True" tvg-shift=0 group-title="Радио" tvg-logo="star_fm" tvg-id="star_fm",Star FM
-http://edge-sf-8.iptv.bulsat.com:1935/radio/star_fm.stream/playlist.m3u8?bulsatCustomParameter=134076_3009630_134076_NULL_pcweb_3321c750f64dcd23909318c4661b0156_&bulsatendtime=1488600022&bulsatstarttime=1488563722&bulsathash=T2KkqeycNJG_n2UK6U69UaO9IulbV4ubjYycHF1_wDE=
+http://edge-sf-3.iptv.bulsat.com:1935/radio/star_fm.stream/playlist.m3u8?bulsatCustomParameter=134076_3009630_134076_NULL_pcweb_b5a046cc508d0486c7ff650520da2678_&bulsatendtime=1488683078&bulsatstarttime=1488646778&bulsathash=AVzbYK8N_4Ssq27RgWAcMCKdcqdMEqfYth55X472II4=
 #EXTINF:-1 radio="True" tvg-shift=0 group-title="Радио" tvg-logo="radio1rock" tvg-id="radio1rock",radio1rock
-http://edge-sf-8.iptv.bulsat.com:1935/radio/radio1rock.stream/playlist.m3u8?bulsatCustomParameter=134076_3009630_134076_NULL_pcweb_3321c750f64dcd23909318c4661b0156_&bulsatendtime=1488600022&bulsatstarttime=1488563722&bulsathash=O63_-2l9IhL60rARt6IK1GfajMxpXB_0W9WtImGaiME=
+http://edge-sf-8.iptv.bulsat.com:1935/radio/radio1rock.stream/playlist.m3u8?bulsatCustomParameter=134076_3009630_134076_NULL_pcweb_b5a046cc508d0486c7ff650520da2678_&bulsatendtime=1488683078&bulsatstarttime=1488646778&bulsathash=UTt53OLeuK__9hhsothqXttmEtKJfD3VkzCgp9dcpZ4=
 #EXTINF:-1 radio="True" tvg-shift=0 group-title="Радио" tvg-logo="one_hip_hop" tvg-id="one_hip_hop",One Hip Hop
-http://edge-sf-3.iptv.bulsat.com:1935/radio/one_hip_hop.stream/playlist.m3u8?bulsatCustomParameter=134076_3009630_134076_NULL_pcweb_3321c750f64dcd23909318c4661b0156_&bulsatendtime=1488600022&bulsatstarttime=1488563722&bulsathash=C8bZlCSbchx8cjiKxibUr2nf73fFbVTFeIitleeyUdQ=
+http://edge-sf-1.iptv.bulsat.com:1935/radio/one_hip_hop.stream/playlist.m3u8?bulsatCustomParameter=134076_3009630_134076_NULL_pcweb_b5a046cc508d0486c7ff650520da2678_&bulsatendtime=1488683078&bulsatstarttime=1488646778&bulsathash=puL7w6oJziXKFqf3cxAPDqUnVKXY6epTakZBNHy902E=
 #EXTINF:-1 radio="True" tvg-shift=0 group-title="Радио" tvg-logo="alpha_radio" tvg-id="alpha_radio",ALPHA radio
-http://edge-sf-1.iptv.bulsat.com:1935/radio/alpha_radio.stream/playlist.m3u8?bulsatCustomParameter=134076_3009630_134076_NULL_pcweb_3321c750f64dcd23909318c4661b0156_&bulsatendtime=1488600022&bulsatstarttime=1488563722&bulsathash=yMawOR_peCkWC2YhYxVF388pyGCbdCvyBmtFGNK77oY=
+http://edge-sf-3.iptv.bulsat.com:1935/radio/alpha_radio.stream/playlist.m3u8?bulsatCustomParameter=134076_3009630_134076_NULL_pcweb_b5a046cc508d0486c7ff650520da2678_&bulsatendtime=1488683078&bulsatstarttime=1488646778&bulsathash=rNBu_i7recLWSKg30BlGdp0FgugbSuTNMg277SH6JHg=
 #EXTINF:-1 radio="True" tvg-shift=0 group-title="Радио" tvg-logo="house_music_radio" tvg-id="house_music_radio",House Music radio
-http://edge-sf-3.iptv.bulsat.com:1935/radio/house_music_radio.stream/playlist.m3u8?bulsatCustomParameter=134076_3009630_134076_NULL_pcweb_3321c750f64dcd23909318c4661b0156_&bulsatendtime=1488600022&bulsatstarttime=1488563722&bulsathash=bjXdn-yt-a_NLBn3eyUdLbP2YAEwNQeyr-LQR0ft1uo=
+http://edge-sf-1.iptv.bulsat.com:1935/radio/house_music_radio.stream/playlist.m3u8?bulsatCustomParameter=134076_3009630_134076_NULL_pcweb_b5a046cc508d0486c7ff650520da2678_&bulsatendtime=1488683078&bulsatstarttime=1488646778&bulsathash=ColwYYaLzTzW0ZZOBQcP3aLIGKH3OquWkYmWn53WO40=
 #EXTINF:-1 radio="True" tvg-shift=0 group-title="Радио" tvg-logo="jazzfm" tvg-id="jazzfm",jazzfm
-http://edge-sf-1.iptv.bulsat.com:1935/radio/jazzfm.stream/playlist.m3u8?bulsatCustomParameter=134076_3009630_134076_NULL_pcweb_3321c750f64dcd23909318c4661b0156_&bulsatendtime=1488600022&bulsatstarttime=1488563722&bulsathash=wVsy30O8FjnTe7u4brqr9TzlJg9aUSfWDHdFyuIB_44=
+http://edge-sf-8.iptv.bulsat.com:1935/radio/jazzfm.stream/playlist.m3u8?bulsatCustomParameter=134076_3009630_134076_NULL_pcweb_b5a046cc508d0486c7ff650520da2678_&bulsatendtime=1488683078&bulsatstarttime=1488646778&bulsathash=VT19pG9GEEwAWUkpo6hDic0IdzLBeNw6xPdvXCNthE8=
 #EXTINF:-1 radio="True" tvg-shift=0 group-title="Радио" tvg-logo="jazz_fm_lounge" tvg-id="jazz_fm_lounge",Jazz FM Lounge
-http://edge-sf-1.iptv.bulsat.com:1935/radio/jazz_fm_lounge.stream/playlist.m3u8?bulsatCustomParameter=134076_3009630_134076_NULL_pcweb_3321c750f64dcd23909318c4661b0156_&bulsatendtime=1488600022&bulsatstarttime=1488563722&bulsathash=HVurbEh9ON9Gh9pOxGRxHKaCTDMi9aR44Y0ebUsyE1w=
+http://edge-sf-1.iptv.bulsat.com:1935/radio/jazz_fm_lounge.stream/playlist.m3u8?bulsatCustomParameter=134076_3009630_134076_NULL_pcweb_b5a046cc508d0486c7ff650520da2678_&bulsatendtime=1488683078&bulsatstarttime=1488646778&bulsathash=L1XzhZXFpsqsEj2sTgHXNHtWyNkHgtamYWSQSxXvgCM=
 #EXTINF:-1 radio="True" tvg-shift=0 group-title="Радио" tvg-logo="belle_amie" tvg-id="belle_amie",Belle Amie
-http://edge-sf-1.iptv.bulsat.com:1935/radio/belle_amie.stream/playlist.m3u8?bulsatCustomParameter=134076_3009630_134076_NULL_pcweb_3321c750f64dcd23909318c4661b0156_&bulsatendtime=1488600022&bulsatstarttime=1488563722&bulsathash=7YE0ZKXmj4XTEJMBLf7bnjuCtQGXNzj5R4BMIa30JQk=
+http://edge-sf-8.iptv.bulsat.com:1935/radio/belle_amie.stream/playlist.m3u8?bulsatCustomParameter=134076_3009630_134076_NULL_pcweb_b5a046cc508d0486c7ff650520da2678_&bulsatendtime=1488683078&bulsatstarttime=1488646778&bulsathash=TRgFqghJUXnPihJEtnOr3AhWBjB1z8KyS79mWnObkog=
 #EXTINF:-1 radio="True" tvg-shift=0 group-title="Радио" tvg-logo="juzni_vetar" tvg-id="juzni_vetar",Juzni Vetar
-http://edge-sf-1.iptv.bulsat.com:1935/radio/juzni_vetar.stream/playlist.m3u8?bulsatCustomParameter=134076_3009630_134076_NULL_pcweb_3321c750f64dcd23909318c4661b0156_&bulsatendtime=1488600022&bulsatstarttime=1488563722&bulsathash=rumhA1_HTYenyUZ_dvEI0SHk9EH-m06G8gY9rLwQqFg=
+http://edge-sf-1.iptv.bulsat.com:1935/radio/juzni_vetar.stream/playlist.m3u8?bulsatCustomParameter=134076_3009630_134076_NULL_pcweb_b5a046cc508d0486c7ff650520da2678_&bulsatendtime=1488683078&bulsatstarttime=1488646778&bulsathash=yXbX86sMUuRT_agEg4IvdO_DrGp6V_uqDXrkZ9yK3LU=
 #EXTINF:-1 radio="True" tvg-shift=0 group-title="Радио" tvg-logo="argosaronikos" tvg-id="argosaronikos",radio Argosaronikos
-http://edge-sf-3.iptv.bulsat.com:1935/radio/argosaronikos.stream/playlist.m3u8?bulsatCustomParameter=134076_3009630_134076_NULL_pcweb_3321c750f64dcd23909318c4661b0156_&bulsatendtime=1488600022&bulsatstarttime=1488563722&bulsathash=t18O6SwYiotVcYw7knyexDHAjfGK_-NzXUvV8EZAtjk=
+http://edge-sf-3.iptv.bulsat.com:1935/radio/argosaronikos.stream/playlist.m3u8?bulsatCustomParameter=134076_3009630_134076_NULL_pcweb_b5a046cc508d0486c7ff650520da2678_&bulsatendtime=1488683078&bulsatstarttime=1488646778&bulsathash=IKimn2-QOzYnGPrlOVD2WwukiTRxuVtmGE89lIgHPXY=
 #EXTINF:-1 radio="True" tvg-shift=0 group-title="Радио" tvg-logo="symiradio" tvg-id="symiradio",symiradio
-http://edge-sf-8.iptv.bulsat.com:1935/radio/symiradio.stream/playlist.m3u8?bulsatCustomParameter=134076_3009630_134076_NULL_pcweb_3321c750f64dcd23909318c4661b0156_&bulsatendtime=1488600022&bulsatstarttime=1488563722&bulsathash=DAkAQT1WpQiZVF9_wEtN8l0vuCVEac_DCFOrRbUay4g=
+http://edge-sf-8.iptv.bulsat.com:1935/radio/symiradio.stream/playlist.m3u8?bulsatCustomParameter=134076_3009630_134076_NULL_pcweb_b5a046cc508d0486c7ff650520da2678_&bulsatendtime=1488683078&bulsatstarttime=1488646778&bulsathash=mR0O-IBRW-VdQnUk2d0cMSQzVvNXDr1J5C20PDYxltM=
 #EXTINF:-1 radio="True" tvg-shift=0 group-title="Радио" tvg-logo="kalamariafm" tvg-id="kalamariafm",kalamariafm
-http://edge-sf-1.iptv.bulsat.com:1935/radio/kalamariafm.stream/playlist.m3u8?bulsatCustomParameter=134076_3009630_134076_NULL_pcweb_3321c750f64dcd23909318c4661b0156_&bulsatendtime=1488600022&bulsatstarttime=1488563722&bulsathash=vwV45HB1jm8luLfApUaRfcqris-4nrNiiOgh_SuHVyo=
+http://edge-sf-3.iptv.bulsat.com:1935/radio/kalamariafm.stream/playlist.m3u8?bulsatCustomParameter=134076_3009630_134076_NULL_pcweb_b5a046cc508d0486c7ff650520da2678_&bulsatendtime=1488683078&bulsatstarttime=1488646778&bulsathash=mpg-H2rYkEOVC1jw9ydi0_g-HGzxPRdhoKZ1eL_Folo=
 #EXTINF:-1 radio="True" tvg-shift=0 group-title="Радио" tvg-logo="sky_radio_greece" tvg-id="sky_radio_greece",SKY radio Greece
-http://edge-sf-1.iptv.bulsat.com:1935/radio/sky_radio_greece.stream/playlist.m3u8?bulsatCustomParameter=134076_3009630_134076_NULL_pcweb_3321c750f64dcd23909318c4661b0156_&bulsatendtime=1488600022&bulsatstarttime=1488563722&bulsathash=sYW6zVdpwtrZn5rQBJfqyhYrtZRhM5bH7ovwvtdoRrQ=
+http://edge-sf-1.iptv.bulsat.com:1935/radio/sky_radio_greece.stream/playlist.m3u8?bulsatCustomParameter=134076_3009630_134076_NULL_pcweb_b5a046cc508d0486c7ff650520da2678_&bulsatendtime=1488683078&bulsatstarttime=1488646778&bulsathash=eZHdnSL-iVN_1n6AFyEmsd9esPf25ey8usRNFzD3pPs=
 #EXTINF:-1 radio="False" tvg-shift=0 group-title="Радио" tvg-logo="bulsatinfo" tvg-id="bulsatinfo",Bulsat Info Channel
-http://edge-sf-3.iptv.bulsat.com:1935/tv228/smil:bulsatinfo_mobile.smil/playlist.m3u8?bulsatCustomParameter=134076_3009630_134076_NULL_pcweb_3321c750f64dcd23909318c4661b0156_&bulsatendtime=1488600022&bulsatstarttime=1488563722&bulsathash=KRQK6EdorPv90cIy-OMaLhgEvwpEtbR0uoyS-8GI7VE=
+http://edge-sf-3.iptv.bulsat.com:1935/tv228/smil:bulsatinfo_mobile.smil/playlist.m3u8?bulsatCustomParameter=134076_3009630_134076_NULL_pcweb_b5a046cc508d0486c7ff650520da2678_&bulsatendtime=1488683078&bulsatstarttime=1488646778&bulsathash=VyIUbPahyjwnBvEQQK9ufFzlSCT8yWqKM97p1QX1xaI=
 
 #EXTINF:-1,Первый
-http://31.128.137.64:3371/udp/239.1.8.1:1234
+http://31.128.153.39:3371/udp/239.1.8.1:1234
 #EXTINF:-1,Россия 1
-http://31.128.137.64:3371/udp/239.1.8.2:1234
+http://31.128.153.39:3371/udp/239.1.8.2:1234
 #EXTINF:-1,Карусель
-http://31.128.137.64:3371/udp/239.1.8.3:1234
+http://31.128.153.39:3371/udp/239.1.8.3:1234
 #EXTINF:-1,Матч TB
-http://31.128.137.64:3371/udp/239.1.8.4:1234
+http://31.128.153.39:3371/udp/239.1.8.4:1234
 #EXTINF:-1,Россия 24
-http://31.128.137.64:3371/udp/239.1.8.5:1234
+http://31.128.153.39:3371/udp/239.1.8.5:1234
 #EXTINF:-1,Россия К
-http://31.128.137.64:3371/udp/239.1.8.6:1234
+http://31.128.153.39:3371/udp/239.1.8.6:1234
 #EXTINF:-1,НТВ
-http://31.128.137.64:3371/udp/239.1.8.7:1234
+http://31.128.153.39:3371/udp/239.1.8.7:1234
 #EXTINF:-1,5 канал
-http://31.128.137.64:3371/udp/239.1.8.8:1234
+http://31.128.153.39:3371/udp/239.1.8.8:1234
 #EXTINF:-1,8 канал
-http://31.128.137.64:3371/udp/239.1.8.9:1234
+http://31.128.153.39:3371/udp/239.1.8.9:1234
 #EXTINF:-1,Красная Линия
-http://31.128.137.64:3371/udp/239.1.8.10:1234
+http://31.128.153.39:3371/udp/239.1.8.10:1234
 #EXTINF:-1,Вместе РФ
-http://31.128.137.64:3371/udp/239.1.8.11:1234
+http://31.128.153.39:3371/udp/239.1.8.11:1234
 #EXTINF:-1,Грозный
-http://31.128.137.64:3371/udp/239.1.8.16:1234
+http://31.128.153.39:3371/udp/239.1.8.16:1234
 #EXTINF:-1,История
-http://31.128.137.64:3371/udp/239.1.8.17:1234
+http://31.128.153.39:3371/udp/239.1.8.17:1234
 #EXTINF:-1,ОТР
-http://31.128.137.64:3371/udp/239.1.8.18:1234
+http://31.128.153.39:3371/udp/239.1.8.18:1234
 #EXTINF:-1,Powernet HD
-http://31.128.137.64:3371/udp/239.1.8.19:1234
+http://31.128.153.39:3371/udp/239.1.8.19:1234
 #EXTINF:-1,Life News
-http://31.128.137.64:3371/udp/239.1.8.20:1234
+http://31.128.153.39:3371/udp/239.1.8.20:1234
 #EXTINF:-1,Волгоград 1
-http://31.128.137.64:3371/udp/239.1.8.21:1234
+http://31.128.153.39:3371/udp/239.1.8.21:1234
 #EXTINF:-1,Волгоград 24 HD
-http://31.128.137.64:3371/udp/239.1.8.22:1234
+http://31.128.153.39:3371/udp/239.1.8.22:1234
 #EXTINF:-1,9 Волна
-http://31.128.137.64:3371/udp/239.1.8.23:1234
+http://31.128.153.39:3371/udp/239.1.8.23:1234
 #EXTINF:-1,Мир
-http://31.128.137.64:3371/udp/239.1.8.24:1234
+http://31.128.153.39:3371/udp/239.1.8.24:1234
 #EXTINF:-1,Мир 24
-http://31.128.137.64:3371/udp/239.1.8.25:1234
+http://31.128.153.39:3371/udp/239.1.8.25:1234
 #EXTINF:-1,Просвещение
-http://31.128.137.64:3371/udp/239.1.8.26:1234
+http://31.128.153.39:3371/udp/239.1.8.26:1234
 #EXTINF:-1,Астрахань 24 HD
-http://31.128.137.64:3371/udp/239.1.8.28:1234
+http://31.128.153.39:3371/udp/239.1.8.28:1234
 #EXTINF:-1,Россия 24
-http://31.128.137.64:3371/udp/239.1.8.30:1234
+http://31.128.153.39:3371/udp/239.1.8.30:1234
 #EXTINF:-1,Россия 1
-http://31.128.137.64:3371/udp/239.1.8.31:1234
+http://31.128.153.39:3371/udp/239.1.8.31:1234
 #EXTINF:-1,Домашний
-http://31.128.137.64:3371/udp/239.1.9.1:1234
+http://31.128.153.39:3371/udp/239.1.9.1:1234
 #EXTINF:-1,СТС
-http://31.128.137.64:3371/udp/239.1.9.2:1234
+http://31.128.153.39:3371/udp/239.1.9.2:1234
 #EXTINF:-1,ТНТ
-http://31.128.137.64:3371/udp/239.1.9.3:1234
+http://31.128.153.39:3371/udp/239.1.9.3:1234
 #EXTINF:-1,Рен TB
-http://31.128.137.64:3371/udp/239.1.9.4:1234
+http://31.128.153.39:3371/udp/239.1.9.4:1234
 #EXTINF:-1,РБК
-http://31.128.137.64:3371/udp/239.1.9.5:1234
+http://31.128.153.39:3371/udp/239.1.9.5:1234
 #EXTINF:-1,Disney
-http://31.128.137.64:3371/udp/239.1.9.6:1234
+http://31.128.153.39:3371/udp/239.1.9.6:1234
 #EXTINF:-1,ТВЦ
-http://31.128.137.64:3371/udp/239.1.9.8:1234
+http://31.128.153.39:3371/udp/239.1.9.8:1234
 #EXTINF:-1,THT Music
-http://31.128.137.64:3371/udp/239.1.9.9:1234
+http://31.128.153.39:3371/udp/239.1.9.9:1234
 #EXTINF:-1,Bridge TV
-http://31.128.137.64:3371/udp/239.1.9.10:1234
+http://31.128.153.39:3371/udp/239.1.9.10:1234
 #EXTINF:-1,Europa Plus TV
-http://31.128.137.64:3371/udp/239.1.9.11:1234
+http://31.128.153.39:3371/udp/239.1.9.11:1234
 #EXTINF:-1,Rusong TV
-http://31.128.137.64:3371/udp/239.1.9.12:1234
+http://31.128.153.39:3371/udp/239.1.9.12:1234
 #EXTINF:-1,Ю
-http://31.128.137.64:3371/udp/239.1.9.13:1234
+http://31.128.153.39:3371/udp/239.1.9.13:1234
 #EXTINF:-1,World Fashion
-http://31.128.137.64:3371/udp/239.1.9.14:1234
+http://31.128.153.39:3371/udp/239.1.9.14:1234
 #EXTINF:-1,Nickelodeon
-http://31.128.137.64:3371/udp/239.1.9.15:1234
+http://31.128.153.39:3371/udp/239.1.9.15:1234
 #EXTINF:-1,Союз
-http://31.128.137.64:3371/udp/239.1.9.16:1234
+http://31.128.153.39:3371/udp/239.1.9.16:1234
 #EXTINF:-1,Звезда
-http://31.128.137.64:3371/udp/239.1.9.17:1234
+http://31.128.153.39:3371/udp/239.1.9.17:1234
 #EXTINF:-1,Нано ТВ
-http://31.128.137.64:3371/udp/239.1.9.18:1234
+http://31.128.153.39:3371/udp/239.1.9.18:1234
 #EXTINF:-1,Дождь
-http://31.128.137.64:3371/udp/239.1.9.19:1234
+http://31.128.153.39:3371/udp/239.1.9.19:1234
 #EXTINF:-1,365 Дней
-http://31.128.137.64:3371/udp/239.1.9.20:1234
+http://31.128.153.39:3371/udp/239.1.9.20:1234
 #EXTINF:-1,Индийское кино
-http://31.128.137.64:3371/udp/239.1.9.21:1234
+http://31.128.153.39:3371/udp/239.1.9.21:1234
 #EXTINF:-1,Bridge TV Classic
-http://31.128.137.64:3371/udp/239.1.9.22:1234
+http://31.128.153.39:3371/udp/239.1.9.22:1234
 #EXTINF:-1,Еда HD
-http://31.128.137.64:3371/udp/239.1.9.23:1234
+http://31.128.153.39:3371/udp/239.1.9.23:1234
 #EXTINF:-1,Комедия ТВ
-http://31.128.137.64:3371/udp/239.1.9.24:1234
+http://31.128.153.39:3371/udp/239.1.9.24:1234
 #EXTINF:-1,Nick Jr.
-http://31.128.137.64:3371/udp/239.1.9.25:1234
+http://31.128.153.39:3371/udp/239.1.9.25:1234
 #EXTINF:-1,Мужское кино
-http://31.128.137.64:3371/udp/239.1.9.27:1234
+http://31.128.153.39:3371/udp/239.1.9.27:1234
 #EXTINF:-1,Ля-минор
-http://31.128.137.64:3371/udp/239.1.9.28:1234
+http://31.128.153.39:3371/udp/239.1.9.28:1234
 #EXTINF:-1,WBC HD
-http://31.128.137.64:3371/udp/239.1.9.31:1234
+http://31.128.153.39:3371/udp/239.1.9.31:1234
 #EXTINF:-1,Твой Дом
-http://31.128.137.64:3371/udp/239.1.9.32:1234
+http://31.128.153.39:3371/udp/239.1.9.32:1234
 #EXTINF:-1,Россия HD
-http://31.128.137.64:3371/udp/239.1.9.34:1234
+http://31.128.153.39:3371/udp/239.1.9.34:1234
 #EXTINF:-1,Охотник и рыболов HD
-http://31.128.137.64:3371/udp/239.1.9.35:1234
+http://31.128.153.39:3371/udp/239.1.9.35:1234
 #EXTINF:-1,Первый HD
-http://31.128.137.64:3371/udp/239.1.9.36:1234
+http://31.128.153.39:3371/udp/239.1.9.36:1234
 #EXTINF:-1,Luxury World
-http://31.128.137.64:3371/udp/239.1.9.37:1234
+http://31.128.153.39:3371/udp/239.1.9.37:1234
 #EXTINF:-1,Shop Show
-http://31.128.137.64:3371/udp/239.1.9.38:1234
+http://31.128.153.39:3371/udp/239.1.9.38:1234
 #EXTINF:-1,TiJi
-http://31.128.137.64:3371/udp/239.1.9.39:1234
+http://31.128.153.39:3371/udp/239.1.9.39:1234
 #EXTINF:-1,Рыжий
-http://31.128.137.64:3371/udp/239.1.9.40:1234
+http://31.128.153.39:3371/udp/239.1.9.40:1234
 #EXTINF:-1,Тонус ТВ
-http://31.128.137.64:3371/udp/239.1.9.41:1234
+http://31.128.153.39:3371/udp/239.1.9.41:1234
 #EXTINF:-1,Ностальгия
-http://31.128.137.64:3371/udp/239.1.9.42:1234
+http://31.128.153.39:3371/udp/239.1.9.42:1234
 #EXTINF:-1,ТНВ Планета
-http://31.128.137.64:3371/udp/239.1.9.43:1234
+http://31.128.153.39:3371/udp/239.1.9.43:1234
 #EXTINF:-1,СТС Love
-http://31.128.137.64:3371/udp/239.1.9.45:1234
+http://31.128.153.39:3371/udp/239.1.9.45:1234
 #EXTINF:-1,Подмосковье HD
-http://31.128.137.64:3371/udp/239.1.9.46:1234
+http://31.128.153.39:3371/udp/239.1.9.46:1234
 #EXTINF:-1,Мир увлечений
-http://31.128.137.64:3371/udp/239.1.9.47:1234
+http://31.128.153.39:3371/udp/239.1.9.47:1234
 #EXTINF:-1,RT Doc HD
-http://31.128.137.64:3371/udp/239.1.9.48:1234
+http://31.128.153.39:3371/udp/239.1.9.48:1234
 #EXTINF:-1,Мир HD
-http://31.128.137.64:3371/udp/239.1.9.49:1234
+http://31.128.153.39:3371/udp/239.1.9.49:1234
 #EXTINF:-1,РБК
-http://31.128.137.64:3371/udp/239.1.9.50:1234
+http://31.128.153.39:3371/udp/239.1.9.50:1234
 #EXTINF:-1,Че
-http://31.128.137.64:3371/udp/239.1.9.77:1234
+http://31.128.153.39:3371/udp/239.1.9.77:1234
 #EXTINF:-1,2х2
-http://31.128.137.64:3371/udp/239.1.10.1:1234
+http://31.128.153.39:3371/udp/239.1.10.1:1234
 #EXTINF:-1,ТВ3
-http://31.128.137.64:3371/udp/239.1.10.2:1234
+http://31.128.153.39:3371/udp/239.1.10.2:1234
 #EXTINF:-1,ТНТ4
-http://31.128.137.64:3371/udp/239.1.10.3:1234
+http://31.128.153.39:3371/udp/239.1.10.3:1234
 #EXTINF:-1,Fox Life
-http://31.128.137.64:3371/udp/239.1.10.5:1234
+http://31.128.153.39:3371/udp/239.1.10.5:1234
 #EXTINF:-1,Fox
-http://31.128.137.64:3371/udp/239.1.10.6:1234
+http://31.128.153.39:3371/udp/239.1.10.6:1234
 #EXTINF:-1,SET
-http://31.128.137.64:3371/udp/239.1.10.7:1234
+http://31.128.153.39:3371/udp/239.1.10.7:1234
 #EXTINF:-1,Sony Sci-Fi
-http://31.128.137.64:3371/udp/239.1.10.8:1234
+http://31.128.153.39:3371/udp/239.1.10.8:1234
 #EXTINF:-1,Кинопоказ
-http://31.128.137.64:3371/udp/239.1.10.9:1234
+http://31.128.153.39:3371/udp/239.1.10.9:1234
 #EXTINF:-1,Страна
-http://31.128.137.64:3371/udp/239.1.10.10:1234
+http://31.128.153.39:3371/udp/239.1.10.10:1234
 #EXTINF:-1,Пятница
-http://31.128.137.64:3371/udp/239.1.10.11:1234
+http://31.128.153.39:3371/udp/239.1.10.11:1234
 #EXTINF:-1,Кухня ТВ
-http://31.128.137.64:3371/udp/239.1.10.12:1234
+http://31.128.153.39:3371/udp/239.1.10.12:1234
 #EXTINF:-1,Охотник и рыболов
-http://31.128.137.64:3371/udp/239.1.10.13:1234
+http://31.128.153.39:3371/udp/239.1.10.13:1234
 #EXTINF:-1,Авто плюс
-http://31.128.137.64:3371/udp/239.1.10.14:1234
+http://31.128.153.39:3371/udp/239.1.10.14:1234
 #EXTINF:-1,Матч! Арена HD
-http://31.128.137.64:3371/udp/239.1.10.15:1234
+http://31.128.153.39:3371/udp/239.1.10.15:1234
 #EXTINF:-1,Матч! Игра
-http://31.128.137.64:3371/udp/239.1.10.16:1234
+http://31.128.153.39:3371/udp/239.1.10.16:1234
 #EXTINF:-1,Тлум HD
-http://31.128.137.64:3371/udp/239.1.10.17:1234
+http://31.128.153.39:3371/udp/239.1.10.17:1234
 #EXTINF:-1,Game Show
-http://31.128.137.64:3371/udp/239.1.10.18:1234
+http://31.128.153.39:3371/udp/239.1.10.18:1234
 #EXTINF:-1,RTG HD
-http://31.128.137.64:3371/udp/239.1.10.20:1234
+http://31.128.153.39:3371/udp/239.1.10.20:1234
 #EXTINF:-1,Матч! Боец
-http://31.128.137.64:3371/udp/239.1.10.22:1234
+http://31.128.153.39:3371/udp/239.1.10.22:1234
 #EXTINF:-1,RTG
-http://31.128.137.64:3371/udp/239.1.10.23:1234
+http://31.128.153.39:3371/udp/239.1.10.23:1234
 #EXTINF:-1,Загородный
-http://31.128.137.64:3371/udp/239.1.10.24:1234
+http://31.128.153.39:3371/udp/239.1.10.24:1234
 #EXTINF:-1,Zoo TV
-http://31.128.137.64:3371/udp/239.1.10.25:1234
+http://31.128.153.39:3371/udp/239.1.10.25:1234
 #EXTINF:-1,Телепутешествия
-http://31.128.137.64:3371/udp/239.1.10.26:1234
+http://31.128.153.39:3371/udp/239.1.10.26:1234
 #EXTINF:-1,Моя планета
-http://31.128.137.64:3371/udp/239.1.10.27:1234
+http://31.128.153.39:3371/udp/239.1.10.27:1234
 #EXTINF:-1,Наука 2.0
-http://31.128.137.64:3371/udp/239.1.10.28:1234
+http://31.128.153.39:3371/udp/239.1.10.28:1234
 #EXTINF:-1,National Geographic
-http://31.128.137.64:3371/udp/239.1.10.29:1234
+http://31.128.153.39:3371/udp/239.1.10.29:1234
 #EXTINF:-1,Муз ТВ
-http://31.128.137.64:3371/udp/239.1.10.30:1234
+http://31.128.153.39:3371/udp/239.1.10.30:1234
 #EXTINF:-1,MTV Rocks
-http://31.128.137.64:3371/udp/239.1.10.31:1234
+http://31.128.153.39:3371/udp/239.1.10.31:1234
 #EXTINF:-1,VH-1
-http://31.128.137.64:3371/udp/239.1.10.32:1234
+http://31.128.153.39:3371/udp/239.1.10.32:1234
 #EXTINF:-1,Paramount Comedy
-http://31.128.137.64:3371/udp/239.1.10.33:1234
+http://31.128.153.39:3371/udp/239.1.10.33:1234
 #EXTINF:-1,Dange TV
-http://31.128.137.64:3371/udp/239.1.10.34:1234
+http://31.128.153.39:3371/udp/239.1.10.34:1234
 #EXTINF:-1,Мульт
-http://31.128.137.64:3371/udp/239.1.10.35:1234
+http://31.128.153.39:3371/udp/239.1.10.35:1234
 #EXTINF:-1,RU TV
-http://31.128.137.64:3371/udp/239.1.10.37:1234
+http://31.128.153.39:3371/udp/239.1.10.37:1234
 #EXTINF:-1,Discovery HD
-http://31.128.137.64:3371/udp/239.1.11.1:1234
+http://31.128.153.39:3371/udp/239.1.11.1:1234
 #EXTINF:-1,Discovery Science
-http://31.128.137.64:3371/udp/239.1.11.2:1234
+http://31.128.153.39:3371/udp/239.1.11.2:1234
 #EXTINF:-1,Animal Planet HD
-http://31.128.137.64:3371/udp/239.1.11.3:1234
+http://31.128.153.39:3371/udp/239.1.11.3:1234
 #EXTINF:-1,TLC HD
-http://31.128.137.64:3371/udp/239.1.11.4:1234
+http://31.128.153.39:3371/udp/239.1.11.4:1234
 #EXTINF:-1,ID Xtra
-http://31.128.137.64:3371/udp/239.1.11.5:1234
+http://31.128.153.39:3371/udp/239.1.11.5:1234
 #EXTINF:-1,DTX
-http://31.128.137.64:3371/udp/239.1.11.6:1234
+http://31.128.153.39:3371/udp/239.1.11.6:1234
 #EXTINF:-1,Русский детектив
-http://31.128.137.64:3371/udp/239.1.11.12:1234
+http://31.128.153.39:3371/udp/239.1.11.12:1234
 #EXTINF:-1,Русский роман
-http://31.128.137.64:3371/udp/239.1.11.14:1234
+http://31.128.153.39:3371/udp/239.1.11.14:1234
 #EXTINF:-1,Бойцовский клуб
-http://31.128.137.64:3371/udp/239.1.11.15:1234
+http://31.128.153.39:3371/udp/239.1.11.15:1234
 #EXTINF:-1,Русский бестселлер
-http://31.128.137.64:3371/udp/239.1.11.16:1234
+http://31.128.153.39:3371/udp/239.1.11.16:1234
 #EXTINF:-1,Amedia Premium HD
-http://31.128.137.64:3371/udp/239.1.11.17:1234
+http://31.128.153.39:3371/udp/239.1.11.17:1234
 #EXTINF:-1,Amedia l
-http://31.128.137.64:3371/udp/239.1.11.18:1234
+http://31.128.153.39:3371/udp/239.1.11.18:1234
 #EXTINF:-1,Живая природа HD
-http://31.128.137.64:3371/udp/239.1.11.20:1234
+http://31.128.153.39:3371/udp/239.1.11.20:1234
 #EXTINF:-1,Nat Geo Wild HD
-http://31.128.137.64:3371/udp/239.1.11.26:1234
+http://31.128.153.39:3371/udp/239.1.11.26:1234
 #EXTINF:-1,Nat Geo Wild
-http://31.128.137.64:3371/udp/239.1.11.27:1234
+http://31.128.153.39:3371/udp/239.1.11.27:1234
 #EXTINF:-1,Беларусь 24
-http://31.128.137.64:3371/udp/239.1.11.28:1234
+http://31.128.153.39:3371/udp/239.1.11.28:1234
 #EXTINF:-1,Мама
-http://31.128.137.64:3371/udp/239.1.11.29:1234
+http://31.128.153.39:3371/udp/239.1.11.29:1234
 #EXTINF:-1,КХЛ HD
-http://31.128.137.64:3371/udp/239.1.11.30:1234
+http://31.128.153.39:3371/udp/239.1.11.30:1234
 #EXTINF:-1,IQ HD
-http://31.128.137.64:3371/udp/239.1.11.31:1234
+http://31.128.153.39:3371/udp/239.1.11.31:1234
 #EXTINF:-1,Сарафан
-http://31.128.137.64:3371/udp/239.1.11.32:1234
+http://31.128.153.39:3371/udp/239.1.11.32:1234
 #EXTINF:-1,Живая планета
-http://31.128.137.64:3371/udp/239.1.11.33:1234
+http://31.128.153.39:3371/udp/239.1.11.33:1234
 #EXTINF:-1,Кино ТВ
-http://31.128.137.64:3371/udp/239.1.11.34:1234
+http://31.128.153.39:3371/udp/239.1.11.34:1234
 #EXTINF:-1,24 Док
-http://31.128.137.64:3371/udp/239.1.11.35:1234
+http://31.128.153.39:3371/udp/239.1.11.35:1234
 #EXTINF:-1,Т24
-http://31.128.137.64:3371/udp/239.1.11.36:1234
+http://31.128.153.39:3371/udp/239.1.11.36:1234
 #EXTINF:-1,НСТ
-http://31.128.137.64:3371/udp/239.1.11.37:1234
+http://31.128.153.39:3371/udp/239.1.11.37:1234
 #EXTINF:-1,Русский экстрим
-http://31.128.137.64:3371/udp/239.1.11.38:1234
+http://31.128.153.39:3371/udp/239.1.11.38:1234
 #EXTINF:-1,Матч TB HD
-http://31.128.137.64:3371/udp/239.1.11.39:1234
+http://31.128.153.39:3371/udp/239.1.11.39:1234
 #EXTINF:-1,National Geographic HD
-http://31.128.137.64:3371/udp/239.1.11.50:1234
+http://31.128.153.39:3371/udp/239.1.11.50:1234
 #EXTINF:-1,Fox Life HD
-http://31.128.137.64:3371/udp/239.1.11.51:1234
+http://31.128.153.39:3371/udp/239.1.11.51:1234
 #EXTINF:-1,Fox HD
-http://31.128.137.64:3371/udp/239.1.11.52:1234
+http://31.128.153.39:3371/udp/239.1.11.52:1234
 #EXTINF:-1,Наш футбол HD
-http://31.128.137.64:3371/udp/239.1.11.54:1234
+http://31.128.153.39:3371/udp/239.1.11.54:1234
 #EXTINF:-1,Top Shop TV
-http://31.128.137.64:3371/udp/239.1.12.4:1234
+http://31.128.153.39:3371/udp/239.1.12.4:1234
 #EXTINF:-1,Кино плюс
-http://31.128.137.64:3371/udp/239.1.12.11:1234
+http://31.128.153.39:3371/udp/239.1.12.11:1234
 #EXTINF:-1,Матч! Футбол 1 HD
-http://31.128.137.64:3371/udp/239.1.12.16:1234
+http://31.128.153.39:3371/udp/239.1.12.16:1234
 #EXTINF:-1,Матч! Футбол 2 HD
-http://31.128.137.64:3371/udp/239.1.12.17:1234
+http://31.128.153.39:3371/udp/239.1.12.17:1234
 #EXTINF:-1,Матч! Футбол 3 HD
-http://31.128.137.64:3371/udp/239.1.12.18:1234
+http://31.128.153.39:3371/udp/239.1.12.18:1234
 #EXTINF:-1,Eurosport HD
-http://31.128.137.64:3371/udp/239.1.13.1:1234
+http://31.128.153.39:3371/udp/239.1.13.1:1234
 #EXTINF:-1,Eurosport 2 HD
-http://31.128.137.64:3371/udp/239.1.13.2:1234
+http://31.128.153.39:3371/udp/239.1.13.2:1234
+#EXTINF:-1,Русская ночь
+http://31.128.153.39:3371/udp/239.1.11.53:1234
+#EXTINF:-1,French Lover
+http://31.128.153.39:3371/udp/239.1.13.4:1234
