@@ -1,365 +1,367 @@
 ﻿#EXTM3U
-#EXTINF:-1 radio="False" tvg-shift=0 group-title="ЕФИРНИ" tvg-logo="bnt1_hd" tvg-id="BNT1",БНТ 1 HD
-http://lb-m.iptv.bulsat.com:1935/redirect/bnt/bnt1_hd-med.stream?scheme=m3u8&bulsatCustomParameter=134076_3009630_134076_NULL_samsungtv_750303c31e92859a73790e78d0bfba22_&bulsatendtime=1491544481&bulsatstarttime=1491508181&bulsathash=EmTxh83e2XRka8YOSKktIakULFz_eobzL6KTEWFtIQc=
-#EXTINF:-1 radio="False" tvg-shift=0 group-title="ЕФИРНИ" tvg-logo="btv" tvg-id="bTV",bTV HD
-http://lb-m.iptv.bulsat.com:1935/redirect/btv/btv-med.stream?scheme=m3u8&bulsatCustomParameter=134076_3009630_134076_NULL_samsungtv_750303c31e92859a73790e78d0bfba22_&bulsatendtime=1491544481&bulsatstarttime=1491508181&bulsathash=5zG-vs9TYRdm5B4Rmbi_xtJkGXfZBSYVfsS3XFWmLzY=
-#EXTINF:-1 radio="False" tvg-shift=0 group-title="ЕФИРНИ" tvg-logo="novatv" tvg-id="Nova",Nova TV
-http://lb-m.iptv.bulsat.com:1935/redirect/nova/novatv-med.stream?scheme=m3u8&bulsatCustomParameter=134076_3009630_134076_NULL_samsungtv_750303c31e92859a73790e78d0bfba22_&bulsatendtime=1491544481&bulsatstarttime=1491508181&bulsathash=HuFu5U2xsahR0OczvY9g0wWQImlPxAMU7h04bjNrW84=
-#EXTINF:-1 radio="False" tvg-shift=0 group-title="ЕФИРНИ" tvg-logo="tvplus" tvg-id="TVPlus",TV+
-http://lb-m.iptv.bulsat.com:1935/redirect/tv6/tvplus-med.stream?scheme=m3u8&bulsatCustomParameter=134076_3009630_134076_NULL_samsungtv_750303c31e92859a73790e78d0bfba22_&bulsatendtime=1491544481&bulsatstarttime=1491508181&bulsathash=BfZyslP5QzhtY5Vid8JmVcydX-jEwCC66aAvMrmMRiQ=
-#EXTINF:-1 radio="False" tvg-shift=0 group-title="ЕФИРНИ" tvg-logo="bnt2" tvg-id="BNT2",БНТ 2
-http://lb-m.iptv.bulsat.com:1935/redirect/bnt/bnt2-med.stream?scheme=m3u8&bulsatCustomParameter=134076_3009630_134076_NULL_samsungtv_750303c31e92859a73790e78d0bfba22_&bulsatendtime=1491544481&bulsatstarttime=1491508181&bulsathash=sB18JsqPwdSv5CggtaMxyXYdK8ShX4K7jYsMiwyPygA=
-#EXTINF:-1 radio="False" tvg-shift=0 group-title="ЕФИРНИ" tvg-logo="bntworld" tvg-id="BNTWorld",BNT world
-http://lb-m.iptv.bulsat.com:1935/redirect/bnt/bntworld-med.stream?scheme=m3u8&bulsatCustomParameter=134076_3009630_134076_NULL_samsungtv_750303c31e92859a73790e78d0bfba22_&bulsatendtime=1491544481&bulsatstarttime=1491508181&bulsathash=bRc3LqKbaMefkUrM3LroRiBg3li79QYUcz-Pr4EgU2E=
-#EXTINF:-1 radio="False" tvg-shift=0 group-title="ЕФИРНИ" tvg-logo="bit" tvg-id="BiT",BiT
-http://lb-m.iptv.bulsat.com:1935/redirect/tv4/bit-med.stream?scheme=m3u8&bulsatCustomParameter=134076_3009630_134076_NULL_samsungtv_750303c31e92859a73790e78d0bfba22_&bulsatendtime=1491544481&bulsatstarttime=1491508181&bulsathash=uOnUgObK-3zJHKnEh6dNf87quntzdpoXFPPB3ih2PQw=
-#EXTINF:-1 radio="False" tvg-shift=0 group-title="ЕФИРНИ" tvg-logo="tvevropa" tvg-id="tveurope",ТВ Европа
-http://lb-m.iptv.bulsat.com:1935/redirect/tv2/tvevropa-med.stream?scheme=m3u8&bulsatCustomParameter=134076_3009630_134076_NULL_samsungtv_750303c31e92859a73790e78d0bfba22_&bulsatendtime=1491544481&bulsatstarttime=1491508181&bulsathash=xGVAIaki67zovkKa3QUFhUg6NUzcy2nZJCh_glZgr5Q=
-#EXTINF:-1 radio="False" tvg-shift=0 group-title="ЕФИРНИ" tvg-logo="bnt_hd" tvg-id="BNTHD",БНТ HD
-http://lb-m.iptv.bulsat.com:1935/redirect/sport1/bnt_hd-med.stream?scheme=m3u8&bulsatCustomParameter=134076_3009630_134076_NULL_samsungtv_750303c31e92859a73790e78d0bfba22_&bulsatendtime=1491544481&bulsatstarttime=1491508181&bulsathash=HA89qKw1sqCR_Ak1gPmnHhUIp340zdVRHd2XOmw2fFA=
-#EXTINF:-1 radio="False" tvg-shift=0 group-title="ЕФИРНИ" tvg-logo="kanal_3" tvg-id="Kanal3",Kanal 3
-http://lb-m.iptv.bulsat.com:1935/redirect/tv7/kanal_3-med.stream?scheme=m3u8&bulsatCustomParameter=134076_3009630_134076_NULL_samsungtv_750303c31e92859a73790e78d0bfba22_&bulsatendtime=1491544481&bulsatstarttime=1491508181&bulsathash=-oU87Bqq2MzYkYSe1bwMzKnU282hqppPkDr071t5F3M=
-#EXTINF:-1 radio="False" tvg-shift=0 group-title="ЕФИРНИ" tvg-logo="skat" tvg-id="Skat",Skat
-http://lb-m.iptv.bulsat.com:1935/redirect/tv7/skat-med.stream?scheme=m3u8&bulsatCustomParameter=134076_3009630_134076_NULL_samsungtv_750303c31e92859a73790e78d0bfba22_&bulsatendtime=1491544481&bulsatstarttime=1491508181&bulsathash=MuPBln5kTOzFHFKZ-6NatIHoXmwN-T6nlzTrDQYTPN4=
-#EXTINF:-1 radio="False" tvg-shift=0 group-title="ЕФИРНИ" tvg-logo="alfa" tvg-id="Alfa",Alfa
-http://lb-m.iptv.bulsat.com:1935/redirect/tv6/alfa-med.stream?scheme=m3u8&bulsatCustomParameter=134076_3009630_134076_NULL_samsungtv_750303c31e92859a73790e78d0bfba22_&bulsatendtime=1491544481&bulsatstarttime=1491508181&bulsathash=sOoTbLroe_JXRufUP3gfRJyzxEtFH4N3FqbDpEMffeo=
-#EXTINF:-1 radio="False" tvg-shift=0 group-title="ЕФИРНИ" tvg-logo="bulgaria_on_air" tvg-id="BulgariaOnAir",Bulgaria ON Air
-http://lb-m.iptv.bulsat.com:1935/redirect/tv8/bulgaria_on_air-med.stream?scheme=m3u8&bulsatCustomParameter=134076_3009630_134076_NULL_samsungtv_750303c31e92859a73790e78d0bfba22_&bulsatendtime=1491544481&bulsatstarttime=1491508181&bulsathash=Sgdk75bSRzuB-4IKcPFxULatWnakn3ZUclczgoHK1x0=
-#EXTINF:-1 radio="False" tvg-shift=0 group-title="ЕФИРНИ" tvg-logo="evrokom" tvg-id="Eurocom",Evrokom
-http://lb-m.iptv.bulsat.com:1935/redirect/tv2/evrokom-med.stream?scheme=m3u8&bulsatCustomParameter=134076_3009630_134076_NULL_samsungtv_750303c31e92859a73790e78d0bfba22_&bulsatendtime=1491544481&bulsatstarttime=1491508181&bulsathash=tQkFjmO-AIsa-OUO4skKgNSm3D4w2JtUR9TOEDGeDQY=
-#EXTINF:-1 radio="False" tvg-shift=0 group-title="ЕФИРНИ" tvg-logo="bulgaria24" tvg-id="news",Bulgaria 24
-http://lb-m.iptv.bulsat.com:1935/redirect/tv2/bulgaria24-med.stream?scheme=m3u8&bulsatCustomParameter=134076_3009630_134076_NULL_samsungtv_750303c31e92859a73790e78d0bfba22_&bulsatendtime=1491544481&bulsatstarttime=1491508181&bulsathash=a1R2OS083X1y3xzw03MJOCCVA7BhpbyRJenGtsGYnAw=
-#EXTINF:-1 radio="False" tvg-shift=0 group-title="Спортни" tvg-logo="diema" tvg-id="Diema",Diema
-http://lb-m.iptv.bulsat.com:1935/redirect/nova/diema-med.stream?scheme=m3u8&bulsatCustomParameter=134076_3009630_134076_NULL_samsungtv_750303c31e92859a73790e78d0bfba22_&bulsatendtime=1491544481&bulsatstarttime=1491508181&bulsathash=0I6cCV_OcGTQm4isvfXUuC2v0fPRWBlO7fTGoVToBEY=
-#EXTINF:-1 radio="False" tvg-shift=0 group-title="Спортни" tvg-logo="eurosport" tvg-id="Eurosport1",Eurosport
-http://lb-m.iptv.bulsat.com:1935/redirect/sport3/eurosport-med.stream?scheme=m3u8&bulsatCustomParameter=134076_3009630_134076_NULL_samsungtv_750303c31e92859a73790e78d0bfba22_&bulsatendtime=1491544481&bulsatstarttime=1491508181&bulsathash=TKUFGqykE-QOGVrW0y-Mb2VgcIUnHuvMitsK5lqSJtE=
-#EXTINF:-1 radio="False" tvg-shift=0 group-title="Спортни" tvg-logo="eurosport2" tvg-id="Eurosport2",Eurosport 2 HD
-http://lb-m.iptv.bulsat.com:1935/redirect/sport4/eurosport2-med.stream?scheme=m3u8&bulsatCustomParameter=134076_3009630_134076_NULL_samsungtv_750303c31e92859a73790e78d0bfba22_&bulsatendtime=1491544481&bulsatstarttime=1491508181&bulsathash=aNUTm1G3oCZVlZQOKkRXvVitkQKKo2cNDfJD8W_2poY=
-#EXTINF:-1 radio="False" tvg-shift=0 group-title="Спортни" tvg-logo="btv_action" tvg-id="bTVAction",bTV Action
-http://lb-m.iptv.bulsat.com:1935/redirect/sport1/btv_action-med.stream?scheme=m3u8&bulsatCustomParameter=134076_3009630_134076_NULL_samsungtv_750303c31e92859a73790e78d0bfba22_&bulsatendtime=1491544481&bulsatstarttime=1491508181&bulsathash=3QUM5xqojYpgqxIbQItBvrorXTuKWCoo7N2URzTtQMU=
-#EXTINF:-1 radio="False" tvg-shift=0 group-title="Спортни" tvg-logo="ringbg" tvg-id="RING",Ring HD
-http://lb-m.iptv.bulsat.com:1935/redirect/sport1/ringbg-med.stream?scheme=m3u8&bulsatCustomParameter=134076_3009630_134076_NULL_samsungtv_750303c31e92859a73790e78d0bfba22_&bulsatendtime=1491544481&bulsatstarttime=1491508181&bulsathash=5wBVRaYUdi2MxQ6KR5VjNEef0Hq1H5nj1VNRdRCLY-c=
-#EXTINF:-1 radio="False" tvg-shift=0 group-title="Спортни" tvg-logo="novasporthd" tvg-id="NovaSport",Nova Sport HD
-http://lb-m.iptv.bulsat.com:1935/redirect/sport2/novasporthd-med.stream?scheme=m3u8&bulsatCustomParameter=134076_3009630_134076_NULL_samsungtv_750303c31e92859a73790e78d0bfba22_&bulsatendtime=1491544481&bulsatstarttime=1491508181&bulsathash=JlF7aP8QgtuMj7KJnFJkzipsGXRPD0lIPfMPXV99VSc=
-#EXTINF:-1 radio="False" tvg-shift=0 group-title="Спортни" tvg-logo="sportaltv" tvg-id="sportaltv",Sportal HD
-http://lb-m.iptv.bulsat.com:1935/redirect/tv4/sportaltv-med.stream?scheme=m3u8&bulsatCustomParameter=134076_3009630_134076_NULL_samsungtv_750303c31e92859a73790e78d0bfba22_&bulsatendtime=1491544481&bulsatstarttime=1491508181&bulsathash=fT9A477ERYnSwrpFNWoAVthj-DChdMi4IP-tGIbXxTE=
-#EXTINF:-1 radio="False" tvg-shift=0 group-title="Спортни" tvg-logo="avto_moto_bg_hd" tvg-id="MotoSportHD",Мотоспорт HD
-http://lb-m.iptv.bulsat.com:1935/redirect/tv2/avto_moto_bg_hd-med.stream?scheme=m3u8&bulsatCustomParameter=134076_3009630_134076_NULL_samsungtv_750303c31e92859a73790e78d0bfba22_&bulsatendtime=1491544481&bulsatstarttime=1491508181&bulsathash=s5zsIx3iNR_558UatmHofJ1DwH4tETPvrWt8pxkkiGs=
-#EXTINF:-1 radio="False" tvg-shift=0 group-title="Научни" tvg-logo="discovery" tvg-id="Discovery",Discovery channel
-http://lb-m.iptv.bulsat.com:1935/redirect/tv6/discovery-med.stream?scheme=m3u8&bulsatCustomParameter=134076_3009630_134076_NULL_samsungtv_750303c31e92859a73790e78d0bfba22_&bulsatendtime=1491544481&bulsatstarttime=1491508181&bulsathash=sCMNVr32qsDF6FM1VxS1nVfXJ7zwnm2nNfX4tGnqFlo=
-#EXTINF:-1 radio="False" tvg-shift=0 group-title="Научни" tvg-logo="discovery_science" tvg-id="DiscoveryScience",Science
-http://lb-m.iptv.bulsat.com:1935/redirect/tv9/discovery_science-med.stream?scheme=m3u8&bulsatCustomParameter=134076_3009630_134076_NULL_samsungtv_750303c31e92859a73790e78d0bfba22_&bulsatendtime=1491544481&bulsatstarttime=1491508181&bulsathash=iP_-dXUKEpc6w50Yqgc-6rP6AF0fbIojmwd3-WdLN84=
-#EXTINF:-1 radio="False" tvg-shift=0 group-title="Научни" tvg-logo="discovery_world" tvg-id="DiscoveryWorld",Discovery World
-http://lb-m.iptv.bulsat.com:1935/redirect/tv9/discovery_world-med.stream?scheme=m3u8&bulsatCustomParameter=134076_3009630_134076_NULL_samsungtv_750303c31e92859a73790e78d0bfba22_&bulsatendtime=1491544481&bulsatstarttime=1491508181&bulsathash=PSOEtmf-H7Ycn9XcjSWGlMyYs-UidkuFQ17I256ktl8=
-#EXTINF:-1 radio="False" tvg-shift=0 group-title="Научни" tvg-logo="nat_geo_hd" tvg-id="NatGeo",NGC HD
-http://lb-m.iptv.bulsat.com:1935/redirect/tv6/nat_geo_hd-med.stream?scheme=m3u8&bulsatCustomParameter=134076_3009630_134076_NULL_samsungtv_750303c31e92859a73790e78d0bfba22_&bulsatendtime=1491544481&bulsatstarttime=1491508181&bulsathash=Lse63u8UvsRua8HoaEDnKvo6-zeWm8aGK3LN4jRCjjI=
-#EXTINF:-1 radio="False" tvg-shift=0 group-title="Научни" tvg-logo="nat_geo_wild" tvg-id="NatGeoWild",National Geogrphic WILD HD
-http://lb-m.iptv.bulsat.com:1935/redirect/tv6/nat_geo_wild-med.stream?scheme=m3u8&bulsatCustomParameter=134076_3009630_134076_NULL_samsungtv_750303c31e92859a73790e78d0bfba22_&bulsatendtime=1491544481&bulsatstarttime=1491508181&bulsathash=cjbk4ayFw_FzJtt3FM5ixKWDsy-nDMBVBtdgdtrBdg0=
-#EXTINF:-1 radio="False" tvg-shift=0 group-title="Научни" tvg-logo="ot_blizo__hd" tvg-id="OtBlizoHD",От близо HD
-http://lb-m.iptv.bulsat.com:1935/redirect/tv2/ot_blizo__hd-med.stream?scheme=m3u8&bulsatCustomParameter=134076_3009630_134076_NULL_samsungtv_750303c31e92859a73790e78d0bfba22_&bulsatendtime=1491544481&bulsatstarttime=1491508181&bulsathash=dWpCWGAe0PPkx96hwCddhhrupxZIbmyq0uWt-Y9a1MI=
-#EXTINF:-1 radio="False" tvg-shift=0 group-title="Научни" tvg-logo="destination_bg_hd" tvg-id="DestinationBG",Destination BG HD
-http://lb-m.iptv.bulsat.com:1935/redirect/tv10/destination_bg_hd-med.stream?scheme=m3u8&bulsatCustomParameter=134076_3009630_134076_NULL_samsungtv_750303c31e92859a73790e78d0bfba22_&bulsatendtime=1491544481&bulsatstarttime=1491508181&bulsathash=242kCokUdFIa0EhI3w87z0ggKG2UrOK7hX8sAxGugSo=
-#EXTINF:-1 radio="False" tvg-shift=0 group-title="Научни" tvg-logo="bul_hist_hd" tvg-id="BulHistory",Българска история HD
-http://lb-m.iptv.bulsat.com:1935/redirect/tv2/bul_hist_hd-med.stream?scheme=m3u8&bulsatCustomParameter=134076_3009630_134076_NULL_samsungtv_750303c31e92859a73790e78d0bfba22_&bulsatendtime=1491544481&bulsatstarttime=1491508181&bulsathash=IU1KuqGp5N_AVMIGLRprwmEB12USz2yAn5crKzBPZOo=
-#EXTINF:-1 radio="False" tvg-shift=0 group-title="Научни" tvg-logo="history_channel_hd" tvg-id="History",History Channel HD
-http://lb-m.iptv.bulsat.com:1935/redirect/tv7/history_channel_hd-med.stream?scheme=m3u8&bulsatCustomParameter=134076_3009630_134076_NULL_samsungtv_750303c31e92859a73790e78d0bfba22_&bulsatendtime=1491544481&bulsatstarttime=1491508181&bulsathash=ekfh73jz-ONKXSKfn_Or7HrRns9bTh_Eisu9cCG4F8s=
-#EXTINF:-1 radio="False" tvg-shift=0 group-title="Научни" tvg-logo="travel_channel" tvg-id="TravelChannel",Travel Channel
-http://lb-m.iptv.bulsat.com:1935/redirect/tv9/travel_channel-med.stream?scheme=m3u8&bulsatCustomParameter=134076_3009630_134076_NULL_samsungtv_750303c31e92859a73790e78d0bfba22_&bulsatendtime=1491544481&bulsatstarttime=1491508181&bulsathash=_Dp5Q6Y93IfdunAEnyXrYgJLzPDoDttVFoHlBeeywZA=
-#EXTINF:-1 radio="False" tvg-shift=0 group-title="Научни" tvg-logo="travel_tv_hd" tvg-id="TravelHD",Travel TV HD
-http://lb-m.iptv.bulsat.com:1935/redirect/tv9/travel_tv_hd-med.stream?scheme=m3u8&bulsatCustomParameter=134076_3009630_134076_NULL_samsungtv_750303c31e92859a73790e78d0bfba22_&bulsatendtime=1491544481&bulsatstarttime=1491508181&bulsathash=HjVdjDIjcHtGB7guUnxbfQM15hgY9gHxayaigxsPnqg=
-#EXTINF:-1 radio="False" tvg-shift=0 group-title="Научни" tvg-logo="travel_tv" tvg-id="travel_tv",Travel TV
-http://lb-m.iptv.bulsat.com:1935/redirect/tv9/travel_tv-med.stream?scheme=m3u8&bulsatCustomParameter=134076_3009630_134076_NULL_samsungtv_750303c31e92859a73790e78d0bfba22_&bulsatendtime=1491544481&bulsatstarttime=1491508181&bulsathash=pGkRhl1G12CpgDcN7lPnSgeEcOB-HU4f2JpwPHmUr4I=
-#EXTINF:-1 radio="False" tvg-shift=0 group-title="Научни" tvg-logo="tlc" tvg-id="TLC",TLC
-http://lb-m.iptv.bulsat.com:1935/redirect/tv8/tlc-med.stream?scheme=m3u8&bulsatCustomParameter=134076_3009630_134076_NULL_samsungtv_750303c31e92859a73790e78d0bfba22_&bulsatendtime=1491544481&bulsatstarttime=1491508181&bulsathash=55ed9JaNkdR_wnRkk94-h_dJIjAFHAqPhmaFHeUaMpg=
-#EXTINF:-1 radio="False" tvg-shift=0 group-title="Научни" tvg-logo="fine_living" tvg-id="FineLiving",Fine Living
-http://lb-m.iptv.bulsat.com:1935/redirect/tv1/fine_living-med.stream?scheme=m3u8&bulsatCustomParameter=134076_3009630_134076_NULL_samsungtv_750303c31e92859a73790e78d0bfba22_&bulsatendtime=1491544481&bulsatstarttime=1491508181&bulsathash=NjIIEAwj2H6Httq2QzntTiqP25-tyTS95QqsShsZSAc=
-#EXTINF:-1 radio="False" tvg-shift=0 group-title="Научни" tvg-logo="in_kitchen_hd" tvg-id="in_kitchen_hd",Хайде в кухнята HD
-http://lb-m.iptv.bulsat.com:1935/redirect/tv10/in_kitchen_hd-med.stream?scheme=m3u8&bulsatCustomParameter=134076_3009630_134076_NULL_samsungtv_750303c31e92859a73790e78d0bfba22_&bulsatendtime=1491544481&bulsatstarttime=1491508181&bulsathash=qLEYFhARAq2OKUP2eegAcDp1slISofss1TSyTbKmRow=
-#EXTINF:-1 radio="False" tvg-shift=0 group-title="Научни" tvg-logo="24_kitchen" tvg-id="24kitchen",24 Kitchen
-http://lb-m.iptv.bulsat.com:1935/redirect/tv4/24_kitchen-med.stream?scheme=m3u8&bulsatCustomParameter=134076_3009630_134076_NULL_samsungtv_750303c31e92859a73790e78d0bfba22_&bulsatendtime=1491544481&bulsatstarttime=1491508181&bulsathash=g_UlkZtmB1JX83EdoaUvmh6VQn7no5chuYqPZBOhOhQ=
-#EXTINF:-1 radio="False" tvg-shift=0 group-title="Научни" tvg-logo="wness_tv" tvg-id="wness_tv",WNESS TV HD
-http://lb-m.iptv.bulsat.com:1935/redirect/tv4/wness_tv-med.stream?scheme=m3u8&bulsatCustomParameter=134076_3009630_134076_NULL_samsungtv_750303c31e92859a73790e78d0bfba22_&bulsatendtime=1491544481&bulsatstarttime=1491508181&bulsathash=xNERvmCXI73w6f0EnSXbqnLm3LmKTel-m-XMr8B8cEQ=
-#EXTINF:-1 radio="False" tvg-shift=0 group-title="Научни" tvg-logo="viasat_history" tvg-id="ViasatHistory",Viasat History
-http://lb-m.iptv.bulsat.com:1935/redirect/tv/viasat_history-med.stream?scheme=m3u8&bulsatCustomParameter=134076_3009630_134076_NULL_samsungtv_750303c31e92859a73790e78d0bfba22_&bulsatendtime=1491544481&bulsatstarttime=1491508181&bulsathash=FBaEVPNjGP3PmeNueR-qilCIe20pFUsA5QOxnH4ox6A=
-#EXTINF:-1 radio="False" tvg-shift=0 group-title="Научни" tvg-logo="viasat_explorer" tvg-id="ViasatExplorer",Viasat Explorer
-http://lb-m.iptv.bulsat.com:1935/redirect/tv10/viasat_explorer-med.stream?scheme=m3u8&bulsatCustomParameter=134076_3009630_134076_NULL_samsungtv_750303c31e92859a73790e78d0bfba22_&bulsatendtime=1491544481&bulsatstarttime=1491508181&bulsathash=-hWWYvHsVrgczEvXibfWFms45A5mCglJY3DSz2OaggA=
-#EXTINF:-1 radio="False" tvg-shift=0 group-title="Научни" tvg-logo="viasat_nature" tvg-id="ViasatNature",Viasat Nature
-http://lb-m.iptv.bulsat.com:1935/redirect/tv/viasat_nature-med.stream?scheme=m3u8&bulsatCustomParameter=134076_3009630_134076_NULL_samsungtv_750303c31e92859a73790e78d0bfba22_&bulsatendtime=1491544481&bulsatstarttime=1491508181&bulsathash=wZp7-_gtX3KDrtIKcOmy26UMQCVivz8TZjmJNR5iAlk=
-#EXTINF:-1 radio="False" tvg-shift=0 group-title="Научни" tvg-logo="da_vinci_learning" tvg-id="DaVinciLearning",Da Vinci Learning
-http://lb-m.iptv.bulsat.com:1935/redirect/tv35/da_vinci_learning-med.stream?scheme=m3u8&bulsatCustomParameter=134076_3009630_134076_NULL_samsungtv_750303c31e92859a73790e78d0bfba22_&bulsatendtime=1491544481&bulsatstarttime=1491508181&bulsathash=ZytodT8G38z6aTKQbdN0iVSWmq9nRNOnMlFXLRLPJnM=
-#EXTINF:-1 radio="False" tvg-shift=0 group-title="Научни" tvg-logo="agro_tv_hd" tvg-id="agroTV",Agro TV
-http://lb-m.iptv.bulsat.com:1935/redirect/tv5/agro_tv_hd-med.stream?scheme=m3u8&bulsatCustomParameter=134076_3009630_134076_NULL_samsungtv_750303c31e92859a73790e78d0bfba22_&bulsatendtime=1491544481&bulsatstarttime=1491508181&bulsathash=k3_qMrAAF9c6x6OYsZAxi3yZC7nTJ1EvGk2hdH1PG1U=
-#EXTINF:-1 radio="False" tvg-shift=0 group-title="Научни" tvg-logo="tvt" tvg-id="tvt",TVT
-http://lb-m.iptv.bulsat.com:1935/redirect/tv11/tvt-med.stream?scheme=m3u8&bulsatCustomParameter=134076_3009630_134076_NULL_samsungtv_750303c31e92859a73790e78d0bfba22_&bulsatendtime=1491544481&bulsatstarttime=1491508181&bulsathash=7F3hwZJy8CZkwizE0lFvwkGJYR3ou5Iocwcy6Z72CJE=
-#EXTINF:-1 radio="False" tvg-shift=0 group-title="Научни" tvg-logo="in_life_hd" tvg-id="in_life_hd",In LIFE TV
-http://lb-m.iptv.bulsat.com:1935/redirect/tv6/in_life_hd-med.stream?scheme=m3u8&bulsatCustomParameter=134076_3009630_134076_NULL_samsungtv_750303c31e92859a73790e78d0bfba22_&bulsatendtime=1491544481&bulsatstarttime=1491508181&bulsathash=X100bkU2kiCBWUaL4sjpDCxuTLFvZkheQKaNYIlOKPc=
-#EXTINF:-1 radio="False" tvg-shift=0 group-title="Филмови" tvg-logo="kinonova" tvg-id="KinoNova",KinoNova
-http://lb-m.iptv.bulsat.com:1935/redirect/nova/kinonova-med.stream?scheme=m3u8&bulsatCustomParameter=134076_3009630_134076_NULL_samsungtv_750303c31e92859a73790e78d0bfba22_&bulsatendtime=1491544481&bulsatstarttime=1491508181&bulsathash=qO9bUgU2H47dDZK_e2jQ-AZ4QUWBUvO0tyOdPWA_GKs=
-#EXTINF:-1 radio="False" tvg-shift=0 group-title="Филмови" tvg-logo="filmplus_hd" tvg-id="FilmPlus",Film + HD
-http://lb-m.iptv.bulsat.com:1935/redirect/tv/filmplus_hd-med.stream?scheme=m3u8&bulsatCustomParameter=134076_3009630_134076_NULL_samsungtv_750303c31e92859a73790e78d0bfba22_&bulsatendtime=1491544481&bulsatstarttime=1491508181&bulsathash=Rw4cXpuDm_VYIYmfrRFO6_u7xFyp8waYyYzF6EdkA48=
-#EXTINF:-1 radio="False" tvg-shift=0 group-title="Филмови" tvg-logo="btv_cinema" tvg-id="bTVCinema",bTV Cinema
-http://lb-m.iptv.bulsat.com:1935/redirect/btv/btv_cinema-med.stream?scheme=m3u8&bulsatCustomParameter=134076_3009630_134076_NULL_samsungtv_750303c31e92859a73790e78d0bfba22_&bulsatendtime=1491544481&bulsatstarttime=1491508181&bulsathash=P5UoqAhpvaWuIShgds00U0biU-2DgwT_fFuXeQ3k1zg=
-#EXTINF:-1 radio="False" tvg-shift=0 group-title="Филмови" tvg-logo="btv_comedy" tvg-id="bTVComedy",bTV Comedy
-http://lb-m.iptv.bulsat.com:1935/redirect/btv/btv_comedy-med.stream?scheme=m3u8&bulsatCustomParameter=134076_3009630_134076_NULL_samsungtv_750303c31e92859a73790e78d0bfba22_&bulsatendtime=1491544481&bulsatstarttime=1491508181&bulsathash=7VpX2BfmH4ZDZFLKwTyvyyqdGWHgNS0uWI-Py28aqLI=
-#EXTINF:-1 radio="False" tvg-shift=0 group-title="Филмови" tvg-logo="btv_lady" tvg-id="bTVLady",bTV Lady
-http://lb-m.iptv.bulsat.com:1935/redirect/btv/btv_lady-med.stream?scheme=m3u8&bulsatCustomParameter=134076_3009630_134076_NULL_samsungtv_750303c31e92859a73790e78d0bfba22_&bulsatendtime=1491544481&bulsatstarttime=1491508181&bulsathash=ZUQ_3XhET8olOOBWO9ybSOd0i_a9Dyt5G0auPBam1ZU=
-#EXTINF:-1 radio="False" tvg-shift=0 group-title="Филмови" tvg-logo="diema_family" tvg-id="DiemaFamily",Diema Family
-http://lb-m.iptv.bulsat.com:1935/redirect/nova/diema_family-med.stream?scheme=m3u8&bulsatCustomParameter=134076_3009630_134076_NULL_samsungtv_750303c31e92859a73790e78d0bfba22_&bulsatendtime=1491544481&bulsatstarttime=1491508181&bulsathash=B3dTKoKVan4zJQVnNMlFDYeR7GgfohZvD6c_UoqrgiI=
-#EXTINF:-1 radio="False" tvg-shift=0 group-title="Филмови" tvg-logo="fox" tvg-id="FOX",FOX
-http://lb-m.iptv.bulsat.com:1935/redirect/tv4/fox-high.stream?scheme=m3u8&bulsatCustomParameter=134076_3009630_134076_NULL_samsungtv_750303c31e92859a73790e78d0bfba22_&bulsatendtime=1491544481&bulsatstarttime=1491508181&bulsathash=YparkBLLgL2EEDtWbdI9ak72ShQodMJh6v9ndxpw8mk=
-#EXTINF:-1 radio="False" tvg-shift=0 group-title="Филмови" tvg-logo="fox_life" tvg-id="FOXLife",Fox Life
-http://lb-m.iptv.bulsat.com:1935/redirect/tv4/fox_life-high.stream?scheme=m3u8&bulsatCustomParameter=134076_3009630_134076_NULL_samsungtv_750303c31e92859a73790e78d0bfba22_&bulsatendtime=1491544481&bulsatstarttime=1491508181&bulsathash=f2aIu4r_aKfuFBJZtGXLjKfLKporf6UGYayWtutsiJQ=
-#EXTINF:-1 radio="False" tvg-shift=0 group-title="Филмови" tvg-logo="fox_crime" tvg-id="FOXCrime",Fox Crime
-http://lb-m.iptv.bulsat.com:1935/redirect/tv4/fox_crime-high.stream?scheme=m3u8&bulsatCustomParameter=134076_3009630_134076_NULL_samsungtv_750303c31e92859a73790e78d0bfba22_&bulsatendtime=1491544481&bulsatstarttime=1491508181&bulsathash=3QHBf0kzo1tWr5zvU6neK5O0MVDXWJDHaQeIWS6xKxk=
-#EXTINF:-1 radio="False" tvg-shift=0 group-title="Филмови" tvg-logo="axn" tvg-id="AXN",AXN
-http://lb-m.iptv.bulsat.com:1935/redirect/tv2/axn-med.stream?scheme=m3u8&bulsatCustomParameter=134076_3009630_134076_NULL_samsungtv_750303c31e92859a73790e78d0bfba22_&bulsatendtime=1491544481&bulsatstarttime=1491508181&bulsathash=65O-tenu_n8LQTnADzRfLTuhgbRaZk4iiYiqHvEdr6k=
-#EXTINF:-1 radio="False" tvg-shift=0 group-title="Филмови" tvg-logo="axn_black" tvg-id="AXNBlack",AXN Black
-http://lb-m.iptv.bulsat.com:1935/redirect/tv2/axn_black-med.stream?scheme=m3u8&bulsatCustomParameter=134076_3009630_134076_NULL_samsungtv_750303c31e92859a73790e78d0bfba22_&bulsatendtime=1491544481&bulsatstarttime=1491508181&bulsathash=UfiiKv5turYPe3dHWR4cpl5YKTyAxW8l8ZR3DH3MyV8=
-#EXTINF:-1 radio="False" tvg-shift=0 group-title="Филмови" tvg-logo="axn_white" tvg-id="AXNWhite",AXN White
-http://lb-m.iptv.bulsat.com:1935/redirect/tv2/axn_white-med.stream?scheme=m3u8&bulsatCustomParameter=134076_3009630_134076_NULL_samsungtv_750303c31e92859a73790e78d0bfba22_&bulsatendtime=1491544481&bulsatstarttime=1491508181&bulsathash=1Q1Zh5z0wZaAW4OXmKHHrHUOAf2QycxPWxYH2RhIU14=
-#EXTINF:-1 radio="False" tvg-shift=0 group-title="Филмови" tvg-logo="tv1000" tvg-id="TV1000",TV1000
-http://lb-m.iptv.bulsat.com:1935/redirect/tv8/tv1000-med.stream?scheme=m3u8&bulsatCustomParameter=134076_3009630_134076_NULL_samsungtv_750303c31e92859a73790e78d0bfba22_&bulsatendtime=1491544481&bulsatstarttime=1491508181&bulsathash=d-79w81tfRAW2uIXU6PF4FdQCRx0hnirp48EX3n4iCw=
-#EXTINF:-1 radio="False" tvg-shift=0 group-title="Филмови" tvg-logo="id_xtra" tvg-id="IDXtra",ID Xtra
-http://lb-m.iptv.bulsat.com:1935/redirect/tv2/id_xtra-med.stream?scheme=m3u8&bulsatCustomParameter=134076_3009630_134076_NULL_samsungtv_750303c31e92859a73790e78d0bfba22_&bulsatendtime=1491544481&bulsatstarttime=1491508181&bulsathash=Ap9_WF2nWEDUqpHkhEzX_IXFHeIgR1LWkaiJiAW4WsE=
-#EXTINF:-1 radio="False" tvg-shift=0 group-title="Филмови" tvg-logo="filmbox_hd" tvg-id="FilmBoXtraHD",FILMBOX HD
-http://lb-m.iptv.bulsat.com:1935/redirect/tv7/filmbox_hd-med.stream?scheme=m3u8&bulsatCustomParameter=134076_3009630_134076_NULL_samsungtv_750303c31e92859a73790e78d0bfba22_&bulsatendtime=1491544481&bulsatstarttime=1491508181&bulsathash=sMRMtWpC8EeVLXDDIF-eDVrzlaeWECq-k5Sdq1ihMj8=
-#EXTINF:-1 radio="False" tvg-shift=0 group-title="Музикални" tvg-logo="planetahd" tvg-id="PlanetaHD",Planeta HD
-http://lb-m.iptv.bulsat.com:1935/redirect/tv7/planetahd-med.stream?scheme=m3u8&bulsatCustomParameter=134076_3009630_134076_NULL_samsungtv_750303c31e92859a73790e78d0bfba22_&bulsatendtime=1491544481&bulsatstarttime=1491508181&bulsathash=qYtdyfe6SHNi-5_96vxSZd1vp_PUnnLmy7m4iEPK6Qg=
-#EXTINF:-1 radio="False" tvg-shift=0 group-title="Музикални" tvg-logo="planetatv" tvg-id="Planeta",Planeta
-http://lb-m.iptv.bulsat.com:1935/redirect/tv8/planetatv-med.stream?scheme=m3u8&bulsatCustomParameter=134076_3009630_134076_NULL_samsungtv_750303c31e92859a73790e78d0bfba22_&bulsatendtime=1491544481&bulsatstarttime=1491508181&bulsathash=xJbWoytGbWlaFLa1X5rNNw_TDdn2KeH-2Roxf6W_Szo=
-#EXTINF:-1 radio="False" tvg-shift=0 group-title="Музикални" tvg-logo="fan_tv_hd" tvg-id="FENTV",Fen TV HD
-http://lb-m.iptv.bulsat.com:1935/redirect/tv2/fan_tv_hd-med.stream?scheme=m3u8&bulsatCustomParameter=134076_3009630_134076_NULL_samsungtv_750303c31e92859a73790e78d0bfba22_&bulsatendtime=1491544481&bulsatstarttime=1491508181&bulsathash=JulqOdvcplCCycIacAaciW6Rl5zXffplcK2bSYi2yxI=
-#EXTINF:-1 radio="False" tvg-shift=0 group-title="Музикални" tvg-logo="balkanica_hd" tvg-id="Balkanika",Balkanica HD
-http://lb-m.iptv.bulsat.com:1935/redirect/tv2/balkanica_hd-med.stream?scheme=m3u8&bulsatCustomParameter=134076_3009630_134076_NULL_samsungtv_750303c31e92859a73790e78d0bfba22_&bulsatendtime=1491544481&bulsatstarttime=1491508181&bulsathash=cHIL2tdBF4ugNY95KaxwnTXEjXR5WsDS8h3fjd9WxS4=
-#EXTINF:-1 radio="False" tvg-shift=0 group-title="Музикални" tvg-logo="planeta_folk" tvg-id="PlanetaFolk",Planeta Folk
-http://lb-m.iptv.bulsat.com:1935/redirect/tv8/planeta_folk-med.stream?scheme=m3u8&bulsatCustomParameter=134076_3009630_134076_NULL_samsungtv_750303c31e92859a73790e78d0bfba22_&bulsatendtime=1491544481&bulsatstarttime=1491508181&bulsathash=hhXe_t2AC-1ZwfOGG1q4dIi83NYp9VP3xDOPHHoCuss=
-#EXTINF:-1 radio="False" tvg-shift=0 group-title="Музикални" tvg-logo="folklor_tv_hd" tvg-id="FolklorTV",Folklor TV
-http://lb-m.iptv.bulsat.com:1935/redirect/tv35/folklor_tv_hd-med.stream?scheme=m3u8&bulsatCustomParameter=134076_3009630_134076_NULL_samsungtv_750303c31e92859a73790e78d0bfba22_&bulsatendtime=1491544481&bulsatstarttime=1491508181&bulsathash=L-0wEglP4WVUrdGCbnOJyS9I3MXdraUQJBraTZK6Cso=
-#EXTINF:-1 radio="False" tvg-shift=0 group-title="Музикални" tvg-logo="fen_folk_tv" tvg-id="FenFolk",Fen Folk TV
-http://lb-m.iptv.bulsat.com:1935/redirect/tv2/fen_folk_tv-med.stream?scheme=m3u8&bulsatCustomParameter=134076_3009630_134076_NULL_samsungtv_750303c31e92859a73790e78d0bfba22_&bulsatendtime=1491544481&bulsatstarttime=1491508181&bulsathash=d1b6IZLe4Dag8yKjmyugBnouu5v4MXiFgM3OqFFDYfk=
-#EXTINF:-1 radio="False" tvg-shift=0 group-title="Музикални" tvg-logo="tiankov_folk_hd" tvg-id="TiankovFolk",Tiankov Folk HD
-http://lb-m.iptv.bulsat.com:1935/redirect/tv4/tiankov_folk_hd-med.stream?scheme=m3u8&bulsatCustomParameter=134076_3009630_134076_NULL_samsungtv_750303c31e92859a73790e78d0bfba22_&bulsatendtime=1491544481&bulsatstarttime=1491508181&bulsathash=eFGjazsV_la-LPeOeAuPIBd6f2gM3fFwCQleLmiXrt0=
-#EXTINF:-1 radio="False" tvg-shift=0 group-title="Музикални" tvg-logo="tiankov_misic_hd" tvg-id="tiankov_misic_hd",Tiankov Orient HD
-http://lb-m.iptv.bulsat.com:1935/redirect/tv4/tiankov_misic_hd-med.stream?scheme=m3u8&bulsatCustomParameter=134076_3009630_134076_NULL_samsungtv_750303c31e92859a73790e78d0bfba22_&bulsatendtime=1491544481&bulsatstarttime=1491508181&bulsathash=lO0M1ag72fZZGOXZne2EsldIz0fqeySk7T-Na-zg_tE=
-#EXTINF:-1 radio="False" tvg-shift=0 group-title="Музикални" tvg-logo="dstv" tvg-id="DSTV",DSTV
-http://lb-m.iptv.bulsat.com:1935/redirect/tv2/dstv-med.stream?scheme=m3u8&bulsatCustomParameter=134076_3009630_134076_NULL_samsungtv_750303c31e92859a73790e78d0bfba22_&bulsatendtime=1491544481&bulsatstarttime=1491508181&bulsathash=YLrWWTflR2oysB5idAmtk3Q-_6AeeBglxS45ryASki4=
-#EXTINF:-1 radio="False" tvg-shift=0 group-title="Музикални" tvg-logo="hit_tv" tvg-id="hit_tv",Hit Mix Music
-http://lb-m.iptv.bulsat.com:1935/redirect/tv5/hit_tv-med.stream?scheme=m3u8&bulsatCustomParameter=134076_3009630_134076_NULL_samsungtv_750303c31e92859a73790e78d0bfba22_&bulsatendtime=1491544481&bulsatstarttime=1491508181&bulsathash=zoSnBEeg19anUhYaBlh2LnBoG9Z9WRSy53qPfV18c9M=
-#EXTINF:-1 radio="False" tvg-shift=0 group-title="Музикални" tvg-logo="roma_tv" tvg-id="roma_tv",Roma TV
-http://lb-m.iptv.bulsat.com:1935/redirect/tv4/roma_tv-med.stream?scheme=m3u8&bulsatCustomParameter=134076_3009630_134076_NULL_samsungtv_750303c31e92859a73790e78d0bfba22_&bulsatendtime=1491544481&bulsatstarttime=1491508181&bulsathash=A8n1mihdfMJSLCL-IKZINtC2AI272yV3yAxgAIo36EI=
-#EXTINF:-1 radio="False" tvg-shift=0 group-title="Музикални" tvg-logo="dm_sat" tvg-id="DMSat",DM Sat
-http://lb-m.iptv.bulsat.com:1935/redirect/tv3/dm_sat-med.stream?scheme=m3u8&bulsatCustomParameter=134076_3009630_134076_NULL_samsungtv_750303c31e92859a73790e78d0bfba22_&bulsatendtime=1491544481&bulsatstarttime=1491508181&bulsathash=SQnldU1kFt3Da5AiNXuneKtPE-FkuhWGdUK4o-VGfDk=
-#EXTINF:-1 radio="False" tvg-shift=0 group-title="Музикални" tvg-logo="kcn_music_2" tvg-id="music",KCN Music 2
-http://lb-m.iptv.bulsat.com:1935/redirect/tv11/kcn_music_2-med.stream?scheme=m3u8&bulsatCustomParameter=134076_3009630_134076_NULL_samsungtv_750303c31e92859a73790e78d0bfba22_&bulsatendtime=1491544481&bulsatstarttime=1491508181&bulsathash=a06dRz9TfRmbmdKCfnUzCfkvDBwiMqrr56jeIC9Dz4o=
-#EXTINF:-1 radio="False" tvg-shift=0 group-title="Музикални" tvg-logo="kcn_music_3" tvg-id="music",KCN Music 3
-http://lb-m.iptv.bulsat.com:1935/redirect/tv11/kcn_music_3-med.stream?scheme=m3u8&bulsatCustomParameter=134076_3009630_134076_NULL_samsungtv_750303c31e92859a73790e78d0bfba22_&bulsatendtime=1491544481&bulsatstarttime=1491508181&bulsathash=p-OwMtZqCQidmkGgxvCxKPHBZBNq0Mhbzs8lSsbgfy0=
-#EXTINF:-1 radio="False" tvg-shift=0 group-title="Музикални" tvg-logo="bn_music" tvg-id="music",BN Music
-http://lb-m.iptv.bulsat.com:1935/redirect/tv11/bn_music-med.stream?scheme=m3u8&bulsatCustomParameter=134076_3009630_134076_NULL_samsungtv_750303c31e92859a73790e78d0bfba22_&bulsatendtime=1491544481&bulsatstarttime=1491508181&bulsathash=LFhUx-3_sHP7Bf_vXLsJdrthsSbWrVJuHtfuDrKfG44=
-#EXTINF:-1 radio="False" tvg-shift=0 group-title="Музикални" tvg-logo="duga_tv" tvg-id="duga_tv",Duga TV
-http://lb-m.iptv.bulsat.com:1935/redirect/tv35/duga_tv-med.stream?scheme=m3u8&bulsatCustomParameter=134076_3009630_134076_NULL_samsungtv_750303c31e92859a73790e78d0bfba22_&bulsatendtime=1491544481&bulsatstarttime=1491508181&bulsathash=UYWRs4J-jOTY1bA2kCxwnz8uKs0pUYOUAMgwCWPyqnk=
-#EXTINF:-1 radio="False" tvg-shift=0 group-title="Музикални" tvg-logo="the_voice" tvg-id="TheVoice",The Voice
-http://lb-m.iptv.bulsat.com:1935/redirect/tv8/the_voice-med.stream?scheme=m3u8&bulsatCustomParameter=134076_3009630_134076_NULL_samsungtv_750303c31e92859a73790e78d0bfba22_&bulsatendtime=1491544481&bulsatstarttime=1491508181&bulsathash=kuiO_q4NZ-zVqgt7a0JNxVNKsXjwlTmMaLRHFTwQYcw=
-#EXTINF:-1 radio="False" tvg-shift=0 group-title="Музикални" tvg-logo="magic_tv" tvg-id="MagicTV",Magic TV
-http://lb-m.iptv.bulsat.com:1935/redirect/tv5/magic_tv-med.stream?scheme=m3u8&bulsatCustomParameter=134076_3009630_134076_NULL_samsungtv_750303c31e92859a73790e78d0bfba22_&bulsatendtime=1491544481&bulsatstarttime=1491508181&bulsathash=rKO-HlCmhEk_B8Yebi3tptUZkBNPFI8nODi-f3-QHBc=
-#EXTINF:-1 radio="False" tvg-shift=0 group-title="Музикални" tvg-logo="bg_top_music" tvg-id="music",BG Top Music
-http://lb-m.iptv.bulsat.com:1935/redirect/tv10/bg_top_music-med.stream?scheme=m3u8&bulsatCustomParameter=134076_3009630_134076_NULL_samsungtv_750303c31e92859a73790e78d0bfba22_&bulsatendtime=1491544481&bulsatstarttime=1491508181&bulsathash=BLwyhBDbk-CXu1aPn4VtiBJAp_Ik8g_--3Y8Ir523_M=
-#EXTINF:-1 radio="False" tvg-shift=0 group-title="Музикални" tvg-logo="box_tv_hd" tvg-id="BoxTV",BOX TV HD
-http://lb-m.iptv.bulsat.com:1935/redirect/tv7/box_tv_hd-med.stream?scheme=m3u8&bulsatCustomParameter=134076_3009630_134076_NULL_samsungtv_750303c31e92859a73790e78d0bfba22_&bulsatendtime=1491544481&bulsatstarttime=1491508181&bulsathash=0bls_YifoQvaCy9YBz24UKelxCOipRC8TVkeZ9UHiDA=
-#EXTINF:-1 radio="False" tvg-shift=0 group-title="Музикални" tvg-logo="bg_music_channel_hd" tvg-id="BGMusicChannel",BG Music Channel HD
-http://lb-m.iptv.bulsat.com:1935/redirect/tv2/bg_music_channel_hd-med.stream?scheme=m3u8&bulsatCustomParameter=134076_3009630_134076_NULL_samsungtv_750303c31e92859a73790e78d0bfba22_&bulsatendtime=1491544481&bulsatstarttime=1491508181&bulsathash=VZNFPxy6nvJbjyqOOwfiajDEz6jZUhdhiWSuFWM9rlU=
-#EXTINF:-1 radio="False" tvg-shift=0 group-title="Музикални" tvg-logo="jukebox_hd" tvg-id="DEJukeBox",Jukebox
-http://lb-m.iptv.bulsat.com:1935/redirect/tv3/jukebox_hd-med.stream?scheme=m3u8&bulsatCustomParameter=134076_3009630_134076_NULL_samsungtv_750303c31e92859a73790e78d0bfba22_&bulsatendtime=1491544481&bulsatstarttime=1491508181&bulsathash=Y3CoCZd9CoINrVkSdyHnQxztJiVKtYiehn9y-z7uYVY=
-#EXTINF:-1 radio="False" tvg-shift=0 group-title="Музикални" tvg-logo="vh1_classic" tvg-id="VH1Classic",VH1 Classic
-http://lb-m.iptv.bulsat.com:1935/redirect/tv8/vh1_classic-med.stream?scheme=m3u8&bulsatCustomParameter=134076_3009630_134076_NULL_samsungtv_750303c31e92859a73790e78d0bfba22_&bulsatendtime=1491544481&bulsatstarttime=1491508181&bulsathash=eJ0ZG8bTVtTjOMgTif0JCnrn_z6CVENh-MamCRJrTgA=
-#EXTINF:-1 radio="False" tvg-shift=0 group-title="Музикални" tvg-logo="vh1" tvg-id="VH1",VH1
-http://lb-m.iptv.bulsat.com:1935/redirect/tv8/vh1-med.stream?scheme=m3u8&bulsatCustomParameter=134076_3009630_134076_NULL_samsungtv_750303c31e92859a73790e78d0bfba22_&bulsatendtime=1491544481&bulsatstarttime=1491508181&bulsathash=yeBB6OYPxh9-iZ-SZytZCLQfPel-qnyIbM0maekEX_M=
-#EXTINF:-1 radio="False" tvg-shift=0 group-title="Музикални" tvg-logo="mtv_rock" tvg-id="MTVRocks",MTV Rock
-http://lb-m.iptv.bulsat.com:1935/redirect/tv8/mtv_rock-med.stream?scheme=m3u8&bulsatCustomParameter=134076_3009630_134076_NULL_samsungtv_750303c31e92859a73790e78d0bfba22_&bulsatendtime=1491544481&bulsatstarttime=1491508181&bulsathash=zXjEgb-bLdPQYS9Yq9ZXMQWKzJUone0fyPdYhxg_Ong=
-#EXTINF:-1 radio="False" tvg-shift=0 group-title="Музикални" tvg-logo="mtv_hits" tvg-id="MTVHits",MTV Hits
-http://lb-m.iptv.bulsat.com:1935/redirect/tv3/mtv_hits-med.stream?scheme=m3u8&bulsatCustomParameter=134076_3009630_134076_NULL_samsungtv_750303c31e92859a73790e78d0bfba22_&bulsatendtime=1491544481&bulsatstarttime=1491508181&bulsathash=Wv8RZi1SojRE87TubfTquEPTBpXrCQHcey7WfAZYfxc=
-#EXTINF:-1 radio="False" tvg-shift=0 group-title="Музикални" tvg-logo="rck_tv_hd" tvg-id="rck_tv_hd",RCK TV
-http://lb-m.iptv.bulsat.com:1935/redirect/tv/rck_tv_hd-med.stream?scheme=m3u8&bulsatCustomParameter=134076_3009630_134076_NULL_samsungtv_750303c31e92859a73790e78d0bfba22_&bulsatendtime=1491544481&bulsatstarttime=1491508181&bulsathash=jf8P0GmyYM9mxkahRRId82jvEYAOwUFKxhcJOk9dwGA=
-#EXTINF:-1 radio="False" tvg-shift=0 group-title="Музикални" tvg-logo="mezzo" tvg-id="Mezzo",Mezzo
-http://lb-m.iptv.bulsat.com:1935/redirect/tv35/mezzo-med.stream?scheme=m3u8&bulsatCustomParameter=134076_3009630_134076_NULL_samsungtv_750303c31e92859a73790e78d0bfba22_&bulsatendtime=1491544481&bulsatstarttime=1491508181&bulsathash=zJkfqeanHiVnIGwda1AVxAxSvC6GFnVIzKfXCd3ivnI=
-#EXTINF:-1 radio="False" tvg-shift=0 group-title="Музикални" tvg-logo="360tunebox" tvg-id="360TuneBoxHD",360TuneBox HD
-http://lb-m.iptv.bulsat.com:1935/redirect/tv2/360tunebox-med.stream?scheme=m3u8&bulsatCustomParameter=134076_3009630_134076_NULL_samsungtv_750303c31e92859a73790e78d0bfba22_&bulsatendtime=1491544481&bulsatstarttime=1491508181&bulsathash=AxCJmSM63WWWCm267qCaGzZGuMxg26pls-voc9Jy6tc=
-#EXTINF:-1 radio="False" tvg-shift=0 group-title="Музикални" tvg-logo="musica" tvg-id="musica",Музыка
-http://lb-m.iptv.bulsat.com:1935/redirect/tv12/musica-med.stream?scheme=m3u8&bulsatCustomParameter=134076_3009630_134076_NULL_samsungtv_750303c31e92859a73790e78d0bfba22_&bulsatendtime=1491544481&bulsatstarttime=1491508181&bulsathash=W0UUXo_tOv3ccWfscbFo41XunVj_rDFIECkC1ctOyio=
-#EXTINF:-1 radio="False" tvg-shift=0 group-title="Музикални" tvg-logo="kral_tv" tvg-id="kral_tv",Kral TV
-http://lb-m.iptv.bulsat.com:1935/redirect/tv/kral_tv-med.stream?scheme=m3u8&bulsatCustomParameter=134076_3009630_134076_NULL_samsungtv_750303c31e92859a73790e78d0bfba22_&bulsatendtime=1491544481&bulsatstarttime=1491508181&bulsathash=q9Bx8b7ZjNTh5Dhb8th770JhU4cfV7qRo-VGMEdVnN4=
-#EXTINF:-1 radio="False" tvg-shift=0 group-title="Детски" tvg-logo="disney_channel" tvg-id="Disney",Disney channel
-http://lb-m.iptv.bulsat.com:1935/redirect/tv7/disney_channel-med.stream?scheme=m3u8&bulsatCustomParameter=134076_3009630_134076_NULL_samsungtv_750303c31e92859a73790e78d0bfba22_&bulsatendtime=1491544481&bulsatstarttime=1491508181&bulsathash=ZL7IKOgO-LhyO1w4KZOM9GfIEqFeGwsGmsEg66uqmNw=
-#EXTINF:-1 radio="False" tvg-shift=0 group-title="Детски" tvg-logo="cn" tvg-id="CartoonNetwork",CN
-http://lb-m.iptv.bulsat.com:1935/redirect/tv228/cn-med.stream?scheme=m3u8&bulsatCustomParameter=134076_3009630_134076_NULL_samsungtv_750303c31e92859a73790e78d0bfba22_&bulsatendtime=1491544481&bulsatstarttime=1491508181&bulsathash=PYVk5d0nGJxuvN-sj9amfTXPltrS_-zoXLeozhgHXGE=
-#EXTINF:-1 radio="False" tvg-shift=0 group-title="Детски" tvg-logo="nick_jr" tvg-id="NickJr",Nick Jr.
-http://lb-m.iptv.bulsat.com:1935/redirect/tv228/nick_jr-med.stream?scheme=m3u8&bulsatCustomParameter=134076_3009630_134076_NULL_samsungtv_750303c31e92859a73790e78d0bfba22_&bulsatendtime=1491544481&bulsatstarttime=1491508181&bulsathash=UIhaAyqCT9VwZGzreMHWWHzLwGDyd119iSQiBHeCy9k=
-#EXTINF:-1 radio="False" tvg-shift=0 group-title="Детски" tvg-logo="boomerang" tvg-id="Boomerang",Boomerang
-http://lb-m.iptv.bulsat.com:1935/redirect/tv228/boomerang-med.stream?scheme=m3u8&bulsatCustomParameter=134076_3009630_134076_NULL_samsungtv_750303c31e92859a73790e78d0bfba22_&bulsatendtime=1491544481&bulsatstarttime=1491508181&bulsathash=DvmCF3ZQERl7OLGYwPustoy0iM3D1dBpasjVA09blKE=
-#EXTINF:-1 radio="False" tvg-shift=0 group-title="Детски" tvg-logo="nickelodeon" tvg-id="Nickelodeon",Nickelodeon
-http://lb-m.iptv.bulsat.com:1935/redirect/tv7/nickelodeon-med.stream?scheme=m3u8&bulsatCustomParameter=134076_3009630_134076_NULL_samsungtv_750303c31e92859a73790e78d0bfba22_&bulsatendtime=1491544481&bulsatstarttime=1491508181&bulsathash=E-Hn9JLTZ6LXqz-fbpT3X73Yra1UzNbSjDU_F7xTlwc=
-#EXTINF:-1 radio="False" tvg-shift=0 group-title="Детски" tvg-logo="ekids" tvg-id="EKids",Ekids
-http://lb-m.iptv.bulsat.com:1935/redirect/tv228/ekids-med.stream?scheme=m3u8&bulsatCustomParameter=134076_3009630_134076_NULL_samsungtv_750303c31e92859a73790e78d0bfba22_&bulsatendtime=1491544481&bulsatstarttime=1491508181&bulsathash=xdl077DxZ2YpETLeGd4lMr3J5X2l9IyyiRetDNTVU-E=
-#EXTINF:-1 radio="False" tvg-shift=0 group-title="ДРУГИ" tvg-logo="tv1_hd" tvg-id="TV1",TV 1 HD
-http://lb-m.iptv.bulsat.com:1935/redirect/tv4/tv1_hd-med.stream?scheme=m3u8&bulsatCustomParameter=134076_3009630_134076_NULL_samsungtv_750303c31e92859a73790e78d0bfba22_&bulsatendtime=1491544481&bulsatstarttime=1491508181&bulsathash=Zop8-qz3fvsicwg321OltTpKbgsLR5UzZcn6mlz1vT8=
-#EXTINF:-1 radio="False" tvg-shift=0 group-title="ДРУГИ" tvg-logo="tv_stara_zagora" tvg-id="tvstz",TV Zagora
-http://lb-m.iptv.bulsat.com:1935/redirect/tv2/tv_stara_zagora-med.stream?scheme=m3u8&bulsatCustomParameter=134076_3009630_134076_NULL_samsungtv_750303c31e92859a73790e78d0bfba22_&bulsatendtime=1491544481&bulsatstarttime=1491508181&bulsathash=orycv-8j-hvK-0q-wbCNkcIkNP3Qbn40c-Z-dgZZ72k=
-#EXTINF:-1 radio="False" tvg-shift=0 group-title="ДРУГИ" tvg-logo="stara_zagora_tv" tvg-id="stara_zagora_tv",TV Stara Zagora
-http://lb-m.iptv.bulsat.com:1935/redirect/tv228/stara_zagora_tv-med.stream?scheme=m3u8&bulsatCustomParameter=134076_3009630_134076_NULL_samsungtv_750303c31e92859a73790e78d0bfba22_&bulsatendtime=1491544481&bulsatstarttime=1491508181&bulsathash=7GIrK0oYHa7cqk3KfOYVQ-Vrj8Geota739bhs9or7GA=
-#EXTINF:-1 radio="False" tvg-shift=0 group-title="ДРУГИ" tvg-logo="stoychev" tvg-id="stoychev",Stoychev HD
-http://lb-m.iptv.bulsat.com:1935/redirect/tv6/stoychev-med.stream?scheme=m3u8&bulsatCustomParameter=134076_3009630_134076_NULL_samsungtv_750303c31e92859a73790e78d0bfba22_&bulsatendtime=1491544481&bulsatstarttime=1491508181&bulsathash=EWKg1EitOmUx-p6aQelRM1yxAgi6Crn_40IPs7D-3kE=
-#EXTINF:-1 radio="False" tvg-shift=0 group-title="ДРУГИ" tvg-logo="po_tv_trakia" tvg-id="Trakiq",PO TV Trakia
-http://lb-m.iptv.bulsat.com:1935/redirect/tv1/po_tv_trakia-med.stream?scheme=m3u8&bulsatCustomParameter=134076_3009630_134076_NULL_samsungtv_750303c31e92859a73790e78d0bfba22_&bulsatendtime=1491544481&bulsatstarttime=1491508181&bulsathash=cZHOFI3-Wvo81Mka72Q_J439tkkEicYcavR-jfz5h-4=
-#EXTINF:-1 radio="False" tvg-shift=0 group-title="ДРУГИ" tvg-logo="cherno_more" tvg-id="ChernoMore",Черно Море
-http://lb-m.iptv.bulsat.com:1935/redirect/tv2/cherno_more-med.stream?scheme=m3u8&bulsatCustomParameter=134076_3009630_134076_NULL_samsungtv_750303c31e92859a73790e78d0bfba22_&bulsatendtime=1491544481&bulsatstarttime=1491508181&bulsathash=LVksgk8lKNYwv2Y6pU4F_moj_j0ZhbpekOR2-D06P0M=
-#EXTINF:-1 radio="False" tvg-shift=0 group-title="ДРУГИ" tvg-logo="bloomberg_tv" tvg-id="Bloomberg",Bloomberg TV Bulgaria
-http://lb-m.iptv.bulsat.com:1935/redirect/tv4/bloomberg_tv-med.stream?scheme=m3u8&bulsatCustomParameter=134076_3009630_134076_NULL_samsungtv_750303c31e92859a73790e78d0bfba22_&bulsatendtime=1491544481&bulsatstarttime=1491508181&bulsathash=-Xwg00tOTkuAD_37Lgnwf60XMkw8zey2EgkCgLqnKpk=
-#EXTINF:-1 radio="False" tvg-shift=0 group-title="ДРУГИ" tvg-logo="kanal4" tvg-id="kanal4",Kanal 4
-http://lb-m.iptv.bulsat.com:1935/redirect/tv1/kanal4-med.stream?scheme=m3u8&bulsatCustomParameter=134076_3009630_134076_NULL_samsungtv_750303c31e92859a73790e78d0bfba22_&bulsatendtime=1491544481&bulsatstarttime=1491508181&bulsathash=b06_2Sqxhtx1i9CtuZ0cs-HyO67cW8M3P8TDLbAPmxo=
-#EXTINF:-1 radio="False" tvg-shift=0 group-title="ДРУГИ" tvg-logo="bhtv" tvg-id="bhtv",BHTV
-http://lb-m.iptv.bulsat.com:1935/redirect/tv9/bhtv-med.stream?scheme=m3u8&bulsatCustomParameter=134076_3009630_134076_NULL_samsungtv_750303c31e92859a73790e78d0bfba22_&bulsatendtime=1491544481&bulsatstarttime=1491508181&bulsathash=YU9HV4K7gAgsmL3fqhIkfryg5KPMMdayd9hsu4OImFU=
-#EXTINF:-1 radio="False" tvg-shift=0 group-title="ДРУГИ" tvg-logo="perviy_kanal" tvg-id="PerviyKanal",Perviy Kanal
-http://lb-m.iptv.bulsat.com:1935/redirect/tv5/perviy_kanal-high.stream?scheme=m3u8&bulsatCustomParameter=134076_3009630_134076_NULL_samsungtv_750303c31e92859a73790e78d0bfba22_&bulsatendtime=1491544481&bulsatstarttime=1491508181&bulsathash=g0g5y7QuWA_C65GNtGeDsKalquzXpDLeSenUugrHmhs=
-#EXTINF:-1 radio="False" tvg-shift=0 group-title="ДРУГИ" tvg-logo="24_techno" tvg-id="music",24 техно
-http://lb-m.iptv.bulsat.com:1935/redirect/tv35/24_techno-med.stream?scheme=m3u8&bulsatCustomParameter=134076_3009630_134076_NULL_samsungtv_750303c31e92859a73790e78d0bfba22_&bulsatendtime=1491544481&bulsatstarttime=1491508181&bulsathash=7AS7QAfJqf3bFfmT4SDYWZU6mXwgdwMAYhBk0gUEeec=
-#EXTINF:-1 radio="False" tvg-shift=0 group-title="ДРУГИ" tvg-logo="euro_d" tvg-id="euro_d",Euro D
-http://lb-m.iptv.bulsat.com:1935/redirect/tv3/euro_d-med.stream?scheme=m3u8&bulsatCustomParameter=134076_3009630_134076_NULL_samsungtv_750303c31e92859a73790e78d0bfba22_&bulsatendtime=1491544481&bulsatstarttime=1491508181&bulsathash=8--OXmQ-50pNpNTAM3N0I6BZcBBgypXthxwBS6qxDhE=
-#EXTINF:-1 radio="False" tvg-shift=0 group-title="ДРУГИ" tvg-logo="atv" tvg-id="atv",ATV
-http://lb-m.iptv.bulsat.com:1935/redirect/tv3/atv-med.stream?scheme=m3u8&bulsatCustomParameter=134076_3009630_134076_NULL_samsungtv_750303c31e92859a73790e78d0bfba22_&bulsatendtime=1491544481&bulsatstarttime=1491508181&bulsathash=VRWLdHHZgbBAmAiqg2HUMMPhRDl34QVK1lRqXJ2X_bM=
-#EXTINF:-1 radio="False" tvg-shift=0 group-title="ДРУГИ" tvg-logo="ntv_avrupa" tvg-id="ntv_avrupa",NTV Avrupa
-http://lb-m.iptv.bulsat.com:1935/redirect/tv/ntv_avrupa-med.stream?scheme=m3u8&bulsatCustomParameter=134076_3009630_134076_NULL_samsungtv_750303c31e92859a73790e78d0bfba22_&bulsatendtime=1491544481&bulsatstarttime=1491508181&bulsathash=rFQGxqSVKXFZmAtYiFbWyR88TXa1prBNBJKqKflfMPY=
-#EXTINF:-1 radio="False" tvg-shift=0 group-title="ДРУГИ" tvg-logo="cnn" tvg-id="CNN",CNN
-http://lb-m.iptv.bulsat.com:1935/redirect/tv11/cnn-med.stream?scheme=m3u8&bulsatCustomParameter=134076_3009630_134076_NULL_samsungtv_750303c31e92859a73790e78d0bfba22_&bulsatendtime=1491544481&bulsatstarttime=1491508181&bulsathash=Fds9HgdAF36kVMoy6rdOotixsSYXRESkGTv49vX4Rmc=
-#EXTINF:-1 radio="False" tvg-shift=0 group-title="ДРУГИ" tvg-logo="dw" tvg-id="DeutscheWelle",Deutsche welle
-http://lb-m.iptv.bulsat.com:1935/redirect/tv11/dw-med.stream?scheme=m3u8&bulsatCustomParameter=134076_3009630_134076_NULL_samsungtv_750303c31e92859a73790e78d0bfba22_&bulsatendtime=1491544481&bulsatstarttime=1491508181&bulsathash=BQ_6QOTwwpmNpKDXRBLCtb0Hc23xFJzYQv1Rsf_n7OI=
-#EXTINF:-1 radio="False" tvg-shift=0 group-title="ДРУГИ" tvg-logo="al_jazeera" tvg-id="al_jazeera",Al Jazeera
-http://lb-m.iptv.bulsat.com:1935/redirect/tv3/al_jazeera-med.stream?scheme=m3u8&bulsatCustomParameter=134076_3009630_134076_NULL_samsungtv_750303c31e92859a73790e78d0bfba22_&bulsatendtime=1491544481&bulsatstarttime=1491508181&bulsathash=rsx5Lz1HLxUnCyt088bBgXoNNtQyxRusVPvEQrTfxNE=
-#EXTINF:-1 radio="False" tvg-shift=0 group-title="ДРУГИ" tvg-logo="359tv_hd" tvg-id="359tv_hd",CODE FASHION TV
-http://lb-m.iptv.bulsat.com:1935/redirect/tv9/359tv_hd-med.stream?scheme=m3u8&bulsatCustomParameter=134076_3009630_134076_NULL_samsungtv_750303c31e92859a73790e78d0bfba22_&bulsatendtime=1491544481&bulsatstarttime=1491508181&bulsathash=giV4FS2FI9ga7Vp7u-xweokC9SsgNh8tSkXYzBmG7LA=
-#EXTINF:-1 radio="False" tvg-shift=0 group-title="ДРУГИ" tvg-logo="fashion_tv" tvg-id="FashionTV",Fashion TV
-http://lb-m.iptv.bulsat.com:1935/redirect/tv8/fashion_tv-med.stream?scheme=m3u8&bulsatCustomParameter=134076_3009630_134076_NULL_samsungtv_750303c31e92859a73790e78d0bfba22_&bulsatendtime=1491544481&bulsatstarttime=1491508181&bulsathash=dKwpw_jIBxt1Vi8vQ6ChIU59fbKADTNtCLfarYloD2w=
-#EXTINF:-1 radio="False" tvg-shift=0 group-title="ДРУГИ" tvg-logo="n24" tvg-id="n24",N24
-http://lb-m.iptv.bulsat.com:1935/redirect/tv5/n24-med.stream?scheme=m3u8&bulsatCustomParameter=134076_3009630_134076_NULL_samsungtv_750303c31e92859a73790e78d0bfba22_&bulsatendtime=1491544481&bulsatstarttime=1491508181&bulsathash=WJqiGX-BPyWoekZJOOXJYst9NHPhCCthHIiauNuX_68=
-#EXTINF:-1 radio="False" tvg-shift=0 group-title="ДРУГИ" tvg-logo="france_24" tvg-id="france_24",France 24
-http://lb-m.iptv.bulsat.com:1935/redirect/tv12/france_24-med.stream?scheme=m3u8&bulsatCustomParameter=134076_3009630_134076_NULL_samsungtv_750303c31e92859a73790e78d0bfba22_&bulsatendtime=1491544481&bulsatstarttime=1491508181&bulsathash=mIsq61UjVpb21Y3oksVMhvDDbLHayFfecvvcXehukDI=
-#EXTINF:-1 radio="False" tvg-shift=0 group-title="ДРУГИ" tvg-logo="france_2" tvg-id="france_2",France 2
-http://lb-m.iptv.bulsat.com:1935/redirect/tv1/france_2-med.stream?scheme=m3u8&bulsatCustomParameter=134076_3009630_134076_NULL_samsungtv_750303c31e92859a73790e78d0bfba22_&bulsatendtime=1491544481&bulsatstarttime=1491508181&bulsathash=SqNUZyvSH0XIzEYijj88q-310qkII_GsIKcxp0x5EWg=
-#EXTINF:-1 radio="False" tvg-shift=0 group-title="ДРУГИ" tvg-logo="tv5" tvg-id="tv5",TV5
-http://lb-m.iptv.bulsat.com:1935/redirect/tv12/tv5-med.stream?scheme=m3u8&bulsatCustomParameter=134076_3009630_134076_NULL_samsungtv_750303c31e92859a73790e78d0bfba22_&bulsatendtime=1491544481&bulsatstarttime=1491508181&bulsathash=aVC3lQZ-5q-L9zAC9rh4tdn-pUJsdaHSX4tZCR2KLEg=
-#EXTINF:-1 radio="False" tvg-shift=0 group-title="ДРУГИ" tvg-logo="rai_uno" tvg-id="rai_uno",Rai Uno
-http://lb-m.iptv.bulsat.com:1935/redirect/tv35/rai_uno-med.stream?scheme=m3u8&bulsatCustomParameter=134076_3009630_134076_NULL_samsungtv_750303c31e92859a73790e78d0bfba22_&bulsatendtime=1491544481&bulsatstarttime=1491508181&bulsathash=o3pEQTR1fxXAR7LsAfMPtUZwGCfU-cDwDf4AqgtDFsc=
-#EXTINF:-1 radio="False" tvg-shift=0 group-title="ДРУГИ" tvg-logo="tve" tvg-id="tve",TVE
-http://lb-m.iptv.bulsat.com:1935/redirect/tv/tve-med.stream?scheme=m3u8&bulsatCustomParameter=134076_3009630_134076_NULL_samsungtv_750303c31e92859a73790e78d0bfba22_&bulsatendtime=1491544481&bulsatstarttime=1491508181&bulsathash=3O-9Fx8EBdC0M2NAD38IZ8_ubAG_0ahztvMM4ZQGbgU=
-#EXTINF:-1 radio="False" tvg-shift=0 group-title="ДРУГИ" tvg-logo="rtp_int" tvg-id="rtp_int",RTP Int.
-http://lb-m.iptv.bulsat.com:1935/redirect/tv6/rtp_int-med.stream?scheme=m3u8&bulsatCustomParameter=134076_3009630_134076_NULL_samsungtv_750303c31e92859a73790e78d0bfba22_&bulsatendtime=1491544481&bulsatstarttime=1491508181&bulsathash=PO263VTl2uYFCg7wCgykw6Cdg9PRBck-2JpmlmfcsPg=
-#EXTINF:-1 radio="False" tvg-shift=0 group-title="18+" tvg-logo="tgirlstv" tvg-id="porn",Evil Angel
-http://lb-m.iptv.bulsat.com:1935/redirect/tv11/tgirlstv-med.stream?scheme=m3u8&bulsatCustomParameter=134076_3009630_134076_NULL_samsungtv_750303c31e92859a73790e78d0bfba22_&bulsatendtime=1491544481&bulsatstarttime=1491508181&bulsathash=2YF3I9Qh5IzMxVyL3Aepos5XV6KbuEajd8qe07UlCO4=
-#EXTINF:-1 radio="False" tvg-shift=0 group-title="18+" tvg-logo="centoxcento" tvg-id="centoxcento",centoXcento
-http://lb-m.iptv.bulsat.com:1935/redirect/tv12/centoxcento-med.stream?scheme=m3u8&bulsatCustomParameter=134076_3009630_134076_NULL_samsungtv_750303c31e92859a73790e78d0bfba22_&bulsatendtime=1491544481&bulsatstarttime=1491508181&bulsathash=2X2bSuOsPee9toiMpUMPfMj-jAns1lvxbxNerJ6vvmw=
-#EXTINF:-1 radio="True" tvg-shift=0 group-title="Радио" tvg-logo="darik" tvg-id="darik",Дарик радио
-http://lb-m.iptv.bulsat.com:1935/redirect/radio/darik.stream?scheme=m3u8&bulsatCustomParameter=134076_3009630_134076_NULL_samsungtv_750303c31e92859a73790e78d0bfba22_&bulsatendtime=1491544481&bulsatstarttime=1491508181&bulsathash=HAZyIBnbfrYIti0QEjLQt7e2KSQdrhCHII7IZiZmcjw=
-#EXTINF:-1 radio="True" tvg-shift=0 group-title="Радио" tvg-logo="radiofocus" tvg-id="radiofocus",Radio Focus
-http://lb-m.iptv.bulsat.com:1935/redirect/radio/radiofocus.stream?scheme=m3u8&bulsatCustomParameter=134076_3009630_134076_NULL_samsungtv_750303c31e92859a73790e78d0bfba22_&bulsatendtime=1491544481&bulsatstarttime=1491508181&bulsathash=fMhho-lFN1mtegVn7OjakFTGq2Kc3cTAsvDbLJcKHZA=
-#EXTINF:-1 radio="True" tvg-shift=0 group-title="Радио" tvg-logo="nova" tvg-id="nova",Radio Nova
-http://lb-m.iptv.bulsat.com:1935/redirect/radio/nova.stream?scheme=m3u8&bulsatCustomParameter=134076_3009630_134076_NULL_samsungtv_750303c31e92859a73790e78d0bfba22_&bulsatendtime=1491544481&bulsatstarttime=1491508181&bulsathash=IlcEEcFHtDgMRpWQKMC0FeXuWgTaEXeQekPaGZIWedM=
-#EXTINF:-1 radio="True" tvg-shift=0 group-title="Радио" tvg-logo="btv_radio" tvg-id="btv_radio",BTV radio
-http://lb-m.iptv.bulsat.com:1935/redirect/radio/btv_radio.stream?scheme=m3u8&bulsatCustomParameter=134076_3009630_134076_NULL_samsungtv_750303c31e92859a73790e78d0bfba22_&bulsatendtime=1491544481&bulsatstarttime=1491508181&bulsathash=Y5LYhVr06EvgjglPGwFC21ZTNyYkKTIGCD5gKnt-H4k=
-#EXTINF:-1 radio="True" tvg-shift=0 group-title="Радио" tvg-logo="rbulgaria_on_air" tvg-id="rbulgaria_on_air",Bulgaria On Air
-http://lb-m.iptv.bulsat.com:1935/redirect/radio/rbulgaria_on_air.stream?scheme=m3u8&bulsatCustomParameter=134076_3009630_134076_NULL_samsungtv_750303c31e92859a73790e78d0bfba22_&bulsatendtime=1491544481&bulsatstarttime=1491508181&bulsathash=PEo0tJtmDFib1Nv29vX0GdVPp_PnaZLzcolq-dP6swQ=
-#EXTINF:-1 radio="True" tvg-shift=0 group-title="Радио" tvg-logo="horizont" tvg-id="horizont",horizont
-http://lb-m.iptv.bulsat.com:1935/redirect/radio/horizont.stream?scheme=m3u8&bulsatCustomParameter=134076_3009630_134076_NULL_samsungtv_750303c31e92859a73790e78d0bfba22_&bulsatendtime=1491544481&bulsatstarttime=1491508181&bulsathash=GBmEH2RcSbFlZyTYKZ6WIYsavljOtt5XNfAqXMedxgg=
-#EXTINF:-1 radio="True" tvg-shift=0 group-title="Радио" tvg-logo="hristobotev" tvg-id="hristobotev",Hristo Botev BNR
-http://lb-m.iptv.bulsat.com:1935/redirect/radio/hristobotev.stream?scheme=m3u8&bulsatCustomParameter=134076_3009630_134076_NULL_samsungtv_750303c31e92859a73790e78d0bfba22_&bulsatendtime=1491544481&bulsatstarttime=1491508181&bulsathash=0svR4nlcAZJwcbFw0Nk3S7RfEZW408lqzvNp8tb9RW4=
-#EXTINF:-1 radio="True" tvg-shift=0 group-title="Радио" tvg-logo="radio_varna" tvg-id="radio_varna",Radio Varna
-http://lb-m.iptv.bulsat.com:1935/redirect/radio/radio_varna.stream?scheme=m3u8&bulsatCustomParameter=134076_3009630_134076_NULL_samsungtv_750303c31e92859a73790e78d0bfba22_&bulsatendtime=1491544481&bulsatstarttime=1491508181&bulsathash=-05LZ_u799OY3cd77pr8umhkUIPs0jJ_3yqmBc6FpPo=
-#EXTINF:-1 radio="True" tvg-shift=0 group-title="Радио" tvg-logo="bgradio" tvg-id="bgradio",BG radio
-http://lb-m.iptv.bulsat.com:1935/redirect/radio/bgradio.stream?scheme=m3u8&bulsatCustomParameter=134076_3009630_134076_NULL_samsungtv_750303c31e92859a73790e78d0bfba22_&bulsatendtime=1491544481&bulsatstarttime=1491508181&bulsathash=920XdguWglfcdGupZyt0VISaR7O4xLGER7G7A4tj9NU=
-#EXTINF:-1 radio="True" tvg-shift=0 group-title="Радио" tvg-logo="zorana" tvg-id="zorana",Radio Zorana
-http://lb-m.iptv.bulsat.com:1935/redirect/radio/zorana.stream?scheme=m3u8&bulsatCustomParameter=134076_3009630_134076_NULL_samsungtv_750303c31e92859a73790e78d0bfba22_&bulsatendtime=1491544481&bulsatstarttime=1491508181&bulsathash=Q2-G1tWSHZ7QXP3O0YkcDOrCOry36AwK-NOun-WaX_g=
-#EXTINF:-1 radio="True" tvg-shift=0 group-title="Радио" tvg-logo="veselina" tvg-id="veselina",Veselina
-http://lb-m.iptv.bulsat.com:1935/redirect/radio/veselina.stream?scheme=m3u8&bulsatCustomParameter=134076_3009630_134076_NULL_samsungtv_750303c31e92859a73790e78d0bfba22_&bulsatendtime=1491544481&bulsatstarttime=1491508181&bulsathash=DF2FTv_tNEkoQ5REgtw2-wW-CnbbP6WScUyhOlmUFBA=
-#EXTINF:-1 radio="True" tvg-shift=0 group-title="Радио" tvg-logo="veronika" tvg-id="veronika",veronika
-http://lb-m.iptv.bulsat.com:1935/redirect/radio/veronika.stream?scheme=m3u8&bulsatCustomParameter=134076_3009630_134076_NULL_samsungtv_750303c31e92859a73790e78d0bfba22_&bulsatendtime=1491544481&bulsatstarttime=1491508181&bulsathash=gvp_7_xhWo-rnDYAHY7S87u5WGhYBWPTVNpLA_kUVO4=
-#EXTINF:-1 radio="True" tvg-shift=0 group-title="Радио" tvg-logo="payner" tvg-id="payner",Radio Payner
-http://lb-m.iptv.bulsat.com:1935/redirect/radio/payner.stream?scheme=m3u8&bulsatCustomParameter=134076_3009630_134076_NULL_samsungtv_750303c31e92859a73790e78d0bfba22_&bulsatendtime=1491544481&bulsatstarttime=1491508181&bulsathash=zvlV6MoEyOLXAzI1DbsfdUiSMGhepynP9PiOK106ULo=
-#EXTINF:-1 radio="True" tvg-shift=0 group-title="Радио" tvg-logo="ultra" tvg-id="ultra",Radio Ultra
-http://lb-m.iptv.bulsat.com:1935/redirect/radio/ultra.stream?scheme=m3u8&bulsatCustomParameter=134076_3009630_134076_NULL_samsungtv_750303c31e92859a73790e78d0bfba22_&bulsatendtime=1491544481&bulsatstarttime=1491508181&bulsathash=C8QfWymj75oqNl0e8cToxtfRf4FVMcxnhMMDT7BJVjU=
-#EXTINF:-1 radio="True" tvg-shift=0 group-title="Радио" tvg-logo="folk_radio_nazdrave" tvg-id="folk_radio_nazdrave",Folk radio Nazdrave
-http://lb-m.iptv.bulsat.com:1935/redirect/radio/folk_radio_nazdrave.stream?scheme=m3u8&bulsatCustomParameter=134076_3009630_134076_NULL_samsungtv_750303c31e92859a73790e78d0bfba22_&bulsatendtime=1491544481&bulsatstarttime=1491508181&bulsathash=HQMjqHa8vX0a0BW6WS1jIjT27BtAsD3pM44RmC2A7yk=
-#EXTINF:-1 radio="True" tvg-shift=0 group-title="Радио" tvg-logo="folk_radio" tvg-id="folk_radio",Folk Radio
-http://lb-m.iptv.bulsat.com:1935/redirect/radio/folk_radio.stream?scheme=m3u8&bulsatCustomParameter=134076_3009630_134076_NULL_samsungtv_750303c31e92859a73790e78d0bfba22_&bulsatendtime=1491544481&bulsatstarttime=1491508181&bulsathash=l1hMIiS8w7oGx72Jog3XWlBGZqYvV1U9N2hOVIaRuIA=
-#EXTINF:-1 radio="True" tvg-shift=0 group-title="Радио" tvg-logo="chanove" tvg-id="chanove",Radio Chanove
-http://lb-m.iptv.bulsat.com:1935/redirect/radio/chanove.stream?scheme=m3u8&bulsatCustomParameter=134076_3009630_134076_NULL_samsungtv_750303c31e92859a73790e78d0bfba22_&bulsatendtime=1491544481&bulsatstarttime=1491508181&bulsathash=mWNnR2_APD04fYtBSaKZ1UYpaXzTfD-56PIbBtNXp94=
-#EXTINF:-1 radio="True" tvg-shift=0 group-title="Радио" tvg-logo="vitosha" tvg-id="vitosha",vitosha
-http://lb-m.iptv.bulsat.com:1935/redirect/radio/vitosha.stream?scheme=m3u8&bulsatCustomParameter=134076_3009630_134076_NULL_samsungtv_750303c31e92859a73790e78d0bfba22_&bulsatendtime=1491544481&bulsatstarttime=1491508181&bulsathash=C-2_NEIN_x3vQS-5IH6iRWlkJdrMzeg8Iz3p2NEqzLk=
-#EXTINF:-1 radio="True" tvg-shift=0 group-title="Радио" tvg-logo="njoy" tvg-id="njoy",njoy
-http://lb-m.iptv.bulsat.com:1935/redirect/radio/njoy.stream?scheme=m3u8&bulsatCustomParameter=134076_3009630_134076_NULL_samsungtv_750303c31e92859a73790e78d0bfba22_&bulsatendtime=1491544481&bulsatstarttime=1491508181&bulsathash=seasIwG7VKgOmLKpesnRuLyBagixGyUAemUyh7LFP_o=
-#EXTINF:-1 radio="True" tvg-shift=0 group-title="Радио" tvg-logo="rthevoice" tvg-id="rthevoice",The Voice
-http://lb-m.iptv.bulsat.com:1935/redirect/radio/rthevoice.stream?scheme=m3u8&bulsatCustomParameter=134076_3009630_134076_NULL_samsungtv_750303c31e92859a73790e78d0bfba22_&bulsatendtime=1491544481&bulsatstarttime=1491508181&bulsathash=PpfvbUlExMrkPsAjgeNAaS9d-EWiM8uhdFkpzVuVPBw=
-#EXTINF:-1 radio="True" tvg-shift=0 group-title="Радио" tvg-logo="fresh" tvg-id="fresh",Radio Fresh
-http://lb-m.iptv.bulsat.com:1935/redirect/radio/fresh.stream?scheme=m3u8&bulsatCustomParameter=134076_3009630_134076_NULL_samsungtv_750303c31e92859a73790e78d0bfba22_&bulsatendtime=1491544481&bulsatstarttime=1491508181&bulsathash=_OwasJwEv4tTebVK3teVlz7SNTVFuYRl9TF_ook3Uvc=
-#EXTINF:-1 radio="True" tvg-shift=0 group-title="Радио" tvg-logo="city" tvg-id="city",Radio City
-http://lb-m.iptv.bulsat.com:1935/redirect/radio/city.stream?scheme=m3u8&bulsatCustomParameter=134076_3009630_134076_NULL_samsungtv_750303c31e92859a73790e78d0bfba22_&bulsatendtime=1491544481&bulsatstarttime=1491508181&bulsathash=xx11RpbC5oqrrTEJmPmGgzMJYTbloMrq86-X26ib2QQ=
-#EXTINF:-1 radio="True" tvg-shift=0 group-title="Радио" tvg-logo="nrj" tvg-id="nrj",nrj
-http://lb-m.iptv.bulsat.com:1935/redirect/radio/nrj.stream?scheme=m3u8&bulsatCustomParameter=134076_3009630_134076_NULL_samsungtv_750303c31e92859a73790e78d0bfba22_&bulsatendtime=1491544481&bulsatstarttime=1491508181&bulsathash=9C039gh8hL3gc-HddfaJE5JDIf0Z2yyqa3HdOtqAA10=
-#EXTINF:-1 radio="True" tvg-shift=0 group-title="Радио" tvg-logo="100_hit_radio" tvg-id="100_hit_radio",100 HIT radio
-http://lb-m.iptv.bulsat.com:1935/redirect/radio/100_hit_radio.stream?scheme=m3u8&bulsatCustomParameter=134076_3009630_134076_NULL_samsungtv_750303c31e92859a73790e78d0bfba22_&bulsatendtime=1491544481&bulsatstarttime=1491508181&bulsathash=9SKhHMx5Q1esT5wNyGo-R7tZZv0LdrSmBrCWzFj7p8c=
-#EXTINF:-1 radio="True" tvg-shift=0 group-title="Радио" tvg-logo="top_100_station" tvg-id="top_100_station",Top 100 Station
-http://lb-m.iptv.bulsat.com:1935/redirect/radio/top_100_station.stream?scheme=m3u8&bulsatCustomParameter=134076_3009630_134076_NULL_samsungtv_750303c31e92859a73790e78d0bfba22_&bulsatendtime=1491544481&bulsatstarttime=1491508181&bulsathash=vmrZPvd8FYuCB6NALnlHo6RKgLmxfjR2HIYuKt868PM=
-#EXTINF:-1 radio="True" tvg-shift=0 group-title="Радио" tvg-logo="radio_family" tvg-id="radio_family",Radio Family
-http://lb-m.iptv.bulsat.com:1935/redirect/radio/radio_family.stream?scheme=m3u8&bulsatCustomParameter=134076_3009630_134076_NULL_samsungtv_750303c31e92859a73790e78d0bfba22_&bulsatendtime=1491544481&bulsatstarttime=1491508181&bulsathash=C400LQ5CkIRZQoUyAU9MZxEAXxgkBXrz8yM-kjj_Dbw=
-#EXTINF:-1 radio="True" tvg-shift=0 group-title="Радио" tvg-logo="ndr_blue" tvg-id="ndr_blue",NDR Blue
-http://lb-m.iptv.bulsat.com:1935/redirect/radio/ndr_blue.stream?scheme=m3u8&bulsatCustomParameter=134076_3009630_134076_NULL_samsungtv_750303c31e92859a73790e78d0bfba22_&bulsatendtime=1491544481&bulsatstarttime=1491508181&bulsathash=iuQP9Pri9iqmQHm5epwdzEahPI0Bediwfo5mFouKkKY=
-#EXTINF:-1 radio="True" tvg-shift=0 group-title="Радио" tvg-logo="fantasy" tvg-id="fantasy",Radio Fantasy
-http://lb-m.iptv.bulsat.com:1935/redirect/radio/fantasy.stream?scheme=m3u8&bulsatCustomParameter=134076_3009630_134076_NULL_samsungtv_750303c31e92859a73790e78d0bfba22_&bulsatendtime=1491544481&bulsatstarttime=1491508181&bulsathash=KThgL8YLasssSKGXdBlYAAQZnwhkKp-_zZT5wWfwc-A=
-#EXTINF:-1 radio="True" tvg-shift=0 group-title="Радио" tvg-logo="radio1" tvg-id="radio1",Radio 1
-http://lb-m.iptv.bulsat.com:1935/redirect/radio/radio1.stream?scheme=m3u8&bulsatCustomParameter=134076_3009630_134076_NULL_samsungtv_750303c31e92859a73790e78d0bfba22_&bulsatendtime=1491544481&bulsatstarttime=1491508181&bulsathash=LAm4gzmnfUrIK8eotAlewqbu_7k0Bn924OhRqEtqY8s=
-#EXTINF:-1 radio="True" tvg-shift=0 group-title="Радио" tvg-logo="fm_plus" tvg-id="fm_plus",FM+
-http://lb-m.iptv.bulsat.com:1935/redirect/radio/fm_plus.stream?scheme=m3u8&bulsatCustomParameter=134076_3009630_134076_NULL_samsungtv_750303c31e92859a73790e78d0bfba22_&bulsatendtime=1491544481&bulsatstarttime=1491508181&bulsathash=ILmgDsgj4wurqUA_fH5SHc2WnfMbC9HX-y0I_i54-0g=
-#EXTINF:-1 radio="True" tvg-shift=0 group-title="Радио" tvg-logo="melody" tvg-id="melody",Melody
-http://lb-m.iptv.bulsat.com:1935/redirect/radio/melody.stream?scheme=m3u8&bulsatCustomParameter=134076_3009630_134076_NULL_samsungtv_750303c31e92859a73790e78d0bfba22_&bulsatendtime=1491544481&bulsatstarttime=1491508181&bulsathash=BwGSrG3iTyCfiizZg_fuMbakYotZ0WwiEgoRE8UloSU=
-#EXTINF:-1 radio="True" tvg-shift=0 group-title="Радио" tvg-logo="magic_fm" tvg-id="magic_fm",Magic FM
-http://lb-m.iptv.bulsat.com:1935/redirect/radio/magic_fm.stream?scheme=m3u8&bulsatCustomParameter=134076_3009630_134076_NULL_samsungtv_750303c31e92859a73790e78d0bfba22_&bulsatendtime=1491544481&bulsatstarttime=1491508181&bulsathash=fWejDO8EunRWcCnFOfLKlugjDiT4fEQ3xXl3FZnnjAA=
-#EXTINF:-1 radio="True" tvg-shift=0 group-title="Радио" tvg-logo="maq" tvg-id="maq",Radio Maq
-http://lb-m.iptv.bulsat.com:1935/redirect/radio/maq.stream?scheme=m3u8&bulsatCustomParameter=134076_3009630_134076_NULL_samsungtv_750303c31e92859a73790e78d0bfba22_&bulsatendtime=1491544481&bulsatstarttime=1491508181&bulsathash=mtEqHUXRMQVMbn2n0ewEbjlhg_eoaJX0dixfces7YW8=
-#EXTINF:-1 radio="True" tvg-shift=0 group-title="Радио" tvg-logo="power_fm" tvg-id="power_fm",Power FM
-http://lb-m.iptv.bulsat.com:1935/redirect/radio/power_fm.stream?scheme=m3u8&bulsatCustomParameter=134076_3009630_134076_NULL_samsungtv_750303c31e92859a73790e78d0bfba22_&bulsatendtime=1491544481&bulsatstarttime=1491508181&bulsathash=sWkbpAI7hUCh6t578XX8S8q0yxwJZyRVsOYi6IqLBcs=
-#EXTINF:-1 radio="True" tvg-shift=0 group-title="Радио" tvg-logo="kid_red_radio" tvg-id="kid_red_radio",Kid Red Radio
-http://lb-m.iptv.bulsat.com:1935/redirect/radio/kid_red_radio.stream?scheme=m3u8&bulsatCustomParameter=134076_3009630_134076_NULL_samsungtv_750303c31e92859a73790e78d0bfba22_&bulsatendtime=1491544481&bulsatstarttime=1491508181&bulsathash=ZDYNtoLX1iUJYAP0OiGLkXym2QpSFqNoRoAZ_4aE6hA=
-#EXTINF:-1 radio="True" tvg-shift=0 group-title="Радио" tvg-logo="radio5_npo" tvg-id="radio5_npo",Radio5 nostalgia
-http://lb-m.iptv.bulsat.com:1935/redirect/radio/radio5_npo.stream?scheme=m3u8&bulsatCustomParameter=134076_3009630_134076_NULL_samsungtv_750303c31e92859a73790e78d0bfba22_&bulsatendtime=1491544481&bulsatstarttime=1491508181&bulsathash=CD_1aOP-w1s9-3UbFd0bfooCJRXIYCcPBl68Uve184g=
-#EXTINF:-1 radio="True" tvg-shift=0 group-title="Радио" tvg-logo="4u_80s" tvg-id="4u_80s",4U 80s
-http://lb-m.iptv.bulsat.com:1935/redirect/radio/4u_80s.stream?scheme=m3u8&bulsatCustomParameter=134076_3009630_134076_NULL_samsungtv_750303c31e92859a73790e78d0bfba22_&bulsatendtime=1491544481&bulsatstarttime=1491508181&bulsathash=7Guq5lGqYeGCa6PmtkkseQKAtaccCYWopMoN7BMhc60=
-#EXTINF:-1 radio="True" tvg-shift=0 group-title="Радио" tvg-logo="classic_fm" tvg-id="classic_fm",Classic FM
-http://lb-m.iptv.bulsat.com:1935/redirect/radio/classic_fm.stream?scheme=m3u8&bulsatCustomParameter=134076_3009630_134076_NULL_samsungtv_750303c31e92859a73790e78d0bfba22_&bulsatendtime=1491544481&bulsatstarttime=1491508181&bulsathash=Ltx3KcElKH-wFpXEcohSVESzrSh8fP89L32249RpyJ4=
-#EXTINF:-1 radio="True" tvg-shift=0 group-title="Радио" tvg-logo="zrock" tvg-id="zrock",zrock
-http://lb-m.iptv.bulsat.com:1935/redirect/radio/zrock.stream?scheme=m3u8&bulsatCustomParameter=134076_3009630_134076_NULL_samsungtv_750303c31e92859a73790e78d0bfba22_&bulsatendtime=1491544481&bulsatstarttime=1491508181&bulsathash=P1kDBHHGWEb63jZGAw8ceDk5DtWmISApeoeHqiaCIGI=
-#EXTINF:-1 radio="True" tvg-shift=0 group-title="Радио" tvg-logo="tangramegarock" tvg-id="tangramegarock",tangramegarock
-http://lb-m.iptv.bulsat.com:1935/redirect/radio/tangramegarock.stream?scheme=m3u8&bulsatCustomParameter=134076_3009630_134076_NULL_samsungtv_750303c31e92859a73790e78d0bfba22_&bulsatendtime=1491544481&bulsatstarttime=1491508181&bulsathash=1Pi3-Cev60E1f8EfSde9Yt-gDy_8VQuuAcyYVd_GiQI=
-#EXTINF:-1 radio="True" tvg-shift=0 group-title="Радио" tvg-logo="star_fm" tvg-id="star_fm",Star FM
-http://lb-m.iptv.bulsat.com:1935/redirect/radio/star_fm.stream?scheme=m3u8&bulsatCustomParameter=134076_3009630_134076_NULL_samsungtv_750303c31e92859a73790e78d0bfba22_&bulsatendtime=1491544481&bulsatstarttime=1491508181&bulsathash=Hg9yymZDjZAeKhBhHqjAeTeUG1ObytvlpfODanzjsss=
-#EXTINF:-1 radio="True" tvg-shift=0 group-title="Радио" tvg-logo="radio1rock" tvg-id="radio1rock",radio1rock
-http://lb-m.iptv.bulsat.com:1935/redirect/radio/radio1rock.stream?scheme=m3u8&bulsatCustomParameter=134076_3009630_134076_NULL_samsungtv_750303c31e92859a73790e78d0bfba22_&bulsatendtime=1491544481&bulsatstarttime=1491508181&bulsathash=gWOWgFJAtVTCQMFwX_mfYh0obhnEm0hdLTik88l509E=
-#EXTINF:-1 radio="True" tvg-shift=0 group-title="Радио" tvg-logo="one_hip_hop" tvg-id="one_hip_hop",One Hip Hop
-http://lb-m.iptv.bulsat.com:1935/redirect/radio/one_hip_hop.stream?scheme=m3u8&bulsatCustomParameter=134076_3009630_134076_NULL_samsungtv_750303c31e92859a73790e78d0bfba22_&bulsatendtime=1491544481&bulsatstarttime=1491508181&bulsathash=BY1va-Tzqq1znggD6Ljg-5Aro7DJTXnP0sI8IPwK54g=
-#EXTINF:-1 radio="True" tvg-shift=0 group-title="Радио" tvg-logo="alpha_radio" tvg-id="alpha_radio",ALPHA radio
-http://lb-m.iptv.bulsat.com:1935/redirect/radio/alpha_radio.stream?scheme=m3u8&bulsatCustomParameter=134076_3009630_134076_NULL_samsungtv_750303c31e92859a73790e78d0bfba22_&bulsatendtime=1491544481&bulsatstarttime=1491508181&bulsathash=bmburNiFuoVep-ohMexa78hs_i3qPHyb4Gw_Jd6BGyE=
-#EXTINF:-1 radio="True" tvg-shift=0 group-title="Радио" tvg-logo="house_music_radio" tvg-id="house_music_radio",House Music radio
-http://lb-m.iptv.bulsat.com:1935/redirect/radio/house_music_radio.stream?scheme=m3u8&bulsatCustomParameter=134076_3009630_134076_NULL_samsungtv_750303c31e92859a73790e78d0bfba22_&bulsatendtime=1491544481&bulsatstarttime=1491508181&bulsathash=9SR3lJiaBQ1HaeZnG0ob_NHR3iqxLq8vbfSuTn-9Jno=
-#EXTINF:-1 radio="True" tvg-shift=0 group-title="Радио" tvg-logo="jazzfm" tvg-id="jazzfm",jazzfm
-http://lb-m.iptv.bulsat.com:1935/redirect/radio/jazzfm.stream?scheme=m3u8&bulsatCustomParameter=134076_3009630_134076_NULL_samsungtv_750303c31e92859a73790e78d0bfba22_&bulsatendtime=1491544481&bulsatstarttime=1491508181&bulsathash=Pc0BaHtqdyJs8ebOVrYmrRLxJSJq6YtEU4y6l2LhOJY=
-#EXTINF:-1 radio="True" tvg-shift=0 group-title="Радио" tvg-logo="jazz_fm_lounge" tvg-id="jazz_fm_lounge",Jazz FM Lounge
-http://lb-m.iptv.bulsat.com:1935/redirect/radio/jazz_fm_lounge.stream?scheme=m3u8&bulsatCustomParameter=134076_3009630_134076_NULL_samsungtv_750303c31e92859a73790e78d0bfba22_&bulsatendtime=1491544481&bulsatstarttime=1491508181&bulsathash=KyR9rOgyz4XzWWqaYOfH8JKIdY9xGf9TlETBwRhP4i0=
-#EXTINF:-1 radio="True" tvg-shift=0 group-title="Радио" tvg-logo="belle_amie" tvg-id="belle_amie",Belle Amie
-http://lb-m.iptv.bulsat.com:1935/redirect/radio/belle_amie.stream?scheme=m3u8&bulsatCustomParameter=134076_3009630_134076_NULL_samsungtv_750303c31e92859a73790e78d0bfba22_&bulsatendtime=1491544481&bulsatstarttime=1491508181&bulsathash=tL4epxtUWg6StgmtJUNaN_qunHcPvydpovIyitYq1hI=
-#EXTINF:-1 radio="True" tvg-shift=0 group-title="Радио" tvg-logo="juzni_vetar" tvg-id="juzni_vetar",Juzni Vetar
-http://lb-m.iptv.bulsat.com:1935/redirect/radio/juzni_vetar.stream?scheme=m3u8&bulsatCustomParameter=134076_3009630_134076_NULL_samsungtv_750303c31e92859a73790e78d0bfba22_&bulsatendtime=1491544481&bulsatstarttime=1491508181&bulsathash=weFuivPjuwx5fIOlHe-2aROvp0wC9TrdSEE3kZeVWMo=
-#EXTINF:-1 radio="True" tvg-shift=0 group-title="Радио" tvg-logo="argosaronikos" tvg-id="argosaronikos",radio Argosaronikos
-http://lb-m.iptv.bulsat.com:1935/redirect/radio/argosaronikos.stream?scheme=m3u8&bulsatCustomParameter=134076_3009630_134076_NULL_samsungtv_750303c31e92859a73790e78d0bfba22_&bulsatendtime=1491544481&bulsatstarttime=1491508181&bulsathash=ELVF6SQ8LDtjDfFYhrWJWxThC5zFb5Q6T0ei0a9dFEg=
-#EXTINF:-1 radio="True" tvg-shift=0 group-title="Радио" tvg-logo="symiradio" tvg-id="symiradio",symiradio
-http://lb-m.iptv.bulsat.com:1935/redirect/radio/symiradio.stream?scheme=m3u8&bulsatCustomParameter=134076_3009630_134076_NULL_samsungtv_750303c31e92859a73790e78d0bfba22_&bulsatendtime=1491544481&bulsatstarttime=1491508181&bulsathash=zicS1QqEm9N3jWRru1khF8DCLPuIWmHgXpKBbmBTZh0=
-#EXTINF:-1 radio="True" tvg-shift=0 group-title="Радио" tvg-logo="kalamariafm" tvg-id="kalamariafm",kalamariafm
-http://lb-m.iptv.bulsat.com:1935/redirect/radio/kalamariafm.stream?scheme=m3u8&bulsatCustomParameter=134076_3009630_134076_NULL_samsungtv_750303c31e92859a73790e78d0bfba22_&bulsatendtime=1491544481&bulsatstarttime=1491508181&bulsathash=1aheV-ec_FhtTV1ZIh1HlgfBMvtrDe3rPlMgwl6NQSY=
-#EXTINF:-1 radio="True" tvg-shift=0 group-title="Радио" tvg-logo="sky_radio_greece" tvg-id="sky_radio_greece",SKY radio Greece
-http://lb-m.iptv.bulsat.com:1935/redirect/radio/sky_radio_greece.stream?scheme=m3u8&bulsatCustomParameter=134076_3009630_134076_NULL_samsungtv_750303c31e92859a73790e78d0bfba22_&bulsatendtime=1491544481&bulsatstarttime=1491508181&bulsathash=p7YlzRuAW_DIpv3qMyq6RkeiNRfHKNpdB56cpmati1A=
-#EXTINF:-1 radio="False" tvg-shift=0 group-title="Радио" tvg-logo="bulsatinfo" tvg-id="bulsatinfo",Bulsat Info Channel
-http://lb-m.iptv.bulsat.com:1935/redirect/tv228/bulsatinfo-med.stream?scheme=m3u8&bulsatCustomParameter=134076_3009630_134076_NULL_samsungtv_750303c31e92859a73790e78d0bfba22_&bulsatendtime=1491544481&bulsatstarttime=1491508181&bulsathash=dM04e0K6aKEZCvO_Y2c-s0taWt0iqAftPEtmKUA-Pn0=
+#EXTINF:-1 radio="False" group-title="ЕФИРНИ" tvg-logo="bnt1_hd" tvg-id="bnt1_hd",БНТ 1 HD
+http://lb-m.iptv.bulsat.com:1935/redirect/bnt/bnt1_hd-med.stream?scheme=m3u8&bulsatCustomParameter=134076_3009630_134076_NULL_samsungtv_252dba8f7cb731dbf3e7b9e1605de9a0_&bulsatendtime=1491615372&bulsatstarttime=1491579072&bulsathash=awy-_vmfrr8FJJgk1EYrKOJ-8mLw1oBxue8fh_QvBUE=
+#EXTINF:-1 radio="False" group-title="ЕФИРНИ" tvg-logo="btv" tvg-id="btv",bTV HD
+http://lb-m.iptv.bulsat.com:1935/redirect/btv/btv-med.stream?scheme=m3u8&bulsatCustomParameter=134076_3009630_134076_NULL_samsungtv_252dba8f7cb731dbf3e7b9e1605de9a0_&bulsatendtime=1491615372&bulsatstarttime=1491579072&bulsathash=zMxVyRWXm11LWON_wnt93Z5VxucYCm-H0bhWRnHlGeA=
+#EXTINF:-1 radio="False" group-title="ЕФИРНИ" tvg-logo="novatv" tvg-id="novatv",Nova TV
+http://lb-m.iptv.bulsat.com:1935/redirect/nova/novatv-med.stream?scheme=m3u8&bulsatCustomParameter=134076_3009630_134076_NULL_samsungtv_252dba8f7cb731dbf3e7b9e1605de9a0_&bulsatendtime=1491615372&bulsatstarttime=1491579072&bulsathash=0_kEXOZMJIWCRZJyLnZIBRrQwwdvWNNQXxCgGC1vQ7Y=
+#EXTINF:-1 radio="False" group-title="ЕФИРНИ" tvg-logo="tvplus" tvg-id="tvplus",TV+
+http://lb-m.iptv.bulsat.com:1935/redirect/tv6/tvplus-med.stream?scheme=m3u8&bulsatCustomParameter=134076_3009630_134076_NULL_samsungtv_252dba8f7cb731dbf3e7b9e1605de9a0_&bulsatendtime=1491615372&bulsatstarttime=1491579072&bulsathash=x0ZOWlETxtE1LtRCpFnSAdQ6uSZJiHnZOunHjNLpub0=
+#EXTINF:-1 radio="False" group-title="ЕФИРНИ" tvg-logo="bnt2" tvg-id="bnt2",БНТ 2
+http://lb-m.iptv.bulsat.com:1935/redirect/bnt/bnt2-med.stream?scheme=m3u8&bulsatCustomParameter=134076_3009630_134076_NULL_samsungtv_252dba8f7cb731dbf3e7b9e1605de9a0_&bulsatendtime=1491615372&bulsatstarttime=1491579072&bulsathash=LCix_sKnN9Bo2bfu8wOTj85pOBGwIIW1L-7kGq5Hzd8=
+#EXTINF:-1 radio="False" group-title="ЕФИРНИ" tvg-logo="bntworld" tvg-id="bntworld",BNT world
+http://lb-m.iptv.bulsat.com:1935/redirect/bnt/bntworld-med.stream?scheme=m3u8&bulsatCustomParameter=134076_3009630_134076_NULL_samsungtv_252dba8f7cb731dbf3e7b9e1605de9a0_&bulsatendtime=1491615372&bulsatstarttime=1491579072&bulsathash=bvMF4Xex2EkElUc11GakcJEA5CTXmIHFrF83PddGkz4=
+#EXTINF:-1 radio="False" group-title="ЕФИРНИ" tvg-logo="bit" tvg-id="bit",BiT
+http://lb-m.iptv.bulsat.com:1935/redirect/tv4/bit-med.stream?scheme=m3u8&bulsatCustomParameter=134076_3009630_134076_NULL_samsungtv_252dba8f7cb731dbf3e7b9e1605de9a0_&bulsatendtime=1491615372&bulsatstarttime=1491579072&bulsathash=_Fm71l9CNNPS-PnlN7QT4K_VHYu87FcU7j_2KOV8fLM=
+#EXTINF:-1 radio="False" group-title="ЕФИРНИ" tvg-logo="tvevropa" tvg-id="tvevropa",ТВ Европа
+http://lb-m.iptv.bulsat.com:1935/redirect/tv2/tvevropa-med.stream?scheme=m3u8&bulsatCustomParameter=134076_3009630_134076_NULL_samsungtv_252dba8f7cb731dbf3e7b9e1605de9a0_&bulsatendtime=1491615372&bulsatstarttime=1491579072&bulsathash=TMap-zMyQUxulq2-T1r7_5cR-OrseyJv80nbWLW2zJk=
+#EXTINF:-1 radio="False" group-title="ЕФИРНИ" tvg-logo="bnt_hd" tvg-id="bnt_hd",БНТ HD
+http://lb-m.iptv.bulsat.com:1935/redirect/sport1/bnt_hd-med.stream?scheme=m3u8&bulsatCustomParameter=134076_3009630_134076_NULL_samsungtv_252dba8f7cb731dbf3e7b9e1605de9a0_&bulsatendtime=1491615372&bulsatstarttime=1491579072&bulsathash=bbtHb9ZbA4RESLTQPnD5Rv3ZHRv-uw9fsf9ZzCaYh7U=
+#EXTINF:-1 radio="False" group-title="ЕФИРНИ" tvg-logo="kanal_3" tvg-id="kanal_3",Kanal 3
+http://lb-m.iptv.bulsat.com:1935/redirect/tv7/kanal_3-med.stream?scheme=m3u8&bulsatCustomParameter=134076_3009630_134076_NULL_samsungtv_252dba8f7cb731dbf3e7b9e1605de9a0_&bulsatendtime=1491615372&bulsatstarttime=1491579072&bulsathash=NQTP6OQedZ99ZM5UioVNbhxlOWpsdrSl0fiRO4OqzTc=
+#EXTINF:-1 radio="False" group-title="ЕФИРНИ" tvg-logo="skat" tvg-id="skat",Skat
+http://lb-m.iptv.bulsat.com:1935/redirect/tv7/skat-med.stream?scheme=m3u8&bulsatCustomParameter=134076_3009630_134076_NULL_samsungtv_252dba8f7cb731dbf3e7b9e1605de9a0_&bulsatendtime=1491615372&bulsatstarttime=1491579072&bulsathash=r66jMjY2_iJlZZpgOBa8CNJOvNmXfuXnDGVg1Q8RQEw=
+#EXTINF:-1 radio="False" group-title="ЕФИРНИ" tvg-logo="alfa" tvg-id="alfa",Alfa
+http://lb-m.iptv.bulsat.com:1935/redirect/tv6/alfa-med.stream?scheme=m3u8&bulsatCustomParameter=134076_3009630_134076_NULL_samsungtv_252dba8f7cb731dbf3e7b9e1605de9a0_&bulsatendtime=1491615372&bulsatstarttime=1491579072&bulsathash=gIl__2pm2YaV_ifiS4RsMb17kYbHCqMW6d84DeWeEwc=
+#EXTINF:-1 radio="False" group-title="ЕФИРНИ" tvg-logo="bulgaria_on_air" tvg-id="bulgaria_on_air",Bulgaria ON Air
+http://lb-m.iptv.bulsat.com:1935/redirect/tv8/bulgaria_on_air-med.stream?scheme=m3u8&bulsatCustomParameter=134076_3009630_134076_NULL_samsungtv_252dba8f7cb731dbf3e7b9e1605de9a0_&bulsatendtime=1491615372&bulsatstarttime=1491579072&bulsathash=IZmMmCD5GJybv_cImlETfiPRg_ztwSb5A0E5Fa0TfNU=
+#EXTINF:-1 radio="False" group-title="ЕФИРНИ" tvg-logo="evrokom" tvg-id="evrokom",Evrokom
+http://lb-m.iptv.bulsat.com:1935/redirect/tv2/evrokom-med.stream?scheme=m3u8&bulsatCustomParameter=134076_3009630_134076_NULL_samsungtv_252dba8f7cb731dbf3e7b9e1605de9a0_&bulsatendtime=1491615372&bulsatstarttime=1491579072&bulsathash=dPszioGDOp84zfRcFfFjapyf-hBQLJ7A9mHhZFvJhtw=
+#EXTINF:-1 radio="False" group-title="ЕФИРНИ" tvg-logo="bulgaria24" tvg-id="bulgaria24",Bulgaria 24
+http://lb-m.iptv.bulsat.com:1935/redirect/tv2/bulgaria24-med.stream?scheme=m3u8&bulsatCustomParameter=134076_3009630_134076_NULL_samsungtv_252dba8f7cb731dbf3e7b9e1605de9a0_&bulsatendtime=1491615372&bulsatstarttime=1491579072&bulsathash=eRtCSHOQam8qU1Vqsy7Zhpy8AV-zESG7l-3FZ4mwnHI=
+#EXTINF:-1 radio="False" group-title="Спортни" tvg-logo="diema" tvg-id="diema",Diema
+http://lb-m.iptv.bulsat.com:1935/redirect/nova/diema-med.stream?scheme=m3u8&bulsatCustomParameter=134076_3009630_134076_NULL_samsungtv_252dba8f7cb731dbf3e7b9e1605de9a0_&bulsatendtime=1491615372&bulsatstarttime=1491579072&bulsathash=o8fKd1itXGgwKzjF4TvQBLVXkpTTNXpcdvpYYYK52E4=
+#EXTINF:-1 radio="False" group-title="Спортни" tvg-logo="eurosport" tvg-id="eurosport",Eurosport
+http://lb-m.iptv.bulsat.com:1935/redirect/sport3/eurosport-med.stream?scheme=m3u8&bulsatCustomParameter=134076_3009630_134076_NULL_samsungtv_252dba8f7cb731dbf3e7b9e1605de9a0_&bulsatendtime=1491615372&bulsatstarttime=1491579072&bulsathash=Lu97yFFMn4ZKdK_HYDuUcM1XVxk8YaFZAnUy1NPxbx0=
+#EXTINF:-1 radio="False" group-title="Спортни" tvg-logo="eurosport2" tvg-id="eurosport2",Eurosport 2 HD
+http://lb-m.iptv.bulsat.com:1935/redirect/sport4/eurosport2-med.stream?scheme=m3u8&bulsatCustomParameter=134076_3009630_134076_NULL_samsungtv_252dba8f7cb731dbf3e7b9e1605de9a0_&bulsatendtime=1491615372&bulsatstarttime=1491579072&bulsathash=E37Lcf3RksK34zQGSfzggo7Q_8qkfXaflBRlRUW6wWc=
+#EXTINF:-1 radio="False" group-title="Спортни" tvg-logo="btv_action" tvg-id="btv_action",bTV Action
+http://lb-m.iptv.bulsat.com:1935/redirect/sport1/btv_action-med.stream?scheme=m3u8&bulsatCustomParameter=134076_3009630_134076_NULL_samsungtv_252dba8f7cb731dbf3e7b9e1605de9a0_&bulsatendtime=1491615372&bulsatstarttime=1491579072&bulsathash=yGLnnTDoFoE7tiMqvDVJ85_u2Dv5C_tNKSyCQ_3pa9Y=
+#EXTINF:-1 radio="False" group-title="Спортни" tvg-logo="ringbg" tvg-id="ringbg",Ring HD
+http://lb-m.iptv.bulsat.com:1935/redirect/sport1/ringbg-med.stream?scheme=m3u8&bulsatCustomParameter=134076_3009630_134076_NULL_samsungtv_252dba8f7cb731dbf3e7b9e1605de9a0_&bulsatendtime=1491615372&bulsatstarttime=1491579072&bulsathash=WeSqzmKkr8e6hecma5fcF-D9ihbZSswvYb3ghqeuLXg=
+#EXTINF:-1 radio="False" group-title="Спортни" tvg-logo="novasporthd" tvg-id="novasporthd",Nova Sport HD
+http://lb-m.iptv.bulsat.com:1935/redirect/sport2/novasporthd-med.stream?scheme=m3u8&bulsatCustomParameter=134076_3009630_134076_NULL_samsungtv_252dba8f7cb731dbf3e7b9e1605de9a0_&bulsatendtime=1491615372&bulsatstarttime=1491579072&bulsathash=MrD0wWwhYlQEt1C9xf16E5ykplNbALB-RRaNyJ_bMAA=
+#EXTINF:-1 radio="False" group-title="Спортни" tvg-logo="sportaltv" tvg-id="sportaltv",Sportal HD
+http://lb-m.iptv.bulsat.com:1935/redirect/tv4/sportaltv-med.stream?scheme=m3u8&bulsatCustomParameter=134076_3009630_134076_NULL_samsungtv_252dba8f7cb731dbf3e7b9e1605de9a0_&bulsatendtime=1491615372&bulsatstarttime=1491579072&bulsathash=Iabqf3yhvvCPdomeYr3Zqxo0fQFvpSZpxvgjj1B_U6Y=
+#EXTINF:-1 radio="False" group-title="Спортни" tvg-logo="avto_moto_bg_hd" tvg-id="avto_moto_bg_hd",Мотоспорт HD
+http://lb-m.iptv.bulsat.com:1935/redirect/tv2/avto_moto_bg_hd-med.stream?scheme=m3u8&bulsatCustomParameter=134076_3009630_134076_NULL_samsungtv_252dba8f7cb731dbf3e7b9e1605de9a0_&bulsatendtime=1491615372&bulsatstarttime=1491579072&bulsathash=x3Bo7WrVIw92C2nG3k7QpDn3640Z-Rk9sN_0BYxG7-E=
+#EXTINF:-1 radio="False" group-title="Научни" tvg-logo="discovery" tvg-id="discovery",Discovery channel
+http://lb-m.iptv.bulsat.com:1935/redirect/tv6/discovery-med.stream?scheme=m3u8&bulsatCustomParameter=134076_3009630_134076_NULL_samsungtv_252dba8f7cb731dbf3e7b9e1605de9a0_&bulsatendtime=1491615372&bulsatstarttime=1491579072&bulsathash=UTK38UxfdGhN2TMSnYGpzlhfSR4PdYjzMUyIVZ4wDr8=
+#EXTINF:-1 radio="False" group-title="Научни" tvg-logo="discovery_science" tvg-id="discovery_science",Science
+http://lb-m.iptv.bulsat.com:1935/redirect/tv9/discovery_science-med.stream?scheme=m3u8&bulsatCustomParameter=134076_3009630_134076_NULL_samsungtv_252dba8f7cb731dbf3e7b9e1605de9a0_&bulsatendtime=1491615372&bulsatstarttime=1491579072&bulsathash=-hmGDoYlLHz7y-JTzuQY4gGBCx9pSaDfeVCNoZMKKLY=
+#EXTINF:-1 radio="False" group-title="Научни" tvg-logo="discovery_world" tvg-id="discovery_world",Discovery World
+http://lb-m.iptv.bulsat.com:1935/redirect/tv9/discovery_world-med.stream?scheme=m3u8&bulsatCustomParameter=134076_3009630_134076_NULL_samsungtv_252dba8f7cb731dbf3e7b9e1605de9a0_&bulsatendtime=1491615372&bulsatstarttime=1491579072&bulsathash=bdRmJAZr3M9Ke72XJhkqqzALT28Rc1SfGTuSZmWdg38=
+#EXTINF:-1 radio="False" group-title="Научни" tvg-logo="nat_geo_hd" tvg-id="nat_geo_hd",NGC HD
+http://lb-m.iptv.bulsat.com:1935/redirect/tv6/nat_geo_hd-med.stream?scheme=m3u8&bulsatCustomParameter=134076_3009630_134076_NULL_samsungtv_252dba8f7cb731dbf3e7b9e1605de9a0_&bulsatendtime=1491615372&bulsatstarttime=1491579072&bulsathash=Iier3ZZAFssZCB_SWMRklxhTMtyKKR8j3jYWdQdbcuw=
+#EXTINF:-1 radio="False" group-title="Научни" tvg-logo="nat_geo_wild" tvg-id="nat_geo_wild",National Geogrphic WILD HD
+http://lb-m.iptv.bulsat.com:1935/redirect/tv6/nat_geo_wild-med.stream?scheme=m3u8&bulsatCustomParameter=134076_3009630_134076_NULL_samsungtv_252dba8f7cb731dbf3e7b9e1605de9a0_&bulsatendtime=1491615372&bulsatstarttime=1491579072&bulsathash=4IG_gONsanMnriAZHAtEcBHAQeDzBaaNO4KMmR4PjpY=
+#EXTINF:-1 radio="False" group-title="Научни" tvg-logo="ot_blizo__hd" tvg-id="ot_blizo__hd",От близо HD
+http://lb-m.iptv.bulsat.com:1935/redirect/tv2/ot_blizo__hd-med.stream?scheme=m3u8&bulsatCustomParameter=134076_3009630_134076_NULL_samsungtv_252dba8f7cb731dbf3e7b9e1605de9a0_&bulsatendtime=1491615372&bulsatstarttime=1491579072&bulsathash=sCUPCVhzvnOK5b8A-TNvmxonE8pPhNHTpcDs63ap-l8=
+#EXTINF:-1 radio="False" group-title="Научни" tvg-logo="destination_bg_hd" tvg-id="destination_bg_hd",Destination BG HD
+http://lb-m.iptv.bulsat.com:1935/redirect/tv10/destination_bg_hd-med.stream?scheme=m3u8&bulsatCustomParameter=134076_3009630_134076_NULL_samsungtv_252dba8f7cb731dbf3e7b9e1605de9a0_&bulsatendtime=1491615372&bulsatstarttime=1491579072&bulsathash=177mEF67klPaVzjJLRzaYAxtHwBiMSH_EiE7hOEkcVs=
+#EXTINF:-1 radio="False" group-title="Научни" tvg-logo="bul_hist_hd" tvg-id="bul_hist_hd",Българска история HD
+http://lb-m.iptv.bulsat.com:1935/redirect/tv2/bul_hist_hd-med.stream?scheme=m3u8&bulsatCustomParameter=134076_3009630_134076_NULL_samsungtv_252dba8f7cb731dbf3e7b9e1605de9a0_&bulsatendtime=1491615372&bulsatstarttime=1491579072&bulsathash=-_u_WUtOmzegVVWvTwkuu-QqzOXZg9QHrojj8l9A58w=
+#EXTINF:-1 radio="False" group-title="Научни" tvg-logo="history_channel_hd" tvg-id="history_channel_hd",History Channel HD
+http://lb-m.iptv.bulsat.com:1935/redirect/tv7/history_channel_hd-med.stream?scheme=m3u8&bulsatCustomParameter=134076_3009630_134076_NULL_samsungtv_252dba8f7cb731dbf3e7b9e1605de9a0_&bulsatendtime=1491615372&bulsatstarttime=1491579072&bulsathash=fFgZ7IhpQgZ7aCet3LW3bdmBhVAFWgI2C1F8XkRpb-I=
+#EXTINF:-1 radio="False" group-title="Научни" tvg-logo="travel_channel" tvg-id="travel_channel",Travel Channel
+http://lb-m.iptv.bulsat.com:1935/redirect/tv9/travel_channel-med.stream?scheme=m3u8&bulsatCustomParameter=134076_3009630_134076_NULL_samsungtv_252dba8f7cb731dbf3e7b9e1605de9a0_&bulsatendtime=1491615372&bulsatstarttime=1491579072&bulsathash=d7P891xk4gKIm8mmUWK2-cNrxZvXuD7iOnKuqOZfUJA=
+#EXTINF:-1 radio="False" group-title="Научни" tvg-logo="travel_tv_hd" tvg-id="travel_tv_hd",Travel TV HD
+http://lb-m.iptv.bulsat.com:1935/redirect/tv9/travel_tv_hd-med.stream?scheme=m3u8&bulsatCustomParameter=134076_3009630_134076_NULL_samsungtv_252dba8f7cb731dbf3e7b9e1605de9a0_&bulsatendtime=1491615372&bulsatstarttime=1491579072&bulsathash=bPJCVW6VgQ5PPSuIq-9d_bWrRsPMgAKZiv5Me59bOlU=
+#EXTINF:-1 radio="False" group-title="Научни" tvg-logo="travel_tv" tvg-id="travel_tv",Travel TV
+http://lb-m.iptv.bulsat.com:1935/redirect/tv9/travel_tv-med.stream?scheme=m3u8&bulsatCustomParameter=134076_3009630_134076_NULL_samsungtv_252dba8f7cb731dbf3e7b9e1605de9a0_&bulsatendtime=1491615372&bulsatstarttime=1491579072&bulsathash=OUsLJHq-LxsMeWjIQNGssnRh-qSytgofXorWnD7Bn2s=
+#EXTINF:-1 radio="False" group-title="Научни" tvg-logo="tlc" tvg-id="tlc",TLC
+http://lb-m.iptv.bulsat.com:1935/redirect/tv8/tlc-med.stream?scheme=m3u8&bulsatCustomParameter=134076_3009630_134076_NULL_samsungtv_252dba8f7cb731dbf3e7b9e1605de9a0_&bulsatendtime=1491615372&bulsatstarttime=1491579072&bulsathash=fXQOifdbqXwwgzOBVU2IpUc3mfzr0zfzFqWTVg82y3s=
+#EXTINF:-1 radio="False" group-title="Научни" tvg-logo="fine_living" tvg-id="fine_living",Fine Living
+http://lb-m.iptv.bulsat.com:1935/redirect/tv1/fine_living-med.stream?scheme=m3u8&bulsatCustomParameter=134076_3009630_134076_NULL_samsungtv_252dba8f7cb731dbf3e7b9e1605de9a0_&bulsatendtime=1491615372&bulsatstarttime=1491579072&bulsathash=jqJVEnMSWNVMnAyAQh98Dvb4jzBiD2o4ockw3GjYp_o=
+#EXTINF:-1 radio="False" group-title="Научни" tvg-logo="in_kitchen_hd" tvg-id="in_kitchen_hd",Хайде в кухнята HD
+http://lb-m.iptv.bulsat.com:1935/redirect/tv10/in_kitchen_hd-med.stream?scheme=m3u8&bulsatCustomParameter=134076_3009630_134076_NULL_samsungtv_252dba8f7cb731dbf3e7b9e1605de9a0_&bulsatendtime=1491615372&bulsatstarttime=1491579072&bulsathash=nLstFzW1Z6QT06AbpmU02GW5Q5acd77aGy0YSzMyrC4=
+#EXTINF:-1 radio="False" group-title="Научни" tvg-logo="24_kitchen" tvg-id="24_kitchen",24 Kitchen
+http://lb-m.iptv.bulsat.com:1935/redirect/tv4/24_kitchen-med.stream?scheme=m3u8&bulsatCustomParameter=134076_3009630_134076_NULL_samsungtv_252dba8f7cb731dbf3e7b9e1605de9a0_&bulsatendtime=1491615372&bulsatstarttime=1491579072&bulsathash=1_56nHGPE0hnq0tYoYYneej4O_bSOMwJ83xUlfsClhE=
+#EXTINF:-1 radio="False" group-title="Научни" tvg-logo="wness_tv" tvg-id="wness_tv",WNESS TV HD
+http://lb-m.iptv.bulsat.com:1935/redirect/tv4/wness_tv-med.stream?scheme=m3u8&bulsatCustomParameter=134076_3009630_134076_NULL_samsungtv_252dba8f7cb731dbf3e7b9e1605de9a0_&bulsatendtime=1491615372&bulsatstarttime=1491579072&bulsathash=20mqLr7uD-e7E4VcSMkkyYSdvMsGO7UNm2VBPP9S_wI=
+#EXTINF:-1 radio="False" group-title="Научни" tvg-logo="viasat_history" tvg-id="viasat_history",Viasat History
+http://lb-m.iptv.bulsat.com:1935/redirect/tv/viasat_history-med.stream?scheme=m3u8&bulsatCustomParameter=134076_3009630_134076_NULL_samsungtv_252dba8f7cb731dbf3e7b9e1605de9a0_&bulsatendtime=1491615372&bulsatstarttime=1491579072&bulsathash=geYLwtNCxCXZ-ejtgd0rwcXxnm7Agts4cTPz7NfGhII=
+#EXTINF:-1 radio="False" group-title="Научни" tvg-logo="viasat_explorer" tvg-id="viasat_explorer",Viasat Explorer
+http://lb-m.iptv.bulsat.com:1935/redirect/tv10/viasat_explorer-med.stream?scheme=m3u8&bulsatCustomParameter=134076_3009630_134076_NULL_samsungtv_252dba8f7cb731dbf3e7b9e1605de9a0_&bulsatendtime=1491615372&bulsatstarttime=1491579072&bulsathash=Bz2x_oy1eya59u55SdpffnH4gz9P7CqXj_iGQiDUS8c=
+#EXTINF:-1 radio="False" group-title="Научни" tvg-logo="viasat_nature" tvg-id="viasat_nature",Viasat Nature
+http://lb-m.iptv.bulsat.com:1935/redirect/tv/viasat_nature-med.stream?scheme=m3u8&bulsatCustomParameter=134076_3009630_134076_NULL_samsungtv_252dba8f7cb731dbf3e7b9e1605de9a0_&bulsatendtime=1491615372&bulsatstarttime=1491579072&bulsathash=mUuXdVrMYYJuNH3AiKPxBIPJmRKbI-5L_u1szKFSonU=
+#EXTINF:-1 radio="False" group-title="Научни" tvg-logo="da_vinci_learning" tvg-id="da_vinci_learning",Da Vinci Learning
+http://lb-m.iptv.bulsat.com:1935/redirect/tv35/da_vinci_learning-med.stream?scheme=m3u8&bulsatCustomParameter=134076_3009630_134076_NULL_samsungtv_252dba8f7cb731dbf3e7b9e1605de9a0_&bulsatendtime=1491615372&bulsatstarttime=1491579072&bulsathash=jF3vFHWhEQW1n8bX3aLsWeEhbrl3571TtDUJDYXOc3w=
+#EXTINF:-1 radio="False" group-title="Научни" tvg-logo="agro_tv_hd" tvg-id="agro_tv_hd",Agro TV
+http://lb-m.iptv.bulsat.com:1935/redirect/tv5/agro_tv_hd-med.stream?scheme=m3u8&bulsatCustomParameter=134076_3009630_134076_NULL_samsungtv_252dba8f7cb731dbf3e7b9e1605de9a0_&bulsatendtime=1491615372&bulsatstarttime=1491579072&bulsathash=SyQGSvTTmE6ol-wyvNlGh7CH9qrFB8yzVqCJ2QrRE6U=
+#EXTINF:-1 radio="False" group-title="Научни" tvg-logo="tvt" tvg-id="tvt",TVT
+http://lb-m.iptv.bulsat.com:1935/redirect/tv11/tvt-med.stream?scheme=m3u8&bulsatCustomParameter=134076_3009630_134076_NULL_samsungtv_252dba8f7cb731dbf3e7b9e1605de9a0_&bulsatendtime=1491615372&bulsatstarttime=1491579072&bulsathash=VGfmp1xydk4YlTwSwB4Drz50OLkmjIWyUOajcZFIp34=
+#EXTINF:-1 radio="False" group-title="Научни" tvg-logo="in_life_hd" tvg-id="in_life_hd",In LIFE TV
+http://lb-m.iptv.bulsat.com:1935/redirect/tv6/in_life_hd-med.stream?scheme=m3u8&bulsatCustomParameter=134076_3009630_134076_NULL_samsungtv_252dba8f7cb731dbf3e7b9e1605de9a0_&bulsatendtime=1491615372&bulsatstarttime=1491579072&bulsathash=L-0CGzwXrBrem20S2XadNcqY1AegncVq8BUVcWg7XfU=
+#EXTINF:-1 radio="False" group-title="Филмови" tvg-logo="kinonova" tvg-id="kinonova",KinoNova
+http://lb-m.iptv.bulsat.com:1935/redirect/nova/kinonova-med.stream?scheme=m3u8&bulsatCustomParameter=134076_3009630_134076_NULL_samsungtv_252dba8f7cb731dbf3e7b9e1605de9a0_&bulsatendtime=1491615372&bulsatstarttime=1491579072&bulsathash=huVhU5MDmDCZ-zqm-CS49JSFfWlzZck9WlXoVYdJ6ns=
+#EXTINF:-1 radio="False" group-title="Филмови" tvg-logo="filmplus_hd" tvg-id="filmplus_hd",Film + HD
+http://lb-m.iptv.bulsat.com:1935/redirect/tv/filmplus_hd-med.stream?scheme=m3u8&bulsatCustomParameter=134076_3009630_134076_NULL_samsungtv_252dba8f7cb731dbf3e7b9e1605de9a0_&bulsatendtime=1491615372&bulsatstarttime=1491579072&bulsathash=lvki5ZAbxFX4-dsmQUNRc3Q00_f8rrTDHyD23ubqRH8=
+#EXTINF:-1 radio="False" group-title="Филмови" tvg-logo="btv_cinema" tvg-id="btv_cinema",bTV Cinema
+http://lb-m.iptv.bulsat.com:1935/redirect/btv/btv_cinema-med.stream?scheme=m3u8&bulsatCustomParameter=134076_3009630_134076_NULL_samsungtv_252dba8f7cb731dbf3e7b9e1605de9a0_&bulsatendtime=1491615372&bulsatstarttime=1491579072&bulsathash=u_aiw5HFVJpfSnnQT0BuOWCab8Kb5igmKOQFV_najs8=
+#EXTINF:-1 radio="False" group-title="Филмови" tvg-logo="btv_comedy" tvg-id="btv_comedy",bTV Comedy
+http://lb-m.iptv.bulsat.com:1935/redirect/btv/btv_comedy-med.stream?scheme=m3u8&bulsatCustomParameter=134076_3009630_134076_NULL_samsungtv_252dba8f7cb731dbf3e7b9e1605de9a0_&bulsatendtime=1491615372&bulsatstarttime=1491579072&bulsathash=v6dqjUcbkmdjOh8wt8p13q5RU7-l8IE0IlVi_AUjmOI=
+#EXTINF:-1 radio="False" group-title="Филмови" tvg-logo="btv_lady" tvg-id="btv_lady",bTV Lady
+http://lb-m.iptv.bulsat.com:1935/redirect/btv/btv_lady-med.stream?scheme=m3u8&bulsatCustomParameter=134076_3009630_134076_NULL_samsungtv_252dba8f7cb731dbf3e7b9e1605de9a0_&bulsatendtime=1491615372&bulsatstarttime=1491579072&bulsathash=8Yoq9mGVeruNtq68kw3RVOL2RQyXyxD8QNw7u2WiWhQ=
+#EXTINF:-1 radio="False" group-title="Филмови" tvg-logo="diema_family" tvg-id="diema_family",Diema Family
+http://lb-m.iptv.bulsat.com:1935/redirect/nova/diema_family-med.stream?scheme=m3u8&bulsatCustomParameter=134076_3009630_134076_NULL_samsungtv_252dba8f7cb731dbf3e7b9e1605de9a0_&bulsatendtime=1491615372&bulsatstarttime=1491579072&bulsathash=rYYdbf5Q-wfZ7d7lUufQIKR2Pg8eeOGjCFy9HoXH4OA=
+#EXTINF:-1 radio="False" group-title="Филмови" tvg-logo="fox" tvg-id="fox",FOX
+http://lb-m.iptv.bulsat.com:1935/redirect/tv4/fox-high.stream?scheme=m3u8&bulsatCustomParameter=134076_3009630_134076_NULL_samsungtv_252dba8f7cb731dbf3e7b9e1605de9a0_&bulsatendtime=1491615372&bulsatstarttime=1491579072&bulsathash=ydX1Ga1WsQ8atnnzQ3Fxj489LDbpclSxfKNVc-hi_BA=
+#EXTINF:-1 radio="False" group-title="Филмови" tvg-logo="fox_life" tvg-id="fox_life",Fox Life
+http://lb-m.iptv.bulsat.com:1935/redirect/tv4/fox_life-high.stream?scheme=m3u8&bulsatCustomParameter=134076_3009630_134076_NULL_samsungtv_252dba8f7cb731dbf3e7b9e1605de9a0_&bulsatendtime=1491615372&bulsatstarttime=1491579072&bulsathash=KQCbOu09xfZ7bX1jUKMaDT_XJKa1aFcIuFXrelqxAf8=
+#EXTINF:-1 radio="False" group-title="Филмови" tvg-logo="fox_crime" tvg-id="fox_crime",Fox Crime
+http://lb-m.iptv.bulsat.com:1935/redirect/tv4/fox_crime-high.stream?scheme=m3u8&bulsatCustomParameter=134076_3009630_134076_NULL_samsungtv_252dba8f7cb731dbf3e7b9e1605de9a0_&bulsatendtime=1491615372&bulsatstarttime=1491579072&bulsathash=Xuo4PaGaGPyh0OcnAmrqGcHySJQgIDO8N6xwIh-UmA4=
+#EXTINF:-1 radio="False" group-title="Филмови" tvg-logo="axn" tvg-id="axn",AXN
+http://lb-m.iptv.bulsat.com:1935/redirect/tv2/axn-med.stream?scheme=m3u8&bulsatCustomParameter=134076_3009630_134076_NULL_samsungtv_252dba8f7cb731dbf3e7b9e1605de9a0_&bulsatendtime=1491615372&bulsatstarttime=1491579072&bulsathash=nQ3q2UY6awqoBP61gnwXCnfHaH1BgIJ8J4v6heQe0lI=
+#EXTINF:-1 radio="False" group-title="Филмови" tvg-logo="axn_black" tvg-id="axn_black",AXN Black
+http://lb-m.iptv.bulsat.com:1935/redirect/tv2/axn_black-med.stream?scheme=m3u8&bulsatCustomParameter=134076_3009630_134076_NULL_samsungtv_252dba8f7cb731dbf3e7b9e1605de9a0_&bulsatendtime=1491615372&bulsatstarttime=1491579072&bulsathash=LutLnmOqjSBAjaY7WxMUKkLIlfJsUXhKCmLyAROJyUc=
+#EXTINF:-1 radio="False" group-title="Филмови" tvg-logo="axn_white" tvg-id="axn_white",AXN White
+http://lb-m.iptv.bulsat.com:1935/redirect/tv2/axn_white-med.stream?scheme=m3u8&bulsatCustomParameter=134076_3009630_134076_NULL_samsungtv_252dba8f7cb731dbf3e7b9e1605de9a0_&bulsatendtime=1491615372&bulsatstarttime=1491579072&bulsathash=Ap2QB_zVo-GvYZfFVbVV8AcnBRbRbp1egtt9PxQfYTk=
+#EXTINF:-1 radio="False" group-title="Филмови" tvg-logo="tv1000" tvg-id="tv1000",TV1000
+http://lb-m.iptv.bulsat.com:1935/redirect/tv8/tv1000-med.stream?scheme=m3u8&bulsatCustomParameter=134076_3009630_134076_NULL_samsungtv_252dba8f7cb731dbf3e7b9e1605de9a0_&bulsatendtime=1491615372&bulsatstarttime=1491579072&bulsathash=OX7V_CqZ2URPJU_ACySjv4vT7qPk9WsubQwKwg0oYNs=
+#EXTINF:-1 radio="False" group-title="Филмови" tvg-logo="id_xtra" tvg-id="id_xtra",ID Xtra
+http://lb-m.iptv.bulsat.com:1935/redirect/tv2/id_xtra-med.stream?scheme=m3u8&bulsatCustomParameter=134076_3009630_134076_NULL_samsungtv_252dba8f7cb731dbf3e7b9e1605de9a0_&bulsatendtime=1491615372&bulsatstarttime=1491579072&bulsathash=Y8RchBJC1m254k3JOKdg_ErglJQ4UK3Cf808-PZeSwQ=
+#EXTINF:-1 radio="False" group-title="Филмови" tvg-logo="filmbox_hd" tvg-id="filmbox_hd",FILMBOX HD
+http://lb-m.iptv.bulsat.com:1935/redirect/tv7/filmbox_hd-med.stream?scheme=m3u8&bulsatCustomParameter=134076_3009630_134076_NULL_samsungtv_252dba8f7cb731dbf3e7b9e1605de9a0_&bulsatendtime=1491615372&bulsatstarttime=1491579072&bulsathash=yHgPCij3lYPlPTBMxHcsyvYDzgLZltKQAYTnF5s6cG4=
+#EXTINF:-1 radio="False" group-title="Музикални" tvg-logo="planetahd" tvg-id="planetahd",Planeta HD
+http://lb-m.iptv.bulsat.com:1935/redirect/tv7/planetahd-med.stream?scheme=m3u8&bulsatCustomParameter=134076_3009630_134076_NULL_samsungtv_252dba8f7cb731dbf3e7b9e1605de9a0_&bulsatendtime=1491615372&bulsatstarttime=1491579072&bulsathash=tJROvEJrGySYXiEql_7TG4hSYaC853BY1hnbOTX5_sI=
+#EXTINF:-1 radio="False" group-title="Музикални" tvg-logo="planetatv" tvg-id="planetatv",Planeta
+http://lb-m.iptv.bulsat.com:1935/redirect/tv8/planetatv-med.stream?scheme=m3u8&bulsatCustomParameter=134076_3009630_134076_NULL_samsungtv_252dba8f7cb731dbf3e7b9e1605de9a0_&bulsatendtime=1491615372&bulsatstarttime=1491579072&bulsathash=q2YKNg-kc38-8gBO66XpDNAJU6vHWDzQY3f6WiiCsTk=
+#EXTINF:-1 radio="False" group-title="Музикални" tvg-logo="fan_tv_hd" tvg-id="fan_tv_hd",Fen TV HD
+http://lb-m.iptv.bulsat.com:1935/redirect/tv2/fan_tv_hd-med.stream?scheme=m3u8&bulsatCustomParameter=134076_3009630_134076_NULL_samsungtv_252dba8f7cb731dbf3e7b9e1605de9a0_&bulsatendtime=1491615372&bulsatstarttime=1491579072&bulsathash=ZIji9bMsIKG3X6Xgw4A3OFnY1F3t9VZFNoKeB_D1QiQ=
+#EXTINF:-1 radio="False" group-title="Музикални" tvg-logo="balkanica_hd" tvg-id="balkanica_hd",Balkanica HD
+http://lb-m.iptv.bulsat.com:1935/redirect/tv2/balkanica_hd-med.stream?scheme=m3u8&bulsatCustomParameter=134076_3009630_134076_NULL_samsungtv_252dba8f7cb731dbf3e7b9e1605de9a0_&bulsatendtime=1491615372&bulsatstarttime=1491579072&bulsathash=h9dEMJksNNhOyUNaErV-cnPC4BhEpsCM4VqepW_rrGs=
+#EXTINF:-1 radio="False" group-title="Музикални" tvg-logo="planeta_folk" tvg-id="planeta_folk",Planeta Folk
+http://lb-m.iptv.bulsat.com:1935/redirect/tv8/planeta_folk-med.stream?scheme=m3u8&bulsatCustomParameter=134076_3009630_134076_NULL_samsungtv_252dba8f7cb731dbf3e7b9e1605de9a0_&bulsatendtime=1491615372&bulsatstarttime=1491579072&bulsathash=dBfzWmoTFh0VCRQp-2GVW-Ssd_eoZdYfDE5pHMVnQrg=
+#EXTINF:-1 radio="False" group-title="Музикални" tvg-logo="folklor_tv_hd" tvg-id="folklor_tv_hd",Folklor TV
+http://lb-m.iptv.bulsat.com:1935/redirect/tv35/folklor_tv_hd-med.stream?scheme=m3u8&bulsatCustomParameter=134076_3009630_134076_NULL_samsungtv_252dba8f7cb731dbf3e7b9e1605de9a0_&bulsatendtime=1491615372&bulsatstarttime=1491579072&bulsathash=LikF843RbjsHaF8sHDkRpKhsgbI-JrW95qeZwa02d8w=
+#EXTINF:-1 radio="False" group-title="Музикални" tvg-logo="fen_folk_tv" tvg-id="fen_folk_tv",Fen Folk TV
+http://lb-m.iptv.bulsat.com:1935/redirect/tv2/fen_folk_tv-med.stream?scheme=m3u8&bulsatCustomParameter=134076_3009630_134076_NULL_samsungtv_252dba8f7cb731dbf3e7b9e1605de9a0_&bulsatendtime=1491615372&bulsatstarttime=1491579072&bulsathash=dHSOxQdeVYZwPJ52xNq9s1-EoCwPhpVUjWxjb6WLFTk=
+#EXTINF:-1 radio="False" group-title="Музикални" tvg-logo="tiankov_folk_hd" tvg-id="tiankov_folk_hd",Tiankov Folk HD
+http://lb-m.iptv.bulsat.com:1935/redirect/tv4/tiankov_folk_hd-med.stream?scheme=m3u8&bulsatCustomParameter=134076_3009630_134076_NULL_samsungtv_252dba8f7cb731dbf3e7b9e1605de9a0_&bulsatendtime=1491615372&bulsatstarttime=1491579072&bulsathash=MMB4mgZE7XUcZLEQnYQ_6o7iaVMCGfzzLYhpcFBua7s=
+#EXTINF:-1 radio="False" group-title="Музикални" tvg-logo="tiankov_misic_hd" tvg-id="tiankov_misic_hd",Tiankov Orient HD
+http://lb-m.iptv.bulsat.com:1935/redirect/tv4/tiankov_misic_hd-med.stream?scheme=m3u8&bulsatCustomParameter=134076_3009630_134076_NULL_samsungtv_252dba8f7cb731dbf3e7b9e1605de9a0_&bulsatendtime=1491615372&bulsatstarttime=1491579072&bulsathash=lSpqG_RI5MP0tH1-b6bUppiCm7xz3-hxaTE4R0at81A=
+#EXTINF:-1 radio="False" group-title="Музикални" tvg-logo="dstv" tvg-id="dstv",DSTV
+http://lb-m.iptv.bulsat.com:1935/redirect/tv2/dstv-med.stream?scheme=m3u8&bulsatCustomParameter=134076_3009630_134076_NULL_samsungtv_252dba8f7cb731dbf3e7b9e1605de9a0_&bulsatendtime=1491615372&bulsatstarttime=1491579072&bulsathash=Q_6n8bVGFJQ37xAC2RngiMIkIkS_PexV2pQOU6MBs_Y=
+#EXTINF:-1 radio="False" group-title="Музикални" tvg-logo="hit_tv" tvg-id="hit_tv",Hit Mix Music
+http://lb-m.iptv.bulsat.com:1935/redirect/tv5/hit_tv-med.stream?scheme=m3u8&bulsatCustomParameter=134076_3009630_134076_NULL_samsungtv_252dba8f7cb731dbf3e7b9e1605de9a0_&bulsatendtime=1491615372&bulsatstarttime=1491579072&bulsathash=wWOM9V0JZAax0foF7RiQW1dciVqjJiqzPlu8SaNXhjA=
+#EXTINF:-1 radio="False" group-title="Музикални" tvg-logo="roma_tv" tvg-id="roma_tv",Roma TV
+http://lb-m.iptv.bulsat.com:1935/redirect/tv4/roma_tv-med.stream?scheme=m3u8&bulsatCustomParameter=134076_3009630_134076_NULL_samsungtv_252dba8f7cb731dbf3e7b9e1605de9a0_&bulsatendtime=1491615372&bulsatstarttime=1491579072&bulsathash=g96_iotJwyjF2rqrlouHyMNsk1BDPhjc-G_AduDEv8A=
+#EXTINF:-1 radio="False" group-title="Музикални" tvg-logo="dm_sat" tvg-id="dm_sat",DM Sat
+http://lb-m.iptv.bulsat.com:1935/redirect/tv3/dm_sat-med.stream?scheme=m3u8&bulsatCustomParameter=134076_3009630_134076_NULL_samsungtv_252dba8f7cb731dbf3e7b9e1605de9a0_&bulsatendtime=1491615372&bulsatstarttime=1491579072&bulsathash=80Qg6SeTHejXCzg2COjcOEJt3sBYylzO9wdQ97e3Y44=
+#EXTINF:-1 radio="False" group-title="Музикални" tvg-logo="kcn_music_2" tvg-id="kcn_music_2",KCN Music 2
+http://lb-m.iptv.bulsat.com:1935/redirect/tv11/kcn_music_2-med.stream?scheme=m3u8&bulsatCustomParameter=134076_3009630_134076_NULL_samsungtv_252dba8f7cb731dbf3e7b9e1605de9a0_&bulsatendtime=1491615372&bulsatstarttime=1491579072&bulsathash=30BAvO-5vBTjGjm5HNSDcvC5Ppf9yqNATanlkD1ElkI=
+#EXTINF:-1 radio="False" group-title="Музикални" tvg-logo="kcn_music_3" tvg-id="kcn_music_3",KCN Music 3
+http://lb-m.iptv.bulsat.com:1935/redirect/tv11/kcn_music_3-med.stream?scheme=m3u8&bulsatCustomParameter=134076_3009630_134076_NULL_samsungtv_252dba8f7cb731dbf3e7b9e1605de9a0_&bulsatendtime=1491615372&bulsatstarttime=1491579072&bulsathash=Tt3H0_rjGRAABHker61IQe-Or-zn_32yT48eZ2zFqWQ=
+#EXTINF:-1 radio="False" group-title="Музикални" tvg-logo="bn_music" tvg-id="bn_music",BN Music
+http://lb-m.iptv.bulsat.com:1935/redirect/tv11/bn_music-med.stream?scheme=m3u8&bulsatCustomParameter=134076_3009630_134076_NULL_samsungtv_252dba8f7cb731dbf3e7b9e1605de9a0_&bulsatendtime=1491615372&bulsatstarttime=1491579072&bulsathash=51sUEcBxq-wyhZPydMBaE9ZiQsAcfbKDBDU6SjtEHNA=
+#EXTINF:-1 radio="False" group-title="Музикални" tvg-logo="duga_tv" tvg-id="duga_tv",Duga TV
+http://lb-m.iptv.bulsat.com:1935/redirect/tv35/duga_tv-med.stream?scheme=m3u8&bulsatCustomParameter=134076_3009630_134076_NULL_samsungtv_252dba8f7cb731dbf3e7b9e1605de9a0_&bulsatendtime=1491615372&bulsatstarttime=1491579072&bulsathash=mtBdME1ApLKDyfIJ7NsznWcN0ZzDLaSNuSgrk33E1vA=
+#EXTINF:-1 radio="False" group-title="Музикални" tvg-logo="the_voice" tvg-id="the_voice",The Voice
+http://lb-m.iptv.bulsat.com:1935/redirect/tv8/the_voice-med.stream?scheme=m3u8&bulsatCustomParameter=134076_3009630_134076_NULL_samsungtv_252dba8f7cb731dbf3e7b9e1605de9a0_&bulsatendtime=1491615372&bulsatstarttime=1491579072&bulsathash=dXWStCFmIN_LtrjQE8x6UIFLumHNA6SKl-PecDDgyr8=
+#EXTINF:-1 radio="False" group-title="Музикални" tvg-logo="magic_tv" tvg-id="magic_tv",Magic TV
+http://lb-m.iptv.bulsat.com:1935/redirect/tv5/magic_tv-med.stream?scheme=m3u8&bulsatCustomParameter=134076_3009630_134076_NULL_samsungtv_252dba8f7cb731dbf3e7b9e1605de9a0_&bulsatendtime=1491615372&bulsatstarttime=1491579072&bulsathash=9CFh_8YggfWF5PSAgVxTNZt8lTLGWHD6z4yRMkR0_dk=
+#EXTINF:-1 radio="False" group-title="Музикални" tvg-logo="bg_top_music" tvg-id="bg_top_music",BG Top Music
+http://lb-m.iptv.bulsat.com:1935/redirect/tv10/bg_top_music-med.stream?scheme=m3u8&bulsatCustomParameter=134076_3009630_134076_NULL_samsungtv_252dba8f7cb731dbf3e7b9e1605de9a0_&bulsatendtime=1491615372&bulsatstarttime=1491579072&bulsathash=nIlcUihaeK1U4PLXAmkzdnfPlIHNrE1fHTqoNKK2eME=
+#EXTINF:-1 radio="False" group-title="Музикални" tvg-logo="box_tv_hd" tvg-id="box_tv_hd",BOX TV HD
+http://lb-m.iptv.bulsat.com:1935/redirect/tv7/box_tv_hd-med.stream?scheme=m3u8&bulsatCustomParameter=134076_3009630_134076_NULL_samsungtv_252dba8f7cb731dbf3e7b9e1605de9a0_&bulsatendtime=1491615372&bulsatstarttime=1491579072&bulsathash=qATri7ffRJ_LfEUoTRjTgmQfnxFWLjOivw2rYg-3uSA=
+#EXTINF:-1 radio="False" group-title="Музикални" tvg-logo="bg_music_channel_hd" tvg-id="bg_music_channel_hd",BG Music Channel HD
+http://lb-m.iptv.bulsat.com:1935/redirect/tv2/bg_music_channel_hd-med.stream?scheme=m3u8&bulsatCustomParameter=134076_3009630_134076_NULL_samsungtv_252dba8f7cb731dbf3e7b9e1605de9a0_&bulsatendtime=1491615372&bulsatstarttime=1491579072&bulsathash=0N0pCfyl3_6UbTdebQIfOUCMEU8Pej0oZRpBRIhUrhY=
+#EXTINF:-1 radio="False" group-title="Музикални" tvg-logo="jukebox_hd" tvg-id="jukebox_hd",Jukebox
+http://lb-m.iptv.bulsat.com:1935/redirect/tv3/jukebox_hd-med.stream?scheme=m3u8&bulsatCustomParameter=134076_3009630_134076_NULL_samsungtv_252dba8f7cb731dbf3e7b9e1605de9a0_&bulsatendtime=1491615372&bulsatstarttime=1491579072&bulsathash=mJHyJOgNQFzisUwXAaLHmjHZanKt-qF18Xiq6y4FXDk=
+#EXTINF:-1 radio="False" group-title="Музикални" tvg-logo="vh1_classic" tvg-id="vh1_classic",VH1 Classic
+http://lb-m.iptv.bulsat.com:1935/redirect/tv8/vh1_classic-med.stream?scheme=m3u8&bulsatCustomParameter=134076_3009630_134076_NULL_samsungtv_252dba8f7cb731dbf3e7b9e1605de9a0_&bulsatendtime=1491615372&bulsatstarttime=1491579072&bulsathash=70tAPu3SXBRO-dHKJRV6WDSpaKdH8VrakLODrlg2awI=
+#EXTINF:-1 radio="False" group-title="Музикални" tvg-logo="vh1" tvg-id="vh1",VH1
+http://lb-m.iptv.bulsat.com:1935/redirect/tv8/vh1-med.stream?scheme=m3u8&bulsatCustomParameter=134076_3009630_134076_NULL_samsungtv_252dba8f7cb731dbf3e7b9e1605de9a0_&bulsatendtime=1491615372&bulsatstarttime=1491579072&bulsathash=wLkNrkyoOZwjnTSVd5ByCnHrfL6hWWbEP-H6ElEgAes=
+#EXTINF:-1 radio="False" group-title="Музикални" tvg-logo="mtv_rock" tvg-id="mtv_rock",MTV Rock
+http://lb-m.iptv.bulsat.com:1935/redirect/tv8/mtv_rock-med.stream?scheme=m3u8&bulsatCustomParameter=134076_3009630_134076_NULL_samsungtv_252dba8f7cb731dbf3e7b9e1605de9a0_&bulsatendtime=1491615372&bulsatstarttime=1491579072&bulsathash=jMpeo6NVMTeMj58c21wBM_EU8kaYScZ0Ne_65HYC7cI=
+#EXTINF:-1 radio="False" group-title="Музикални" tvg-logo="mtv_hits" tvg-id="mtv_hits",MTV Hits
+http://lb-m.iptv.bulsat.com:1935/redirect/tv3/mtv_hits-med.stream?scheme=m3u8&bulsatCustomParameter=134076_3009630_134076_NULL_samsungtv_252dba8f7cb731dbf3e7b9e1605de9a0_&bulsatendtime=1491615372&bulsatstarttime=1491579072&bulsathash=aG14vOCaHaUw3apPFAtDbmvc9tASWJxThev_7FnSteA=
+#EXTINF:-1 radio="False" group-title="Музикални" tvg-logo="rck_tv_hd" tvg-id="rck_tv_hd",RCK TV
+http://lb-m.iptv.bulsat.com:1935/redirect/tv/rck_tv_hd-med.stream?scheme=m3u8&bulsatCustomParameter=134076_3009630_134076_NULL_samsungtv_252dba8f7cb731dbf3e7b9e1605de9a0_&bulsatendtime=1491615372&bulsatstarttime=1491579072&bulsathash=0tUB4w5Agj2BCv-rI8jyF2wUO1racdCYEvd4-zuGVgA=
+#EXTINF:-1 radio="False" group-title="Музикални" tvg-logo="mezzo" tvg-id="mezzo",Mezzo
+http://lb-m.iptv.bulsat.com:1935/redirect/tv35/mezzo-med.stream?scheme=m3u8&bulsatCustomParameter=134076_3009630_134076_NULL_samsungtv_252dba8f7cb731dbf3e7b9e1605de9a0_&bulsatendtime=1491615372&bulsatstarttime=1491579072&bulsathash=zwDWELTgcWAXmjlZovcTHVimLamrp0cgZ5McyC5HqSc=
+#EXTINF:-1 radio="False" group-title="Музикални" tvg-logo="360tunebox" tvg-id="360tunebox",360TuneBox HD
+http://lb-m.iptv.bulsat.com:1935/redirect/tv2/360tunebox-med.stream?scheme=m3u8&bulsatCustomParameter=134076_3009630_134076_NULL_samsungtv_252dba8f7cb731dbf3e7b9e1605de9a0_&bulsatendtime=1491615372&bulsatstarttime=1491579072&bulsathash=zAQKduY-c7Uq6fhI9XzaIPG1reGp0HA808fMVWeMkxk=
+#EXTINF:-1 radio="False" group-title="Музикални" tvg-logo="musica" tvg-id="musica",Музыка
+http://lb-m.iptv.bulsat.com:1935/redirect/tv12/musica-med.stream?scheme=m3u8&bulsatCustomParameter=134076_3009630_134076_NULL_samsungtv_252dba8f7cb731dbf3e7b9e1605de9a0_&bulsatendtime=1491615372&bulsatstarttime=1491579072&bulsathash=qv5AbJ0s-Qw5GvMxLHTV6SnJNKtTOB_U6xCBpoDVWXs=
+#EXTINF:-1 radio="False" group-title="Музикални" tvg-logo="kral_tv" tvg-id="kral_tv",Kral TV
+http://lb-m.iptv.bulsat.com:1935/redirect/tv/kral_tv-med.stream?scheme=m3u8&bulsatCustomParameter=134076_3009630_134076_NULL_samsungtv_252dba8f7cb731dbf3e7b9e1605de9a0_&bulsatendtime=1491615372&bulsatstarttime=1491579072&bulsathash=lIFTabvLQa_e-xPYaZsg9pCQz-IfxQfNjCFTMmX6268=
+#EXTINF:-1 radio="False" group-title="Детски" tvg-logo="disney_channel" tvg-id="disney_channel",Disney channel
+http://lb-m.iptv.bulsat.com:1935/redirect/tv7/disney_channel-med.stream?scheme=m3u8&bulsatCustomParameter=134076_3009630_134076_NULL_samsungtv_252dba8f7cb731dbf3e7b9e1605de9a0_&bulsatendtime=1491615372&bulsatstarttime=1491579072&bulsathash=VxMxEf61eWLAVYGLmY0qoGqhSZRZVJPrGT0ZzmpDQno=
+#EXTINF:-1 radio="False" group-title="Детски" tvg-logo="cn" tvg-id="cn",CN
+http://lb-m.iptv.bulsat.com:1935/redirect/tv228/cn-med.stream?scheme=m3u8&bulsatCustomParameter=134076_3009630_134076_NULL_samsungtv_252dba8f7cb731dbf3e7b9e1605de9a0_&bulsatendtime=1491615372&bulsatstarttime=1491579072&bulsathash=9pah19naTDmzpnyGfOJPfmNtSsL-nVrbeMkLncE1lqU=
+#EXTINF:-1 radio="False" group-title="Детски" tvg-logo="nick_jr" tvg-id="nick_jr",Nick Jr.
+http://lb-m.iptv.bulsat.com:1935/redirect/tv228/nick_jr-med.stream?scheme=m3u8&bulsatCustomParameter=134076_3009630_134076_NULL_samsungtv_252dba8f7cb731dbf3e7b9e1605de9a0_&bulsatendtime=1491615372&bulsatstarttime=1491579072&bulsathash=-D-cCb_8NQZsbI0cuOXJVqfwBCH-kAAonMsN73HmlVQ=
+#EXTINF:-1 radio="False" group-title="Детски" tvg-logo="boomerang" tvg-id="boomerang",Boomerang
+http://lb-m.iptv.bulsat.com:1935/redirect/tv228/boomerang-med.stream?scheme=m3u8&bulsatCustomParameter=134076_3009630_134076_NULL_samsungtv_252dba8f7cb731dbf3e7b9e1605de9a0_&bulsatendtime=1491615372&bulsatstarttime=1491579072&bulsathash=iiPgCSC0CZBw5lQ0TNUPoax15kI6_HHu6QdF0uVGNys=
+#EXTINF:-1 radio="False" group-title="Детски" tvg-logo="nickelodeon" tvg-id="nickelodeon",Nickelodeon
+http://lb-m.iptv.bulsat.com:1935/redirect/tv7/nickelodeon-med.stream?scheme=m3u8&bulsatCustomParameter=134076_3009630_134076_NULL_samsungtv_252dba8f7cb731dbf3e7b9e1605de9a0_&bulsatendtime=1491615372&bulsatstarttime=1491579072&bulsathash=c6etKeeSahmsXgdCWy3QStnrerQTavVp4RHVpfF8IsY=
+#EXTINF:-1 radio="False" group-title="Детски" tvg-logo="ekids" tvg-id="ekids",Ekids
+http://lb-m.iptv.bulsat.com:1935/redirect/tv228/ekids-med.stream?scheme=m3u8&bulsatCustomParameter=134076_3009630_134076_NULL_samsungtv_252dba8f7cb731dbf3e7b9e1605de9a0_&bulsatendtime=1491615372&bulsatstarttime=1491579072&bulsathash=ygEud4kC2QdsiiuY_khF81oUImcfcwE5EemeIY3LsLw=
+#EXTINF:-1 radio="False" group-title="Детски" tvg-logo="ric" tvg-id="ric",RiC
+http://lb-m.iptv.bulsat.com:1935/redirect/tv/ric-med.stream?scheme=m3u8&bulsatCustomParameter=134076_3009630_134076_NULL_samsungtv_252dba8f7cb731dbf3e7b9e1605de9a0_&bulsatendtime=1491615372&bulsatstarttime=1491579072&bulsathash=twCqbgbkYuzArtFctmNyCN6iGgE08A2A4WqYMgxLEak=
+#EXTINF:-1 radio="False" group-title="ДРУГИ" tvg-logo="tv1_hd" tvg-id="tv1_hd",TV 1 HD
+http://lb-m.iptv.bulsat.com:1935/redirect/tv4/tv1_hd-med.stream?scheme=m3u8&bulsatCustomParameter=134076_3009630_134076_NULL_samsungtv_252dba8f7cb731dbf3e7b9e1605de9a0_&bulsatendtime=1491615372&bulsatstarttime=1491579072&bulsathash=jPVtQo-VGRJSC1nkAnEAHxO8Ste3B0n45ocK4tnufZk=
+#EXTINF:-1 radio="False" group-title="ДРУГИ" tvg-logo="tv_stara_zagora" tvg-id="tv_stara_zagora",TV Zagora
+http://lb-m.iptv.bulsat.com:1935/redirect/tv2/tv_stara_zagora-med.stream?scheme=m3u8&bulsatCustomParameter=134076_3009630_134076_NULL_samsungtv_252dba8f7cb731dbf3e7b9e1605de9a0_&bulsatendtime=1491615372&bulsatstarttime=1491579072&bulsathash=9HzWUnpaEh1hIhXzYPr5BPnanCbu-_TAuJZNdQoYPZY=
+#EXTINF:-1 radio="False" group-title="ДРУГИ" tvg-logo="stara_zagora_tv" tvg-id="stara_zagora_tv",TV Stara Zagora
+http://lb-m.iptv.bulsat.com:1935/redirect/tv228/stara_zagora_tv-med.stream?scheme=m3u8&bulsatCustomParameter=134076_3009630_134076_NULL_samsungtv_252dba8f7cb731dbf3e7b9e1605de9a0_&bulsatendtime=1491615372&bulsatstarttime=1491579072&bulsathash=lhFAJWXNGEX1fjwhYVdz90AHp5FW2XuKXMq9wF-rXKU=
+#EXTINF:-1 radio="False" group-title="ДРУГИ" tvg-logo="stoychev" tvg-id="stoychev",Stoychev HD
+http://lb-m.iptv.bulsat.com:1935/redirect/tv6/stoychev-med.stream?scheme=m3u8&bulsatCustomParameter=134076_3009630_134076_NULL_samsungtv_252dba8f7cb731dbf3e7b9e1605de9a0_&bulsatendtime=1491615372&bulsatstarttime=1491579072&bulsathash=KEtLbW0eLuq_HgJZx6gQb0H8_GkoigdgVgtv8OAbdD8=
+#EXTINF:-1 radio="False" group-title="ДРУГИ" tvg-logo="po_tv_trakia" tvg-id="po_tv_trakia",PO TV Trakia
+http://lb-m.iptv.bulsat.com:1935/redirect/tv1/po_tv_trakia-med.stream?scheme=m3u8&bulsatCustomParameter=134076_3009630_134076_NULL_samsungtv_252dba8f7cb731dbf3e7b9e1605de9a0_&bulsatendtime=1491615372&bulsatstarttime=1491579072&bulsathash=0maxewtsLr-4cgYUH7TgAI92iVKz5tDaanO10ZFDCqE=
+#EXTINF:-1 radio="False" group-title="ДРУГИ" tvg-logo="cherno_more" tvg-id="cherno_more",Черно Море
+http://lb-m.iptv.bulsat.com:1935/redirect/tv2/cherno_more-med.stream?scheme=m3u8&bulsatCustomParameter=134076_3009630_134076_NULL_samsungtv_252dba8f7cb731dbf3e7b9e1605de9a0_&bulsatendtime=1491615372&bulsatstarttime=1491579072&bulsathash=MVQ1P48XBpFhmzNqXO5fSSXq2qFrcObO-oOiP6InWZE=
+#EXTINF:-1 radio="False" group-title="ДРУГИ" tvg-logo="bloomberg_tv" tvg-id="bloomberg_tv",Bloomberg TV Bulgaria
+http://lb-m.iptv.bulsat.com:1935/redirect/tv4/bloomberg_tv-med.stream?scheme=m3u8&bulsatCustomParameter=134076_3009630_134076_NULL_samsungtv_252dba8f7cb731dbf3e7b9e1605de9a0_&bulsatendtime=1491615372&bulsatstarttime=1491579072&bulsathash=CDuzzHyAiYK3uMCLxLt4geYUqMdBXdubDNvtRHHIGfs=
+#EXTINF:-1 radio="False" group-title="ДРУГИ" tvg-logo="kanal4" tvg-id="kanal4",Kanal 4
+http://lb-m.iptv.bulsat.com:1935/redirect/tv1/kanal4-med.stream?scheme=m3u8&bulsatCustomParameter=134076_3009630_134076_NULL_samsungtv_252dba8f7cb731dbf3e7b9e1605de9a0_&bulsatendtime=1491615372&bulsatstarttime=1491579072&bulsathash=1gOnaBEXrT2xDhRACLDg5DVyesHW5F7HA2Z2zNmIvXo=
+#EXTINF:-1 radio="False" group-title="ДРУГИ" tvg-logo="bhtv" tvg-id="bhtv",BHTV
+http://lb-m.iptv.bulsat.com:1935/redirect/tv9/bhtv-med.stream?scheme=m3u8&bulsatCustomParameter=134076_3009630_134076_NULL_samsungtv_252dba8f7cb731dbf3e7b9e1605de9a0_&bulsatendtime=1491615372&bulsatstarttime=1491579072&bulsathash=YqKAnWWu1NC7wGrtH_t_DtkCATckZ7fCh2SBoKSo25E=
+#EXTINF:-1 radio="False" group-title="ДРУГИ" tvg-logo="perviy_kanal" tvg-id="perviy_kanal",Perviy Kanal
+http://lb-m.iptv.bulsat.com:1935/redirect/tv5/perviy_kanal-high.stream?scheme=m3u8&bulsatCustomParameter=134076_3009630_134076_NULL_samsungtv_252dba8f7cb731dbf3e7b9e1605de9a0_&bulsatendtime=1491615372&bulsatstarttime=1491579072&bulsathash=MtZN7JUir71bScGAa8jrOWXuBPoUYE7eGVvuED87QWc=
+#EXTINF:-1 radio="False" group-title="ДРУГИ" tvg-logo="24_techno" tvg-id="24_techno",24 техно
+http://lb-m.iptv.bulsat.com:1935/redirect/tv35/24_techno-med.stream?scheme=m3u8&bulsatCustomParameter=134076_3009630_134076_NULL_samsungtv_252dba8f7cb731dbf3e7b9e1605de9a0_&bulsatendtime=1491615372&bulsatstarttime=1491579072&bulsathash=iNcbpt8Dy9n79frVBocxn02xZzA6bkYqA5QPH7B1Aeg=
+#EXTINF:-1 radio="False" group-title="ДРУГИ" tvg-logo="euro_d" tvg-id="euro_d",Euro D
+http://lb-m.iptv.bulsat.com:1935/redirect/tv3/euro_d-med.stream?scheme=m3u8&bulsatCustomParameter=134076_3009630_134076_NULL_samsungtv_252dba8f7cb731dbf3e7b9e1605de9a0_&bulsatendtime=1491615372&bulsatstarttime=1491579072&bulsathash=3_X5B97dMP-liZlVzGF1EQEC7cq1Qnv7cu9T5B0_ejE=
+#EXTINF:-1 radio="False" group-title="ДРУГИ" tvg-logo="atv" tvg-id="atv",ATV
+http://lb-m.iptv.bulsat.com:1935/redirect/tv3/atv-med.stream?scheme=m3u8&bulsatCustomParameter=134076_3009630_134076_NULL_samsungtv_252dba8f7cb731dbf3e7b9e1605de9a0_&bulsatendtime=1491615372&bulsatstarttime=1491579072&bulsathash=5sfmPmIzQHgrDTTq4aN8_MDIVyaCvrC35RLoBdSUn0M=
+#EXTINF:-1 radio="False" group-title="ДРУГИ" tvg-logo="ntv_avrupa" tvg-id="ntv_avrupa",NTV Avrupa
+http://lb-m.iptv.bulsat.com:1935/redirect/tv/ntv_avrupa-med.stream?scheme=m3u8&bulsatCustomParameter=134076_3009630_134076_NULL_samsungtv_252dba8f7cb731dbf3e7b9e1605de9a0_&bulsatendtime=1491615372&bulsatstarttime=1491579072&bulsathash=3UxDQvdDye_EMPcyCEsXSxluj8uv_4sKZRCgEKC67tc=
+#EXTINF:-1 radio="False" group-title="ДРУГИ" tvg-logo="cnn" tvg-id="cnn",CNN
+http://lb-m.iptv.bulsat.com:1935/redirect/tv11/cnn-med.stream?scheme=m3u8&bulsatCustomParameter=134076_3009630_134076_NULL_samsungtv_252dba8f7cb731dbf3e7b9e1605de9a0_&bulsatendtime=1491615372&bulsatstarttime=1491579072&bulsathash=KVDzCahzed5C6p41IrlDJXJhZx5MT6TalwcdK7V8k90=
+#EXTINF:-1 radio="False" group-title="ДРУГИ" tvg-logo="dw" tvg-id="dw",Deutsche welle
+http://lb-m.iptv.bulsat.com:1935/redirect/tv11/dw-med.stream?scheme=m3u8&bulsatCustomParameter=134076_3009630_134076_NULL_samsungtv_252dba8f7cb731dbf3e7b9e1605de9a0_&bulsatendtime=1491615372&bulsatstarttime=1491579072&bulsathash=49xsTLdVj4AnLIpQ8B65FcR9GwlymzhftOEuEvVzAuk=
+#EXTINF:-1 radio="False" group-title="ДРУГИ" tvg-logo="al_jazeera" tvg-id="al_jazeera",Al Jazeera
+http://lb-m.iptv.bulsat.com:1935/redirect/tv3/al_jazeera-med.stream?scheme=m3u8&bulsatCustomParameter=134076_3009630_134076_NULL_samsungtv_252dba8f7cb731dbf3e7b9e1605de9a0_&bulsatendtime=1491615372&bulsatstarttime=1491579072&bulsathash=bXohZL60pEBjlFj0-ksPytPMIAt0gVy-73joQwvIZqA=
+#EXTINF:-1 radio="False" group-title="ДРУГИ" tvg-logo="359tv_hd" tvg-id="359tv_hd",CODE FASHION TV
+http://lb-m.iptv.bulsat.com:1935/redirect/tv9/359tv_hd-med.stream?scheme=m3u8&bulsatCustomParameter=134076_3009630_134076_NULL_samsungtv_252dba8f7cb731dbf3e7b9e1605de9a0_&bulsatendtime=1491615372&bulsatstarttime=1491579072&bulsathash=6dXwGN3GP5l1KN64fiPfNpo7K8RlOjWfMgt4La9kRFk=
+#EXTINF:-1 radio="False" group-title="ДРУГИ" tvg-logo="fashion_tv" tvg-id="fashion_tv",Fashion TV
+http://lb-m.iptv.bulsat.com:1935/redirect/tv8/fashion_tv-med.stream?scheme=m3u8&bulsatCustomParameter=134076_3009630_134076_NULL_samsungtv_252dba8f7cb731dbf3e7b9e1605de9a0_&bulsatendtime=1491615372&bulsatstarttime=1491579072&bulsathash=RCL_RwEeaWbCz_OvJUlOPACLoKWqfSsVpcB5w0qERso=
+#EXTINF:-1 radio="False" group-title="ДРУГИ" tvg-logo="n24" tvg-id="n24",N24
+http://lb-m.iptv.bulsat.com:1935/redirect/tv5/n24-med.stream?scheme=m3u8&bulsatCustomParameter=134076_3009630_134076_NULL_samsungtv_252dba8f7cb731dbf3e7b9e1605de9a0_&bulsatendtime=1491615372&bulsatstarttime=1491579072&bulsathash=GzDh6lZJ4ptUD3SMV43WShRCv-f2aCH84TvwGdwOWqE=
+#EXTINF:-1 radio="False" group-title="ДРУГИ" tvg-logo="france_24" tvg-id="france_24",France 24
+http://lb-m.iptv.bulsat.com:1935/redirect/tv12/france_24-med.stream?scheme=m3u8&bulsatCustomParameter=134076_3009630_134076_NULL_samsungtv_252dba8f7cb731dbf3e7b9e1605de9a0_&bulsatendtime=1491615372&bulsatstarttime=1491579072&bulsathash=hN2zOJmo2ekyNWU9Og8to1vwOEf6-xBs59wr5VxjqPY=
+#EXTINF:-1 radio="False" group-title="ДРУГИ" tvg-logo="france_2" tvg-id="france_2",France 2
+http://lb-m.iptv.bulsat.com:1935/redirect/tv1/france_2-med.stream?scheme=m3u8&bulsatCustomParameter=134076_3009630_134076_NULL_samsungtv_252dba8f7cb731dbf3e7b9e1605de9a0_&bulsatendtime=1491615372&bulsatstarttime=1491579072&bulsathash=GOg45tdyivEILNhADXnaBi9B1ZU-CGxb9GlxIRSAxTo=
+#EXTINF:-1 radio="False" group-title="ДРУГИ" tvg-logo="tv5" tvg-id="tv5",TV5
+http://lb-m.iptv.bulsat.com:1935/redirect/tv12/tv5-med.stream?scheme=m3u8&bulsatCustomParameter=134076_3009630_134076_NULL_samsungtv_252dba8f7cb731dbf3e7b9e1605de9a0_&bulsatendtime=1491615372&bulsatstarttime=1491579072&bulsathash=Fq7Hcm883XmQCJQnsMcrb1LQCmK1RcWHtViJZulSGro=
+#EXTINF:-1 radio="False" group-title="ДРУГИ" tvg-logo="rai_uno" tvg-id="rai_uno",Rai Uno
+http://lb-m.iptv.bulsat.com:1935/redirect/tv35/rai_uno-med.stream?scheme=m3u8&bulsatCustomParameter=134076_3009630_134076_NULL_samsungtv_252dba8f7cb731dbf3e7b9e1605de9a0_&bulsatendtime=1491615372&bulsatstarttime=1491579072&bulsathash=HUNrkn4rpxT6Z8DfqOA41gTSsHAuc2tDulT56gGwHcs=
+#EXTINF:-1 radio="False" group-title="ДРУГИ" tvg-logo="tve" tvg-id="tve",TVE
+http://lb-m.iptv.bulsat.com:1935/redirect/tv/tve-med.stream?scheme=m3u8&bulsatCustomParameter=134076_3009630_134076_NULL_samsungtv_252dba8f7cb731dbf3e7b9e1605de9a0_&bulsatendtime=1491615372&bulsatstarttime=1491579072&bulsathash=gBI9P1S4tyr5n5DkRcSSJPiDgAQba5wXRDJAKhsOZC0=
+#EXTINF:-1 radio="False" group-title="ДРУГИ" tvg-logo="rtp_int" tvg-id="rtp_int",RTP Int.
+http://lb-m.iptv.bulsat.com:1935/redirect/tv6/rtp_int-med.stream?scheme=m3u8&bulsatCustomParameter=134076_3009630_134076_NULL_samsungtv_252dba8f7cb731dbf3e7b9e1605de9a0_&bulsatendtime=1491615372&bulsatstarttime=1491579072&bulsathash=NJwZwPtoTrlQdviY2m_a7znEh3xgCCTsx_jL5dGSvJk=
+#EXTINF:-1 radio="False" group-title="18+" tvg-logo="tgirlstv" tvg-id="tgirlstv",Evil Angel
+http://lb-m.iptv.bulsat.com:1935/redirect/tv11/tgirlstv-med.stream?scheme=m3u8&bulsatCustomParameter=134076_3009630_134076_NULL_samsungtv_252dba8f7cb731dbf3e7b9e1605de9a0_&bulsatendtime=1491615372&bulsatstarttime=1491579072&bulsathash=qbFzXPoTrMkNhRpCElppLl-sxVir98O-Q-uEYW18kC0=
+#EXTINF:-1 radio="False" group-title="18+" tvg-logo="centoxcento" tvg-id="centoxcento",centoXcento
+http://lb-m.iptv.bulsat.com:1935/redirect/tv12/centoxcento-med.stream?scheme=m3u8&bulsatCustomParameter=134076_3009630_134076_NULL_samsungtv_252dba8f7cb731dbf3e7b9e1605de9a0_&bulsatendtime=1491615372&bulsatstarttime=1491579072&bulsathash=idey8Zho0__3KnaOyA7WHN9B6DEXBibecubP_Yuoctw=
+#EXTINF:-1 radio="True" group-title="Радио" tvg-logo="darik" tvg-id="darik",Дарик радио
+http://lb-m.iptv.bulsat.com:1935/redirect/radio/darik.stream?scheme=m3u8&bulsatCustomParameter=134076_3009630_134076_NULL_samsungtv_252dba8f7cb731dbf3e7b9e1605de9a0_&bulsatendtime=1491615372&bulsatstarttime=1491579072&bulsathash=FP1z5Uy_AGKNoLx3wfZyZrgv7w9ufUxas0oNLjVxQZM=
+#EXTINF:-1 radio="True" group-title="Радио" tvg-logo="radiofocus" tvg-id="radiofocus",Radio Focus
+http://lb-m.iptv.bulsat.com:1935/redirect/radio/radiofocus.stream?scheme=m3u8&bulsatCustomParameter=134076_3009630_134076_NULL_samsungtv_252dba8f7cb731dbf3e7b9e1605de9a0_&bulsatendtime=1491615372&bulsatstarttime=1491579072&bulsathash=yWKT21W7pp0gqdE5aqt2DPSBG0YdVG5wtL3lo-r8apQ=
+#EXTINF:-1 radio="True" group-title="Радио" tvg-logo="nova" tvg-id="nova",Radio Nova
+http://lb-m.iptv.bulsat.com:1935/redirect/radio/nova.stream?scheme=m3u8&bulsatCustomParameter=134076_3009630_134076_NULL_samsungtv_252dba8f7cb731dbf3e7b9e1605de9a0_&bulsatendtime=1491615372&bulsatstarttime=1491579072&bulsathash=N9DIrgCjtCi94BkeoTIYfhcRZHseFHb98GwAsQwbrWM=
+#EXTINF:-1 radio="True" group-title="Радио" tvg-logo="btv_radio" tvg-id="btv_radio",BTV radio
+http://lb-m.iptv.bulsat.com:1935/redirect/radio/btv_radio.stream?scheme=m3u8&bulsatCustomParameter=134076_3009630_134076_NULL_samsungtv_252dba8f7cb731dbf3e7b9e1605de9a0_&bulsatendtime=1491615372&bulsatstarttime=1491579072&bulsathash=QbdGk9_3gspnKSyliOL3mlAVDwS1AcbTHSSPGLyDpgU=
+#EXTINF:-1 radio="True" group-title="Радио" tvg-logo="rbulgaria_on_air" tvg-id="rbulgaria_on_air",Bulgaria On Air
+http://lb-m.iptv.bulsat.com:1935/redirect/radio/rbulgaria_on_air.stream?scheme=m3u8&bulsatCustomParameter=134076_3009630_134076_NULL_samsungtv_252dba8f7cb731dbf3e7b9e1605de9a0_&bulsatendtime=1491615372&bulsatstarttime=1491579072&bulsathash=0B08NNp1pqR__UzRsTDAd5R9Pt4FHHct6pj2szENrh4=
+#EXTINF:-1 radio="True" group-title="Радио" tvg-logo="horizont" tvg-id="horizont",horizont
+http://lb-m.iptv.bulsat.com:1935/redirect/radio/horizont.stream?scheme=m3u8&bulsatCustomParameter=134076_3009630_134076_NULL_samsungtv_252dba8f7cb731dbf3e7b9e1605de9a0_&bulsatendtime=1491615372&bulsatstarttime=1491579072&bulsathash=CEs1JyWBlgvpm7_RUlsBqiovIrlUeNAoHMY7Ge4owLc=
+#EXTINF:-1 radio="True" group-title="Радио" tvg-logo="hristobotev" tvg-id="hristobotev",Hristo Botev BNR
+http://lb-m.iptv.bulsat.com:1935/redirect/radio/hristobotev.stream?scheme=m3u8&bulsatCustomParameter=134076_3009630_134076_NULL_samsungtv_252dba8f7cb731dbf3e7b9e1605de9a0_&bulsatendtime=1491615372&bulsatstarttime=1491579072&bulsathash=pXM5J8F1zuY7F42ByXqdh9Bd-SFoVjtJ4sRyk6zuC8Y=
+#EXTINF:-1 radio="True" group-title="Радио" tvg-logo="radio_varna" tvg-id="radio_varna",Radio Varna
+http://lb-m.iptv.bulsat.com:1935/redirect/radio/radio_varna.stream?scheme=m3u8&bulsatCustomParameter=134076_3009630_134076_NULL_samsungtv_252dba8f7cb731dbf3e7b9e1605de9a0_&bulsatendtime=1491615372&bulsatstarttime=1491579072&bulsathash=wgu1wZqr69lERQ4JiRnkAN-qU1xHYlbAuWjSYrtgBBM=
+#EXTINF:-1 radio="True" group-title="Радио" tvg-logo="bgradio" tvg-id="bgradio",BG radio
+http://lb-m.iptv.bulsat.com:1935/redirect/radio/bgradio.stream?scheme=m3u8&bulsatCustomParameter=134076_3009630_134076_NULL_samsungtv_252dba8f7cb731dbf3e7b9e1605de9a0_&bulsatendtime=1491615372&bulsatstarttime=1491579072&bulsathash=jhqidBYVb-hT9Zh-NNP989W6QSsh2Yd7a1gRmA7KTQo=
+#EXTINF:-1 radio="True" group-title="Радио" tvg-logo="zorana" tvg-id="zorana",Radio Zorana
+http://lb-m.iptv.bulsat.com:1935/redirect/radio/zorana.stream?scheme=m3u8&bulsatCustomParameter=134076_3009630_134076_NULL_samsungtv_252dba8f7cb731dbf3e7b9e1605de9a0_&bulsatendtime=1491615372&bulsatstarttime=1491579072&bulsathash=L09_McDP_rfA6N5ZFgYS0G-M83NQdg8CImY9v5co91Q=
+#EXTINF:-1 radio="True" group-title="Радио" tvg-logo="veselina" tvg-id="veselina",Veselina
+http://lb-m.iptv.bulsat.com:1935/redirect/radio/veselina.stream?scheme=m3u8&bulsatCustomParameter=134076_3009630_134076_NULL_samsungtv_252dba8f7cb731dbf3e7b9e1605de9a0_&bulsatendtime=1491615372&bulsatstarttime=1491579072&bulsathash=HWa8tBbjcvXeHAuZhvCfZ5W4WSxE3CzF2deZW4n4480=
+#EXTINF:-1 radio="True" group-title="Радио" tvg-logo="veronika" tvg-id="veronika",veronika
+http://lb-m.iptv.bulsat.com:1935/redirect/radio/veronika.stream?scheme=m3u8&bulsatCustomParameter=134076_3009630_134076_NULL_samsungtv_252dba8f7cb731dbf3e7b9e1605de9a0_&bulsatendtime=1491615372&bulsatstarttime=1491579072&bulsathash=6OdXRmbC14RovRNPeqZO5mIkr536q_rAcsu2R-WkIRw=
+#EXTINF:-1 radio="True" group-title="Радио" tvg-logo="payner" tvg-id="payner",Radio Payner
+http://lb-m.iptv.bulsat.com:1935/redirect/radio/payner.stream?scheme=m3u8&bulsatCustomParameter=134076_3009630_134076_NULL_samsungtv_252dba8f7cb731dbf3e7b9e1605de9a0_&bulsatendtime=1491615372&bulsatstarttime=1491579072&bulsathash=JhftvgF21WO43kpsJzpzU60QPjlbUm4nbyhoZYoucws=
+#EXTINF:-1 radio="True" group-title="Радио" tvg-logo="ultra" tvg-id="ultra",Radio Ultra
+http://lb-m.iptv.bulsat.com:1935/redirect/radio/ultra.stream?scheme=m3u8&bulsatCustomParameter=134076_3009630_134076_NULL_samsungtv_252dba8f7cb731dbf3e7b9e1605de9a0_&bulsatendtime=1491615372&bulsatstarttime=1491579072&bulsathash=NQ-sfcGWULwz_a5lIR0cFiKdDaY7Qp55Cx577zq2OW4=
+#EXTINF:-1 radio="True" group-title="Радио" tvg-logo="folk_radio_nazdrave" tvg-id="folk_radio_nazdrave",Folk radio Nazdrave
+http://lb-m.iptv.bulsat.com:1935/redirect/radio/folk_radio_nazdrave.stream?scheme=m3u8&bulsatCustomParameter=134076_3009630_134076_NULL_samsungtv_252dba8f7cb731dbf3e7b9e1605de9a0_&bulsatendtime=1491615372&bulsatstarttime=1491579072&bulsathash=JGUmiU-WEyuhLaqa2XUaWTyxLPv_Gf9IhGQ4lgCsDfA=
+#EXTINF:-1 radio="True" group-title="Радио" tvg-logo="folk_radio" tvg-id="folk_radio",Folk Radio
+http://lb-m.iptv.bulsat.com:1935/redirect/radio/folk_radio.stream?scheme=m3u8&bulsatCustomParameter=134076_3009630_134076_NULL_samsungtv_252dba8f7cb731dbf3e7b9e1605de9a0_&bulsatendtime=1491615372&bulsatstarttime=1491579072&bulsathash=MTyQLFQlEn1_TagnN56JWU7BJNZ4815PCWFSoWLs1t0=
+#EXTINF:-1 radio="True" group-title="Радио" tvg-logo="chanove" tvg-id="chanove",Radio Chanove
+http://lb-m.iptv.bulsat.com:1935/redirect/radio/chanove.stream?scheme=m3u8&bulsatCustomParameter=134076_3009630_134076_NULL_samsungtv_252dba8f7cb731dbf3e7b9e1605de9a0_&bulsatendtime=1491615372&bulsatstarttime=1491579072&bulsathash=1J_VNF37Kb9WuKJQ4XfnvYxpofjrapWx63cl5VQutuc=
+#EXTINF:-1 radio="True" group-title="Радио" tvg-logo="vitosha" tvg-id="vitosha",vitosha
+http://lb-m.iptv.bulsat.com:1935/redirect/radio/vitosha.stream?scheme=m3u8&bulsatCustomParameter=134076_3009630_134076_NULL_samsungtv_252dba8f7cb731dbf3e7b9e1605de9a0_&bulsatendtime=1491615372&bulsatstarttime=1491579072&bulsathash=dHYJrZLA52m13qVbhq2Y2cjOT4yNeKQQPM2PHpgfrjQ=
+#EXTINF:-1 radio="True" group-title="Радио" tvg-logo="njoy" tvg-id="njoy",njoy
+http://lb-m.iptv.bulsat.com:1935/redirect/radio/njoy.stream?scheme=m3u8&bulsatCustomParameter=134076_3009630_134076_NULL_samsungtv_252dba8f7cb731dbf3e7b9e1605de9a0_&bulsatendtime=1491615372&bulsatstarttime=1491579072&bulsathash=PniL8gaxuSoRabOKf5wNp1LAne1DyiBPPLj0lUEoLpE=
+#EXTINF:-1 radio="True" group-title="Радио" tvg-logo="rthevoice" tvg-id="rthevoice",The Voice
+http://lb-m.iptv.bulsat.com:1935/redirect/radio/rthevoice.stream?scheme=m3u8&bulsatCustomParameter=134076_3009630_134076_NULL_samsungtv_252dba8f7cb731dbf3e7b9e1605de9a0_&bulsatendtime=1491615372&bulsatstarttime=1491579072&bulsathash=MltSu4FL9uqVJq9GdMziNla6OwNTDXG0oGdeacKfGKA=
+#EXTINF:-1 radio="True" group-title="Радио" tvg-logo="fresh" tvg-id="fresh",Radio Fresh
+http://lb-m.iptv.bulsat.com:1935/redirect/radio/fresh.stream?scheme=m3u8&bulsatCustomParameter=134076_3009630_134076_NULL_samsungtv_252dba8f7cb731dbf3e7b9e1605de9a0_&bulsatendtime=1491615372&bulsatstarttime=1491579072&bulsathash=zJV56u6IjXF7BumPXsJxPvDjnVXVUne8P77arjXb0Eg=
+#EXTINF:-1 radio="True" group-title="Радио" tvg-logo="city" tvg-id="city",Radio City
+http://lb-m.iptv.bulsat.com:1935/redirect/radio/city.stream?scheme=m3u8&bulsatCustomParameter=134076_3009630_134076_NULL_samsungtv_252dba8f7cb731dbf3e7b9e1605de9a0_&bulsatendtime=1491615372&bulsatstarttime=1491579072&bulsathash=HEKFY0d-E6cOCAzBHoIoxC1RPJxNTeHzzTdtF2DrzZo=
+#EXTINF:-1 radio="True" group-title="Радио" tvg-logo="nrj" tvg-id="nrj",nrj
+http://lb-m.iptv.bulsat.com:1935/redirect/radio/nrj.stream?scheme=m3u8&bulsatCustomParameter=134076_3009630_134076_NULL_samsungtv_252dba8f7cb731dbf3e7b9e1605de9a0_&bulsatendtime=1491615372&bulsatstarttime=1491579072&bulsathash=9jP7we8SL9FH-10JW4CdBM_elgxUhrzq-qBcEPKXdFY=
+#EXTINF:-1 radio="True" group-title="Радио" tvg-logo="100_hit_radio" tvg-id="100_hit_radio",100 HIT radio
+http://lb-m.iptv.bulsat.com:1935/redirect/radio/100_hit_radio.stream?scheme=m3u8&bulsatCustomParameter=134076_3009630_134076_NULL_samsungtv_252dba8f7cb731dbf3e7b9e1605de9a0_&bulsatendtime=1491615372&bulsatstarttime=1491579072&bulsathash=CV_k0g0YTSlz8MNlg2F6-eARpJsOcyz1vsqCCZRd2tU=
+#EXTINF:-1 radio="True" group-title="Радио" tvg-logo="top_100_station" tvg-id="top_100_station",Top 100 Station
+http://lb-m.iptv.bulsat.com:1935/redirect/radio/top_100_station.stream?scheme=m3u8&bulsatCustomParameter=134076_3009630_134076_NULL_samsungtv_252dba8f7cb731dbf3e7b9e1605de9a0_&bulsatendtime=1491615372&bulsatstarttime=1491579072&bulsathash=WGcn2pTLcZ5UU5VkyHyRYE8aIv0Vyz3wRRoOY4MR8CE=
+#EXTINF:-1 radio="True" group-title="Радио" tvg-logo="radio_family" tvg-id="radio_family",Radio Family
+http://lb-m.iptv.bulsat.com:1935/redirect/radio/radio_family.stream?scheme=m3u8&bulsatCustomParameter=134076_3009630_134076_NULL_samsungtv_252dba8f7cb731dbf3e7b9e1605de9a0_&bulsatendtime=1491615372&bulsatstarttime=1491579072&bulsathash=qtWOiR1QNsW6z3qpT8PH9gXXYONfzgWM2p6WPnzrvjA=
+#EXTINF:-1 radio="True" group-title="Радио" tvg-logo="ndr_blue" tvg-id="ndr_blue",NDR Blue
+http://lb-m.iptv.bulsat.com:1935/redirect/radio/ndr_blue.stream?scheme=m3u8&bulsatCustomParameter=134076_3009630_134076_NULL_samsungtv_252dba8f7cb731dbf3e7b9e1605de9a0_&bulsatendtime=1491615372&bulsatstarttime=1491579072&bulsathash=4UklMHuDAN7fFqJqDfsaXbbFI6V4Dn-ya5Q3HFKFcS8=
+#EXTINF:-1 radio="True" group-title="Радио" tvg-logo="fantasy" tvg-id="fantasy",Radio Fantasy
+http://lb-m.iptv.bulsat.com:1935/redirect/radio/fantasy.stream?scheme=m3u8&bulsatCustomParameter=134076_3009630_134076_NULL_samsungtv_252dba8f7cb731dbf3e7b9e1605de9a0_&bulsatendtime=1491615372&bulsatstarttime=1491579072&bulsathash=rLCjMp2GvtPVjEHfCGijse8zl4byCAyfwMLQdO5NFXo=
+#EXTINF:-1 radio="True" group-title="Радио" tvg-logo="radio1" tvg-id="radio1",Radio 1
+http://lb-m.iptv.bulsat.com:1935/redirect/radio/radio1.stream?scheme=m3u8&bulsatCustomParameter=134076_3009630_134076_NULL_samsungtv_252dba8f7cb731dbf3e7b9e1605de9a0_&bulsatendtime=1491615372&bulsatstarttime=1491579072&bulsathash=Yv7o2kUbV-omhCfLvVjF1iR7s6CRWGht_EodmgbQZDw=
+#EXTINF:-1 radio="True" group-title="Радио" tvg-logo="fm_plus" tvg-id="fm_plus",FM+
+http://lb-m.iptv.bulsat.com:1935/redirect/radio/fm_plus.stream?scheme=m3u8&bulsatCustomParameter=134076_3009630_134076_NULL_samsungtv_252dba8f7cb731dbf3e7b9e1605de9a0_&bulsatendtime=1491615372&bulsatstarttime=1491579072&bulsathash=ZpYD3bt9mjvEpNZjvV0Oh9QRQwNO9_1LeofkOLfrKHk=
+#EXTINF:-1 radio="True" group-title="Радио" tvg-logo="melody" tvg-id="melody",Melody
+http://lb-m.iptv.bulsat.com:1935/redirect/radio/melody.stream?scheme=m3u8&bulsatCustomParameter=134076_3009630_134076_NULL_samsungtv_252dba8f7cb731dbf3e7b9e1605de9a0_&bulsatendtime=1491615372&bulsatstarttime=1491579072&bulsathash=0_0I0zczMBFPAcuM341b_rC-QG_FzYi5R9sO09thGaM=
+#EXTINF:-1 radio="True" group-title="Радио" tvg-logo="magic_fm" tvg-id="magic_fm",Magic FM
+http://lb-m.iptv.bulsat.com:1935/redirect/radio/magic_fm.stream?scheme=m3u8&bulsatCustomParameter=134076_3009630_134076_NULL_samsungtv_252dba8f7cb731dbf3e7b9e1605de9a0_&bulsatendtime=1491615372&bulsatstarttime=1491579072&bulsathash=FwyANuoa7WnEE6OAkXOfqZKgGV4JGzGtGwMEBo1KCcU=
+#EXTINF:-1 radio="True" group-title="Радио" tvg-logo="maq" tvg-id="maq",Radio Maq
+http://lb-m.iptv.bulsat.com:1935/redirect/radio/maq.stream?scheme=m3u8&bulsatCustomParameter=134076_3009630_134076_NULL_samsungtv_252dba8f7cb731dbf3e7b9e1605de9a0_&bulsatendtime=1491615372&bulsatstarttime=1491579072&bulsathash=hcFI4uIvcetFCdbkV9ehMuShzaSJGU67r52CPG-1Guc=
+#EXTINF:-1 radio="True" group-title="Радио" tvg-logo="power_fm" tvg-id="power_fm",Power FM
+http://lb-m.iptv.bulsat.com:1935/redirect/radio/power_fm.stream?scheme=m3u8&bulsatCustomParameter=134076_3009630_134076_NULL_samsungtv_252dba8f7cb731dbf3e7b9e1605de9a0_&bulsatendtime=1491615372&bulsatstarttime=1491579072&bulsathash=U7IKYXEf8PZKn55uyqL1up0M7X_akwJ4ULTOVnz4KbY=
+#EXTINF:-1 radio="True" group-title="Радио" tvg-logo="kid_red_radio" tvg-id="kid_red_radio",Kid Red Radio
+http://lb-m.iptv.bulsat.com:1935/redirect/radio/kid_red_radio.stream?scheme=m3u8&bulsatCustomParameter=134076_3009630_134076_NULL_samsungtv_252dba8f7cb731dbf3e7b9e1605de9a0_&bulsatendtime=1491615372&bulsatstarttime=1491579072&bulsathash=IbTjcJvpRdcLeZbqC8_A1CaTdGhmF9t1jq1JSe3Z2LU=
+#EXTINF:-1 radio="True" group-title="Радио" tvg-logo="radio5_npo" tvg-id="radio5_npo",Radio5 nostalgia
+http://lb-m.iptv.bulsat.com:1935/redirect/radio/radio5_npo.stream?scheme=m3u8&bulsatCustomParameter=134076_3009630_134076_NULL_samsungtv_252dba8f7cb731dbf3e7b9e1605de9a0_&bulsatendtime=1491615372&bulsatstarttime=1491579072&bulsathash=Jk0K9tTNmRYfTw2YQC46ed1C60OrzUM-O-lzexLuigo=
+#EXTINF:-1 radio="True" group-title="Радио" tvg-logo="4u_80s" tvg-id="4u_80s",4U 80s
+http://lb-m.iptv.bulsat.com:1935/redirect/radio/4u_80s.stream?scheme=m3u8&bulsatCustomParameter=134076_3009630_134076_NULL_samsungtv_252dba8f7cb731dbf3e7b9e1605de9a0_&bulsatendtime=1491615372&bulsatstarttime=1491579072&bulsathash=tmMNzWI-R4E17rnqIUZTPqLDtO0xUoKwIYMyS5lEh2g=
+#EXTINF:-1 radio="True" group-title="Радио" tvg-logo="classic_fm" tvg-id="classic_fm",Classic FM
+http://lb-m.iptv.bulsat.com:1935/redirect/radio/classic_fm.stream?scheme=m3u8&bulsatCustomParameter=134076_3009630_134076_NULL_samsungtv_252dba8f7cb731dbf3e7b9e1605de9a0_&bulsatendtime=1491615372&bulsatstarttime=1491579072&bulsathash=nI0QFnOmAT0t8oekoHAs2jGohOKf07--00MQ8SmgK7s=
+#EXTINF:-1 radio="True" group-title="Радио" tvg-logo="zrock" tvg-id="zrock",zrock
+http://lb-m.iptv.bulsat.com:1935/redirect/radio/zrock.stream?scheme=m3u8&bulsatCustomParameter=134076_3009630_134076_NULL_samsungtv_252dba8f7cb731dbf3e7b9e1605de9a0_&bulsatendtime=1491615372&bulsatstarttime=1491579072&bulsathash=fbjHqmomUYpj4HKJ0TNC7WcZ1yBRPZACHe10wqz2Qqg=
+#EXTINF:-1 radio="True" group-title="Радио" tvg-logo="tangramegarock" tvg-id="tangramegarock",tangramegarock
+http://lb-m.iptv.bulsat.com:1935/redirect/radio/tangramegarock.stream?scheme=m3u8&bulsatCustomParameter=134076_3009630_134076_NULL_samsungtv_252dba8f7cb731dbf3e7b9e1605de9a0_&bulsatendtime=1491615372&bulsatstarttime=1491579072&bulsathash=M5CHXeDDOG7Rg2irbunqZiOlH-1pReLwON0bCeOGWAY=
+#EXTINF:-1 radio="True" group-title="Радио" tvg-logo="star_fm" tvg-id="star_fm",Star FM
+http://lb-m.iptv.bulsat.com:1935/redirect/radio/star_fm.stream?scheme=m3u8&bulsatCustomParameter=134076_3009630_134076_NULL_samsungtv_252dba8f7cb731dbf3e7b9e1605de9a0_&bulsatendtime=1491615372&bulsatstarttime=1491579072&bulsathash=rODHnKS2187WQWLFfHc-R8WQCORNv-9GXHxfpfKbBf8=
+#EXTINF:-1 radio="True" group-title="Радио" tvg-logo="radio1rock" tvg-id="radio1rock",radio1rock
+http://lb-m.iptv.bulsat.com:1935/redirect/radio/radio1rock.stream?scheme=m3u8&bulsatCustomParameter=134076_3009630_134076_NULL_samsungtv_252dba8f7cb731dbf3e7b9e1605de9a0_&bulsatendtime=1491615372&bulsatstarttime=1491579072&bulsathash=kzrI69uWjh3Cdqa8B6Nj_Y2unqX3LLZnXAbpxWPyciY=
+#EXTINF:-1 radio="True" group-title="Радио" tvg-logo="one_hip_hop" tvg-id="one_hip_hop",One Hip Hop
+http://lb-m.iptv.bulsat.com:1935/redirect/radio/one_hip_hop.stream?scheme=m3u8&bulsatCustomParameter=134076_3009630_134076_NULL_samsungtv_252dba8f7cb731dbf3e7b9e1605de9a0_&bulsatendtime=1491615372&bulsatstarttime=1491579072&bulsathash=lcjZqyBu4FgxmNZOl7XmE4-IAsgo5dGo7AujSEoyW3o=
+#EXTINF:-1 radio="True" group-title="Радио" tvg-logo="alpha_radio" tvg-id="alpha_radio",ALPHA radio
+http://lb-m.iptv.bulsat.com:1935/redirect/radio/alpha_radio.stream?scheme=m3u8&bulsatCustomParameter=134076_3009630_134076_NULL_samsungtv_252dba8f7cb731dbf3e7b9e1605de9a0_&bulsatendtime=1491615372&bulsatstarttime=1491579072&bulsathash=F6W8rUyI7GUsOsX3C6ESj4ucPkvBluqV3mDrXY3TU-g=
+#EXTINF:-1 radio="True" group-title="Радио" tvg-logo="house_music_radio" tvg-id="house_music_radio",House Music radio
+http://lb-m.iptv.bulsat.com:1935/redirect/radio/house_music_radio.stream?scheme=m3u8&bulsatCustomParameter=134076_3009630_134076_NULL_samsungtv_252dba8f7cb731dbf3e7b9e1605de9a0_&bulsatendtime=1491615372&bulsatstarttime=1491579072&bulsathash=nXVhi9rWOHkvIu7noXgK_A3vwOL6UndvbhHpYCXnX3w=
+#EXTINF:-1 radio="True" group-title="Радио" tvg-logo="jazzfm" tvg-id="jazzfm",jazzfm
+http://lb-m.iptv.bulsat.com:1935/redirect/radio/jazzfm.stream?scheme=m3u8&bulsatCustomParameter=134076_3009630_134076_NULL_samsungtv_252dba8f7cb731dbf3e7b9e1605de9a0_&bulsatendtime=1491615372&bulsatstarttime=1491579072&bulsathash=giDcoJ2fY3YWSIMTPoEpIovKC8qTHIAy9HOJ6httX50=
+#EXTINF:-1 radio="True" group-title="Радио" tvg-logo="jazz_fm_lounge" tvg-id="jazz_fm_lounge",Jazz FM Lounge
+http://lb-m.iptv.bulsat.com:1935/redirect/radio/jazz_fm_lounge.stream?scheme=m3u8&bulsatCustomParameter=134076_3009630_134076_NULL_samsungtv_252dba8f7cb731dbf3e7b9e1605de9a0_&bulsatendtime=1491615372&bulsatstarttime=1491579072&bulsathash=VdWxYfo6wb9PHQEAj1jafp6uP4zR5dY1x8SesJYpSiw=
+#EXTINF:-1 radio="True" group-title="Радио" tvg-logo="belle_amie" tvg-id="belle_amie",Belle Amie
+http://lb-m.iptv.bulsat.com:1935/redirect/radio/belle_amie.stream?scheme=m3u8&bulsatCustomParameter=134076_3009630_134076_NULL_samsungtv_252dba8f7cb731dbf3e7b9e1605de9a0_&bulsatendtime=1491615372&bulsatstarttime=1491579072&bulsathash=HjhKs7m9tNuIXRTcH-s06tfxjU8NMNJCvp-G4n9jRgs=
+#EXTINF:-1 radio="True" group-title="Радио" tvg-logo="juzni_vetar" tvg-id="juzni_vetar",Juzni Vetar
+http://lb-m.iptv.bulsat.com:1935/redirect/radio/juzni_vetar.stream?scheme=m3u8&bulsatCustomParameter=134076_3009630_134076_NULL_samsungtv_252dba8f7cb731dbf3e7b9e1605de9a0_&bulsatendtime=1491615372&bulsatstarttime=1491579072&bulsathash=hosBHH-Rj3tYv_uC98A2iiuc24qc4fHpttOHq74FjBQ=
+#EXTINF:-1 radio="True" group-title="Радио" tvg-logo="argosaronikos" tvg-id="argosaronikos",radio Argosaronikos
+http://lb-m.iptv.bulsat.com:1935/redirect/radio/argosaronikos.stream?scheme=m3u8&bulsatCustomParameter=134076_3009630_134076_NULL_samsungtv_252dba8f7cb731dbf3e7b9e1605de9a0_&bulsatendtime=1491615372&bulsatstarttime=1491579072&bulsathash=qXe0hATWoFeMTLOAHrF7jyOp5xMdfZ56hIEhji43WtI=
+#EXTINF:-1 radio="True" group-title="Радио" tvg-logo="symiradio" tvg-id="symiradio",symiradio
+http://lb-m.iptv.bulsat.com:1935/redirect/radio/symiradio.stream?scheme=m3u8&bulsatCustomParameter=134076_3009630_134076_NULL_samsungtv_252dba8f7cb731dbf3e7b9e1605de9a0_&bulsatendtime=1491615372&bulsatstarttime=1491579072&bulsathash=olkJpLkeFs6ZSnxn3rjTSAF2iU9v7972eIGYdEY4CUw=
+#EXTINF:-1 radio="True" group-title="Радио" tvg-logo="kalamariafm" tvg-id="kalamariafm",kalamariafm
+http://lb-m.iptv.bulsat.com:1935/redirect/radio/kalamariafm.stream?scheme=m3u8&bulsatCustomParameter=134076_3009630_134076_NULL_samsungtv_252dba8f7cb731dbf3e7b9e1605de9a0_&bulsatendtime=1491615372&bulsatstarttime=1491579072&bulsathash=hPf-7lekfgrCQnkL_sVzHJuEjq2BZFAApZpFFAB9k-g=
+#EXTINF:-1 radio="True" group-title="Радио" tvg-logo="sky_radio_greece" tvg-id="sky_radio_greece",SKY radio Greece
+http://lb-m.iptv.bulsat.com:1935/redirect/radio/sky_radio_greece.stream?scheme=m3u8&bulsatCustomParameter=134076_3009630_134076_NULL_samsungtv_252dba8f7cb731dbf3e7b9e1605de9a0_&bulsatendtime=1491615372&bulsatstarttime=1491579072&bulsathash=EHAqpBCel2S45p6r-MnKlFOwvYjwU2GjXyCbhWiA89M=
+#EXTINF:-1 radio="False" group-title="Радио" tvg-logo="bulsatinfo" tvg-id="bulsatinfo",Bulsat Info Channel
+http://lb-m.iptv.bulsat.com:1935/redirect/tv228/bulsatinfo-med.stream?scheme=m3u8&bulsatCustomParameter=134076_3009630_134076_NULL_samsungtv_252dba8f7cb731dbf3e7b9e1605de9a0_&bulsatendtime=1491615372&bulsatstarttime=1491579072&bulsathash=qXLqx26DRR3yo9xzw6KPVaZMcfXSrGdlLqPJeJ_YTWs=
