@@ -1,4 +1,6 @@
-﻿#EXTINF:-1,Первый канал
+﻿#EXTINF:-1,NASA
+http://iphone-streaming.ustream.tv/uhls/6540154/streams/live/iphone/playlist.m3u8
+#EXTINF:-1,Первый канал
 http://134.19.150.42:81/udp/239.195.0.1:1234
 #EXTINF:-1,Россия 1
 http://134.19.150.42:81/udp/239.195.0.2:1234
