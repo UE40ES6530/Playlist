@@ -1,282 +1,623 @@
-﻿#EXTINF:-1,Мир
-http://213.80.193.210:34040/udp/226.100.10.31:2000
-#EXTINF:-1,Первый канал
-http://213.80.193.210:34040/udp/226.100.10.42:2000
-#EXTINF:-1,Матч!
-http://213.80.193.210:34040/udp/226.100.10.44:2000
-#EXTINF:-1,Россия К
-http://213.80.193.210:34040/udp/226.100.10.46:2000
-#EXTINF:-1,СТС
-http://213.80.193.210:34040/udp/226.100.10.51:2000
-#EXTINF:-1,ТВЦ
-http://213.80.193.210:34040/udp/226.100.10.52:2000
-#EXTINF:-1,Рен ТВ
-http://213.80.193.210:34040/udp/226.100.10.54:2000
-#EXTINF:-1,РЖД ТВ HD
-http://213.80.193.210:34040/udp/226.100.10.67:2000
-#EXTINF:-1,Travel + Adventure HD
-http://213.80.193.210:34040/udp/226.100.10.210:2000
-#EXTINF:-1,Моя планета HD
-http://213.80.193.210:34040/udp/226.100.10.218:2000
-#EXTINF:-1,Русский Иллюзион HD
-http://213.80.193.210:34040/udp/226.100.11.2:2001
-#EXTINF:-1,2x2
-http://213.80.193.210:34040/udp/233.12.144.2:5050
-#EXTINF:-1,ТНТ Music
-http://213.80.193.210:34040/udp/233.12.144.3:5050
-#EXTINF:-1,Bridge TV
-http://213.80.193.210:34040/udp/233.12.144.4:5050
-#EXTINF:-1,Мужской
-http://213.80.193.210:34040/udp/233.12.144.5:5050
-#EXTINF:-1,Морской
-http://213.80.193.210:34040/udp/233.12.144.11:5050
-#EXTINF:-1,Nickelodeon
-http://213.80.193.210:34040/udp/233.12.144.12:5050
-#EXTINF:-1,Ru TV
-http://213.80.193.210:34040/udp/233.12.144.14:5050
-#EXTINF:-1,Sony Turbo
-http://213.80.193.210:34040/udp/233.12.144.16:5050
-#EXTINF:-1,Sony Sci-fi
-http://213.80.193.210:34040/udp/233.12.144.17:5050
-#EXTINF:-1,Спас
-http://213.80.193.210:34040/udp/233.12.144.21:5050
-#EXTINF:-1,World Fashion HD
-http://213.80.193.210:34040/udp/233.12.144.26:5050
-#EXTINF:-1,Zee TV
-http://213.80.193.210:34040/udp/233.12.144.27:5050
-#EXTINF:-1,Время
-http://213.80.193.210:34040/udp/233.12.144.29:5050
-#EXTINF:-1,Детский
-http://213.80.193.210:34040/udp/233.12.144.30:5050
-#EXTINF:-1,Телеклуб
-http://213.80.193.210:34040/udp/233.12.144.31:5050
-#EXTINF:-1,Disney Channel
-http://213.80.193.210:34040/udp/233.12.144.32:5050
-#EXTINF:-1,Дом кино
-http://213.80.193.210:34040/udp/233.12.144.33:5050
-#EXTINF:-1,Домашний
-http://213.80.193.210:34040/udp/233.12.144.34:5050
-#EXTINF:-1,Драйв
-http://213.80.193.210:34040/udp/233.12.144.35:5050
-#EXTINF:-1,Звезда
-http://213.80.193.210:34040/udp/233.12.144.36:5050
-#EXTINF:-1,Первый канал
-http://213.80.193.210:34040/udp/233.12.144.37:5050
-#EXTINF:-1,Иллюзион+
-http://213.80.193.210:34040/udp/233.12.144.38:5050
-#EXTINF:-1,Карусель
-http://213.80.193.210:34040/udp/233.12.144.39:5050
-#EXTINF:-1,Кухня
-http://213.80.193.210:34040/udp/233.12.144.41:5050
-#EXTINF:-1,КХЛ
-http://213.80.193.210:34040/udp/233.12.144.42:5050
-#EXTINF:-1,Ювелирочка
-http://213.80.193.210:34040/udp/233.12.144.43:5050
-#EXTINF:-1,Мир 24
-http://213.80.193.210:34040/udp/233.12.144.44:5050
-#EXTINF:-1,Бобер
-http://213.80.193.210:34040/udp/233.12.144.45:5050
-#EXTINF:-1,Муз
-http://213.80.193.210:34040/udp/233.12.144.46:5050
-#EXTINF:-1,Музыка первого
-http://213.80.193.210:34040/udp/233.12.144.47:5050
-#EXTINF:-1,Матч ТВ
-http://213.80.193.210:34040/udp/233.12.144.48:5050
-#EXTINF:-1,НТВ
-http://213.80.193.210:34040/udp/233.12.144.49:5050
-#EXTINF:-1,Киномикс
-http://213.80.193.210:34040/udp/233.12.144.51:5050
-#EXTINF:-1,Наш спорт
-http://213.80.193.210:34040/udp/233.12.144.52:5050
-#EXTINF:-1,ОТР
-http://213.80.193.210:34040/udp/233.12.144.53:5050
-#EXTINF:-1,Охота и рыбалка
-http://213.80.193.210:34040/udp/233.12.144.54:5050
-#EXTINF:-1,Первый HD
-http://213.80.193.210:34040/udp/233.12.144.56:5050
-#EXTINF:-1,Пятница
-http://213.80.193.210:34040/udp/233.12.144.58:5050
-#EXTINF:-1,Радость Моя
-http://213.80.193.210:34040/udp/233.12.144.59:5050
-#EXTINF:-1,РБК
-http://213.80.193.210:34040/udp/233.12.144.60:5050
-#EXTINF:-1,Ретро
-http://213.80.193.210:34040/udp/233.12.144.61:5050
-#EXTINF:-1,A1
-http://213.80.193.210:34040/udp/233.12.144.62:5050
-#EXTINF:-1,Россия 24
-http://213.80.193.210:34040/udp/233.12.144.63:5050
-#EXTINF:-1,Россия HD
-http://213.80.193.210:34040/udp/233.12.144.64:5050
-#EXTINF:-1,ТВ Точка
-http://213.80.193.210:34040/udp/233.12.144.66:5050
-#EXTINF:-1,Русский Music Box
-http://213.80.193.210:34040/udp/233.12.144.68:5050
-#EXTINF:-1,Euronews
-http://213.80.193.210:34040/udp/233.12.144.69:5050
-#EXTINF:-1,Пятый канал
-http://213.80.193.210:34040/udp/233.12.144.70:5050
-#EXTINF:-1,ТВ3
-http://213.80.193.210:34040/udp/233.12.144.74:5050
-#EXTINF:-1,Телекафе
-http://213.80.193.210:34040/udp/233.12.144.76:5050
-#EXTINF:-1,ТНВ
-http://213.80.193.210:34040/udp/233.12.144.77:5050
-#EXTINF:-1,ТНТ
-http://213.80.193.210:34040/udp/233.12.144.78:5050
-#EXTINF:-1,Усадьба
-http://213.80.193.210:34040/udp/233.12.144.79:5050
-#EXTINF:-1,Ю ТВ
-http://213.80.193.210:34040/udp/233.12.144.80:5050
-#EXTINF:-1,8 Канал
-http://213.80.193.210:34040/udp/233.12.144.81:5050
-#EXTINF:-1,Paramount Comedy HD
-http://213.80.193.210:34040/udp/233.12.144.83:5050
-#EXTINF:-1,MTV HD
-http://213.80.193.210:34040/udp/233.12.144.84:5050
-#EXTINF:-1,Nick Junior
-http://213.80.193.210:34040/udp/233.12.144.85:5050
-#EXTINF:-1,MTV Rocks
-http://213.80.193.210:34040/udp/233.12.144.86:5050
-#EXTINF:-1,VH1 Classic
-http://213.80.193.210:34040/udp/233.12.144.87:5050
-#EXTINF:-1,ТВЦ
-http://213.80.193.210:34040/udp/233.12.144.88:5050
-#EXTINF:-1,Рен ТВ
-http://213.80.193.210:34040/udp/233.12.144.89:5050
-#EXTINF:-1,Мир HD
-http://213.80.193.210:34040/udp/233.12.144.90:5050
-#EXTINF:-1,PRO Бизнес
-http://213.80.193.210:34040/udp/233.12.144.91:5050
-#EXTINF:-1,СТС Love
-http://213.80.193.210:34040/udp/233.12.144.92:5050
-#EXTINF:-1,Amedia hit
-http://213.80.193.210:34040/udp/233.12.144.95:5050
-#EXTINF:-1,Че
-http://213.80.193.210:34040/udp/233.12.144.25:5050
-#EXTINF:-1,Муз TV
-http://213.80.193.210:34040/udp/233.12.144.46:5050
-#EXTINF:-1,Охота и Рыбалка
-http://213.80.193.210:34040/udp/233.12.144.54:5050
-#EXTINF:-1,Первый канал HD
-http://213.80.193.210:34040/udp/233.12.144.56:5050
-#EXTINF:-1,Русский Иллюзион
-http://213.80.193.210:34040/udp/233.12.144.67:5050
-#EXTINF:-1,ТВ3
-http://213.80.193.210:34040/udp/233.12.144.74:5050
-#EXTINF:-1,France 24
-http://213.80.193.210:34040/udp/233.12.144.107:5050
-#EXTINF:-1,RTД HD
-http://213.80.193.210:34040/udp/233.12.144.109:5050
-#EXTINF:-1,Guilli
-http://213.80.193.210:34040/udp/233.12.144.110:5050
-#EXTINF:-1,Tiji
-http://213.80.193.210:34040/udp/233.12.144.118:5050
-#EXTINF:-1,Русский Экстрим
-http://213.80.193.210:34040/udp/233.12.144.127:5050
-#EXTINF:-1,Amedia 1 HD
-http://213.80.193.210:34040/udp/233.12.144.134:5050
-#EXTINF:-1,DW
-http://213.80.193.210:34040/udp/233.12.144.138:5050
-#EXTINF:-1,Amedia 2
-http://213.80.193.210:34040/udp/233.12.144.181:5050
-#EXTINF:-1,ТНТ4
-http://213.80.193.210:34040/udp/233.12.144.202:5050
-#EXTINF:-1,Наше TV
-http://213.80.193.210:34040/udp/233.12.144.203:5050
-#EXTINF:-1,NASA
-http://iphone-streaming.ustream.tv/uhls/6540154/streams/live/iphone/playlist.m3u8
-#EXTINF:0, TV+ 
-http://185.53.163.216:3004 
-#EXTINF:0, F+ 
-http://185.53.163.216:3005 
-#EXTINF:0, BNT 1 
-http://185.53.163.216:3001 
-#EXTINF:0, BNT HD 
-http://185.53.163.216:3003 
-#EXTINF:0, BNT 2 
-http://185.53.163.216:3102 
-#EXTINF:0, BNT World 
-http://185.53.163.216:3112 
-#EXTINF:0, bTV 
-http://185.53.163.216:3002 
-#EXTINF:0, bTV Action 
-http://185.53.163.216:3114 
-#EXTINF:0, bTV Cinema 
-http://185.53.163.216:3110 
-#EXTINF:0, bTV Comedy 
-http://185.53.163.216:3111 
-#EXTINF:0, Nova TV 
-http://185.53.163.216:3006 
-#EXTINF:0, Kino Nova 
-http://185.53.163.216:3007 
-#EXTINF:0, Diema 
-http://185.53.163.216:3010 
-#EXTINF:0, Diema Family 
-http://185.53.163.216:3100 
-#EXTINF:0, Film Plus 
-http://185.53.163.216:33115 
-#EXTINF:0, BIT 
-http://185.53.163.216:3105 
-#EXTINF:0, Bulgaria on Air 
-http://185.53.163.216:33109 
-#EXTINF:0, Penthouse HD 
-http://185.53.163.216:33112 
-#EXTINF:0, 24 Kitchen BG 
-http://185.53.163.216:33104 
-#EXTINF:0, MTV Hits 
-http://185.53.163.216:33107 
-#EXTINF:0, Hobby TV Lov 
-http://185.53.163.216:33101 
-#EXTINF:0, Destination BG 
-http://185.53.163.216:33100 
-#EXTINF:0, Hobby TV 
-http://185.53.163.216:3008 
-#EXTINF:0, SKAT 
-http://185.53.163.216:3107 
-#EXTINF:0, TV Evropa 
-http://185.53.163.216:33116 
-#EXTINF:0, History BG 
-http://185.53.163.216:33105 
-#EXTINF:0, Fox Life BG 
-http://185.53.163.216:3108 
-#EXTINF:0, Fox Crime BG 
-http://185.53.163.216:3109 
-#EXTINF:0, AXN BG 
-http://185.53.163.216:3106 
-#EXTINF:0, Planeta TV 
-http://185.53.163.216:3000 
-#EXTINF:0, Tiankov Folk 
-http://185.53.163.216:33114 
-#EXTINF:0, CBS Reality UK 
-http://185.53.163.205:2705 
-#EXTINF:0, CBS Action UK 
-http://185.53.163.205:2704 
-#EXTINF:0, Horror Channel UK 
-http://185.53.163.205:2703 
-#EXTINF:0, Sony Channel UK +1 
-http://185.53.163.205:2505 
-#EXTINF:0, Animal Planet BG 
-http://185.53.163.216:33102 
-#EXTINF:0, National Geographic BG 
-http://185.53.163.216:3101 
-#EXTINF:0, Discovery Bulgaria 
-http://185.53.163.216:3009 
-#EXTINF:0, Discovery TLC BG 
-http://185.53.163.216:3113 
-#EXTINF:0, C&I Network 
-http://185.53.163.216:33105 
-#EXTINF:0, Fine Living BG 
-http://185.53.163.216:33108 
-#EXTINF:0, Nick Jr Bulsatcom 
-http://185.53.163.216:33113 
-#EXTINF:0, S4C 
-http://185.53.163.205:2706 
-#EXTINF:0, Первый канал (Россия) Европа 
-http://185.53.163.216:33103 
-#EXTINF:0,Penthouse HD1
-http://185.53.163.216:33112/
+﻿#EXTM3U 
+#EXTINF:0,Первый 
+http://37.195.208.51:81/udp/239.1.15.1:1234 
+#EXTINF:0,Россия 1 
+http://37.195.208.51:81/udp/239.1.15.2:1234 
+#EXTINF:0,НТВ 
+http://37.195.208.51:81/udp/239.1.15.4:1234 
+#EXTINF:0,РЕН-ТВ 
+http://37.195.208.51:81/udp/239.1.15.5:1234 
+#EXTINF:0,СТС Мир 
+http://37.195.208.51:81/udp/239.1.15.6:1234 
+#EXTINF:0,ТНТ 
+http://37.195.208.51:81/udp/239.1.15.7:1234 
+#EXTINF:0,ТВ Центр 
+http://37.195.208.51:81/udp/239.1.15.10:1234 
+#EXTINF:0,Disney 
+http://37.195.208.51:81/udp/239.1.15.12:1234 
+#EXTINF:0,Перец 
+http://37.195.208.51:81/udp/239.1.15.14:1234 
+#EXTINF:0,Россия 2 
+http://37.195.208.51:81/udp/239.1.15.16:1234 
+#EXTINF:0,MTV 
+http://37.195.208.51:81/udp/239.1.15.17:1234 
+#EXTINF:0,Ю 
+http://37.195.208.51:81/udp/239.1.15.18:1234 
+#EXTINF:0,Союз 
+http://37.195.208.51:81/udp/239.1.15.19:1234 
+#EXTINF:0,Первый HD 
+http://37.195.208.51:81/udp/239.1.15.20:1234 
+#EXTINF:0,Мир 
+http://37.195.208.51:81/udp/239.1.15.31:1234 
+#EXTINF:0,ТНТ 
+http://37.195.208.51:81/udp/239.1.15.50:1234 
+#EXTINF:0,5 Канал 
+http://37.195.208.51:81/udp/239.1.10.3:1234 
+#EXTINF:0,ТВ3 
+http://37.195.208.51:81/udp/239.1.10.4:1234 
+#EXTINF:0,Домашний 
+http://37.195.208.51:81/udp/239.1.10.5:1234 
+#EXTINF:0,ОТС(+3) 
+http://37.195.208.51:81/udp/239.1.10.6:1234 
+#EXTINF:0,Россия К 
+http://37.195.208.51:81/udp/239.1.10.7:1234 
+#EXTINF:0,49 канал 
+http://37.195.208.51:81/udp/239.1.10.8:1234 
+#EXTINF:0,Fashion One HD 
+http://37.195.208.51:81/udp/239.1.10.20:1234 
+#EXTINF:0,myZen____ HD 
+http://37.195.208.51:81/udp/239.1.10.21:1234 
+#EXTINF:0,Россия HD 
+http://37.195.208.51:81/udp/239.1.10.22:1234 
+#EXTINF:0,Первый HD 
+http://37.195.208.51:81/udp/239.1.10.23:1234 
+#EXTINF:0,Мульт 
+http://37.195.208.51:81/udp/239.1.3.1:1234 
+#EXTINF:0,Jim Jam 
+http://37.195.208.51:81/udp/239.1.3.2:1234 
+#EXTINF:0,Cartoon Network 
+http://37.195.208.51:81/udp/239.1.3.3:1234 
+#EXTINF:0,Nickelodeon 
+http://37.195.208.51:81/udp/239.1.3.4:1234 
+#EXTINF:0,Детский 
+http://37.195.208.51:81/udp/239.1.3.5:1234 
+#EXTINF:0,TiJi 
+http://37.195.208.51:81/udp/239.1.3.6:1234 
+#EXTINF:0,Детский Мир 
+http://37.195.208.51:81/udp/239.1.3.7:1234 
+#EXTINF:0,Fox Life 
+http://37.195.208.51:81/udp/239.1.3.11:1234 
+#EXTINF:0,DIVA Universal 
+http://37.195.208.51:81/udp/239.1.3.12:1234 
+#EXTINF:0,Fashion TV 
+http://37.195.208.51:81/udp/239.1.3.13:1234 
+#EXTINF:0,Мама 
+http://37.195.208.51:81/udp/239.1.3.14:1234 
+#EXTINF:0,Индия ТВ 
+http://37.195.208.51:81/udp/239.1.3.15:1234 
+#EXTINF:0,TLC 
+http://37.195.208.51:81/udp/239.1.3.16:1234 
+#EXTINF:0,Русский Роман 
+http://37.195.208.51:81/udp/239.1.3.17:1234 
+#EXTINF:0,Discovery Channel 
+http://37.195.208.51:81/udp/239.1.5.1:1234 
+#EXTINF:0,Discovery World 
+http://37.195.208.51:81/udp/239.1.5.2:1234 
+#EXTINF:0,Animal Planet 
+http://37.195.208.51:81/udp/239.1.5.3:1234 
+#EXTINF:0,Время 
+http://37.195.208.51:81/udp/239.1.5.4:1234 
+#EXTINF:0,Viasat Nature?? 
+http://37.195.208.51:81/udp/239.1.5.5:1234 
+#EXTINF:0,Da Vinci Learning 
+http://37.195.208.51:81/udp/239.1.5.6:1234 
+#EXTINF:0,Travel+ Adventure 
+http://37.195.208.51:81/udp/239.1.5.7:1234 
+#EXTINF:0,Nat Geo Chanel 
+http://37.195.208.51:81/udp/239.1.5.8:1234 
+#EXTINF:0,Discovery Science 
+http://37.195.208.51:81/udp/239.1.5.9:1234 
+#EXTINF:0,24 техно 
+http://37.195.208.51:81/udp/239.1.5.10:1234 
+#EXTINF:0,Первый образовательный 
+http://37.195.208.51:81/udp/239.1.5.11:1234 
+#EXTINF:0,Мужское кино 
+http://37.195.208.51:81/udp/239.1.5.12:1234 
+#EXTINF:0,RTG TV 
+http://37.195.208.51:81/udp/239.1.5.13:1234 
+#EXTINF:0,Viasat History?? 
+http://37.195.208.51:81/udp/239.1.5.14:1234 
+#EXTINF:0,Viasat Explorer 
+http://37.195.208.51:81/udp/239.1.5.15:1234 
+#EXTINF:0,Nat Geo Wild 
+http://37.195.208.51:81/udp/239.1.5.16:1234 
+#EXTINF:0,Моя Планета 
+http://37.195.208.51:81/udp/239.1.5.17:1234 
+#EXTINF:0,Наука 2.0 
+http://37.195.208.51:81/udp/239.1.5.18:1234 
+#EXTINF:0,Amazing Life 
+http://37.195.208.51:81/udp/239.1.5.19:1234 
+#EXTINF:0,365 дней 
+http://37.195.208.51:81/udp/239.1.5.20:1234 
+#EXTINF:0,XXL 
+http://37.195.208.51:81/udp/239.1.4.1:1234 
+#EXTINF:0,Комедия ТВ 
+http://37.195.208.51:81/udp/239.1.4.3:1234 
+#EXTINF:0,FOX 
+http://37.195.208.51:81/udp/239.1.4.5:1234 
+#EXTINF:0,Sony 
+http://37.195.208.51:81/udp/239.1.4.6:1234 
+#EXTINF:0,Sony Sci-Fi 
+http://37.195.208.51:81/udp/239.1.4.7:1234 
+#EXTINF:0,Дом кино 
+http://37.195.208.51:81/udp/239.1.4.8:1234 
+#EXTINF:0,Universal Channel(--) 
+http://37.195.208.51:81/udp/239.1.4.9:1234 
+#EXTINF:0,НТВ+ Кинолюкс(--) 
+http://37.195.208.51:81/udp/239.1.4.10:1234 
+#EXTINF:0,Русский Иллюзион 
+http://37.195.208.51:81/udp/239.1.4.11:1234 
+#EXTINF:0,TV1000(--) 
+http://37.195.208.51:81/udp/239.1.4.12:1234 
+#EXTINF:0,TV1000 Action(--) 
+http://37.195.208.51:81/udp/239.1.4.13:1234 
+#EXTINF:0,TV1000 Ru Kino(--) 
+http://37.195.208.51:81/udp/239.1.4.14:1234 
+#EXTINF:0,НТК 
+http://37.195.208.51:81/udp/239.1.15.3:1234 
+#EXTINF:0,РБК 
+http://37.195.208.51:81/udp/239.1.1.2:1234 
+#EXTINF:0,Мир 24 
+http://37.195.208.51:81/udp/239.1.1.3:1234 
+#EXTINF:0,CNN International?? 
+http://37.195.208.51:81/udp/239.1.1.4:1234 
+#EXTINF:0,Euronews(Фр) 
+http://37.195.208.51:81/udp/239.1.1.5:1234 
+#EXTINF:0,Дождь 
+http://37.195.208.51:81/udp/239.1.1.6:1234 
+#EXTINF:0,Lifenews 
+http://37.195.208.51:81/udp/239.1.1.7:1234 
+#EXTINF:0,RUSSIA TODAY 
+http://37.195.208.51:81/udp/239.1.1.8:1234 
+#EXTINF:0,Страна 
+http://37.195.208.51:81/udp/239.1.1.9:1234 
+#EXTINF:0,2x2 
+http://37.195.208.51:81/udp/239.1.2.1:1234 
+#EXTINF:0,WBC 
+http://37.195.208.51:81/udp/239.1.2.2:1234 
+#EXTINF:0,Драйв 
+http://37.195.208.51:81/udp/239.1.2.4:1234 
+#EXTINF:0,Охота и Рыбалка 
+http://37.195.208.51:81/udp/239.1.2.5:1234 
+#EXTINF:0,Оружие 
+http://37.195.208.51:81/udp/239.1.2.7:1234 
+#EXTINF:0,Investigation Discovery 
+http://37.195.208.51:81/udp/239.1.2.8:1234 
+#EXTINF:0,Сарафан 
+http://37.195.208.51:81/udp/239.1.2.11:1234 
+#EXTINF:0,ЖиВи 
+http://37.195.208.51:81/udp/239.1.2.12:1234 
+#EXTINF:0,Ностальгия 
+http://37.195.208.51:81/udp/239.1.2.13:1234 
+#EXTINF:0,Звезда 
+http://37.195.208.51:81/udp/239.1.15.9:1234 
+#EXTINF:0,Кухня ТВ 
+http://37.195.208.51:81/udp/239.1.2.15:1234 
+#EXTINF:0,ПИК HD?? 
+http://37.195.208.51:81/udp/239.1.2.16:1234 
+#EXTINF:0,Усадьба 
+http://37.195.208.51:81/udp/239.1.2.17:1234 
+#EXTINF:0,Телекафе 
+http://37.195.208.51:81/udp/239.1.2.18:1234 
+#EXTINF:0,A-ONE 
+http://37.195.208.51:81/udp/239.1.8.2:1234 
+#EXTINF:0,O2TV?? 
+http://37.195.208.51:81/udp/239.1.8.3:1234 
+#EXTINF:0,RU TV 
+http://37.195.208.51:81/udp/239.1.8.4:1234 
+#EXTINF:0,MUSIC BOX RU 
+http://37.195.208.51:81/udp/239.1.8.5:1234 
+#EXTINF:0,MUSIC BOX TV 
+http://37.195.208.51:81/udp/239.1.8.6:1234 
+#EXTINF:0,VH1 Classic 
+http://37.195.208.51:81/udp/239.1.8.7:1234 
+#EXTINF:0,Bridge TV 
+http://37.195.208.51:81/udp/239.1.8.8:1234 
+#EXTINF:0,MCM Top 
+http://37.195.208.51:81/udp/239.1.8.9:1234 
+#EXTINF:0,Europa Plus TV 
+http://37.195.208.51:81/udp/239.1.8.10:1234 
+#EXTINF:0,Mezzo 
+http://37.195.208.51:81/udp/239.1.8.11:1234 
+#EXTINF:0,Шансон 
+http://37.195.208.51:81/udp/239.1.8.12:1234 
+#EXTINF:0,Ля-минор 
+http://37.195.208.51:81/udp/239.1.8.13:1234 
+#EXTINF:0,Eurosport 
+http://37.195.208.51:81/udp/239.1.12.3:1234 
+#EXTINF:0,Eurosport 2 
+http://37.195.208.51:81/udp/239.1.12.4:1234 
+#EXTINF:0,Футбол 
+http://37.195.208.51:81/udp/239.1.12.5:1234 
+#EXTINF:0,КХЛ 
+http://37.195.208.51:81/udp/239.1.12.6:1234 
+#EXTINF:0,Спорт 1 
+http://37.195.208.51:81/udp/239.1.12.7:1234 
+#EXTINF:0,Viasat Sport?? 
+http://37.195.208.51:81/udp/239.1.13.3:1234 
+#EXTINF:0,Бойцовский Клуб 
+http://37.195.208.51:81/udp/239.1.12.9:1234 
+#EXTINF:0,Спорт 
+http://37.195.208.51:81/udp/239.1.12.10:1234 
+#EXTINF:0,Extreme Sports 
+http://37.195.208.51:81/udp/239.1.12.11:1234 
+#EXTINF:0,EuroSport HD?? 
+http://37.195.208.51:81/udp/239.1.11.6:1234 
+#EXTINF:0,Outdoor HD?? 
+http://37.195.208.51:81/udp/239.1.9.10:1234 
+#EXTINF:0,Fox HD?? 
+http://37.195.208.51:81/udp/239.1.9.11:1234
+#EXTINF:-1,БНТ 1 HD 
+http://87.246.0.148:60358/tv_BNT_1_HD 
+#EXTINF:-1,БНТ 1 
+http://87.246.0.148:60358/tv_BNT_1 
+#EXTINF:-1,BNT WORLD 
+http://87.246.0.148:60358/tv_BNT_World 
+#EXTINF:-1,БНТ 2 
+http://87.246.0.148:60358/tv_BNT_2 
+#EXTINF:-1,БНТ HD 
+http://87.246.0.148:60358/tv_BNT_HD 
+#EXTINF:-1,bTV HD 
+http://87.246.0.148:60358/tv_bTV_HD 
+#EXTINF:-1,bTV 
+http://87.246.0.148:60358/tv_bTV 
+#EXTINF:-1,bTV ACTION 
+http://87.246.0.148:60358/tv_bTV_Action 
+#EXTINF:-1,bTV CINEMA 
+http://87.246.0.148:60358/tv_bTV_Cinema 
+#EXTINF:-1,bTV COMEDY 
+http://87.246.0.148:60358/tv_bTV_Comedy 
+#EXTINF:-1,bTV LADY 
+http://87.246.0.148:60358/tv_bTV_Lady 
+#EXTINF:-1,NOVA 
+http://87.246.0.148:60358/tv_nova 
+#EXTINF:-1,KINONOVA 
+http://87.246.0.148:60358/tv_KinoNova 
+#EXTINF:-1,DIEMA 
+http://87.246.0.148:60358/tv_Diema 
+#EXTINF:-1,DIEMA FAMILY 
+http://87.246.0.148:60358/tv_Diema_Family 
+#EXTINF:-1,TV+ 
+http://87.246.0.148:60358/tv_TV_Plus 
+#EXTINF:-1,F+ 
+http://87.246.0.148:60358/tv_F_Plus 
+#EXTINF:-1,FILM+ 
+http://87.246.0.148:60358/tv_Film_Plus 
+#EXTINF:-1,ACTION+ 
+http://87.246.0.148:60358/tv_ActionPlus 
+#EXTINF:-1,CINEMA+ 
+http://87.246.0.148:60358/tv_CinemaPlus 
+#EXTINF:-1,COMEDY+ 
+http://87.246.0.148:60358/tv_ComedyPlus 
+#EXTINF:-1,ВТК 
+http://87.246.0.148:60358/tv_ВТК 
+#EXTINF:-1,TV 1 HD 
+http://87.246.0.148:60358/tv_TV_1 
+#EXTINF:-1,BiT 
+http://87.246.0.148:60358/tv_BiT 
+#EXTINF:-1,KISS 13 
+http://87.246.0.148:60358/tv_Kiss_13 
+#EXTINF:-1,ЕВРОКОМ 
+http://87.246.0.148:60358/tv_Евроком 
+#EXTINF:-1,БНП ТВ 
+http://87.246.0.148:60358/tv_BNP_TV 
+#EXTINF:-1,SKAT 
+http://87.246.0.148:60358/tv_SKAT 
+#EXTINF:-1,ALFA АТАКА 
+http://87.246.0.148:60358/tv_Alfa_TV 
+#EXTINF:-1,ЧЕРНО МОРЕ 
+http://87.246.0.148:60358/tv_Cherno_More 
+#EXTINF:-1,СТАРА ЗАГОРА 
+http://95.158.137.40:8080/temp/test.m3u8 
+#EXTINF:-1,AGRO TV 
+http://87.246.0.148:60358/tv_AgroTV 
+#EXTINF:-1,ПОТВ 
+http://87.246.0.148:60358/tv_POTV 
+#EXTINF:-1,КАНАЛ 3 
+http://87.246.0.148:60358/tv_Kanal_3 
+#EXTINF:-1,BULGARIA ON AIR 
+http://87.246.0.148:60358/tv_Bulgaria_On_Air 
+#EXTINF:-1,ЕВРОПА ТВ 
+http://87.246.0.148:60358/tv_TV_Europa 
+#EXTINF:-1,HBO 
+http://87.246.0.148:60358/tv_HBO 
+#EXTINF:-1,HBO 2 
+http://87.246.0.148:60358/tv_HBO_2 
+#EXTINF:-1,HBO 3 
+http://87.246.0.148:60358/tv_HBO_3 
+#EXTINF:-1,CINEMAX 
+http://87.246.0.148:60358/tv_Cinemax 
+#EXTINF:-1,CINEMAX 2 
+http://87.246.0.148:60358/tv_Cinemax_2 
+#EXTINF:-1,FILMBOX EXTRA 
+http://87.246.0.148:60358/tv_FILMBOX 
+#EXTINF:-1,TV 1000 
+http://87.246.0.148:60358/tv_TV_1000 
+#EXTINF:-1,AMC 
+http://87.246.0.148:60358/tv_MGM 
+#EXTINF:-1,КАНАЛ 0 
+http://87.246.0.148:60358/tv_КАНАЛ_0 
+#EXTINF:-1,КАНАЛ 4 
+http://87.246.0.148:60358/tv_Canal_4 
+#EXTINF:-1,DARTS TV 
+http://87.246.0.148:60358/tv_Darts_TV 
+#EXTINF:-1,GCN FILMS 
+http://87.246.0.148:60358/tv_GCN_Films 
+#EXTINF:-1,GCN 1 
+http://87.246.0.148:60358/tv_ppv1 
+#EXTINF:-1,GCN 2 
+http://87.246.0.148:60358/tv_ppv2 
+#EXTINF:-1,GCN 3 
+http://87.246.0.148:60358/tv_ppv3 
+#EXTINF:-1,GCN 4 
+http://87.246.0.148:60358/tv_ppv4 
+#EXTINF:-1,GCN 5 
+http://87.246.0.148:60358/tv_ppv5 
+#EXTINF:-1,AXN 
+http://87.246.0.148:60358/tv_AXN 
+#EXTINF:-1,AXN WHITE 
+http://87.246.0.148:60358/tv_AXN_White 
+#EXTINF:-1,AXN BLACK 
+http://87.246.0.148:60358/tv_AXN_Black 
+#EXTINF:-1,FOX 
+http://87.246.0.148:60358/tv_FOX 
+#EXTINF:-1,FOX LIFE 
+http://87.246.0.148:60358/tv_FOX_Life 
+#EXTINF:-1,FOX CRIME 
+http://87.246.0.148:60358/tv_Fox_Crime 
+#EXTINF:-1,CBS REALITY 
+http://87.246.0.148:60358/tv_CBS_Reality 
+#EXTINF:-1,SUNDANCE TV 
+http://87.246.0.148:60358/tv_CBS_Drama 
+#EXTINF:-1,CRIME INVESTIGATION 
+http://87.246.0.148:60358/tv_C&I_Network 
+#EXTINF:-1,HOBBY TV 
+http://87.246.0.148:60358/tv_Hobby_TV 
+#EXTINF:-1,HOBBY LOV 
+http://87.246.0.148:60358/tv_Hobby_lov 
+#EXTINF:-1,TVT 
+http://87.246.0.148:60358/tv_TVT 
+#EXTINF:-1,ДЕСТИНАЦИЯ BG 
+http://87.246.0.148:60358/tv_Destination_BG 
+#EXTINF:-1,TRAVEL TV 
+http://87.246.0.148:60358/tv_TravelTV 
+#EXTINF:-1,TRAVEL HD 
+http://87.246.0.148:60358/tv_TravelTV_HD 
+#EXTINF:-1,TRAVEL 
+http://87.246.0.148:60358/tv__Travel_Channel_HD 
+#EXTINF:-1,24 KITCHEN 
+http://87.246.0.148:60358/tv_24_Kitchen 
+#EXTINF:-1,HISTORY 
+http://87.246.0.148:60358/tv_History_Channel 
+#EXTINF:-1,FINE LIVING 
+http://87.246.0.148:60358/tv_Fine_Living 
+#EXTINF:-1,TLC 
+http://87.246.0.148:60358/tv_TLC 
+#EXTINF:-1,ПЕРВЫЙ 
+http://87.246.0.148:60358/tv_1TVRUS_Europe 
+#EXTINF:-1,PLANETA RTR 
+http://87.246.0.148:60358/tv_RTR 
+#EXTINF:-1,THT 
+http://87.246.0.148:60358/tv_THT_COMEDY 
+#EXTINF:-1,ВРЕМЯ 
+http://87.246.0.148:60358/tv_Vremya 
+#EXTINF:-1,НАШЕ КИНО 
+http://87.246.0.148:60358/tv_Nashe_Kino 
+#EXTINF:-1,ДОМ КИНО 
+http://87.246.0.148:60358/tv_Dom_Kino 
+#EXTINF:-1,ШАНСОН ТВ 
+http://87.246.0.148:60358/tv_Shanson_TV 
+#EXTINF:-1,ROCK TV 
+http://87.246.0.148:60358/tv_RCK_TV
+#EXTINF:-1,БНТ1HD
+http://87.246.0.148:60358/tv_BNT_1_HD
+#EXTINF:-1,БНТ1
+http://87.246.0.148:60358/tv_BNT_1
+#EXTINF:-1,BNTWORLD
+http://87.246.0.148:60358/tv_BNT_World
+#EXTINF:-1,БНТ2
+http://87.246.0.148:60358/tv_BNT_2
+#EXTINF:-1,БНТHD
+http://87.246.0.148:60358/tv_BNT_HD
+#EXTINF:-1,bTVHD
+http://87.246.0.148:60358/tv_bTV_HD
+#EXTINF:-1,bTV
+http://87.246.0.148:60358/tv_bTV
+#EXTINF:-1,bTVACTION
+http://87.246.0.148:60358/tv_bTV_Action
+#EXTINF:-1,bTVCINEMA
+http://87.246.0.148:60358/tv_bTV_Cinema
+#EXTINF:-1,bTVCOMEDY
+http://87.246.0.148:60358/tv_bTV_Comedy
+#EXTINF:-1,bTVLADY
+http://87.246.0.148:60358/tv_bTV_Lady
+#EXTINF:-1,NOVA
+http://87.246.0.148:60358/tv_nova
+#EXTINF:-1,KINONOVA
+http://87.246.0.148:60358/tv_KinoNova
+#EXTINF:-1,DIEMA
+http://87.246.0.148:60358/tv_Diema
+#EXTINF:-1,DIEMAFAMILY
+http://87.246.0.148:60358/tv_Diema_Family
+#EXTINF:-1,TV+
+http://87.246.0.148:60358/tv_TV_Plus
+#EXTINF:-1,F+
+http://87.246.0.148:60358/tv_F_Plus
+#EXTINF:-1,FILM+
+http://87.246.0.148:60358/tv_Film_Plus
+#EXTINF:-1,ACTION+
+http://87.246.0.148:60358/tv_ActionPlus
+#EXTINF:-1,CINEMA+
+http://87.246.0.148:60358/tv_CinemaPlus
+#EXTINF:-1,COMEDY+
+http://87.246.0.148:60358/tv_ComedyPlus
+#EXTINF:-1,ВТК
+http://87.246.0.148:60358/tv_ВТК
+#EXTINF:-1,TV1HD
+http://87.246.0.148:60358/tv_TV_1
+#EXTINF:-1,BiT
+http://87.246.0.148:60358/tv_BiT
+#EXTINF:-1,KISS13
+http://87.246.0.148:60358/tv_Kiss_13
+#EXTINF:-1,ЕВРОКОМ
+http://87.246.0.148:60358/tv_Евроком
+#EXTINF:-1,БНПТВ
+http://87.246.0.148:60358/tv_BNP_TV
+#EXTINF:-1,SKAT
+http://87.246.0.148:60358/tv_SKAT
+#EXTINF:-1,ALFAАТАКА
+http://87.246.0.148:60358/tv_Alfa_TV
+#EXTINF:-1,ЧЕРНОМОРЕ
+http://87.246.0.148:60358/tv_Cherno_More
+#EXTINF:-1,СТАРАЗАГОРА
+http://95.158.137.40:8080/temp/test.m3u8
+#EXTINF:-1,AGROTV
+http://87.246.0.148:60358/tv_AgroTV
+#EXTINF:-1,ПОТВ
+http://87.246.0.148:60358/tv_POTV
+#EXTINF:-1,КАНАЛ3
+http://87.246.0.148:60358/tv_Kanal_3
+#EXTINF:-1,BULGARIAONAIR
+http://87.246.0.148:60358/tv_Bulgaria_On_Air
+#EXTINF:-1,ЕВРОПАТВ
+http://87.246.0.148:60358/tv_TV_Europa
+#EXTINF:-1,HBO
+http://87.246.0.148:60358/tv_HBO
+#EXTINF:-1,HBO2
+http://87.246.0.148:60358/tv_HBO_2
+#EXTINF:-1,HBO3
+http://87.246.0.148:60358/tv_HBO_3
+#EXTINF:-1,CINEMAX
+http://87.246.0.148:60358/tv_Cinemax
+#EXTINF:-1,CINEMAX2
+http://87.246.0.148:60358/tv_Cinemax_2
+#EXTINF:-1,FILMBOXEXTRA
+http://87.246.0.148:60358/tv_FILMBOX
+#EXTINF:-1,TV1000
+http://87.246.0.148:60358/tv_TV_1000
+#EXTINF:-1,AMC
+http://87.246.0.148:60358/tv_MGM
+#EXTINF:-1,КАНАЛ0
+http://87.246.0.148:60358/tv_КАНАЛ_0
+#EXTINF:-1,КАНАЛ4
+http://87.246.0.148:60358/tv_Canal_4
+#EXTINF:-1,DARTSTV
+http://87.246.0.148:60358/tv_Darts_TV
+#EXTINF:-1,GCNFILMS
+http://87.246.0.148:60358/tv_GCN_Films
+#EXTINF:-1,GCN1
+http://87.246.0.148:60358/tv_ppv1
+#EXTINF:-1,GCN2
+http://87.246.0.148:60358/tv_ppv2
+#EXTINF:-1,GCN3
+http://87.246.0.148:60358/tv_ppv3
+#EXTINF:-1,GCN4
+http://87.246.0.148:60358/tv_ppv4
+#EXTINF:-1,GCN5
+http://87.246.0.148:60358/tv_ppv5
+#EXTINF:-1,AXN
+http://87.246.0.148:60358/tv_AXN
+#EXTINF:-1,AXNWHITE
+http://87.246.0.148:60358/tv_AXN_White
+#EXTINF:-1,AXNBLACK
+http://87.246.0.148:60358/tv_AXN_Black
+#EXTINF:-1,FOX
+http://87.246.0.148:60358/tv_FOX
+#EXTINF:-1,FOXLIFE
+http://87.246.0.148:60358/tv_FOX_Life
+#EXTINF:-1,FOXCRIME
+http://87.246.0.148:60358/tv_Fox_Crime
+#EXTINF:-1,CBSREALITY
+http://87.246.0.148:60358/tv_CBS_Reality
+#EXTINF:-1,SUNDANCETV
+http://87.246.0.148:60358/tv_CBS_Drama
+#EXTINF:-1,DIEMASPORT
+http://87.246.0.148:60358/tv_Diema_Sport~|~
+#EXTINF:-1,DIEMASPORT2
+http://87.246.0.148:60358/tv_Diema_Sport_2_HD~|~
+#EXTINF:-1,RING
+http://87.246.0.148:60358/tv_Ring.BG
+#EXTINF:-1,NOVASPORT
+http://87.246.0.148:60358/tv_nova_Sport
+#EXTINF:-1,SPORT+
+http://87.246.0.148:60358/tv_Sport_Plus_HD
+#EXTINF:-1,MtelSPORT1
+http://87.246.0.148:60358/tv_Mtel_Sport_1
+#EXTINF:-1,MtelSPORT2
+http://87.246.0.148:60358/tv_Mtel_Sport_2
+#EXTINF:-1,EUROSPORT1
+http://87.246.0.148:60358/tv_Eurosport
+#EXTINF:-1,EUROSPORT2
+http://87.246.0.148:60358/tv_Eurosport_2
+#EXTINF:-1,ARENASPORT1
+http://87.246.0.148:60358/tv_Arena_Sport_1
+#EXTINF:-1,ARENASPORT2
+http://87.246.0.148:60358/tv_Arena_Sport_2
+#EXTINF:-1,ARENASPORT3
+http://87.246.0.148:60358/tv_Arena_Sport_3
+#EXTINF:-1,ARENASPORT4
+http://87.246.0.148:60358/tv_Arena_Sport_4
+#EXTINF:-1,ARENASPORT5
+http://87.246.0.148:60358/tv_Arena_Sport_5
+#EXTINF:-1,CRIMEINVESTIGATION
+http://87.246.0.148:60358/tv_C&I_Network
+#EXTINF:-1,HOBBYTV
+http://87.246.0.148:60358/tv_Hobby_TV
+#EXTINF:-1,HOBBYLOV
+http://87.246.0.148:60358/tv_Hobby_lov
+#EXTINF:-1,TVT
+http://87.246.0.148:60358/tv_TVT
+#EXTINF:-1,ДЕСТИНАЦИЯBG
+http://87.246.0.148:60358/tv_Destination_BG
+#EXTINF:-1,TRAVELTV
+http://87.246.0.148:60358/tv_TravelTV
+#EXTINF:-1,TRAVELHD
+http://87.246.0.148:60358/tv_TravelTV_HD
+#EXTINF:-1,TRAVEL
+http://87.246.0.148:60358/tv__Travel_Channel_HD
+#EXTINF:-1,24KITCHEN
+http://87.246.0.148:60358/tv_24_Kitchen
+#EXTINF:-1,HISTORY
+http://87.246.0.148:60358/tv_History_Channel
+#EXTINF:-1,FINELIVING
+http://87.246.0.148:60358/tv_Fine_Living
+#EXTINF:-1,TLC
+http://87.246.0.148:60358/tv_TLC
+#EXTINF:-1,ПЕРВЫЙ
+http://87.246.0.148:60358/tv_1TVRUS_Europe
+#EXTINF:-1,PLANETARTR
+http://87.246.0.148:60358/tv_RTR
+#EXTINF:-1,THT
+http://87.246.0.148:60358/tv_THT_COMEDY
+#EXTINF:-1,ВРЕМЯ
+http://87.246.0.148:60358/tv_Vremya
+#EXTINF:-1,РОССИЯ24
+http://87.246.0.148:60358/tv_Rossiya_24
+#EXTINF:-1,НАШЕКИНО
+http://87.246.0.148:60358/tv_Nashe_Kino
+#EXTINF:-1,ДОМКИНО
+http://87.246.0.148:60358/tv_Dom_Kino
+#EXTINF:-1,ШАНСОНТВ
+http://87.246.0.148:60358/tv_Shanson_TV
+#EXTINF:-1,ROCKTV
+http://87.246.0.148:60358/tv_RCK_TV
 #EXTINF:0,ХХХ
 http://62.210.113.177:19000/udp/238.0.100.6:5000
-#EXTINF:0,Hustler HD
-http://178.252.88.99:34040/udp/233.166.172.253:1234
+#EXTINF:-1,dusk 
+http://37.9.0.201:8890 
+#EXTINF:-1,ххх 
+http://37.9.0.201:8889 
+#EXTINF:-1,Cento X Cento 
+http://37.9.0.201:8811 
+#EXTINF:-1,Passion XXX 
+http://37.9.0.201:8888
+#EXTINF:-1,PLAYBOY TV 
+http://109.248.89.51:3371/udp/239.195.2.5:1234
+#EXTINF:-1,PLAYBOY TV
+http://93.91.113.8:9999/play/a07t
+#EXTINF:-1,dusk
+http://37.9.0.201:8890
+#EXTINF:-1,ххх
+http://37.9.0.201:8889
+#EXTINF:-1,Cento X Cento
+http://37.9.0.201:8811
+#EXTINF:-1,Passion XXX
+http://37.9.0.201:8888
+#EXTINF:-1, Ovr 18: Stream 2
+http://playlist.prg09.v-ip-tv.com/atip/05eff8af2c9811881571e0e9bd243eeb/231/channel-15/0/512.m3u8
+#EXTINF:-1, XXX Adult 80 (+18)
+http://playlist.prg09.v-ip-tv.com/atip/2c899c93153f3acae05651afbffad3a5/1506693147727/channel-80/1/512.m3u8
+#EXTINF:-1, Dollhouse Back [+18]
+http://playlist.prg09.v-ip-tv.com/atip/a232679d2e2529cf8c88a46389b2dd84/1506693452661/channel-71/1/515.m3u8
+#EXTINF:-1, Bla
+http://playlist.prg09.v-ip-tv.com/atip/c7d3bca2c1c4133f1fb061095ba4d754/21/channel-16/0/512.m3u8
