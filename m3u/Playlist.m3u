@@ -432,11 +432,11 @@ http://109.248.93.241:3371/udp/239.195.2.3:1234
 http://109.248.78.132:3371/udp/239.195.2.5:1234
 #EXTINF:-1,PLAYBOY TV 
 http://109.248.93.241:3371/udp/239.195.2.5:1234
-#EXTINF:-1, Ovr 18: Stream 2
-http://playlist.prg09.v-ip-tv.com/atip/05eff8af2c9811881571e0e9bd243eeb/231/channel-15/0/512.m3u8
-#EXTINF:-1, XXX Adult 80 (+18)
-http://playlist.prg09.v-ip-tv.com/atip/2c899c93153f3acae05651afbffad3a5/1506693147727/channel-80/1/512.m3u8
-#EXTINF:-1, Dollhouse Back [+18] https://vk.com/free_tv_007
-http://playlist.prg09.v-ip-tv.com/atip/a232679d2e2529cf8c88a46389b2dd84/1506693452661/channel-71/1/515.m3u8
-#EXTINF:-1, Bla
-http://playlist.prg09.v-ip-tv.com/atip/c7d3bca2c1c4133f1fb061095ba4d754/21/channel-16/0/512.m3u8
+#EXTINF:-1,SESTO 
+http://stream:starperkish@85.14.32.15:8003/udp/239.100.20.29:8888 
+#EXTINF:-1, XXX Adult 80 
+http://playlist.prg09.v-ip-tv.com/atip/2c899c93153f3a.. 
+#EXTINF:-1, Dollhouse Back https://vk.com/free_tv_007 
+http://playlist.prg09.v-ip-tv.com/atip/a232679d2e2529.. 
+#EXTINF:-1, Bla 
+http://playlist.prg09.v-ip-tv.com/atip/c7d3bca2c1c413
