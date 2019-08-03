@@ -200,20 +200,24 @@ http://stream2.fastcdn.me/flv/487.mp4
 http://stream2.fastcdn.me/flv/359.mp4
 #EXTINF:-1,Adult_Freeiptvserver.com18
 http://static.brazzers.com/scenes/3563/180sec.flv
-#EXTINF:-1,Discovery
-http://hls-v3-spbtv.msk.spbtv.com/for_spb/msk/ipv3/154.m3u8
-#EXTINF:-1,NASA TV
-http://hls-v3-spbtv.msk.spbtv.com/for_spb/msk/ipv3/17.m3u8
-#EXTINF:-1,Nat Geo Wild
-http://kv-3ln-n01.ollcdn.net/hls-tv/18/128147972228ef43d29d88c5490c0005/5ca630d7/natgeowild/natgeowild.m3u8
-#EXTINF:-1,Nat Geo Wild
-http://hls-v3-spbtv.msk.spbtv.com/for_spb/msk/ipv3/177.m3u8
+#EXTINF:-1,Discovery Science
+http://tvport.it-tele.net:8000/fae5e9752a49e0cebbdb07ca0f1abc60
+#EXTINF:-1,Discovery Showcase HD
+http://50.7.244.58:18526
 #EXTINF:-1,National Geographic
 http://kv-3ln-n01.ollcdn.net/hls-tv/18/128147972228ef43d29d88c5490c0005/5ca630d7/nationalgeographic/nationalgeographic.m3u8
-#EXTINF:-1,National Geographic
-http://hls-v3-spbtv.msk.spbtv.com/for_spb/msk/ipv3/107.m3u8
 #EXTINF:-1,National Geographic HD
-http://hls-v3-spbtv.msk.spbtv.com/for_spb/msk/ipv3/1047.m3u8
+http://46.32.68.167/s/live/922/86.169.51.136/1/0.m3u8
+#EXTINF:-1,Nat Geo Wild
+http://kv-3ln-n01.ollcdn.net/hls-tv/18/128147972228ef43d29d88c5490c0005/5ca630d7/natgeowild/natgeowild.m3u8
+#EXTINF:-1,NAT GEO WILD HD
+http://46.32.68.167/s/live/915/86.169.51.136/1/0.m3u8
+#EXTINF:-1,TLC
+http://193.111.244.25:80/tlc/playlist.m3u8
+#EXTINF:-1,Animal Planet
+http://tvport.it-tele.net:8000/b9822568a5d05813b058193c94a27c39
+#EXTINF:-1,Animal Planet HD
+http://46.32.68.167/s/live/918/86.169.51.136/1/0.m3u8
 #EXTINF:-1,NAVIGATOR TV
 http://46.149.48.13:8000/play/a01r/index.m3u8
 #EXTINF:-1,TLC
